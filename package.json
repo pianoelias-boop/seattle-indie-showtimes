@@ -1,0 +1,18 @@
+{
+  "name": "seattle-indie-showtimes",
+  "version": "1.0.0",
+  "description": "Showtimes at Seattle's independent movie theaters, updated every morning",
+  "scripts": {
+    "scrape": "node scraper/index.js",
+    "try": "node scraper/try.js",
+    "serve": "python3 -m http.server 8321 --directory site"
+  },
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

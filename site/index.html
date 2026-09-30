@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Seattle Indie Showtimes</title>
+  <meta name="description" content="What's playing at independent movie theaters in and around Seattle, by neighborhood, theater and film. Updated every morning.">
+  <meta name="theme-color" content="#f3efe4" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#111915" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Schibsted+Grotesk:wght@400;500;600;700;800&display=swap">
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#listings">Skip to showtimes</a>
+
+  <header class="masthead">
+    <div class="wrap">
+      <h1>Seattle Indie Showtimes</h1>
+      <p class="intro">What’s playing at independent cinemas in and around Seattle, from Ballard to North Bend. <span id="updated">Checked every morning.</span></p>
+    </div>
+  </header>
+
+  <section class="map-section" aria-label="Map of theaters">
+    <div id="map" class="map"></div>
+    <p id="map-fallback" class="map-fallback" hidden>The map couldn’t load. Every theater is in the list below.</p>
+  </section>
+
+  <div class="controls" id="controls">
+    <div class="wrap controls-inner">
+      <div class="controls-top">
+        <div class="segmented" role="radiogroup" aria-label="Show listings by">
+          <label><input type="radio" name="view" value="theaters" checked><span>Theaters</span></label>
+          <label><input type="radio" name="view" value="films"><span>Films</span></label>
+          <label><input type="radio" name="view" value="days"><span>Day by day</span></label>
+        </div>
+        <button type="button" class="filters-toggle" id="filters-toggle" aria-expanded="false" aria-controls="filters">
+          <svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M7 12h10M10 18h4"/></svg>
+          <span>Filters</span><span class="filters-count" id="filters-count" hidden></span>
+        </button>
+      </div>
+
+      <div class="filters" id="filters">
+        <div class="filters-head">
+          <h2>Filters</h2>
+          <button type="button" class="icon-button" id="filters-close" aria-label="Close filters">
+            <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+          </button>
+        </div>
+
+        <div class="filter-row">
+          <div class="search">
+            <label for="search" class="visually-hidden">Search films</label>
+            <svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg>
+            <input id="search" type="search" placeholder="Search films" autocomplete="off" spellcheck="false">
+          </div>
+          <div class="toggle-group" role="group" aria-label="Day" id="day-filter"></div>
+        </div>
+
+        <div class="filter-row">
+          <div class="toggle-group" role="group" aria-label="Time of day" id="time-filter"></div>
+          <div class="menus">
+            <button type="button" class="menu-button fav-toggle" id="fav-toggle" aria-pressed="false">
+              <svg class="star" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.8l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 16.8l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z" fill="currentColor"/></svg>
+              Favorites only
+            </button>
+            <div class="menu" data-filter="hood">
+              <button type="button" class="menu-button" aria-expanded="false" aria-haspopup="true">
+                <span class="menu-label">Neighborhood</span>
+                <svg aria-hidden="true" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M6 9l6 6 6-6"/></svg>
+              </button>
+              <div class="menu-panel" hidden></div>
+            </div>
+            <div class="menu" data-filter="theater">
+              <button type="button" class="menu-button" aria-expanded="false" aria-haspopup="true">
+                <span class="menu-label">Theater</span>
+                <svg aria-hidden="true" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M6 9l6 6 6-6"/></svg>
+              </button>
+              <div class="menu-panel" hidden></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="filters-foot">
+          <button type="button" class="quiet-button" id="filters-clear-sheet">Clear all</button>
+          <button type="button" class="primary-button" id="filters-done">Show films</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <main id="listings" class="wrap listings" tabindex="-1">
+    <div class="summary" aria-live="polite">
+      <p id="summary-text"></p>
+      <button type="button" class="link-button" id="clear-filters" hidden>Clear filters</button>
+    </div>
+    <div id="results"><p class="loading">Loading showtimes…</p></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Showtimes come from each theater’s own website every morning, so things can change during the day. Check with the theater before you head out, and buy tickets from them directly.</p>
+      <ul class="footer-theaters" id="footer-theaters"></ul>
+    </div>
+  </footer>
+
+  <dialog class="sheet" id="film-sheet" aria-labelledby="sheet-title">
+    <div class="sheet-inner">
+      <button type="button" class="icon-button sheet-close" aria-label="Close">
+        <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+      <div id="sheet-body"></div>
+    </div>
+  </dialog>
+
+  <script src="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.js" defer></script>
+  <script src="map.js" defer></script>
+  <script src="app.js" defer></script>
+</body>
+</html>
