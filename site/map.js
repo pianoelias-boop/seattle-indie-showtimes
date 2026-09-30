@@ -204,9 +204,17 @@
     const pts = theaterList.map((t) => ({ t, p: map.project([t.lng, t.lat]) }));
     const out = [];
     for (const pt of pts) {
-      const g = out.find((c) => Math.hypot(c.p.x - pt.p.x, c.p.y - pt.p.y) < MERGE_PX);
-      if (g) g.members.push(pt.t);
-      else out.push({ p: pt.p, members: [pt.t] });
+      // Join the nearest pin within reach, not just the first one found.
+      let best = null;
+      let bestD = MERGE_PX;
+      for (const c of out) {
+        const d = Math.min(...c.pts.map((q) => Math.hypot(q.x - pt.p.x, q.y - pt.p.y)));
+        if (d < bestD) [best, bestD] = [c, d];
+      }
+      if (best) {
+        best.members.push(pt.t);
+        best.pts.push(pt.p);
+      } else out.push({ pts: [pt.p], members: [pt.t] });
     }
     return out.map((c) => {
       // Favorites first inside a merged pin.
@@ -269,6 +277,11 @@
     group.size = null;
   }
 
+  // How far inside the frame a pin must be to count as on the map. Pins
+  // closer to the edge hide, and an edge arrow stands in for them.
+  const EDGE_MARGIN = 20;
+  const onMap = (p, W, H) => p.x >= EDGE_MARGIN && p.x <= W - EDGE_MARGIN && p.y >= EDGE_MARGIN && p.y <= H - EDGE_MARGIN;
+
   // ---------- label placement ----------
 
   // Put each label where it overlaps the fewest other labels and pins.
@@ -303,7 +316,12 @@
       g.px = p.x;
       g.py = p.y;
     }
-    const visible = groups.filter((g) => g.px > -40 && g.px < W + 40 && g.py > -40 && g.py < H + 40);
+    const visible = [];
+    for (const g of groups) {
+      const shown = onMap({ x: g.px, y: g.py }, W, H);
+      g.el.style.visibility = shown ? '' : 'hidden';
+      if (shown) visible.push(g);
+    }
     const dots = visible.map((g) => ({ x: g.px - 12, y: g.py - 12, w: 24, h: 24 }));
     // Edge arrows go first; labels steer around them.
     for (const r of placeEdges(W, H)) dots.push({ x: r.x - 4, y: r.y - 4, w: r.w + 8, h: r.h + 8 });
@@ -362,8 +380,9 @@
     const c = { x: W / 2, y: H / 2 };
     for (const t of theaterList) {
       const p = map.project([t.lng, t.lat]);
-      const inside = p.x >= 8 && p.x <= W - 8 && p.y >= 8 && p.y <= H - 8;
-      if (inside) continue;
+      // A theater in a merged pin follows its pin.
+      const g = groups.find((x) => x.ids.includes(t.id));
+      if (onMap(g ? map.project([g.lng, g.lat]) : p, W, H)) continue;
       seen.add(t.id);
       let el = edges.get(t.id);
       if (!el) {
@@ -411,7 +430,7 @@
   function showTheater(t) {
     const b = map.getBounds();
     b.extend([t.lng, t.lat]);
-    map.fitBounds(b, { padding: 60, maxZoom: map.getZoom(), duration: reduceMotion() ? 0 : 700 });
+    map.fitBounds(b, { padding: 70, maxZoom: map.getZoom(), duration: reduceMotion() ? 0 : 700 });
   }
 
   const reduceMotion = () => window.matchMedia('(prefers-reduced-motion: reduce)').matches;

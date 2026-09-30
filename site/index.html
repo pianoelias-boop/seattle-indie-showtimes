@@ -7,6 +7,9 @@
   <meta name="description" content="What's playing at independent movie theaters in and around Seattle, by neighborhood, theater and film. Updated every morning.">
   <meta name="theme-color" content="#f3efe4" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#111915" media="(prefers-color-scheme: dark)">
+  <meta property="og:title" content="Seattle Indie Showtimes">
+  <meta property="og:description" content="What's playing at independent movie theaters in and around Seattle. Updated every morning.">
+  <meta property="og:type" content="website">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -97,7 +100,10 @@
       <p id="summary-text"></p>
       <button type="button" class="link-button" id="clear-filters" hidden>Clear filters</button>
     </div>
-    <div id="results"><p class="loading">Loading showtimes…</p></div>
+    <div id="results">
+      <p class="loading">Loading showtimes…</p>
+      <noscript><p class="empty">This page needs JavaScript to show showtimes.</p></noscript>
+    </div>
   </main>
 
   <footer class="site-footer">

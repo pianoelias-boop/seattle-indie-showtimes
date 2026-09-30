@@ -227,7 +227,7 @@ function titleCase(str) {
       const isFirst = wi === 0 || clauseStart;
       const isLast = wi === words.length - 1;
       wi++;
-      clauseStart = /[:.!?–—]$/.test(tok) || tok === '-';
+      clauseStart = /[:!?–—]$/.test(tok) || tok === '-'; // a '.' mid-title is an abbreviation (E.T., Dr.)
       const bare = tok.replace(/[^\p{L}\p{N}.]/gu, '');
       const letters = bare.replace(/\./g, '');
       if (bare === 'i' || (letters && ROMAN.test(letters) && !/^(?:mix|dix|vix)$/.test(letters))) return tok.toUpperCase();
@@ -250,7 +250,7 @@ const TYPOS = [
 
 function tidyNote(s) {
   let n = oneLine(s || '').replace(/^[\s,;:&+|–—-]+|[\s,;:|–—!-]+$/g, '').replace(/^\(|\)$/g, '').trim();
-  if (!n) return null;
+  if (!n || /^(?:the\s+)?(?:movies?|films?|screening|feature)$/i.test(n)) return null;
   if (isAllCaps(n)) n = n.charAt(0) + n.slice(1).toLowerCase();
   if (/^open[- ]?cap/i.test(n)) return 'Open captions';
   if (/^closed[- ]?cap/i.test(n)) return 'Closed captions';
@@ -330,6 +330,7 @@ function describe(html) {
     text = text
       .split('\n')
       .map((l) => (l ? l.charAt(0) + l.slice(1).toLowerCase() : l))
+      .map((l) => l.replace(/\b[\w-]+(?:\.[\w-]+)*\.(?:com|org|net|film|us)\b/gi, (d) => d.toLowerCase()))
       .join('\n');
   }
   return text;

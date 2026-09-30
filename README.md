@@ -50,7 +50,8 @@ Where each scraper gets its data:
 | Admiral Theater | Far Away Entertainment's showtime API |
 | Northwest Film Forum | NWFF calendar pages plus Eventive for ticket links |
 | Grand Illusion | grandillusioncinema.org calendar and film pages |
-| The Tin Room, North Bend Theatre | see the comment at the top of each file |
+| The Tin Room | SpotHopper events API (filtered to films), plus Ticket Tailor for Seattle Film Festival blocks |
+| North Bend Theatre | the event data embedded in tix.northbendtheatre.com's calendar, plus each event page for posters |
 
 ## Running it locally
 

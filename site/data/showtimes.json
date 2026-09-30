@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T09:11:00-07:00",
+ "updated": "2026-09-30T09:25:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,8 +14,8 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-09-30T09:11:00-07:00",
-    "lastSuccess": "2026-09-30T09:11:00-07:00",
+    "checked": "2026-09-30T09:25:00-07:00",
+    "lastSuccess": "2026-09-30T09:25:00-07:00",
     "showings": 80,
     "through": "2026-11-03"
    }
@@ -33,8 +33,8 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-09-30T09:11:00-07:00",
-    "lastSuccess": "2026-09-30T09:11:00-07:00",
+    "checked": "2026-09-30T09:25:00-07:00",
+    "lastSuccess": "2026-09-30T09:25:00-07:00",
     "showings": 170,
     "through": "2026-11-04"
    }
@@ -52,8 +52,8 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-09-30T09:11:00-07:00",
-    "lastSuccess": "2026-09-30T09:11:00-07:00",
+    "checked": "2026-09-30T09:25:00-07:00",
+    "lastSuccess": "2026-09-30T09:25:00-07:00",
     "showings": 33,
     "through": "2026-11-02"
    }
@@ -70,8 +70,8 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-09-30T09:11:00-07:00",
-    "lastSuccess": "2026-09-30T09:11:00-07:00",
+    "checked": "2026-09-30T09:25:00-07:00",
+    "lastSuccess": "2026-09-30T09:25:00-07:00",
     "showings": 13,
     "through": "2026-11-03"
    }
@@ -88,8 +88,8 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-09-30T09:11:00-07:00",
-    "lastSuccess": "2026-09-30T09:11:00-07:00",
+    "checked": "2026-09-30T09:25:00-07:00",
+    "lastSuccess": "2026-09-30T09:25:00-07:00",
     "showings": 70,
     "through": "2026-10-31"
    }
@@ -107,8 +107,8 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-09-30T09:11:00-07:00",
-    "lastSuccess": "2026-09-30T09:11:00-07:00",
+    "checked": "2026-09-30T09:25:00-07:00",
+    "lastSuccess": "2026-09-30T09:25:00-07:00",
     "showings": 74,
     "through": "2026-10-29"
    }
@@ -126,8 +126,8 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-09-30T09:11:00-07:00",
-    "lastSuccess": "2026-09-30T09:11:00-07:00",
+    "checked": "2026-09-30T09:25:00-07:00",
+    "lastSuccess": "2026-09-30T09:25:00-07:00",
     "showings": 44,
     "through": "2026-10-31"
    }
@@ -145,8 +145,8 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-09-30T09:11:00-07:00",
-    "lastSuccess": "2026-09-30T09:11:00-07:00",
+    "checked": "2026-09-30T09:25:00-07:00",
+    "lastSuccess": "2026-09-30T09:25:00-07:00",
     "showings": 95,
     "through": "2026-10-29"
    }
@@ -164,8 +164,8 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-09-30T09:11:00-07:00",
-    "lastSuccess": "2026-09-30T09:11:00-07:00",
+    "checked": "2026-09-30T09:25:00-07:00",
+    "lastSuccess": "2026-09-30T09:25:00-07:00",
     "showings": 66,
     "through": "2026-10-29"
    }
@@ -182,8 +182,8 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-09-30T09:11:00-07:00",
-    "lastSuccess": "2026-09-30T09:11:00-07:00",
+    "checked": "2026-09-30T09:25:00-07:00",
+    "lastSuccess": "2026-09-30T09:25:00-07:00",
     "showings": 22,
     "through": "2026-10-17"
    }
@@ -200,11 +200,11 @@
    "url": "https://tinroombar.com/",
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
-    "ok": false,
-    "checked": "2026-09-30T09:11:00-07:00",
-    "error": "Cannot find module '/Users/piano/Documents/Claude Code/Seattle Events/scraper/sources/tin-room.js' imported from /Users/piano/Documents/Claude Code/Seattle Events/scraper/sources/index.js",
-    "stale": true,
-    "showings": 0
+    "ok": true,
+    "checked": "2026-09-30T09:25:00-07:00",
+    "lastSuccess": "2026-09-30T09:25:00-07:00",
+    "showings": 29,
+    "through": "2026-11-01"
    }
   },
   {
@@ -219,11 +219,11 @@
    "url": "https://www.northbendtheatre.com/",
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
-    "ok": false,
-    "checked": "2026-09-30T09:11:00-07:00",
-    "error": "Cannot find module '/Users/piano/Documents/Claude Code/Seattle Events/scraper/sources/north-bend.js' imported from /Users/piano/Documents/Claude Code/Seattle Events/scraper/sources/index.js",
-    "stale": true,
-    "showings": 0
+    "ok": true,
+    "checked": "2026-09-30T09:25:00-07:00",
+    "lastSuccess": "2026-09-30T09:25:00-07:00",
+    "showings": 21,
+    "through": "2026-10-28"
    }
   }
  ],
@@ -345,6 +345,24 @@
    }
   },
   {
+   "id": "addams-family",
+   "title": "Addams Family",
+   "description": "The Addams Family is a fictional family and franchise created by American cartoonist Charles Addams. The Addams are an eccentric old-money clan who delight in the macabre and the grotesque and are seemingly unaware or unconcerned that other people find them bizarre or frightening. The family’s view in seeing their family life and interests as normal was a basis for the satire and comedy.",
+   "image": "https://static.spotapps.co/spots/a8/86d7b061584956b36ed8ae76c5f116/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
+   "id": "american-werewolf-in-london",
+   "title": "American Werewolf in London",
+   "description": "After a terrifying encounter with a mysterious wolf in the English countryside, two American tourists are forever changed. One man dies from his injuries, while the other begins a horrifying transformation into a werewolf. He must confront the terrifying reality of his condition and the looming threat of the next full moon, all while being hunted by professionals determined to stop the savage beast he's becoming.",
+   "image": "https://static.spotapps.co/spots/93/2bcf50bb6a401fb6a034d587051c94/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
    "id": "an-aria-on-gazes",
    "title": "An Aria on Gazes",
    "description": "One of legendary filmmaker Hisayasu Satô’s most celebrated and visually stunning works, newly restored!\n\nHousewife Kyoko (Kiyomi Ito) begins moonlighting at a mysterious sex club as a means of rebelling against her boring salaryman husband Akihito (Mineo Sugiura). The Bedroom isn’t like any normal sex club, though: the female hostesses all take the powerful sedative Halcion to sleep through their perverse encounters with the male clientele, waking up at the end of their shifts with no memory of what’s been done to them. But when Kyoko decides to explore her fetish for voyeurism by not taking the drug, the lines between fantasy and reality quickly become increasingly blurred—and dangerous.",
@@ -444,7 +462,8 @@
    ],
    "image": "https://indy-systems.imgix.net/s0b9dy99rqvpqhy713q55pzil2u7?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
    "links": {
-    "central-cinema": "https://central-cinema.com/movie/beetlejuice/"
+    "central-cinema": "https://central-cinema.com/movie/beetlejuice/",
+    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -525,6 +544,18 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789847764408-tb-buchananridesalone.png",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/narrow-margin-release-party-buchanan-rides-alone"
+   }
+  },
+  {
+   "id": "call-me-by-your-name",
+   "title": "Call Me By Your Name",
+   "description": "It's the summer of 1983, and precocious 17-year-old Elio Perlman is spending the days with his family at their 17th-century villa in Lombardy, Italy. He soon meets Oliver, a handsome doctoral student who's working as an intern for Elio's father. Amid the sun-drenched splendor of their surroundings, Elio and Oliver discover the heady beauty of awakening desire over the course of a summer that will alter their lives forever.\n\nPart of the Rainbow Reels Series presented by SnoValley Pride (https://snovalleypride.org/).",
+   "runtime": 130,
+   "year": 2017,
+   "rating": "R",
+   "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/CallMeByYourNameSquare.png",
+   "links": {
+    "north-bend": "https://tix.northbendtheatre.com/event/call-me-by-your-name-wednesday-oct-28th-7pm"
    }
   },
   {
@@ -648,6 +679,15 @@
    }
   },
   {
+   "id": "clue",
+   "title": "Clue",
+   "description": "A group of strangers is invited to a remote mansion for a mysterious dinner party. When one of the guests turns up dead, the remaining attendees realize they're all suspects in a bizarre and comedic murder mystery. As they search for the killer, they uncover shocking secrets and unexpected twists, encountering familiar characters like Colonel Mustard, Miss Scarlet, and the astute butler, Wadsworth. The investigation is filled with laughter and suspense, keeping everyone guessing until the final, surprising reveal.",
+   "image": "https://static.spotapps.co/spots/50/757b1892eb41f0addb2f007d2947f6/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
    "id": "come-and-see",
    "title": "Come and See",
    "description": "This widely acclaimed film from Soviet director Elem Klimov is a stunning, senses-shattering plunge into the dehumanizing horrors of war. As Nazi forces encroach on his small village in present-day Belarus, teenage Flyora (Aleksei Kravchenko, in one of the screen’s most searing depictions of anguish since Renée Falconetti’s Joan of Arc) eagerly joins the Soviet resistance. Rather than the adventure and glory he envisioned, what he finds is a waking nightmare of unimaginable carnage and cruelty—rendered with a feverish, otherworldly intensity by Klimov’s subjective camerawork and expressionistic sound design. Nearly suppressed by Soviet censors who took eight years to approve its script, Come and See is perhaps the most visceral, impossible-to-forget antiwar film ever made.",
@@ -727,6 +767,15 @@
    "links": {
     "siff-downtown": "https://www.siff.net/cinema/in-theaters/digger",
     "majestic-bay": "https://www.majesticbay.com/movies/327174-digger/"
+   }
+  },
+  {
+   "id": "dolphin-tale",
+   "title": "Dolphin Tale",
+   "description": "After a young dolphin suffers a life-altering injury from a crab trap, a dedicated community rallies to rescue and rehabilitate her. Winter, a resilient and inspiring dolphin, faces an uncertain future with significant damage to her tail. A team of experts and a determined boy work together to develop an innovative prosthetic, leading to a remarkable recovery that captures the hearts of people worldwide and promotes hope and compassion",
+   "image": "https://static.spotapps.co/spots/1d/2b3d8c066545a9a3ef1e5dba5dd8a3/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -912,6 +961,19 @@
    }
   },
   {
+   "id": "food-of-the-gods-part-ii",
+   "title": "Food of the Gods Part II",
+   "description": "Neil Hamilton (Paul Coufos, CHOPPING MALL) is a brilliant scientist on the verge of a breakthrough with a growth hormone that could enlarge food supply and end world hunger. However, when the test subjects - a group of lab rats - escape, they begin to wreak havoc all across the streets of Mississauga, Ontario New York City! Directed by Damian Lee (MST3K favorite ABRAXAS, GUARDIAN OF THE UNIVERSE), co-written by Mike Werb (THE MASK, FACE/OFF), and co-starring Lisa Schrage (HELLO MARY LOU: PROM NIGHT 2), FOOD OF THE GODS PART 2 - alternately titled GNAW - is a name-only sequel to the 1976 adaptation of the H.G. Wells novel that is relentless in its gruesomeness and bafflingly entertaining in its storytelling in equal measure. Not to mention a scene that is so jaw-dropping that it has become an out-of-context meme for years (you’ll know it when you see it). Analog Anomalies is proud to bring you this gore-fest the way it was meant to be seen: on glorious VHS!\n\nFOOD OF THE GODS PART 2 is presented as part of Analog Anomalies, a monthly series that features the weirdest and wildest genre films that are not available for rent, purchase, or streaming on a digital platform.",
+   "runtime": 91,
+   "year": 1989,
+   "director": "Damian Lee",
+   "rating": "R",
+   "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/FoodoftheGods2Square10.jpg",
+   "links": {
+    "north-bend": "https://tix.northbendtheatre.com/event/food-of-the-gods-part-ii-wednesday-oct-21st-7pm"
+   }
+  },
+  {
    "id": "forgotten-island",
    "title": "Forgotten Island",
    "description": "While celebrating their last night together, Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali, packed with magical and mythological creatures they grew up hearing stories about from their Filipino families.\n\nSome of these figures will become friends, some foes. Joined by well-meaning-but- hapless weredog Raww (Dave Franco) and a small-but-mighty pack of pals, Jo and Raissa must face The Dreaded Manananggal (Tony winning icon Lea Salonga), the most feared creature on the island. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
@@ -979,6 +1041,15 @@
    "image": "https://grandillusioncinema.org/wp-content/uploads/2026/09/frombeyondposter-550x825.jpg",
    "links": {
     "grand-illusion": "https://grandillusioncinema.org/film/from-beyond/"
+   }
+  },
+  {
+   "id": "ghost-squad",
+   "title": "Ghost Squad",
+   "description": "Three unpopular friends accept a dare to spend Halloween in a haunted house. They encounter a mischievous ghost dog intent on tormenting them, leading to a night of terrifying chaos as they struggle to survive the supernatural encounter",
+   "image": "https://static.spotapps.co/spots/ae/54719f12a64a89b8e6d5ae2d0b9a0b/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -1101,6 +1172,15 @@
    "links": {
     "majestic-bay": "https://www.majesticbay.com/movies/1000000085-heart-of-the-beast/",
     "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast"
+   }
+  },
+  {
+   "id": "hocus-pocus",
+   "title": "Hocus Pocus",
+   "description": "In this bewitching story, three mischievous witches are inadvertently resurrected when teenager Max Dennison discovers an ancient spellbook in Salem. Along with his sister Dani and new friend Allison, Max must stop the witches from carrying out a nefarious plan. The trio of witches, portrayed by Bette Midler, Sarah Jessica Parker, and Kathy Najimy, wreak havoc as the children race to steal their spellbook and prevent a wicked curse from engulfing the town",
+   "image": "https://static.spotapps.co/spots/18/10d0d7ae784242bca662d5e29eeb76/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -1321,6 +1401,15 @@
    }
   },
   {
+   "id": "lost-boys",
+   "title": "Lost Boys",
+   "description": "Following their parents' divorce, Micheal and his younger brother Sam relocate to the trendy beach town of Santa Carla, California with their mother. Moving in with Lucy's eccentric father, they quickly discover that Santa Carla, often referred to as the murder capital of the world, is home to a lively boardwalk frequented by a group of intriguing young men led by the enigmatic David.",
+   "image": "https://static.spotapps.co/spots/f0/49f9c62c924af5b8f7e61549f70e25/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
    "id": "love-jones",
    "title": "Love Jones",
    "description": "Say hello to Darious Lovehall (Larenz Tate) and Nina Mosley (Nia Long), two confused lovebirds who discover that you can never underestimate the power of a love jones.",
@@ -1530,6 +1619,31 @@
    }
   },
   {
+   "id": "paw-patrol-the-dino-movie",
+   "title": "PAW Patrol: The Dino Movie",
+   "description": "When their ship gets caught in a storm, the PAW Patrol pups wash up on a tropical island that's teeming with dinosaurs. They soon befriend Rex, a baby dino who's been stranded on the island for years. When Mayor Humdinger's mining plans cause a huge volcano to erupt, the pups spring into action to save Rex's home before everything becomes extinct.",
+   "runtime": 89,
+   "year": 2026,
+   "rating": "PG",
+   "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/PawPatrolSquare.jpg",
+   "links": {
+    "north-bend": "https://tix.northbendtheatre.com/event/paw-patrol-the-dino-movie-thursday-oct-1st-6pm"
+   }
+  },
+  {
+   "id": "poltergeist",
+   "title": "Poltergeist",
+   "description": "Strange and creepy happenings beset an average California family, the Freelings -- Steve (Craig T. Nelson), Diane (JoBeth Williams), teenaged Dana (Dominique Dunne), eight-year-old Robbie (Oliver Robins), and five-year-old Carol Ann (Heather O'Rourke) -- when ghosts commune with them through the television set. Initially friendly and playful, the spirits turn unexpectedly menacing, and, when Carol Ann goes missing, Steve and Diane turn to a parapsychologist and eventually an exorcist for help.\n\nPart of the Essential Cinema Series, bringing you films that must be seen on the big screen.",
+   "runtime": 120,
+   "year": 1982,
+   "rating": "PG",
+   "image": "https://static.spotapps.co/spots/55/36634b725647558b95e348f0b28ca3/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events",
+    "north-bend": "https://tix.northbendtheatre.com/event/poltergeist-wednesday-october-14th-7pm"
+   }
+  },
+  {
    "id": "practical-magic-2",
    "title": "Practical Magic 2",
    "description": "Starring Sandra Bullock and Nicole Kidman, Practical Magic 2 returns to a world steeped in moonlit mischief and powerful ancestral magic, as the Owens sisters must confront the dark curse that threatens to unravel their family once and for all in a must-see cinematic event of fun, magic and mayhem.",
@@ -1569,6 +1683,15 @@
    "links": {
     "siff-uptown": "https://www.siff.net/cinema/in-theaters/primetime",
     "tasveer": "https://filmcenter.tasveer.org/movie/primetime-usa-2026"
+   }
+  },
+  {
+   "id": "real-steel",
+   "title": "Real Steel",
+   "description": "Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After his robot is trashed, he reluctantly teams up with his estranged son to rebuild and train an unlikely contender.",
+   "image": "https://static.spotapps.co/spots/cb/653ace975d4444abf6c76af09a3734/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -1660,6 +1783,15 @@
    }
   },
   {
+   "id": "scary-movie",
+   "title": "Scary Movie",
+   "description": "This film fearlessly spoofs popular movies and trends, delivering a rapid-fire barrage of jokes inspired by Scream, The Sixth Sense, The Matrix, I Know What You Did Last Summer, and The Blair Witch Project. It lampoons familiar teen movie tropes and memorable moments from recent films, television shows, and commercials, pushing the boundaries of parody with a no-holds-barred approach.",
+   "image": "https://static.spotapps.co/spots/e0/59dbfbc1a2497a91dc1295507bf17a/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
    "id": "screamplay",
    "title": "Screamplay",
    "description": "“…takes HOLLYWOOD by the throat and STRANGLES it!”\n\nEdgar Allan (Rufus B. Seder) is an aspiring screenwriter who has just come to Hollywood to make it in the movies… only to wind up working as the janitor at a fleabag apartment complex run by the greasy ex-boxer Martin (George Kuchar) instead. When Edgar begins channeling his frustrations with his kooky neighbors into fodder for his latest screenplay, the vivid murder scenes he writes begin to happen for real. As the bodies begin to pile up and the line between reality and fiction become increasingly blurred, Edgar, who is convinced that the only way to be a real writer is to suffer, is slowly driven mad.\n\nInventively produced using a host of early cinematic techniques and featuring a memorable performance by underground film legend George Kuchar, Rufus Butler Seder’s Screamplay is a singularly charming tribute to Old Hollywood and a marvel of low-budget but high-concept filmmaking. New 4K restoration by Muscle Distribution in association with Matchbox Cine.",
@@ -1671,6 +1803,96 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/screamplay1600-1-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/screamplay-4k-restoration/"
+   }
+  },
+  {
+   "id": "seattle-film-festival-block-1",
+   "title": "Seattle Film Festival Block 1",
+   "description": "Films: A Fateful Weekend, Til I Reach You.\n\nBlock 1 contains the opening films for The Seattle Film Festival. The films playing in Block 1 are A Fateful Weekend and Til I Reach You. A short Q&A will follow the screening of both films.",
+   "image": "https://static.spotapps.co/spots/ef/e841e596374d178c1713ab3b7a2f51/w926",
+   "links": {
+    "tin-room": "https://www.tickettailor.com/events/theseattlefilmfestival/2428052"
+   }
+  },
+  {
+   "id": "seattle-film-festival-block-10",
+   "title": "Seattle Film Festival Block 10",
+   "description": "Films: Making Megaforce.\n\nBlock 10 is a special screening playing on Saturday, October 3, 2026. The film playing in Block 10 is Making Megaforce. A short Q&A will follow the screening of the film.",
+   "image": "https://static.spotapps.co/spots/ef/e841e596374d178c1713ab3b7a2f51/w926",
+   "links": {
+    "tin-room": "https://www.tickettailor.com/events/theseattlefilmfestival/2429117"
+   }
+  },
+  {
+   "id": "seattle-film-festival-block-2",
+   "title": "Seattle Film Festival Block 2",
+   "description": "Films: Zombae, Sound Again, The Dulcinee Dialectic.\n\nBlock 2 are the final films of the first day. The films playing in Block 2 are Zombae, Sound Again, and The Dulcinee Dialectic. A short Q&A will follow the screening of all three films.",
+   "image": "https://static.spotapps.co/spots/ef/e841e596374d178c1713ab3b7a2f51/w926",
+   "links": {
+    "tin-room": "https://www.tickettailor.com/events/theseattlefilmfestival/2428950"
+   }
+  },
+  {
+   "id": "seattle-film-festival-block-3",
+   "title": "Seattle Film Festival Block 3",
+   "description": "Films: Factory Of Love, Demon Friend, We Ride Why.\n\nBlock 3 contains the first three films playing on the second day of the festival. The films playing in Block 3 are Factory Of Love, Demon Friend, and We Ride Why. A short Q&A will follow the screening of all the films.",
+   "image": "https://static.spotapps.co/spots/ef/e841e596374d178c1713ab3b7a2f51/w926",
+   "links": {
+    "tin-room": "https://www.tickettailor.com/events/theseattlefilmfestival/2428957"
+   }
+  },
+  {
+   "id": "seattle-film-festival-block-4",
+   "title": "Seattle Film Festival Block 4",
+   "description": "Films: Dotted Line, The Last Lady, Dicks-a-thon, Bad Death, To Dress A Wound.\n\nBlock 4 contains the second roster of titles playing the festival on its second day, October 2, 2026. The films playing Block 4 are Dotted Line, The Last Lady, Dicks-a-thon, Bad Death, and To Dress A Wound. A short Q&A will follow the screening of all films.",
+   "image": "https://static.spotapps.co/spots/ef/e841e596374d178c1713ab3b7a2f51/w926",
+   "links": {
+    "tin-room": "https://www.tickettailor.com/events/theseattlefilmfestival/2428966"
+   }
+  },
+  {
+   "id": "seattle-film-festival-block-5",
+   "title": "Seattle Film Festival Block 5",
+   "description": "Films: Cockroach, Stockholm, The Astronaut, Open For Connection, The Burning Of Moses Seattle.\n\nBlock 5 is the final block of films of its second day, October 2, 2026. The films playing Block 5 are Cockroach, Stockholm, The Astronaut, Open For Connection, and The Burning Of Moses Seattle. A short Q&A will follow the screening of all films.",
+   "image": "https://static.spotapps.co/spots/ef/e841e596374d178c1713ab3b7a2f51/w926",
+   "links": {
+    "tin-room": "https://www.tickettailor.com/events/theseattlefilmfestival/2428983"
+   }
+  },
+  {
+   "id": "seattle-film-festival-block-6",
+   "title": "Seattle Film Festival Block 6",
+   "description": "Films: tomorrows waterfall, Jake, Mental Elder Abuse.\n\nBlock 6 is the first batch of films playing on Saturday, October 3, 2026. The films playing in Block 6 are tomorrows waterfall, Jake, and Mental Elder Abuse. A short Q&A will follow the screening of all the films.",
+   "image": "https://static.spotapps.co/spots/ef/e841e596374d178c1713ab3b7a2f51/w926",
+   "links": {
+    "tin-room": "https://www.tickettailor.com/events/theseattlefilmfestival/2429104"
+   }
+  },
+  {
+   "id": "seattle-film-festival-block-7",
+   "title": "Seattle Film Festival Block 7",
+   "description": "Films: Baby Sea Turtle, Bonding.\n\nBlock 7 is the second batch of films playing on Saturday, October 3, 2026. The films playing in Block 6 are Baby Sea Turtle and Bonding. A short Q&A will follow the screening of all the films.",
+   "image": "https://static.spotapps.co/spots/ef/e841e596374d178c1713ab3b7a2f51/w926",
+   "links": {
+    "tin-room": "https://www.tickettailor.com/events/theseattlefilmfestival/2429107"
+   }
+  },
+  {
+   "id": "seattle-film-festival-block-8",
+   "title": "Seattle Film Festival Block 8",
+   "description": "Films: Parasomnia, The Home, ACB-223, Carpenter Brut - The Misfits/Rebels, Al Mhajba, Slice.\n\nBlock 8 is the third batch of films playing on Saturday, October 3, 2026. The films playing in Block 8 are Parasomnia, The Home, ACB-223, Carpenter Brut - The Misfits/Rebels, Al Mhajba, and Slice. A short Q&A will follow the screening of all the films.",
+   "image": "https://static.spotapps.co/spots/ef/e841e596374d178c1713ab3b7a2f51/w926",
+   "links": {
+    "tin-room": "https://www.tickettailor.com/events/theseattlefilmfestival/2429110"
+   }
+  },
+  {
+   "id": "seattle-film-festival-block-9",
+   "title": "Seattle Film Festival Block 9",
+   "description": "Films: Just One Peek, Beneath The Blue Suburban Skies.\n\nBlock 9 is the fourth batch of films playing on Saturday, October 3, 2026. The films playing in Block 9 are Just One Peek and Beneath The Blue Suburban Skies. A short Q&A will follow the screening of all the films.",
+   "image": "https://static.spotapps.co/spots/ef/e841e596374d178c1713ab3b7a2f51/w926",
+   "links": {
+    "tin-room": "https://www.tickettailor.com/events/theseattlefilmfestival/2429112"
    }
   },
   {
@@ -1718,6 +1940,27 @@
    }
   },
   {
+   "id": "shaun-the-sheep-the-beast-of-mossy-bottom",
+   "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+   "description": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
+   "runtime": 91,
+   "year": 2026,
+   "rating": "PG",
+   "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/ShauntheSheepSquare.jpg",
+   "links": {
+    "north-bend": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-thursday-oct-8th-6pm"
+   }
+  },
+  {
+   "id": "shrek-the-musical",
+   "title": "Shrek the Musical",
+   "description": "Shrek the Musical is a one-of-a-kind, hilarious fairy tale in which curses are reversed, monsters get the girls, donkeys and dragons find love, and princesses are beautiful in all shapes and sizes. Grumpy, gruff, green ogre Shrek lives alone in his swamp. The world is fearful and mocking of him, and he is more than happy to leave the world to itself, in turn. Suddenly, his hermit existence is thrown open, when a group of homeless fairy tale characters — Pinocchio, the Gingerbread Man, the Three Little Pigs, and more — burst upon his swamp, seeking refuge from the persecution of the cruel, vertically-challenged Lord Farquaad",
+   "image": "https://static.spotapps.co/spots/64/7b1a4657444a99bfae34a5a4b8d5a7/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
    "id": "singin-in-the-rain",
    "title": "Singin' in the Rain",
    "description": "Join us for a very special celebration of the Majestic Bay Theatres' 25th year! We'll kick off the evening with the premiere of a 30 minute documentary telling the story of our theater, before watching one of the very first films we ever showed, Singin' in the Rain! We look forward to celebrating with you!\n\nGene Kelly, Debbie Reynolds and Donald O'Connor star in one of the greatest musicals ever filmed. Musician Don Lockwood (Kelly) rises to stardom during Hollywood's silent-movie era--paired with the beautiful, jealous and dumb Lina Lamont (Jean Hagen). When Lockwood becomes attracted to young studio singer Kathy Selden (Reynolds), Lamont has her fired. But with the introduction of talking pictures, audiences laugh when they hear Lockwood speak for the first time--and the studio uses Selden to dub her voice. Set during the advent of \"talkies,\" this film classic song-and-dance numbers celebrate the beginning of movie musicals.",
@@ -1734,6 +1977,15 @@
    }
   },
   {
+   "id": "sleepy-hollow",
+   "title": "Sleepy Hollow",
+   "description": "Loosely based on Washington Irving's 18th-century horror tale, The Legend of Sleepy Hollow, Burton's movie follows a mild-mannered detective named Ichabod Crane (Johnny Depp) in 1799, who is sent to the small town of Sleepy Hollow to investigate a series of supernatural murders.",
+   "image": "https://static.spotapps.co/spots/b8/53bd515cd04e779faedbf2b7076899/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
    "id": "society",
    "title": "Society",
    "description": "In remembrance of special effects and makeup artist legend Screaming Mad George, a screening of one of the ickiest, most original body horror shockers of all time.\n\nTeenager Bill Whitney has always felt like the odd one out in his wealthy, upper-class Beverly Hills family. But his sense of alienation takes a sinister turn when he hears an audio recording of his sister’s coming-out party, which seems to implicate his family in a bizarre, ritualistic orgy. Packing stomach-churning grue courtesy of Screaming Mad George and thought-provoking social commentary in equal measure, Brian Yuzna's SOCIETY is a biting satire that culminates in the most gag-inducing “climax” in all of horror history.",
@@ -1743,6 +1995,16 @@
    "image": "https://grandillusioncinema.org/wp-content/uploads/2026/09/societyposter-550x857.jpg",
    "links": {
     "grand-illusion": "https://grandillusioncinema.org/film/society/"
+   }
+  },
+  {
+   "id": "spaghetti-western-wednesday",
+   "title": "Spaghetti Western Wednesday",
+   "description": "A mystery showing of a classic “Spaghetti Western” with the best pasta this side of Rome, courtesy of Paisan Ristorante\n\nPair this with beer on tap, wine, or a custom mimosa, plus classic movie treats.",
+   "rating": "R",
+   "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/SpaghettiWesternWednesdaySquareV2.png",
+   "links": {
+    "north-bend": "https://tix.northbendtheatre.com/event/spaghetti-western-wednesday-wednesday-sept-30th-7pm"
    }
   },
   {
@@ -1758,6 +2020,24 @@
    }
   },
   {
+   "id": "star-trek-2009",
+   "title": "Star Trek 2009",
+   "description": "A young and untested crew sets out on the inaugural voyage of the U.S.S. Enterprise, the most advanced starship ever built. Led by James T. Kirk, a spirited and unconventional officer, and his logical Vulcan first officer, Spock, the crew encounters unexpected dangers and conflicts. They must overcome their personal differences and work together to navigate uncharted territory, forming a lasting camaraderie as they explore the galaxy and push the boundaries of human understanding.",
+   "image": "https://static.spotapps.co/spots/ae/42a6bc2c224acc92da0f49426452e5/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
+   "id": "star-trek-voyager",
+   "title": "Star Trek Voyager",
+   "description": "Set in 2273, Star Trek: The Motion Picture follows Admiral James T. Kirk as he takes command of the refitted USS Enterprise to intercept a mysterious, world‑destroying alien cloud known as V’Ger, which is on a collision course with Earth",
+   "image": "https://static.spotapps.co/spots/d7/2595f1e13b441c973c9096f5f3277f/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
    "id": "stolen-kisses",
    "title": "Stolen Kisses",
    "description": "As one of his film titles says, François Truffaut is The Man Who Loved Women. He reveres female beauty, intelligence, spirit, wit, and “superior understanding of emotions.” In his films, “Are women magic?” is a recurrent theme. In Truffaut’s Jules and Jim, two men initially see Jeanne Moreau’s Catherine as a statue come to life, but they soon experience her full human complexity. In Stolen Kisses, Truffaut’s cinematic alter-ego, Antoine Doinel (Jean-Pierre Léaud), a romantic who’s endearingly hapless, gains access to the hearts of Paris by taking a detective job. His touching and comic personal private investigations are the most revealing. He’s had a fluctuating romance with violinist Christine (Claude Jade): they never want each other at the same time, but both are still in the game. Antoine is hired by businessman Tabard (Michel Lonsdale) to discover why no one likes him, and is instantly smitten by the man’s elegant wife Fabienne (Delphine Seyrig, a classic New Wave woman). Following the French tradition of an older women giving a younger man his emotional education, she tells the starry-eyed Antoine, “I am not an apparition. I am a woman, unique and irreplaceable.” Meanwhile, young Christine learns that in order to get what you want in life, sometimes you have to give a push.",
@@ -1769,6 +2049,15 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Nouvelles%20Femmes/stolenkisses.png",
    "links": {
     "siff-uptown": "https://www.siff.net/programs-and-events/nouvelles-femmes/stolen-kisses"
+   }
+  },
+  {
+   "id": "sweeney-todd",
+   "title": "Sweeney Todd",
+   "description": "Sweeney Todd: The Demon Barber of Fleet Street is a “dark operetta” that tells the story of a London barber who seeks revenge on the judge who destroyed his life. Partnering up with Mrs Lovett, owner of the pie shop downstairs, Sweeney slaughters his customers and turns them into pies.",
+   "image": "https://static.spotapps.co/spots/ec/751f2c965f49e2aa9883d1d39624cf/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -2040,6 +2329,18 @@
    }
   },
   {
+   "id": "matrix",
+   "title": "The Matrix",
+   "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+   "runtime": 136,
+   "year": 1999,
+   "rating": "R",
+   "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/MatrixSquare5.png",
+   "links": {
+    "north-bend": "https://tix.northbendtheatre.com/event/the-matrix-wednesday-oct-7th-7pm"
+   }
+  },
+  {
    "id": "most-dangerous-game",
    "title": "The Most Dangerous Game",
    "description": "The Sprocket Society presents: a yacht blithely strays into cut-throat terror in this legendary pre-Code thriller, shown with spooky shorts — all on 16mm film!\n\nA secret island owned by a rich, calculating psychopath with unholy kinks. An innocent man and woman thrown together by pure chance, stranded by “accident,” far beyond the help of any caring soul. Frayed wits and a woodsman’s knife pitted against the rich man’s cunning, his arsenal, and his pack of ravening hounds. Ah, the manhunt is on! The bloodlust…so sweet. So perfectly crafted. So inconsequential.\n\nJoel McRae, Fay Wray, and a gloriously villainous Leslie Banks star in a tightly wound thriller that’s as short and hard-hitting as a crossbow bolt.\n\nA low budget studio throw-away, 94 years later it’s been copied countless times yet never bested. Co-helmed by the director of King Kong and shot on the same jungle sets, the tension and fog-choked visuals linger long after the credits roll.\n\nAll aboard: your berth awaits!\n\nPresented with selected short subjects.",
@@ -2066,10 +2367,23 @@
    }
   },
   {
+   "id": "phantom-of-the-opera",
+   "title": "The Phantom of the Opera",
+   "description": "A young soprano becomes the obsession of a disfigured and murderous musical genius who lives beneath the Paris Opéra House.\n\nEvery movie starts with a story at the North Bend Theatre. Just prior to each of the Love & War movies, our resident film experts, Kevin & Beth, will share the amazing stories behind these great films, giving you a whole new way to connect to the movie.",
+   "runtime": 143,
+   "year": 2004,
+   "rating": "PG-13",
+   "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/PhantomoftheOperaSquare.png",
+   "links": {
+    "north-bend": "https://tix.northbendtheatre.com/event/the-phantom-of-the-opera-sunday-oct-18th-3pm"
+   }
+  },
+  {
    "id": "rocky-horror-picture-show",
    "title": "The Rocky Horror Picture Show",
-   "description": "$5 of every ticket will be donated to Seattle Pride. After getting a flat tire, two sweethearts discover the eerie mansion of a flamboyant scientist and houseful of wild characters. Through elaborate dance and rock songs, the mad scientist unveils his latest creation: a perfect, muscular man.\n\n9pm doors.\n\n9:30 show start (meaning rules, games, contests, promotions, etc)\n\n10pm movie start time.\n\nUpcoming Show Dates\n\nFeb 21\n\nMar 21\n\nApr 18\n\nMay 16\n\nJune 20",
-   "runtime": 128,
+   "description": "Rocky Horror is back at the North Bend Theatre!\n\nIn this cult classic, sweethearts Brad (Barry Bostwick) and Janet (Susan Sarandon), stuck with a flat tire during a storm, discover the eerie mansion of Dr. Frank-N-Furter (Tim Curry), a transvestite scientist. As their innocence is lost, Brad and Janet meet a houseful of wild characters, including a rocking biker (Meat Loaf) and a creepy butler (Richard O'Brien). Through elaborate dances and rock songs, Frank-N-Furter unveils his latest creation: a muscular man named \"Rocky.\"",
+   "runtime": 100,
+   "year": 1975,
    "director": "Jim Sharman",
    "rating": "R",
    "genres": [
@@ -2080,7 +2394,9 @@
    ],
    "image": "https://media.mobilemoviegoing.com/CustomOneSheets/1768934247_rocky-horror-1000x1500-riff-raff-w-dates.png",
    "links": {
-    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-rocky-horror-picture-show"
+    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-rocky-horror-picture-show",
+    "tin-room": "https://tinroombar.com/events",
+    "north-bend": "https://tix.northbendtheatre.com/event/the-rocky-horror-picture-show-with-live-shadow-cast-friday-october-23rd-9pm"
    }
   },
   {
@@ -2114,6 +2430,15 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_TheScout_1600x900.png",
    "links": {
     "siff-film-center": "https://www.siff.net/cinema/in-theaters/the-scout"
+   }
+  },
+  {
+   "id": "shining",
+   "title": "The Shining",
+   "description": "A struggling writer, Jack Torrance, accepts a winter caretaker position at the isolated Overlook Hotel in the Colorado Rockies, hoping the solitude will overcome his writer's block. He brings his wife, Wendy, and their young son, Danny. However, the hotel harbors a dark history, and as Jack becomes increasingly isolated by the heavy snowfall, he slowly descends into madness, threatening his family and uncovering terrifying secrets within the Overlook's walls",
+   "image": "https://static.spotapps.co/spots/2a/b54239dc4545e288f6f29c97e068d9/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -2501,6 +2826,15 @@
     "siff-uptown": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
     "tasveer": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa"
    }
+  },
+  {
+   "id": "young-frankenstein",
+   "title": "Young Frankenstein",
+   "description": "Following in the footsteps of his infamous grandfather, Dr. Frederick Frankenstein inherits his ancestor's Transylvanian castle and laboratory. He initially attempts to distance himself from the family's legacy, but is drawn into recreating the experiments that brought his grandfather's monster to life. With the help of Igor, the bubbly Inga, and the unsettling Frau Blücher, Frederick’s plans are complicated by a living monster and the unexpected arrival of his fiancée, Elizabeth, leading to chaotic and hilarious consequences.",
+   "image": "https://static.spotapps.co/spots/5e/b010b63567460eb267190b3358c2d3/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
+   }
   }
  ],
  "showings": [
@@ -2675,6 +3009,16 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36128?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
    "notes": [
     "Retro Night"
+   ]
+  },
+  {
+   "film": "spaghetti-western-wednesday",
+   "theater": "north-bend",
+   "start": "2026-09-30T19:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/spaghetti-western-wednesday-wednesday-sept-30th-7pm",
+   "tickets": "https://tix.northbendtheatre.com/event/spaghetti-western-wednesday-wednesday-sept-30th-7pm",
+   "notes": [
+    "Mystery movie"
    ]
   },
   {
@@ -2865,6 +3209,17 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/primetime-usa-2026/3919210"
   },
   {
+   "film": "seattle-film-festival-block-1",
+   "theater": "tin-room",
+   "start": "2026-10-01T17:30:00-07:00",
+   "url": "https://www.tickettailor.com/events/theseattlefilmfestival/2428052",
+   "tickets": "https://www.tickettailor.com/events/theseattlefilmfestival/2428052",
+   "notes": [
+    "Seattle Film Festival",
+    "Q&A"
+   ]
+  },
+  {
    "film": "avengers-endgame",
    "theater": "admiral",
    "start": "2026-10-01T18:00:00-07:00",
@@ -2873,6 +3228,13 @@
    "notes": [
     "Encore"
    ]
+  },
+  {
+   "film": "paw-patrol-the-dino-movie",
+   "theater": "north-bend",
+   "start": "2026-10-01T18:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/paw-patrol-the-dino-movie-thursday-oct-1st-6pm",
+   "tickets": "https://tix.northbendtheatre.com/event/paw-patrol-the-dino-movie-thursday-oct-1st-6pm"
   },
   {
    "film": "practical-magic-2",
@@ -2976,6 +3338,17 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-DRovV1r3f2"
   },
   {
+   "film": "seattle-film-festival-block-2",
+   "theater": "tin-room",
+   "start": "2026-10-01T19:45:00-07:00",
+   "url": "https://www.tickettailor.com/events/theseattlefilmfestival/2428950",
+   "tickets": "https://www.tickettailor.com/events/theseattlefilmfestival/2428950",
+   "notes": [
+    "Seattle Film Festival",
+    "Q&A"
+   ]
+  },
+  {
    "film": "filipinana",
    "theater": "tasveer",
    "start": "2026-10-01T19:50:00-07:00",
@@ -2988,6 +3361,13 @@
    "start": "2026-10-01T20:00:00-07:00",
    "url": "https://central-cinema.com/movie/the-room/",
    "tickets": "https://central-cinema.com/checkout/showing/the-room/3866034"
+  },
+  {
+   "film": "paw-patrol-the-dino-movie",
+   "theater": "north-bend",
+   "start": "2026-10-02T15:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/paw-patrol-the-dino-movie-friday-oct-2nd-3pm",
+   "tickets": "https://tix.northbendtheatre.com/event/paw-patrol-the-dino-movie-friday-oct-2nd-3pm"
   },
   {
    "film": "digger",
@@ -3039,6 +3419,17 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-tZeNnnUphr"
   },
   {
+   "film": "seattle-film-festival-block-3",
+   "theater": "tin-room",
+   "start": "2026-10-02T16:30:00-07:00",
+   "url": "https://www.tickettailor.com/events/theseattlefilmfestival/2428957",
+   "tickets": "https://www.tickettailor.com/events/theseattlefilmfestival/2428957",
+   "notes": [
+    "Seattle Film Festival",
+    "Q&A"
+   ]
+  },
+  {
    "film": "unzipped",
    "theater": "siff-uptown",
    "start": "2026-10-02T16:45:00-07:00",
@@ -3081,11 +3472,29 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6a761a6a7deff33f3501f147"
   },
   {
+   "film": "paw-patrol-the-dino-movie",
+   "theater": "north-bend",
+   "start": "2026-10-02T18:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/paw-patrol-the-dino-movie-friday-oct-2nd-6pm",
+   "tickets": "https://tix.northbendtheatre.com/event/paw-patrol-the-dino-movie-friday-oct-2nd-6pm"
+  },
+  {
    "film": "digger",
    "theater": "majestic-bay",
    "start": "2026-10-02T18:30:00-07:00",
    "url": "https://www.majesticbay.com/movies/327174-digger/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36340?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "seattle-film-festival-block-4",
+   "theater": "tin-room",
+   "start": "2026-10-02T18:30:00-07:00",
+   "url": "https://www.tickettailor.com/events/theseattlefilmfestival/2428966",
+   "tickets": "https://www.tickettailor.com/events/theseattlefilmfestival/2428966",
+   "notes": [
+    "Seattle Film Festival",
+    "Q&A"
+   ]
   },
   {
    "film": "forgotten-island",
@@ -3182,6 +3591,17 @@
    ]
   },
   {
+   "film": "seattle-film-festival-block-5",
+   "theater": "tin-room",
+   "start": "2026-10-02T20:30:00-07:00",
+   "url": "https://www.tickettailor.com/events/theseattlefilmfestival/2428983",
+   "tickets": "https://www.tickettailor.com/events/theseattlefilmfestival/2428983",
+   "notes": [
+    "Seattle Film Festival",
+    "Q&A"
+   ]
+  },
+  {
    "film": "ju-on-the-grudge",
    "theater": "central-cinema",
    "start": "2026-10-02T21:30:00-07:00",
@@ -3201,6 +3621,17 @@
    "start": "2026-10-03T09:50:00-07:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/met-opera-20262027-cosi-fan-tutte",
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16444/750"
+  },
+  {
+   "film": "seattle-film-festival-block-6",
+   "theater": "tin-room",
+   "start": "2026-10-03T12:15:00-07:00",
+   "url": "https://www.tickettailor.com/events/theseattlefilmfestival/2429104",
+   "tickets": "https://www.tickettailor.com/events/theseattlefilmfestival/2429104",
+   "notes": [
+    "Seattle Film Festival",
+    "Q&A"
+   ]
   },
   {
    "film": "digger",
@@ -3250,6 +3681,17 @@
    "start": "2026-10-03T14:00:00-07:00",
    "url": "https://www.siff.net/programs-and-events/stage-to-screen/nt-live-the-misanthrope",
    "tickets": "https://www.siff.net/programs-and-events/stage-to-screen/nt-live-the-misanthrope#screening-e6ldvHRh5M"
+  },
+  {
+   "film": "seattle-film-festival-block-7",
+   "theater": "tin-room",
+   "start": "2026-10-03T14:30:00-07:00",
+   "url": "https://www.tickettailor.com/events/theseattlefilmfestival/2429107",
+   "tickets": "https://www.tickettailor.com/events/theseattlefilmfestival/2429107",
+   "notes": [
+    "Seattle Film Festival",
+    "Q&A"
+   ]
   },
   {
    "film": "digger",
@@ -3336,6 +3778,17 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/primetime-usa-2026/3920736"
   },
   {
+   "film": "seattle-film-festival-block-8",
+   "theater": "tin-room",
+   "start": "2026-10-03T17:20:00-07:00",
+   "url": "https://www.tickettailor.com/events/theseattlefilmfestival/2429110",
+   "tickets": "https://www.tickettailor.com/events/theseattlefilmfestival/2429110",
+   "notes": [
+    "Seattle Film Festival",
+    "Q&A"
+   ]
+  },
+  {
    "film": "from-beyond",
    "theater": "grand-illusion",
    "start": "2026-10-03T17:30:00-07:00",
@@ -3399,6 +3852,17 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-condor-daughter-la-hija-cndor-boliviaperuuruguay-2025/3920734"
   },
   {
+   "film": "seattle-film-festival-block-9",
+   "theater": "tin-room",
+   "start": "2026-10-03T19:20:00-07:00",
+   "url": "https://www.tickettailor.com/events/theseattlefilmfestival/2429112",
+   "tickets": "https://www.tickettailor.com/events/theseattlefilmfestival/2429112",
+   "notes": [
+    "Seattle Film Festival",
+    "Q&A"
+   ]
+  },
+  {
    "film": "chronovisor",
    "theater": "nwff",
    "start": "2026-10-03T19:30:00-07:00",
@@ -3434,6 +3898,17 @@
    "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=654560~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
   },
   {
+   "film": "seattle-film-festival-block-10",
+   "theater": "tin-room",
+   "start": "2026-10-03T21:20:00-07:00",
+   "url": "https://www.tickettailor.com/events/theseattlefilmfestival/2429117",
+   "tickets": "https://www.tickettailor.com/events/theseattlefilmfestival/2429117",
+   "notes": [
+    "Seattle Film Festival",
+    "Q&A"
+   ]
+  },
+  {
    "film": "ju-on-the-grudge",
    "theater": "central-cinema",
    "start": "2026-10-03T21:30:00-07:00",
@@ -3446,6 +3921,13 @@
    "start": "2026-10-03T22:00:00-07:00",
    "url": "https://thebeacon.film/calendar/movie/master-of-the-flying-guillotine",
    "tickets": "https://thebeacon.film/calendar/movie/master-of-the-flying-guillotine?showtime=OS3D4GTLFICX2CAWYRKN6ZOG"
+  },
+  {
+   "film": "paw-patrol-the-dino-movie",
+   "theater": "north-bend",
+   "start": "2026-10-04T12:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/paw-patrol-the-dino-movie-sunday-oct-4th-at-12pm",
+   "tickets": "https://tix.northbendtheatre.com/event/paw-patrol-the-dino-movie-sunday-oct-4th-at-12pm"
   },
   {
    "film": "digger",
@@ -3529,6 +4011,13 @@
    "start": "2026-10-04T14:00:00-07:00",
    "url": "https://www.siff.net/programs-and-events/stage-to-screen/nt-live-the-misanthrope",
    "tickets": "https://www.siff.net/programs-and-events/stage-to-screen/nt-live-the-misanthrope#screening-FwmKP38cNR"
+  },
+  {
+   "film": "paw-patrol-the-dino-movie",
+   "theater": "north-bend",
+   "start": "2026-10-04T15:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/paw-patrol-the-dino-movie-sunday-oct-4th-3pm",
+   "tickets": "https://tix.northbendtheatre.com/event/paw-patrol-the-dino-movie-sunday-oct-4th-3pm"
   },
   {
    "film": "digger",
@@ -3620,6 +4109,13 @@
    "start": "2026-10-04T17:30:00-07:00",
    "url": "https://grandillusioncinema.org/film/egg/",
    "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=653894~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
+  },
+  {
+   "film": "paw-patrol-the-dino-movie",
+   "theater": "north-bend",
+   "start": "2026-10-04T18:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/paw-patrol-the-dino-movie-sunday-oct-4th-6pm",
+   "tickets": "https://tix.northbendtheatre.com/event/paw-patrol-the-dino-movie-sunday-oct-4th-6pm"
   },
   {
    "film": "shambhala-story",
@@ -4237,6 +4733,17 @@
    ]
   },
   {
+   "film": "matrix",
+   "theater": "north-bend",
+   "start": "2026-10-07T19:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/the-matrix-wednesday-oct-7th-7pm",
+   "tickets": "https://tix.northbendtheatre.com/event/the-matrix-wednesday-oct-7th-7pm",
+   "notes": [
+    "Presented by Jeff Warren",
+    "Free"
+   ]
+  },
+  {
    "film": "history-of-concrete",
    "theater": "siff-uptown",
    "start": "2026-10-07T19:00:00-07:00",
@@ -4376,6 +4883,13 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/filipiana/4005264"
   },
   {
+   "film": "shaun-the-sheep-the-beast-of-mossy-bottom",
+   "theater": "north-bend",
+   "start": "2026-10-08T18:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-thursday-oct-8th-6pm",
+   "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-thursday-oct-8th-6pm"
+  },
+  {
    "film": "true-stories",
    "theater": "nwff",
    "start": "2026-10-08T19:00:00-07:00",
@@ -4399,6 +4913,12 @@
    "start": "2026-10-08T19:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/unzipped",
    "tickets": "https://www.siff.net/cinema/in-theaters/unzipped#screening-Ys2I0HCdFl"
+  },
+  {
+   "film": "star-trek-voyager",
+   "theater": "tin-room",
+   "start": "2026-10-08T19:00:00-07:00",
+   "url": "https://tinroombar.com/events"
   },
   {
    "film": "primetime",
@@ -4450,6 +4970,13 @@
    "tickets": "https://central-cinema.com/checkout/showing/rrr-2/3866089"
   },
   {
+   "film": "shaun-the-sheep-the-beast-of-mossy-bottom",
+   "theater": "north-bend",
+   "start": "2026-10-09T15:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-friday-oct-9th-3pm",
+   "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-friday-oct-9th-3pm"
+  },
+  {
    "film": "vertigo",
    "theater": "central-cinema",
    "start": "2026-10-09T16:00:00-07:00",
@@ -4499,6 +5026,13 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/naza-2026-hebrewenglish-subtitled-in-english/3960743"
   },
   {
+   "film": "shaun-the-sheep-the-beast-of-mossy-bottom",
+   "theater": "north-bend",
+   "start": "2026-10-09T18:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-friday-oct-9th-6pm",
+   "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-friday-oct-9th-6pm"
+  },
+  {
    "film": "l-amour-fou",
    "theater": "beacon",
    "start": "2026-10-09T19:00:00-07:00",
@@ -4528,6 +5062,12 @@
    "start": "2026-10-09T19:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/naza",
    "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-TwuQ5TdnmY"
+  },
+  {
+   "film": "star-trek-2009",
+   "theater": "tin-room",
+   "start": "2026-10-09T19:00:00-07:00",
+   "url": "https://tinroombar.com/events"
   },
   {
    "film": "history-of-concrete",
@@ -4624,11 +5164,24 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/salomes-last-dance#screening-ReGLUcv705"
   },
   {
+   "film": "dolphin-tale",
+   "theater": "tin-room",
+   "start": "2026-10-10T14:00:00-07:00",
+   "url": "https://tinroombar.com/events"
+  },
+  {
    "film": "naza",
    "theater": "siff-uptown",
    "start": "2026-10-10T14:50:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/naza",
    "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-EZSeULcSMM"
+  },
+  {
+   "film": "shaun-the-sheep-the-beast-of-mossy-bottom",
+   "theater": "north-bend",
+   "start": "2026-10-10T15:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-saturday-oct-10th-3pm",
+   "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-saturday-oct-10th-3pm"
   },
   {
    "film": "black-zombie",
@@ -4716,6 +5269,13 @@
    "start": "2026-10-10T17:45:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/naza-2026-hebrewenglish-subtitled-in-english",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/naza-2026-hebrewenglish-subtitled-in-english/3960749"
+  },
+  {
+   "film": "shaun-the-sheep-the-beast-of-mossy-bottom",
+   "theater": "north-bend",
+   "start": "2026-10-10T18:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-saturday-oct-10th-6pm",
+   "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-saturday-oct-10th-6pm"
   },
   {
    "film": "scout",
@@ -4864,6 +5424,13 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/naza-2026-hebrewenglish-subtitled-in-english/3960757"
   },
   {
+   "film": "shaun-the-sheep-the-beast-of-mossy-bottom",
+   "theater": "north-bend",
+   "start": "2026-10-11T15:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-sunday-oct-11th-3pm",
+   "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-sunday-oct-11th-3pm"
+  },
+  {
    "film": "digger",
    "theater": "siff-downtown",
    "start": "2026-10-11T15:15:00-07:00",
@@ -4939,6 +5506,19 @@
    "start": "2026-10-11T17:10:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/lady",
    "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-DIPrGBJRJQ"
+  },
+  {
+   "film": "shaun-the-sheep-the-beast-of-mossy-bottom",
+   "theater": "north-bend",
+   "start": "2026-10-11T18:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-sunday-oct-11th-6pm",
+   "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-sunday-oct-11th-6pm"
+  },
+  {
+   "film": "real-steel",
+   "theater": "tin-room",
+   "start": "2026-10-11T18:00:00-07:00",
+   "url": "https://tinroombar.com/events"
   },
   {
    "film": "digger",
@@ -5211,6 +5791,17 @@
    "tickets": "https://central-cinema.com/checkout/showing/vertigo/3906310"
   },
   {
+   "film": "poltergeist",
+   "theater": "north-bend",
+   "start": "2026-10-14T19:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/poltergeist-wednesday-october-14th-7pm",
+   "tickets": "https://tix.northbendtheatre.com/event/poltergeist-wednesday-october-14th-7pm",
+   "notes": [
+    "Essential Cinema",
+    "Free"
+   ]
+  },
+  {
    "film": "green-room",
    "theater": "nwff",
    "start": "2026-10-14T19:00:00-07:00",
@@ -5422,6 +6013,12 @@
    "tickets": "https://central-cinema.com/checkout/showing/grosse-pointe-blank/3918200"
   },
   {
+   "film": "clue",
+   "theater": "tin-room",
+   "start": "2026-10-16T19:00:00-07:00",
+   "url": "https://tinroombar.com/events"
+  },
+  {
    "film": "devils",
    "theater": "siff-uptown",
    "start": "2026-10-16T19:15:00-07:00",
@@ -5493,6 +6090,12 @@
    "notes": [
     "The Films of Andrzej Wajda"
    ]
+  },
+  {
+   "film": "addams-family",
+   "theater": "tin-room",
+   "start": "2026-10-17T14:00:00-07:00",
+   "url": "https://tinroombar.com/events"
   },
   {
    "film": "you-can-see-everything",
@@ -5573,6 +6176,12 @@
    "start": "2026-10-17T19:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-yDPKKOcKGb"
+  },
+  {
+   "film": "shining",
+   "theater": "tin-room",
+   "start": "2026-10-17T19:00:00-07:00",
+   "url": "https://tinroombar.com/events"
   },
   {
    "film": "devils",
@@ -5681,6 +6290,22 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-OZsw3dAqc0"
   },
   {
+   "film": "shrek-the-musical",
+   "theater": "tin-room",
+   "start": "2026-10-18T14:00:00-07:00",
+   "url": "https://tinroombar.com/events"
+  },
+  {
+   "film": "phantom-of-the-opera",
+   "theater": "north-bend",
+   "start": "2026-10-18T15:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/the-phantom-of-the-opera-sunday-oct-18th-3pm",
+   "tickets": "https://tix.northbendtheatre.com/event/the-phantom-of-the-opera-sunday-oct-18th-3pm",
+   "notes": [
+    "Love & War"
+   ]
+  },
+  {
    "film": "hausu-house",
    "theater": "central-cinema",
    "start": "2026-10-18T16:00:00-07:00",
@@ -5735,6 +6360,12 @@
    "start": "2026-10-18T18:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-kD3GFVZppP"
+  },
+  {
+   "film": "beetlejuice",
+   "theater": "tin-room",
+   "start": "2026-10-18T18:00:00-07:00",
+   "url": "https://tinroombar.com/events"
   },
   {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
@@ -6039,6 +6670,18 @@
    ]
   },
   {
+   "film": "food-of-the-gods-part-ii",
+   "theater": "north-bend",
+   "start": "2026-10-21T19:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/food-of-the-gods-part-ii-wednesday-oct-21st-7pm",
+   "tickets": "https://tix.northbendtheatre.com/event/food-of-the-gods-part-ii-wednesday-oct-21st-7pm",
+   "notes": [
+    "Analog Anomalies",
+    "VHS",
+    "Free"
+   ]
+  },
+  {
    "film": "holy-trinity",
    "theater": "nwff",
    "start": "2026-10-21T19:00:00-07:00",
@@ -6155,6 +6798,12 @@
    "start": "2026-10-22T19:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/glen-canyon-institutes-what-the-river-knows",
    "tickets": "https://www.siff.net/cinema/in-theaters/glen-canyon-institutes-what-the-river-knows#screening-Ax9t1stHXm"
+  },
+  {
+   "film": "lost-boys",
+   "theater": "tin-room",
+   "start": "2026-10-22T19:00:00-07:00",
+   "url": "https://tinroombar.com/events"
   },
   {
    "film": "you-can-see-everything",
@@ -6300,6 +6949,12 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-PHxv7VMA38"
   },
   {
+   "film": "sleepy-hollow",
+   "theater": "tin-room",
+   "start": "2026-10-23T19:00:00-07:00",
+   "url": "https://tinroombar.com/events"
+  },
+  {
    "film": "whalefall",
    "theater": "siff-downtown",
    "start": "2026-10-23T19:30:00-07:00",
@@ -6321,6 +6976,16 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6a91cced243059126b8bd418",
    "notes": [
     "2026 extended cut"
+   ]
+  },
+  {
+   "film": "rocky-horror-picture-show",
+   "theater": "north-bend",
+   "start": "2026-10-23T21:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/the-rocky-horror-picture-show-with-live-shadow-cast-friday-october-23rd-9pm",
+   "tickets": "https://tix.northbendtheatre.com/event/the-rocky-horror-picture-show-with-live-shadow-cast-friday-october-23rd-9pm",
+   "notes": [
+    "Live shadow cast"
    ]
   },
   {
@@ -6392,6 +7057,12 @@
     "Family Friendly Screening",
     "Community Conversation"
    ]
+  },
+  {
+   "film": "ghost-squad",
+   "theater": "tin-room",
+   "start": "2026-10-24T14:00:00-07:00",
+   "url": "https://tinroombar.com/events"
   },
   {
    "film": "begotten",
@@ -6505,6 +7176,12 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-4XbCQMfm9U"
   },
   {
+   "film": "poltergeist",
+   "theater": "tin-room",
+   "start": "2026-10-24T19:00:00-07:00",
+   "url": "https://tinroombar.com/events"
+  },
+  {
    "film": "wildwood",
    "theater": "tasveer",
    "start": "2026-10-24T19:30:00-07:00",
@@ -6531,6 +7208,16 @@
    "start": "2026-10-24T20:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/whalefall",
    "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-kdJBqry8mI"
+  },
+  {
+   "film": "rocky-horror-picture-show",
+   "theater": "north-bend",
+   "start": "2026-10-24T21:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/the-rocky-horror-picture-show-with-live-shadow-cast-saturday-oct-24th-9pm",
+   "tickets": "https://tix.northbendtheatre.com/event/the-rocky-horror-picture-show-with-live-shadow-cast-saturday-oct-24th-9pm",
+   "notes": [
+    "Live shadow cast"
+   ]
   },
   {
    "film": "vhs-uber-alles-presents",
@@ -7063,6 +7750,18 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4003613"
   },
   {
+   "film": "call-me-by-your-name",
+   "theater": "north-bend",
+   "start": "2026-10-28T19:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/call-me-by-your-name-wednesday-oct-28th-7pm",
+   "tickets": "https://tix.northbendtheatre.com/event/call-me-by-your-name-wednesday-oct-28th-7pm",
+   "notes": [
+    "Rainbow Reels",
+    "Presented by SnoValley Pride",
+    "Free"
+   ]
+  },
+  {
    "film": "invasion-of-the-body-snatchers",
    "theater": "siff-film-center",
    "start": "2026-10-28T19:00:00-07:00",
@@ -7210,6 +7909,12 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/cat-vid-fest-26#screening-SFlwuShUal"
   },
   {
+   "film": "american-werewolf-in-london",
+   "theater": "tin-room",
+   "start": "2026-10-29T19:00:00-07:00",
+   "url": "https://tinroombar.com/events"
+  },
+  {
    "film": "idle-hands",
    "theater": "beacon",
    "start": "2026-10-29T19:30:00-07:00",
@@ -7262,6 +7967,12 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/land-of-the-dead-its-for-the-gays#screening-9Sifmjwjyg"
   },
   {
+   "film": "young-frankenstein",
+   "theater": "tin-room",
+   "start": "2026-10-30T19:00:00-07:00",
+   "url": "https://tinroombar.com/events"
+  },
+  {
    "film": "whalefall",
    "theater": "siff-downtown",
    "start": "2026-10-30T19:30:00-07:00",
@@ -7310,6 +8021,12 @@
    ]
   },
   {
+   "film": "hocus-pocus",
+   "theater": "tin-room",
+   "start": "2026-10-31T14:00:00-07:00",
+   "url": "https://tinroombar.com/events"
+  },
+  {
    "film": "mad-monster-party",
    "theater": "beacon",
    "start": "2026-10-31T16:00:00-07:00",
@@ -7339,6 +8056,12 @@
    "start": "2026-10-31T19:00:00-07:00",
    "url": "https://thebeacon.film/calendar/movie/five-minutes-to-die",
    "tickets": "https://thebeacon.film/calendar/movie/five-minutes-to-die?showtime=SKLNKIDWXYAJIWODKS2XYEQX"
+  },
+  {
+   "film": "rocky-horror-picture-show",
+   "theater": "tin-room",
+   "start": "2026-10-31T19:00:00-07:00",
+   "url": "https://tinroombar.com/events"
   },
   {
    "film": "2026-collide-o-scope-halloween-show",
@@ -7375,6 +8098,12 @@
    ]
   },
   {
+   "film": "sweeney-todd",
+   "theater": "tin-room",
+   "start": "2026-11-01T14:00:00-08:00",
+   "url": "https://tinroombar.com/events"
+  },
+  {
    "film": "whalefall",
    "theater": "siff-downtown",
    "start": "2026-11-01T15:00:00-08:00",
@@ -7387,6 +8116,12 @@
    "start": "2026-11-01T18:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/whalefall",
    "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-XELaVCLcIX"
+  },
+  {
+   "film": "scary-movie",
+   "theater": "tin-room",
+   "start": "2026-11-01T18:00:00-08:00",
+   "url": "https://tinroombar.com/events"
   },
   {
    "film": "whalefall",
