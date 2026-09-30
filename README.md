@@ -90,6 +90,10 @@ npm run try -- beacon
 
 GitHub pauses scheduled workflows in repositories with no activity for 60 days. The daily data commit counts as activity, but if the schedule ever stops, re-enable it from the Actions tab.
 
+## Design
+
+The look adapts two real design systems from Refero Styles: Rains (the Scandinavian rainwear brand: fog-gray canvas, white panels, charcoal ink, compressed display type, completely flat) for light mode, and Letterboxd (cool slate "cinema lobby", sharp corners, one saturated color with one job) for dark mode. The one color is red, and it only ever means "favorite theater". Type is Archivo throughout, compressed for headings. The tokens are at the top of `site/styles.css`.
+
 ## Credits
 
 Map data © OpenStreetMap contributors, tiles from OpenFreeMap and OpenMapTiles. Showtimes and descriptions belong to the theaters; the site links back to them for tickets.

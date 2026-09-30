@@ -73,10 +73,8 @@
     if (key === addDays(today, 1)) return 'Tomorrow';
     return null;
   }
-  const dayStrip = (key) => relDay(key) || `${fmtWeekdayShort.format(keyDate(key))} ${Number(key.slice(8))}`;
   const dayRow = (key) => relDay(key) || fmtRow.format(keyDate(key));
   const dayLong = (key) => fmtLong.format(keyDate(key));
-  const isWeekend = (key) => [0, 6].includes(keyDate(key).getUTCDay());
 
   function fmtTime(mins) {
     const h = Math.floor(mins / 60);
@@ -531,14 +529,20 @@
 
   // ---------- controls ----------
 
+  // Each date is a cell: weekday over the day of the month, like a cinema's date strip.
   function buildDayToggles() {
     const hasLater = all.some((s) => s.date > stripKeys[stripKeys.length - 1]);
-    const items = [{ value: '', label: 'Any day' }]
-      .concat(stripKeys.map((k) => ({ value: k, label: dayStrip(k), weekend: isWeekend(k) })))
-      .concat(hasLater ? [{ value: 'later', label: 'Later' }] : []);
-    $('#day-filter').innerHTML = items
-      .map((it) => `<button type="button" class="toggle${it.weekend ? ' is-weekend' : ''}" data-value="${it.value}" aria-pressed="false">${esc(it.label)}</button>`)
-      .join('');
+    const cell = (value, top, num, label) =>
+      `<button type="button" class="toggle day-cell" data-value="${value}" aria-pressed="false"${label ? ` aria-label="${esc(label)}"` : ''}>` +
+      (num ? `<span class="dc-top">${esc(top)}</span><span class="dc-num">${esc(num)}</span>` : `<span class="dc-only">${esc(top)}</span>`) +
+      '</button>';
+    const cells = [cell('', 'Any day')];
+    for (const k of stripKeys) {
+      const top = relDay(k) || fmtWeekdayShort.format(keyDate(k));
+      cells.push(cell(k, top, String(Number(k.slice(8))), `${relDay(k) ? `${relDay(k)}, ` : ''}${dayLong(k)}`));
+    }
+    if (hasLater) cells.push(cell('later', 'Later', '', `After ${dayLong(stripKeys[stripKeys.length - 1])}`));
+    $('#day-filter').innerHTML = cells.join('');
   }
 
   function buildTimeToggles() {

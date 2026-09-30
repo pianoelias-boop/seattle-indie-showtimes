@@ -408,7 +408,7 @@
       const ey = c.y + dy * s;
       const angle = (Math.atan2(dy, dx) * 180) / Math.PI;
       el.hidden = false;
-      el.querySelector('.edge-arrow').style.transform = `rotate(${angle}deg)`;
+      el.querySelector('.edge-arrow svg').style.transform = `rotate(${angle}deg)`;
       // Anchor the pill on the edge it points through, and keep it inside the frame.
       const side = sx < sy ? (dx > 0 ? 'right' : 'left') : dy > 0 ? 'bottom' : 'top';
       const w = el.offsetWidth;
