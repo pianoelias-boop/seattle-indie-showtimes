@@ -5,15 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Seattle Indie Showtimes</title>
   <meta name="description" content="What's playing at independent movie theaters in and around Seattle, by neighborhood, theater and film. Updated every morning.">
-  <meta name="theme-color" content="#edeeec" media="(prefers-color-scheme: light)">
-  <meta name="theme-color" content="#14181c" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#0046ad" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0a4fb8" media="(prefers-color-scheme: dark)">
   <meta property="og:title" content="Seattle Indie Showtimes">
   <meta property="og:description" content="What's playing at independent movie theaters in and around Seattle. Updated every morning.">
   <meta property="og:type" content="website">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,62..125,100..900;1,62..125,100..900&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500&display=swap">
   <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.css">
   <link rel="stylesheet" href="styles.css">
 </head>
@@ -21,9 +21,13 @@
   <a class="skip-link" href="#listings">Skip to showtimes</a>
 
   <header class="masthead">
-    <div class="wrap masthead-inner">
+    <div class="wrap">
       <h1>Seattle Indie Showtimes</h1>
       <p class="intro">What’s playing at independent cinemas in and around Seattle, from Ballard to North Bend. <span id="updated" class="updated">Checked every morning.</span></p>
+      <section class="up-next" id="up-next" aria-labelledby="up-next-title" hidden>
+        <h2 id="up-next-title">Up next at your theaters</h2>
+        <ol class="up-next-list" id="up-next-list"></ol>
+      </section>
     </div>
   </header>
 
@@ -38,6 +42,7 @@
         <label><input type="radio" name="view" value="theaters" checked><span>Theaters</span></label>
         <label><input type="radio" name="view" value="films"><span>Films</span></label>
         <label><input type="radio" name="view" value="days"><span>Day by day</span></label>
+        <span class="tab-ink" aria-hidden="true"></span>
       </div>
 
       <button type="button" class="filters-toggle" id="filters-toggle" aria-expanded="false" aria-controls="filters">

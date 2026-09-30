@@ -197,6 +197,7 @@
   let theaterList = [];
   let groups = []; // current pins: { ids, theaters, lat, lng, el, marker, fav }
   let counts = {};
+  let soonIds = new Set();
   let clusterKey = '';
 
   // Group theaters whose dots would overlap at the current zoom.
@@ -229,6 +230,8 @@
     });
   }
 
+  let dropped = false;
+
   function recluster() {
     if (!map) return;
     const next = cluster();
@@ -237,8 +240,16 @@
     clusterKey = key;
     for (const g of groups) g.marker.remove();
     groups = next;
+    // The first time, pins fall in north to south, like rain.
+    const first = !dropped;
+    dropped = true;
+    const order = groups.slice().sort((a, b) => b.lat - a.lat);
     for (const g of groups) {
       g.el = makePin(g);
+      if (first) {
+        g.el.classList.add('is-dropping');
+        g.el.style.setProperty('--delay', `${200 + order.indexOf(g) * 70}ms`);
+      }
       g.marker = new maplibregl.Marker({ element: g.el, anchor: 'center' }).setLngLat([g.lng, g.lat]).addTo(map);
       renderPin(g);
     }
@@ -273,6 +284,7 @@
     }
     text.innerHTML = parts.join('');
     group.el.classList.toggle('is-empty', total === 0);
+    group.el.classList.toggle('is-soon', group.ids.some((id) => soonIds.has(id)));
     group.el.setAttribute('aria-label', label.join('; '));
     group.size = null;
   }
@@ -544,8 +556,10 @@
     },
 
     // next: { theaterId: number of films matching the current filters }
-    update(next) {
+    // soon: theater ids with a showing starting within the hour
+    update(next, soon) {
       counts = next;
+      soonIds = soon || new Set();
       for (const g of groups) renderPin(g);
       queuePlace();
     },

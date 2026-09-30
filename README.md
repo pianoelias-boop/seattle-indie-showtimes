@@ -92,7 +92,11 @@ GitHub pauses scheduled workflows in repositories with no activity for 60 days. 
 
 ## Design
 
-The look adapts two real design systems from Refero Styles: Rains (the Scandinavian rainwear brand: fog-gray canvas, white panels, charcoal ink, compressed display type, completely flat) for light mode, and Letterboxd (cool slate "cinema lobby", sharp corners, one saturated color with one job) for dark mode. The one color is red, and it only ever means "favorite theater". Type is Archivo throughout, compressed for headings. The tokens are at the top of `site/styles.css`.
+The look follows the City of Seattle's brand standards (seattle.gov and the City's style guide). Seattle Blue (#0046AD) is the main color: the header, the sticky filter bar, each theater's name bar, and the footer. The City's accent colors each have one job: gold marks a favorite theater, lime marks a showing starting within the hour, and sky blue is the water on the map. Type is Fira Sans, a free humanist sans close to the City's "Seattle Text" heading face.
+
+Motion is small and purposeful, and all of it switches off for people who ask their system for reduced motion: pins fall onto the map when it loads, pins with a showing in the next hour ripple three times in lime, the tab underline slides to the chosen view, and results rise in when a filter changes.
+
+The tokens are at the top of `site/styles.css`.
 
 ## Credits
 

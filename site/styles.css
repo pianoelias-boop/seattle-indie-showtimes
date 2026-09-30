@@ -1,46 +1,54 @@
 /* Seattle Indie Showtimes
 
-   Two real design systems from the AI References library (Refero Styles),
-   adapted for Seattle:
-
-   - Rains, the Scandinavian rainwear brand ("Nordic rain catalog on
-     fog-gray paper"): a cool fog canvas, white panels, near-black ink,
-     charcoal for anything selected, a compressed grotesk for display type,
-     and nothing decorative. No shadows, tints or rounded pills on content.
-   - Letterboxd ("darkened cinema lobby"): sharp near-square corners, flat
-     filter toggles, and one saturated color that means one thing. Its cool
-     slate stack is the dark mode.
-
-   Seattle is in the overcast fog, the Sound-gray water on the map, and the
-   single red: Space Needle Re-entry Red, used only for favorite theaters. */
+   Built on the City of Seattle's own brand standards:
+   - Seattle Blue (#0046AD) as the main color. Headings are Seattle Blue on
+     white, or white on a block of blue, the way the City sets them.
+   - The City's accent colors, each with one job: gold (#FECB00) marks a
+     favorite theater, lime (#A3D559) marks something starting soon, and
+     sky blue (#63B1E5) is the water on the map and the headings at night.
+   - Light cyan (#E1F5FE) and charcoal (#333F48) from seattle.gov for tiles
+     and text.
+   - Fira Sans, a close free match for "Seattle Text", the City's humanist
+     heading face, with a two-font limit like the City's guide. */
 
 :root {
-  --canvas: #edeeec;
-  --panel: #ffffff;
-  --tile: #edeeec;
-  --hover: #e0e2e0;
-  --ink: #131615;
-  --ink-2: #4c5350;
-  --ink-3: #636a66;
-  --select: #1f2322;
-  --on-select: #ffffff;
-  --fav: #d22b2b;
-  --focus: #131615;
-  --overlay-shadow: 0 2px 6px rgba(0, 0, 0, 0.08), 0 12px 32px rgba(0, 0, 0, 0.14);
+  --blue: #0046ad;
+  --blue-hover: #0a52bf;
+  --blue-deep: #00368a;
+  --gold: #fecb00;
+  --lime: #a3d559;
+  --sky: #63b1e5;
+
+  --page: #ffffff;
+  --band: #f2f7fb;
+  --tile: #e1f5fe;
+  --tile-ink: #0046ad;
+  --hover: #e8f0f7;
+  --ink: #1e2a33;
+  --ink-2: #4a5863;
+  --ink-3: #5a6773;
+  --heading: #0046ad;
+  --on-blue: #ffffff;
+  --on-blue-2: #c9d9ef;
+  --on-blue-tile: rgba(255, 255, 255, 0.13);
+  --on-blue-tile-hover: rgba(255, 255, 255, 0.18);
+  --on-tile-2: #e1eaf8;
+  --focus: #0046ad;
+  --overlay-shadow: 0 2px 6px rgba(0, 30, 80, 0.1), 0 16px 40px rgba(0, 30, 80, 0.18);
 
   /* map */
-  --map-land: #e5e7e5;
-  --map-water: #b9c5c9;
-  --map-park: #d4dbd2;
-  --map-road: #f7f8f7;
+  --map-land: #edf1f4;
+  --map-water: #a9d3ef;
+  --map-park: #d8ecc0;
+  --map-road: #ffffff;
   --map-road-major: #ffffff;
-  --map-building: #dadcda;
-  --map-label: #5a615d;
-  --pin: #1f2322;
+  --map-building: #e1e7ec;
+  --map-label: #4f5d69;
+  --pin: #0046ad;
   --pin-ring: #ffffff;
 
-  --font: 'Archivo', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
-  --radius: 2px;
+  --font: 'Fira Sans', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --radius: 3px;
   --wrap: 1240px;
   --gutter: 32px;
   --controls-h: 0px;
@@ -49,53 +57,59 @@
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --canvas: #14181c;
-    --panel: #1c2229;
-    --tile: #262e37;
-    --hover: #313a44;
-    --ink: #dfe6ed;
-    --ink-2: #9dabb9;
-    --ink-3: #8795a3;
-    --select: #dfe6ed;
-    --on-select: #14181c;
-    --fav: #ff5a4f;
-    --focus: #dfe6ed;
-    --overlay-shadow: 0 2px 6px rgba(0, 0, 0, 0.4), 0 12px 32px rgba(0, 0, 0, 0.5);
-    --map-land: #1b2127;
-    --map-water: #0e1216;
-    --map-park: #1c2622;
-    --map-road: #262e36;
-    --map-road-major: #2f3841;
-    --map-building: #212830;
-    --map-label: #7d8b99;
-    --pin: #dfe6ed;
-    --pin-ring: #14181c;
+    --blue: #0a4fb8;
+    --blue-hover: #175dc9;
+    --blue-deep: #083f94;
+    --page: #0a1524;
+    --band: #0f1d32;
+    --tile: #15305a;
+    --tile-ink: #d3e8fb;
+    --hover: #132842;
+    --ink: #e8eef5;
+    --ink-2: #aab9c9;
+    --ink-3: #94a5b7;
+    --heading: #7cc0ec;
+    --on-blue-2: #cbdcf3;
+    --focus: #7cc0ec;
+    --overlay-shadow: 0 2px 6px rgba(0, 0, 0, 0.4), 0 16px 40px rgba(0, 0, 0, 0.55);
+    --map-land: #0f1c30;
+    --map-water: #0b2d5e;
+    --map-park: #132f22;
+    --map-road: #1b2d47;
+    --map-road-major: #233a5a;
+    --map-building: #15253e;
+    --map-label: #8ea3ba;
+    --pin: #7cc0ec;
+    --pin-ring: #0a1524;
     color-scheme: dark;
   }
 }
 
 :root[data-theme="dark"] {
-  --canvas: #14181c;
-  --panel: #1c2229;
-  --tile: #262e37;
-  --hover: #313a44;
-  --ink: #dfe6ed;
-  --ink-2: #9dabb9;
-  --ink-3: #8795a3;
-  --select: #dfe6ed;
-  --on-select: #14181c;
-  --fav: #ff5a4f;
-  --focus: #dfe6ed;
-  --overlay-shadow: 0 2px 6px rgba(0, 0, 0, 0.4), 0 12px 32px rgba(0, 0, 0, 0.5);
-  --map-land: #1b2127;
-  --map-water: #0e1216;
-  --map-park: #1c2622;
-  --map-road: #262e36;
-  --map-road-major: #2f3841;
-  --map-building: #212830;
-  --map-label: #7d8b99;
-  --pin: #dfe6ed;
-  --pin-ring: #14181c;
+  --blue: #0a4fb8;
+  --blue-hover: #175dc9;
+  --blue-deep: #083f94;
+  --page: #0a1524;
+  --band: #0f1d32;
+  --tile: #15305a;
+  --tile-ink: #d3e8fb;
+  --hover: #132842;
+  --ink: #e8eef5;
+  --ink-2: #aab9c9;
+  --ink-3: #94a5b7;
+  --heading: #7cc0ec;
+  --on-blue-2: #cbdcf3;
+  --focus: #7cc0ec;
+  --overlay-shadow: 0 2px 6px rgba(0, 0, 0, 0.4), 0 16px 40px rgba(0, 0, 0, 0.55);
+  --map-land: #0f1c30;
+  --map-water: #0b2d5e;
+  --map-park: #132f22;
+  --map-road: #1b2d47;
+  --map-road-major: #233a5a;
+  --map-building: #15253e;
+  --map-label: #8ea3ba;
+  --pin: #7cc0ec;
+  --pin-ring: #0a1524;
   color-scheme: dark;
 }
 
@@ -112,7 +126,7 @@ html {
 
 body {
   margin: 0;
-  background: var(--canvas);
+  background: var(--page);
   color: var(--ink);
   font-family: var(--font);
   font-size: 16px;
@@ -188,8 +202,8 @@ a:hover {
   top: -60px;
   z-index: 100;
   padding: 10px 16px;
-  background: var(--select);
-  color: var(--on-select);
+  background: var(--gold);
+  color: #1e2a33;
   font-weight: 600;
   text-decoration: none;
 }
@@ -204,60 +218,147 @@ a:hover {
   padding: 0 var(--gutter);
 }
 
-/* Display type: Archivo compressed, the way Rains sets its headlines and a
-   theater sets its marquee. */
-.masthead h1,
-.tier-title,
-.hood-title,
-.day-title,
-.film .film-title,
-.sheet h2,
-.filters-head h2 {
-  font-stretch: 62%;
-  font-weight: 600;
-  letter-spacing: -0.005em;
-}
-
+/* A favorite theater's star: City gold, with a thin blue edge so it holds
+   up on white as well as on blue. */
 .star {
   display: inline-block;
-  width: 0.85em;
-  height: 0.85em;
+  width: 0.9em;
+  height: 0.9em;
   margin-right: 0.3em;
-  vertical-align: -0.06em;
-  color: var(--fav);
+  vertical-align: -0.08em;
   flex: none;
+}
+
+.star path {
+  fill: var(--gold);
+  stroke: var(--blue);
+  stroke-width: 1.6;
+  stroke-linejoin: round;
+}
+
+/* Things on a block of Seattle Blue */
+.on-blue .star path,
+.theater-head .star path,
+.masthead .star path,
+.controls .star path {
+  stroke: var(--blue-deep);
 }
 
 /* ---------- Masthead ---------- */
 
 .masthead {
-  padding: 36px 0 28px;
-}
-
-.masthead-inner {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-end;
-  justify-content: space-between;
-  gap: 16px 48px;
+  background: var(--blue);
+  color: var(--on-blue);
+  padding: 40px 0 36px;
 }
 
 .masthead h1 {
-  font-size: clamp(3.25rem, 9vw, 7.5rem);
-  line-height: 0.88;
+  font-size: clamp(3rem, 8.4vw, 6.75rem);
+  font-weight: 900;
+  letter-spacing: -0.035em;
+  line-height: 0.92;
 }
 
 .intro {
-  max-width: 25rem;
-  padding-bottom: 6px;
-  font-size: 1.0625rem;
+  margin-top: 16px;
+  max-width: 36rem;
+  font-size: 1.1875rem;
   line-height: 1.45;
 }
 
 .updated {
-  display: block;
+  color: var(--on-blue-2);
+}
+
+/* Up next: the next few showings at his theaters */
+
+.up-next {
+  margin-top: 32px;
+}
+
+.up-next h2 {
+  font-size: 1.0625rem;
+  font-weight: 600;
+  color: var(--on-blue-2);
+  margin-bottom: 10px;
+}
+
+.up-next-list {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.up-card {
+  display: grid;
+  align-content: start;
+  gap: 2px;
+  width: 100%;
+  height: 100%;
+  padding: 14px 16px 16px;
+  border: 0;
+  border-radius: var(--radius);
+  background: var(--on-blue-tile);
+  color: var(--on-blue);
+  text-align: left;
+  transition: background-color 0.18s ease-out, transform 0.18s ease-out;
+}
+
+.up-card:hover {
+  background: var(--on-blue-tile-hover);
+  transform: translateY(-2px);
+}
+
+.up-card:focus-visible {
+  outline-color: var(--gold);
+}
+
+.up-top {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.up-time {
+  font-size: 1.75rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  font-variant-numeric: tabular-nums;
+}
+
+.up-ampm {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.up-when {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--on-tile-2);
+  white-space: nowrap;
+}
+
+/* Starting within the hour: the City's lime, the same color that ripples
+   on the map. */
+.up-when.is-soon {
+  padding: 1px 8px;
+  border-radius: var(--radius);
+  background: var(--lime);
+  color: #1e2a33;
+}
+
+.up-title {
   margin-top: 6px;
-  color: var(--ink-2);
+  font-size: 1.0625rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.up-where {
+  font-size: 0.9375rem;
+  color: var(--on-tile-2);
 }
 
 /* ---------- Map ---------- */
@@ -267,7 +368,7 @@ a:hover {
 }
 
 .map {
-  height: clamp(360px, 60vh, 620px);
+  height: clamp(380px, 62vh, 640px);
   background: var(--map-land);
 }
 
@@ -287,14 +388,14 @@ a:hover {
 }
 
 .maplibregl-ctrl-group {
-  background: var(--panel) !important;
+  background: var(--page) !important;
   border-radius: var(--radius) !important;
-  box-shadow: none !important;
+  box-shadow: var(--overlay-shadow) !important;
 }
 
 .maplibregl-ctrl-group button {
-  width: 36px !important;
-  height: 36px !important;
+  width: 38px !important;
+  height: 38px !important;
 }
 
 .maplibregl-ctrl-group button + button {
@@ -306,7 +407,7 @@ a:hover {
 }
 
 .maplibregl-ctrl-attrib {
-  background: color-mix(in srgb, var(--panel) 85%, transparent) !important;
+  background: color-mix(in srgb, var(--page) 85%, transparent) !important;
   color: var(--ink-2);
   font-size: 11px;
 }
@@ -318,7 +419,7 @@ a:hover {
 .maplibregl-cooperative-gesture-screen {
   font-family: var(--font);
   font-size: 1rem;
-  background: rgba(10, 12, 14, 0.6);
+  background: rgba(0, 40, 100, 0.55);
 }
 
 /* Theater pins: the button is the dot; map.js places the label. */
@@ -326,8 +427,8 @@ a:hover {
 .pin {
   display: grid;
   place-items: center;
-  width: 24px;
-  height: 24px;
+  width: 26px;
+  height: 26px;
   padding: 0;
   border: 0;
   border-radius: 50%;
@@ -339,32 +440,85 @@ a:hover {
 }
 
 .pin-dot {
+  position: relative;
   width: 14px;
   height: 14px;
   border-radius: 50%;
   background: var(--pin);
-  box-shadow: 0 0 0 2.5px var(--pin-ring);
-  transition: transform 0.15s ease-out;
+  box-shadow: 0 0 0 2.5px var(--pin-ring), 0 2px 6px rgba(0, 30, 80, 0.3);
+  transition: transform 0.18s ease-out;
 }
 
 .pin.is-fav .pin-dot {
   display: grid;
   place-items: center;
-  width: 22px;
-  height: 22px;
-  background: var(--fav);
-  color: #fff;
+  width: 24px;
+  height: 24px;
+  background: var(--gold);
+  box-shadow: 0 0 0 2px #0046ad, 0 0 0 4px var(--pin-ring), 0 3px 8px rgba(0, 30, 80, 0.35);
 }
 
 .pin.is-fav .pin-dot svg {
-  width: 13px;
-  height: 13px;
+  width: 14px;
+  height: 14px;
+}
+
+.pin.is-fav .pin-dot svg path {
+  fill: #0046ad;
+  stroke: none;
+}
+
+/* Pins fall in like rain when the map first loads. */
+.pin.is-dropping .pin-dot {
+  animation: pin-drop 0.5s cubic-bezier(0.25, 1.4, 0.5, 1) both;
+  animation-delay: var(--delay, 0ms);
+}
+
+.pin.is-dropping .pin-text {
+  animation: pin-label 0.4s ease-out both;
+  animation-delay: calc(var(--delay, 0ms) + 250ms);
+}
+
+@keyframes pin-drop {
+  from {
+    transform: translateY(-18px) scale(0.6);
+    opacity: 0;
+  }
+}
+
+@keyframes pin-label {
+  from {
+    opacity: 0;
+  }
+}
+
+/* A showing starts within the hour: three slow lime ripples, then still. */
+.pin.is-soon .pin-dot::after {
+  content: '';
+  position: absolute;
+  inset: -6px;
+  border-radius: 50%;
+  border: 2.5px solid var(--lime);
+  opacity: 0;
+  animation: ripple 2.2s ease-out 0.8s 3;
+  pointer-events: none;
+}
+
+@keyframes ripple {
+  0% {
+    transform: scale(0.7);
+    opacity: 0.9;
+  }
+  100% {
+    transform: scale(2);
+    opacity: 0;
+  }
 }
 
 .pin-text {
   position: absolute;
-  left: 12px;
-  top: 12px;
+  left: 13px;
+  top: 13px;
   display: grid;
   gap: 1px;
   line-height: 1.2;
@@ -393,23 +547,26 @@ a:hover {
 .pin-name {
   font-size: 14px;
   font-weight: 700;
-  font-stretch: 85%;
 }
 
 .pin-count {
   font-size: 13px;
   font-weight: 500;
-  font-stretch: 85%;
   color: var(--ink-2);
 }
 
 .pin-star svg {
   display: inline-block;
-  width: 11px;
-  height: 11px;
+  width: 12px;
+  height: 12px;
   margin-right: 3px;
   vertical-align: -1px;
-  color: var(--fav);
+}
+
+.pin-star svg path {
+  fill: var(--gold);
+  stroke: #0046ad;
+  stroke-width: 1.8;
 }
 
 .pin:hover,
@@ -420,7 +577,7 @@ a:hover {
 .pin:hover .pin-dot,
 .pin:focus-visible .pin-dot,
 .pin.is-highlighted .pin-dot {
-  transform: scale(1.3);
+  transform: scale(1.25);
 }
 
 .pin:focus-visible {
@@ -434,8 +591,8 @@ a:hover {
 }
 
 .pin.is-fav.is-empty .pin-dot {
-  color: var(--fav);
-  box-shadow: 0 0 0 2px var(--fav);
+  background: var(--map-land);
+  box-shadow: 0 0 0 2px #0046ad;
 }
 
 .pin.is-empty .pin-name,
@@ -457,43 +614,50 @@ a:hover {
   display: flex;
   align-items: center;
   gap: 8px;
-  padding: 0 10px 0 0;
-  height: 30px;
+  padding: 0 12px 0 0;
+  height: 32px;
   border: 0;
   border-radius: var(--radius);
-  background: var(--panel);
+  background: var(--page);
+  box-shadow: 0 2px 8px rgba(0, 30, 80, 0.2);
   color: var(--ink);
-  font: 600 13px/1 var(--font);
+  font: 600 13.5px/1 var(--font);
   white-space: nowrap;
   pointer-events: auto;
+  transition: transform 0.18s ease-out;
 }
 
 .edge-pin.is-east {
   flex-direction: row-reverse;
-  padding: 0 0 0 10px;
+  padding: 0 0 0 12px;
 }
 
 .edge-pin:hover {
-  background: var(--hover);
+  transform: translateY(-1px);
 }
 
 .edge-arrow {
   display: grid;
   place-items: center;
-  width: 30px;
-  height: 30px;
-  background: var(--pin);
-  color: var(--pin-ring);
-}
-
-.edge-pin.is-fav .edge-arrow {
-  background: var(--fav);
+  width: 32px;
+  height: 32px;
+  border-radius: var(--radius) 0 0 var(--radius);
+  background: var(--blue);
   color: #fff;
 }
 
+.edge-pin.is-east .edge-arrow {
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+
+.edge-pin.is-fav .edge-arrow {
+  background: var(--gold);
+  color: #0046ad;
+}
+
 .edge-arrow svg {
-  width: 14px;
-  height: 14px;
+  width: 15px;
+  height: 15px;
 }
 
 /* Map popup */
@@ -501,7 +665,7 @@ a:hover {
 .maplibregl-popup-content {
   padding: 18px 20px 16px;
   border-radius: var(--radius);
-  background: var(--panel);
+  background: var(--page);
   color: var(--ink);
   box-shadow: var(--overlay-shadow);
   font-family: var(--font);
@@ -534,10 +698,10 @@ a:hover {
 
 .popup-theater h3 {
   font-size: 1.125rem;
-  font-weight: 700;
-  font-stretch: 85%;
+  font-weight: 800;
   line-height: 1.2;
   padding-right: 24px;
+  color: var(--heading);
 }
 
 .popup-theater p {
@@ -550,18 +714,20 @@ a:hover {
   color: var(--ink);
 }
 
-/* ---------- Controls ---------- */
+/* ---------- Controls: a sticky bar of Seattle Blue ---------- */
 
 .controls {
   position: sticky;
   top: 0;
   z-index: 20;
-  background: var(--canvas);
-  padding: 14px 0 16px;
+  background: var(--blue);
+  color: var(--on-blue);
+  padding: 12px 0 16px;
+  transition: box-shadow 0.2s ease-out;
 }
 
 .controls.is-stuck {
-  box-shadow: 0 1px 0 var(--hover);
+  box-shadow: 0 8px 24px -10px rgba(0, 30, 80, 0.5);
 }
 
 .controls-inner {
@@ -591,10 +757,11 @@ a:hover {
   display: none;
 }
 
-/* View tabs: Theaters / Films / Day by day */
+/* View tabs with a gold underline that slides to the chosen view */
 
 .view-tabs {
   order: 1;
+  position: relative;
   display: flex;
   gap: 28px;
   margin-right: auto;
@@ -613,28 +780,35 @@ a:hover {
   cursor: pointer;
 }
 
-.view-tabs span {
+.view-tabs label > span {
   display: block;
-  padding: 6px 0 8px;
+  padding: 6px 0 10px;
   font-size: 1.1875rem;
   font-weight: 600;
   white-space: nowrap;
-  color: var(--ink-3);
-  border-bottom: 3px solid transparent;
+  color: var(--on-blue-2);
+  transition: color 0.15s ease-out;
 }
 
-.view-tabs label:hover span {
-  color: var(--ink);
-}
-
+.view-tabs label:hover > span,
 .view-tabs input:checked + span {
-  color: var(--ink);
-  border-bottom-color: var(--ink);
+  color: var(--on-blue);
 }
 
 .view-tabs input:focus-visible + span {
-  outline: 2px solid var(--focus);
+  outline: 2px solid var(--gold);
   outline-offset: 2px;
+}
+
+.tab-ink {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 4px;
+  background: var(--gold);
+  transform-origin: left;
+  transition: transform 0.28s cubic-bezier(0.3, 0.8, 0.3, 1), width 0.28s cubic-bezier(0.3, 0.8, 0.3, 1);
 }
 
 .tools {
@@ -661,7 +835,7 @@ a:hover {
   left: 12px;
   top: 50%;
   transform: translateY(-50%);
-  color: var(--ink-2);
+  color: #4a5863;
   pointer-events: none;
 }
 
@@ -671,26 +845,27 @@ a:hover {
   padding: 0 12px 0 38px;
   border: 0;
   border-radius: var(--radius);
-  background: var(--panel);
+  background: #ffffff;
+  color: #1e2a33;
   font-size: 0.9375rem;
   outline: none;
 }
 
 .search input::placeholder {
-  color: var(--ink-3);
+  color: #5a6773;
 }
 
 .search input:focus-visible {
-  outline: 2px solid var(--focus);
+  outline: 3px solid var(--gold);
   outline-offset: 0;
 }
 
-/* Toggles: flat panels, charcoal when chosen */
+/* Toggles on blue: translucent white, solid white when chosen */
 
 .toggle-group {
   display: flex;
   flex-wrap: wrap;
-  gap: 2px;
+  gap: 3px;
 }
 
 .filter-days {
@@ -707,20 +882,26 @@ a:hover {
   padding: 0 14px;
   border: 0;
   border-radius: var(--radius);
-  background: var(--panel);
+  background: var(--on-blue-tile);
   font-size: 0.9375rem;
   font-weight: 500;
   white-space: nowrap;
-  color: var(--ink);
+  color: var(--on-blue);
+  transition: background-color 0.15s ease-out, color 0.15s ease-out;
 }
 
 .toggle:hover {
-  background: var(--hover);
+  background: var(--on-blue-tile-hover);
 }
 
 .toggle[aria-pressed="true"] {
-  background: var(--select);
-  color: var(--on-select);
+  background: #ffffff;
+  color: #0046ad;
+  font-weight: 600;
+}
+
+.controls :focus-visible {
+  outline-color: var(--gold);
 }
 
 .day-cell {
@@ -728,7 +909,7 @@ a:hover {
   align-content: center;
   justify-items: center;
   min-width: 58px;
-  height: 50px;
+  height: 52px;
   padding: 0 10px;
   line-height: 1.1;
 }
@@ -736,12 +917,12 @@ a:hover {
 .dc-top {
   font-size: 0.8125rem;
   font-weight: 500;
-  color: var(--ink-2);
+  color: var(--on-tile-2);
 }
 
 .dc-num {
-  font-size: 1.1875rem;
-  font-weight: 650;
+  font-size: 1.25rem;
+  font-weight: 700;
   font-variant-numeric: tabular-nums;
 }
 
@@ -754,7 +935,7 @@ a:hover {
 }
 
 .filter-times .toggle {
-  height: 50px;
+  height: 52px;
 }
 
 .menu {
@@ -769,21 +950,24 @@ a:hover {
   padding: 0 12px 0 14px;
   border: 0;
   border-radius: var(--radius);
-  background: var(--panel);
+  background: var(--on-blue-tile);
+  color: var(--on-blue);
   font-size: 0.9375rem;
   font-weight: 500;
   white-space: nowrap;
   max-width: 300px;
+  transition: background-color 0.15s ease-out;
 }
 
 .menu-button:hover {
-  background: var(--hover);
+  background: var(--on-blue-tile-hover);
 }
 
 .menu-button.is-active,
 .fav-toggle[aria-pressed="true"] {
-  background: var(--select);
-  color: var(--on-select);
+  background: #ffffff;
+  color: #0046ad;
+  font-weight: 600;
 }
 
 .fav-toggle .star {
@@ -797,7 +981,7 @@ a:hover {
 
 .menu-panel {
   position: absolute;
-  top: calc(100% + 4px);
+  top: calc(100% + 6px);
   left: 0;
   z-index: 30;
   min-width: 270px;
@@ -806,8 +990,17 @@ a:hover {
   overscroll-behavior: contain;
   padding: 6px;
   border-radius: var(--radius);
-  background: var(--panel);
+  background: var(--page);
+  color: var(--ink);
   box-shadow: var(--overlay-shadow);
+  animation: pop-in 0.16s ease-out;
+}
+
+@keyframes pop-in {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
 }
 
 .menu-panel label {
@@ -815,12 +1008,13 @@ a:hover {
   align-items: center;
   gap: 10px;
   padding: 8px 10px;
+  border-radius: var(--radius);
   cursor: pointer;
   font-size: 0.9375rem;
 }
 
 .menu-panel label:hover {
-  background: var(--tile);
+  background: var(--hover);
 }
 
 .menu-panel label.is-zero {
@@ -831,7 +1025,7 @@ a:hover {
   width: 18px;
   height: 18px;
   margin: 0;
-  accent-color: var(--select);
+  accent-color: var(--blue);
   flex: none;
 }
 
@@ -881,12 +1075,13 @@ a:hover {
 }
 
 .quiet-button {
-  background: var(--panel);
+  background: var(--tile);
+  color: var(--tile-ink);
 }
 
 .primary-button {
-  background: var(--select);
-  color: var(--on-select);
+  background: var(--blue);
+  color: #fff;
 }
 
 .icon-button {
@@ -908,9 +1103,21 @@ a:hover {
 /* ---------- Listings ---------- */
 
 .listings {
-  padding-top: 20px;
+  padding-top: 24px;
   padding-bottom: 96px;
   outline: none;
+}
+
+/* New results rise in softly, so a change of filter reads as a change. */
+#results.is-entering {
+  animation: rise 0.26s ease-out;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
 }
 
 .summary {
@@ -918,7 +1125,7 @@ a:hover {
   flex-wrap: wrap;
   align-items: baseline;
   gap: 4px 16px;
-  margin-bottom: 36px;
+  margin-bottom: 32px;
   color: var(--ink-2);
 }
 
@@ -934,9 +1141,13 @@ a:hover {
 }
 
 .stale-note {
-  margin-top: 10px;
+  margin-top: 16px;
+  padding: 10px 14px;
+  border-radius: var(--radius);
+  background: #fff8e1;
+  color: #5c4400;
   font-size: 0.9375rem;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 /* Favorites first, then everything else */
@@ -946,15 +1157,18 @@ a:hover {
 }
 
 .tier-title {
-  font-size: clamp(2.75rem, 6vw, 4.5rem);
-  line-height: 0.92;
+  font-size: clamp(2.5rem, 5.4vw, 4rem);
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  color: var(--heading);
 }
 
 .tier-title .star {
-  width: 0.62em;
-  height: 0.62em;
-  margin-right: 0.12em;
-  vertical-align: 0.04em;
+  width: 0.7em;
+  height: 0.7em;
+  margin-right: 0.14em;
+  vertical-align: 0.02em;
 }
 
 /* Neighborhoods (theaters view) */
@@ -964,26 +1178,23 @@ a:hover {
 }
 
 .hood + .hood {
-  margin-top: 64px;
+  margin-top: 56px;
 }
 
 .hood-title {
-  font-size: clamp(1.75rem, 3vw, 2.25rem);
-  line-height: 1;
-  color: var(--ink-2);
-  margin-bottom: 14px;
+  font-size: clamp(1.5rem, 2.6vw, 2rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  color: var(--heading);
+  margin-bottom: 12px;
 }
 
-/* A theater is a white panel on the fog, like a card on Rains' canvas. */
-
-.theater {
-  padding: 28px 32px 32px;
-  background: var(--panel);
-  border-radius: var(--radius);
-}
+/* A theater: its name on a bar of Seattle Blue, like a street sign, and its
+   films on a pale-blue panel below. */
 
 .theater + .theater {
-  margin-top: 12px;
+  margin-top: 16px;
 }
 
 .theater-head {
@@ -991,37 +1202,43 @@ a:hover {
   flex-wrap: wrap;
   align-items: baseline;
   gap: 4px 20px;
+  padding: 16px 24px;
+  border-radius: var(--radius) var(--radius) 0 0;
+  background: var(--blue);
+  color: var(--on-blue);
 }
 
 .theater-name {
-  font-size: 1.75rem;
-  font-weight: 650;
-  font-stretch: 75%;
-  line-height: 1.1;
+  font-size: 1.625rem;
+  font-weight: 800;
+  letter-spacing: -0.015em;
+  line-height: 1.15;
 }
 
 .theater-meta {
   font-size: 0.9375rem;
-  color: var(--ink-2);
+  color: var(--on-blue-2);
 }
 
 .theater-meta a {
-  color: var(--ink);
+  color: var(--on-blue);
   font-weight: 500;
 }
 
 .theater-blurb {
   flex-basis: 100%;
-  color: var(--ink-2);
+  color: var(--on-blue-2);
+}
+
+.theater-body {
+  padding: 4px 24px 28px;
+  border-radius: 0 0 var(--radius) var(--radius);
+  background: var(--band);
 }
 
 .theater-empty {
-  margin-top: 16px;
+  padding-top: 20px;
   color: var(--ink-2);
-}
-
-.theater-films {
-  margin-top: 4px;
 }
 
 /* One film at one theater */
@@ -1030,14 +1247,14 @@ a:hover {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: 10px 48px;
-  padding-top: 28px;
+  padding-top: 24px;
 }
 
 .film-title {
   font-size: 1.3125rem;
-  font-weight: 650;
-  font-stretch: 85%;
+  font-weight: 700;
   line-height: 1.2;
+  letter-spacing: -0.01em;
 }
 
 .film-link {
@@ -1051,6 +1268,7 @@ a:hover {
 }
 
 .film-link:hover {
+  color: var(--heading);
   text-decoration: underline;
   text-decoration-thickness: 2px;
   text-underline-offset: 4px;
@@ -1090,10 +1308,10 @@ a:hover {
   margin-top: 6px;
   font-size: 0.9375rem;
   font-weight: 500;
-  color: var(--ink-2);
+  color: var(--heading);
 }
 
-/* Showtimes: flat tiles, like a departures board */
+/* Showtimes: light-cyan tiles that turn Seattle Blue on hover */
 
 .times {
   display: grid;
@@ -1112,13 +1330,13 @@ a:hover {
 
 .times-day.is-today {
   color: var(--ink);
-  font-weight: 650;
+  font-weight: 700;
 }
 
 .times-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 4px;
+  gap: 5px;
 }
 
 .time {
@@ -1128,17 +1346,24 @@ a:hover {
   padding: 8px 12px;
   border-radius: var(--radius);
   background: var(--tile);
+  color: var(--tile-ink);
   font-size: 1rem;
-  font-weight: 650;
+  font-weight: 700;
   line-height: 1.35;
   font-variant-numeric: tabular-nums;
   text-decoration: none;
   white-space: nowrap;
+  transition: background-color 0.15s ease-out, color 0.15s ease-out, transform 0.15s ease-out;
+}
+
+.theater-body .time {
+  background: var(--page);
 }
 
 a.time:hover {
-  background: var(--select);
-  color: var(--on-select);
+  background: var(--blue);
+  color: #fff;
+  transform: translateY(-1px);
 }
 
 a.time:hover .time-ampm,
@@ -1153,7 +1378,6 @@ span.time {
 .time-ampm {
   font-weight: 500;
   font-size: 0.875rem;
-  color: var(--ink-2);
 }
 
 .time-note {
@@ -1170,26 +1394,25 @@ span.time {
   margin-top: 4px;
   font-size: 0.9375rem;
   font-weight: 500;
-  color: var(--ink-2);
+  color: var(--heading);
 }
 
 /* Films view */
 
 .film {
   display: grid;
-  grid-template-columns: 280px minmax(0, 1fr);
+  grid-template-columns: 300px minmax(0, 1fr);
   gap: 32px;
-  padding: 28px;
-  background: var(--panel);
-  border-radius: var(--radius);
+  padding: 28px 0;
 }
 
 .tier-title + .film {
-  margin-top: 28px;
+  margin-top: 12px;
 }
 
 .film + .film {
-  margin-top: 12px;
+  border-top: 0;
+  margin-top: 8px;
 }
 
 .film.no-image {
@@ -1201,6 +1424,7 @@ span.time {
   align-self: start;
   aspect-ratio: 3 / 2;
   overflow: hidden;
+  border-radius: var(--radius);
   background: var(--tile);
 }
 
@@ -1210,17 +1434,24 @@ span.time {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  transition: transform 0.5s ease-out;
+}
+
+.film:hover .film-still img {
+  transform: scale(1.03);
 }
 
 .film .film-title {
-  font-size: clamp(1.875rem, 3vw, 2.5rem);
-  line-height: 0.98;
+  font-size: clamp(1.75rem, 2.8vw, 2.25rem);
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  line-height: 1.05;
 }
 
 .film-theaters {
-  margin-top: 24px;
+  margin-top: 20px;
   display: grid;
-  gap: 20px;
+  gap: 18px;
 }
 
 .film-at {
@@ -1230,7 +1461,7 @@ span.time {
 }
 
 .film-at-name {
-  font-weight: 650;
+  font-weight: 700;
   line-height: 1.3;
   padding-top: 7px;
 }
@@ -1245,21 +1476,25 @@ span.time {
 /* Day by day view */
 
 .day + .day {
-  margin-top: 64px;
+  margin-top: 56px;
 }
 
 .day-title {
-  font-size: clamp(2.25rem, 4.5vw, 3.25rem);
-  line-height: 0.95;
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  color: var(--heading);
   margin-bottom: 14px;
 }
 
 .day-title .day-rel {
   color: var(--ink-3);
+  font-weight: 700;
 }
 
 .day ol {
-  background: var(--panel);
+  background: var(--band);
   border-radius: var(--radius);
   padding: 8px;
 }
@@ -1270,26 +1505,21 @@ span.time {
   gap: 4px 24px;
   align-items: baseline;
   padding: 10px 12px;
+  border-radius: var(--radius);
+  transition: background-color 0.15s ease-out;
 }
 
 .slot:hover {
-  background: var(--tile);
+  background: var(--page);
 }
 
 .slot .time {
   justify-self: start;
-}
-
-.slot:hover .time {
-  background: var(--panel);
-}
-
-.slot:hover a.time:hover {
-  background: var(--select);
+  background: var(--page);
 }
 
 .slot-film {
-  font-weight: 650;
+  font-weight: 700;
   font-size: 1.0625rem;
   line-height: 1.3;
 }
@@ -1323,22 +1553,22 @@ span.time {
   max-width: 100vw;
   height: 100dvh;
   max-height: 100dvh;
-  background: var(--panel);
+  background: var(--page);
   color: var(--ink);
   box-shadow: var(--overlay-shadow);
 }
 
 .sheet::backdrop {
-  background: rgba(10, 12, 14, 0.5);
+  background: rgba(0, 25, 60, 0.55);
 }
 
 .sheet[open] {
-  animation: sheet-in 0.22s cubic-bezier(0.2, 0.8, 0.2, 1);
+  animation: sheet-in 0.26s cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
 @keyframes sheet-in {
   from {
-    transform: translateX(28px);
+    transform: translateX(32px);
     opacity: 0;
   }
 }
@@ -1357,13 +1587,14 @@ span.time {
   float: right;
   margin: -8px -16px 0 0;
   z-index: 2;
-  background: var(--panel);
+  background: var(--page);
 }
 
 .sheet-still {
   aspect-ratio: 16 / 9;
   margin: 20px 0 24px;
   overflow: hidden;
+  border-radius: var(--radius);
   background: var(--tile);
 }
 
@@ -1375,8 +1606,11 @@ span.time {
 }
 
 .sheet h2 {
-  font-size: clamp(2.25rem, 5vw, 3rem);
-  line-height: 0.95;
+  font-size: clamp(2rem, 5vw, 2.75rem);
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  color: var(--heading);
   padding-right: 40px;
 }
 
@@ -1396,8 +1630,9 @@ span.time {
 }
 
 .sheet-section h3 {
-  font-size: 1.25rem;
-  font-weight: 650;
+  font-size: 1.375rem;
+  font-weight: 800;
+  color: var(--heading);
   margin-bottom: 16px;
 }
 
@@ -1416,14 +1651,15 @@ span.time {
 
 .sheet-links a {
   font-weight: 500;
+  color: var(--heading);
 }
 
 /* ---------- Footer ---------- */
 
 .site-footer {
-  padding: 48px 0 64px;
-  background: var(--panel);
-  color: var(--ink-2);
+  padding: 56px 0 72px;
+  background: var(--blue);
+  color: var(--on-blue-2);
   font-size: 0.9375rem;
 }
 
@@ -1439,11 +1675,17 @@ span.time {
 }
 
 .footer-theaters a {
-  color: var(--ink);
+  color: var(--on-blue);
   font-weight: 500;
 }
 
 /* ---------- Narrower screens ---------- */
+
+@media (max-width: 1000px) {
+  .up-next-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
 
 @media (max-width: 900px) {
   .showing {
@@ -1475,11 +1717,46 @@ span.time {
   }
 
   .masthead {
-    padding: 24px 0 20px;
+    padding: 28px 0 24px;
+  }
+
+  .intro {
+    font-size: 1.0625rem;
+  }
+
+  .up-next-list {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 6px;
+  }
+
+  .up-next-list li:nth-child(n + 4) {
+    display: none;
+  }
+
+  .up-card {
+    grid-template-columns: auto minmax(0, 1fr);
+    column-gap: 14px;
+    padding: 12px 14px;
+  }
+
+  .up-top {
+    grid-row: span 3;
+    display: grid;
+    align-content: start;
+    justify-content: start;
+    gap: 0;
+  }
+
+  .up-time {
+    font-size: 1.375rem;
+  }
+
+  .up-title {
+    margin-top: 0;
   }
 
   .map {
-    height: 400px;
+    height: 420px;
   }
 
   .controls {
@@ -1499,7 +1776,7 @@ span.time {
     gap: 20px;
   }
 
-  .view-tabs span {
+  .view-tabs label > span {
     font-size: 1.0625rem;
   }
 
@@ -1512,7 +1789,8 @@ span.time {
     padding: 0 12px;
     border: 0;
     border-radius: var(--radius);
-    background: var(--panel);
+    background: var(--on-blue-tile);
+    color: var(--on-blue);
     font-weight: 600;
   }
 
@@ -1522,8 +1800,9 @@ span.time {
     min-width: 20px;
     height: 20px;
     padding: 0 6px;
-    background: var(--select);
-    color: var(--on-select);
+    border-radius: 10px;
+    background: var(--gold);
+    color: #1e2a33;
     font-size: 0.8125rem;
     font-weight: 700;
   }
@@ -1532,6 +1811,7 @@ span.time {
     display: none;
   }
 
+  /* The sheet: a blue panel with the same controls, top to bottom */
   .filters.is-open {
     position: fixed;
     inset: 0;
@@ -1540,7 +1820,8 @@ span.time {
     flex-direction: column;
     gap: 28px;
     padding: 16px 16px 0;
-    background: var(--canvas);
+    background: var(--blue);
+    color: var(--on-blue);
     overflow-y: auto;
     overscroll-behavior: contain;
   }
@@ -1549,24 +1830,35 @@ span.time {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    order: 0;
   }
 
   .filters-head h2 {
-    font-size: 2.25rem;
-    line-height: 1;
+    font-size: 2rem;
+    font-weight: 900;
+    letter-spacing: -0.03em;
   }
 
-  /* In the sheet: search, then day and time, then the longer lists. */
+  .filters-head .icon-button {
+    color: var(--on-blue);
+  }
+
+  .filters-head .icon-button:hover {
+    background: var(--on-blue-tile);
+  }
+
   .tools {
     display: contents;
   }
 
-  .filters-head {
-    order: 0;
-  }
-
   .search {
     order: 1;
+    width: auto;
+  }
+
+  .search input {
+    height: 48px;
+    font-size: 1rem;
   }
 
   .filter-days {
@@ -1580,25 +1872,18 @@ span.time {
 
   .menus {
     order: 4;
+    display: grid;
+    gap: 28px;
   }
 
   .filters-foot {
     order: 5;
   }
 
-  .search {
-    width: auto;
-  }
-
-  .search input {
-    height: 48px;
-    font-size: 1rem;
-  }
-
   .toggle-group::before {
     content: attr(aria-label);
     flex-basis: 100%;
-    font-weight: 650;
+    font-weight: 700;
     font-size: 1rem;
     margin-bottom: 6px;
   }
@@ -1606,7 +1891,7 @@ span.time {
   .menu::before {
     content: attr(data-title);
     display: block;
-    font-weight: 650;
+    font-weight: 700;
     font-size: 1rem;
     margin-bottom: 6px;
   }
@@ -1624,11 +1909,6 @@ span.time {
     height: 48px;
   }
 
-  .menus {
-    display: grid;
-    gap: 28px;
-  }
-
   .menu-button:not(.fav-toggle) {
     display: none;
   }
@@ -1643,10 +1923,10 @@ span.time {
     display: block !important;
     position: static;
     max-height: none;
-    padding: 0;
-    background: var(--panel);
+    padding: 4px;
     box-shadow: none;
     min-width: 0;
+    animation: none;
   }
 
   .menu-panel label {
@@ -1665,47 +1945,58 @@ span.time {
     gap: 8px;
     margin: auto -16px 0;
     padding: 12px 16px calc(12px + env(safe-area-inset-bottom));
-    background: var(--canvas);
-    box-shadow: 0 -1px 0 var(--hover);
+    background: var(--blue-deep);
+  }
+
+  .filters-foot .quiet-button {
+    background: var(--on-blue-tile);
+    color: var(--on-blue);
   }
 
   .filters-foot .primary-button {
     flex: 1;
+    background: #ffffff;
+    color: #0046ad;
   }
 
   .summary {
-    margin-bottom: 28px;
+    margin-bottom: 24px;
   }
 
   .hood + .hood {
-    margin-top: 48px;
+    margin-top: 44px;
   }
 
-  .theater {
-    padding: 20px 16px 24px;
-    margin-left: -16px;
-    margin-right: -16px;
+  .theater-head {
+    padding: 14px 16px;
+    margin: 0 -16px;
+    border-radius: 0;
+  }
+
+  .theater-body {
+    padding: 4px 16px 24px;
+    margin: 0 -16px;
+    border-radius: 0;
   }
 
   .showing {
-    padding-top: 24px;
+    padding-top: 22px;
   }
 
   .film {
     grid-template-columns: minmax(0, 1fr);
     gap: 16px;
-    padding: 16px 16px 24px;
-    margin-left: -16px;
-    margin-right: -16px;
   }
 
   .film-still {
     aspect-ratio: 16 / 9;
-    margin: -16px -16px 0;
+    margin: 0 -16px;
+    border-radius: 0;
   }
 
   .day ol {
     margin: 0 -16px;
+    border-radius: 0;
   }
 
   .slot {
@@ -1729,5 +2020,10 @@ span.time {
   *::after {
     transition-duration: 0.01ms !important;
     animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+
+  .pin.is-soon .pin-dot::after {
+    display: none;
   }
 }

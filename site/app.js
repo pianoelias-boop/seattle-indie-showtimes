@@ -12,6 +12,8 @@
   ];
 
   const VIEWS = ['theaters', 'films', 'days'];
+  const SOON_MS = 60 * 60 * 1000;
+  const UP_NEXT = 4;
 
   // ---------- helpers ----------
 
@@ -382,7 +384,7 @@
   function theaterHtml(t, list) {
     const head = `
       <div class="theater-head">
-        <h4 class="theater-name">${esc(t.name)}</h4>
+        <h4 class="theater-name">${favMark(t)}${esc(t.name)}</h4>
         <p class="theater-meta">${esc(t.address)} · <a href="${esc(directionsUrl(t))}" target="_blank" rel="noopener">Directions ↗</a> · <a href="${esc(safeUrl(t.url) || '#')}" target="_blank" rel="noopener">Website ↗</a></p>
         ${t.blurb ? `<p class="theater-blurb">${esc(t.blurb)}</p>` : ''}
       </div>`;
@@ -408,8 +410,10 @@
     }
     return `<section class="theater" id="theater-${esc(t.id)}" data-theater="${esc(t.id)}" aria-labelledby="theater-${esc(t.id)}-name">
       ${head.replace('class="theater-name"', `class="theater-name" id="theater-${esc(t.id)}-name"`)}
-      ${staleHtml(t)}
-      ${body}
+      <div class="theater-body">
+        ${staleHtml(t)}
+        ${body}
+      </div>
     </section>`;
   }
 
@@ -511,6 +515,9 @@
     } else {
       results.innerHTML = state.view === 'films' ? renderFilms() : state.view === 'days' ? renderDays() : renderTheaters();
     }
+    results.classList.remove('is-entering');
+    void results.offsetWidth;
+    results.classList.add('is-entering');
     requestAnimationFrame(markClamped);
 
     updateControls();
@@ -610,8 +617,19 @@
     button.classList.toggle('is-active', set.size > 0);
   }
 
+  // The gold underline slides to the chosen view.
+  function placeTabInk() {
+    const checked = $('input[name="view"]:checked');
+    const ink = $('.tab-ink');
+    if (!checked || !ink) return;
+    const label = checked.closest('label');
+    ink.style.width = `${label.offsetWidth}px`;
+    ink.style.transform = `translateX(${label.offsetLeft}px)`;
+  }
+
   function updateControls() {
     for (const input of $$('input[name="view"]')) input.checked = input.value === state.view;
+    placeTabInk();
     updateToggles($('#day-filter'), state.days);
     updateToggles($('#time-filter'), state.times);
     $('#fav-toggle').setAttribute('aria-pressed', String(state.fav));
@@ -759,7 +777,9 @@
     const counts = {};
     const byTheater = groupBy(filtered, (s) => s.theater);
     for (const [tid, list] of byTheater) counts[tid] = new Set(list.map((s) => s.film)).size;
-    window.TheaterMap.update(counts);
+    const soonBy = Date.now() + SOON_MS;
+    const soon = new Set(filtered.filter((s) => s.ts <= soonBy).map((s) => s.theater));
+    window.TheaterMap.update(counts, soon);
   }
 
   function popupContent(ids) {
@@ -820,6 +840,53 @@
     else if (key === addDays(today, -1)) when = `yesterday at ${clock}`;
     else when = `on ${fmtShortDate.format(keyDate(key))}`;
     $('#updated').textContent = `Showtimes last checked ${when}.`;
+  }
+
+  // The next few showings at his theaters, one per film, with a live countdown.
+  function renderUpNext() {
+    const now = Date.now();
+    const favs = all.filter((s) => theaters[s.theater].favorite && s.ts > now);
+    const pool = favs.length ? favs : all.filter((s) => s.ts > now);
+    const picks = [];
+    const seen = new Set();
+    for (const s of pool) {
+      if (seen.has(s.film)) continue;
+      seen.add(s.film);
+      picks.push(s);
+      if (picks.length === UP_NEXT) break;
+    }
+    const section = $('#up-next');
+    if (!picks.length) {
+      section.hidden = true;
+      return;
+    }
+    $('#up-next-title').textContent = favs.length ? 'Up next at your theaters' : 'Up next';
+    $('#up-next-list').innerHTML = picks
+      .map((s) => {
+        const f = films[s.film];
+        const t = theaters[s.theater];
+        const { hm, ap } = fmtTime(s.mins);
+        const mins = Math.round((s.ts - now) / 60000);
+        let when;
+        let soon = false;
+        if (mins < 60) {
+          when = `in ${Math.max(mins, 1)} min`;
+          soon = true;
+        } else if (mins < 180) {
+          const h = Math.floor(mins / 60);
+          const m = mins % 60;
+          when = `in ${h} hr${m ? ` ${m} min` : ''}`;
+        } else {
+          when = dayRow(s.date);
+        }
+        return `<li><button type="button" class="up-card" data-film="${esc(f.id)}">
+          <span class="up-top"><span class="up-time">${hm}<span class="up-ampm">\u2009${ap}</span></span><span class="up-when${soon ? ' is-soon' : ''}">${esc(when)}</span></span>
+          <span class="up-title">${esc(f.title)}</span>
+          <span class="up-where">${favMark(t)}${esc(t.short || t.name)}</span>
+        </button></li>`;
+      })
+      .join('');
+    section.hidden = false;
   }
 
   function renderFooter() {
@@ -953,6 +1020,12 @@
       if (e.target.closest('[data-clear]')) clearAll();
     };
     $('#results').addEventListener('click', onContentClick);
+    $('#up-next').addEventListener('click', (e) => {
+      const card = e.target.closest('[data-film]');
+      if (card) openFilm(card.dataset.film);
+    });
+    window.addEventListener('resize', placeTabInk);
+    document.fonts?.ready.then(placeTabInk);
     // A still that fails to load leaves no empty box behind.
     $('#results').addEventListener(
       'error',
@@ -1005,6 +1078,12 @@
     new ResizeObserver(setH).observe(controls);
     setH();
 
+    // Countdowns tick every minute.
+    setInterval(() => {
+      renderUpNext();
+      updateMap();
+    }, 60 * 1000);
+
     // Keep "today" honest if the page stays open.
     setInterval(() => {
       const before = all.length;
@@ -1033,6 +1112,7 @@
     const film = readUrl();
     buildDayToggles();
     renderUpdated();
+    renderUpNext();
     renderFooter();
     wire();
 
