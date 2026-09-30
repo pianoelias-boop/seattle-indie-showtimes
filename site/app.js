@@ -445,11 +445,16 @@
 
   function renderFilms() {
     const byFilm = groupBy(filtered, (s) => s.film);
-    const list = [...byFilm.keys()].map((id) => films[id]).sort((a, b) => a._sort.localeCompare(b._sort));
+    const list = [...byFilm.keys()].map((id) => films[id]);
     const atFav = (f) => byFilm.get(f.id).some((s) => theaters[s.theater].favorite);
+    // Soonest first. Under favorites, a film's place is its next showing at a
+    // favorite theater, which is the time shown first on it (filtered is
+    // already in time order).
+    const nextAt = (favOnly) => (f) => byFilm.get(f.id).find((s) => !favOnly || theaters[s.theater].favorite).ts;
+    const soonest = (key) => (a, b) => key(a) - key(b) || a._sort.localeCompare(b._sort);
     const tiers = [
-      { id: 'favorites', title: `${STAR}At your favorites`, films: list.filter(atFav), fav: true },
-      { id: 'more', title: 'Only at other theaters', films: list.filter((f) => !atFav(f)), fav: false },
+      { id: 'favorites', title: `${STAR}At your favorites`, films: list.filter(atFav).sort(soonest(nextAt(true))), fav: true },
+      { id: 'more', title: 'Only at other theaters', films: list.filter((f) => !atFav(f)).sort(soonest(nextAt(false))), fav: false },
     ].filter((t) => t.films.length);
     return tiers
       .map(
