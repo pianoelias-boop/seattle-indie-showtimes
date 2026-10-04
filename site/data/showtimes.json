@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T10:15:00-07:00",
+ "updated": "2026-10-04T10:34:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-03T10:15:00-07:00",
-    "lastSuccess": "2026-10-03T10:15:00-07:00",
-    "showings": 47,
+    "checked": "2026-10-04T10:34:00-07:00",
+    "lastSuccess": "2026-10-04T10:34:00-07:00",
+    "showings": 44,
     "through": "2026-10-24"
    }
   },
@@ -33,9 +33,9 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-03T10:15:00-07:00",
-    "lastSuccess": "2026-10-03T10:15:00-07:00",
-    "showings": 155,
+    "checked": "2026-10-04T10:34:00-07:00",
+    "lastSuccess": "2026-10-04T10:34:00-07:00",
+    "showings": 149,
     "through": "2026-11-05"
    }
   },
@@ -52,10 +52,10 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-03T10:15:00-07:00",
-    "lastSuccess": "2026-10-03T10:15:00-07:00",
+    "checked": "2026-10-04T10:34:00-07:00",
+    "lastSuccess": "2026-10-04T10:34:00-07:00",
     "showings": 33,
-    "through": "2026-11-07"
+    "through": "2026-11-08"
    }
   },
   {
@@ -70,9 +70,9 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-03T10:15:00-07:00",
-    "lastSuccess": "2026-10-03T10:15:00-07:00",
-    "showings": 12,
+    "checked": "2026-10-04T10:34:00-07:00",
+    "lastSuccess": "2026-10-04T10:34:00-07:00",
+    "showings": 10,
     "through": "2026-11-03"
    }
   },
@@ -88,9 +88,9 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-03T10:15:00-07:00",
-    "lastSuccess": "2026-10-03T10:15:00-07:00",
-    "showings": 67,
+    "checked": "2026-10-04T10:34:00-07:00",
+    "lastSuccess": "2026-10-04T10:34:00-07:00",
+    "showings": 63,
     "through": "2026-11-05"
    }
   },
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-03T10:15:00-07:00",
-    "lastSuccess": "2026-10-03T10:15:00-07:00",
-    "showings": 67,
+    "checked": "2026-10-04T10:34:00-07:00",
+    "lastSuccess": "2026-10-04T10:34:00-07:00",
+    "showings": 64,
     "through": "2026-10-29"
    }
   },
@@ -126,9 +126,9 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-03T10:15:00-07:00",
-    "lastSuccess": "2026-10-03T10:15:00-07:00",
-    "showings": 41,
+    "checked": "2026-10-04T10:34:00-07:00",
+    "lastSuccess": "2026-10-04T10:34:00-07:00",
+    "showings": 40,
     "through": "2026-11-02"
    }
   },
@@ -145,9 +145,9 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-03T10:15:00-07:00",
-    "lastSuccess": "2026-10-03T10:15:00-07:00",
-    "showings": 76,
+    "checked": "2026-10-04T10:34:00-07:00",
+    "lastSuccess": "2026-10-04T10:34:00-07:00",
+    "showings": 70,
     "through": "2026-10-29"
    }
   },
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-03T10:15:00-07:00",
-    "lastSuccess": "2026-10-03T10:15:00-07:00",
-    "showings": 48,
+    "checked": "2026-10-04T10:34:00-07:00",
+    "lastSuccess": "2026-10-04T10:34:00-07:00",
+    "showings": 39,
     "through": "2026-10-29"
    }
   },
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-03T10:15:00-07:00",
-    "lastSuccess": "2026-10-03T10:15:00-07:00",
-    "showings": 62,
+    "checked": "2026-10-04T10:34:00-07:00",
+    "lastSuccess": "2026-10-04T10:34:00-07:00",
+    "showings": 46,
     "through": "2026-10-17"
    }
   },
@@ -201,9 +201,9 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-03T10:15:00-07:00",
-    "lastSuccess": "2026-10-03T10:15:00-07:00",
-    "showings": 24,
+    "checked": "2026-10-04T10:34:00-07:00",
+    "lastSuccess": "2026-10-04T10:34:00-07:00",
+    "showings": 19,
     "through": "2026-11-01"
    }
   },
@@ -220,8 +220,8 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-03T10:15:00-07:00",
-    "lastSuccess": "2026-10-03T10:15:00-07:00",
+    "checked": "2026-10-04T10:34:00-07:00",
+    "lastSuccess": "2026-10-04T10:34:00-07:00",
     "showings": 17,
     "through": "2026-10-28"
    }
@@ -967,18 +967,6 @@
    }
   },
   {
-   "id": "from-beyond",
-   "title": "From Beyond",
-   "description": "40th anniversary of Stuart Gordon's crazy, gory, and gooey sci-fi body horror classic, starring Jeffrey Combs and Barbara Crampton, and produced by Charles Band and Brian Yuzna (SOCIETY).\n\nDr. Edward Pretorius (Ted Sorel), an acclaimed physicist, has perfected his newest invention: the Resonator, a machine which allows those near to it to glimpse life not visible to the naked eye. Imagining the discoveries he could make, Pretorius begins to go mad, much to the concern of his young assistant, Crawford Tillinghast (Combs). However, after the machine malfunctions during a highly sensitive experiment and Pretorius is found brutally murdered, Crawford is fingered as the primary suspect.\n\nConfined to an asylum, Crawford becomes the ward of Dr. Katherine McMichaels (Crampton), who takes a special interest in his tales of the strange creatures able to be seen while the machine is operating and convinces him to help her rebuild the device, woefully unaware of the terrifying, hidden world she is about to enter…",
-   "runtime": 85,
-   "year": 1986,
-   "director": "Stuart Gordon",
-   "image": "https://grandillusioncinema.org/wp-content/uploads/2026/09/frombeyondposter-550x825.jpg",
-   "links": {
-    "grand-illusion": "https://grandillusioncinema.org/film/from-beyond/"
-   }
-  },
-  {
    "id": "ghost-squad",
    "title": "Ghost Squad",
    "description": "Three unpopular friends accept a dare to spend Halloween in a haunted house. They encounter a mischievous ghost dog intent on tormenting them, leading to a night of terrifying chaos as they struggle to survive the supernatural encounter",
@@ -1353,6 +1341,20 @@
    }
   },
   {
+   "id": "man-of-marble",
+   "title": "Man of Marble",
+   "description": "In the 1970s, student filmmaker Agnieszka investigates the life of a 1950s bricklayer and discredited labor hero who is only remembered through statue representations in cellars and storage lockers. Discovering facts about the bricklayer have been suppressed, she has to decide whether to pursue the truth or not while navigating the complexities of communism's rise in Poland. Mixing satirical humor and poetic storytelling, this thought-provoking examination of the moral responsibility of an individual and the way art can challenge dominant ideology remains one of Wajda’s most unique productions.",
+   "runtime": 161,
+   "year": 1976,
+   "director": "Andrezj Wajda",
+   "country": "Poland",
+   "language": "Polish",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Films%20of%20Andrej%20Wajda/Wajda%20Films%20Images/manofmarble.png",
+   "links": {
+    "siff-film-center": "https://www.siff.net/programs-and-events/andrzej-wajda/man-of-marble"
+   }
+  },
+  {
    "id": "master-of-the-flying-guillotine",
    "title": "Master of the Flying Guillotine",
    "description": "A blind assassin armed with a vicious flying guillotine is out to kill the legendary one-armed boxer (martial arts superstar Jimmy Wang Yu). Along the way, he interrupts a bizarre kung fu tournament and heads start to roll. It's up to the one-armed boxer now, with his skull shattering punch and his ability to walk on walls. Eagle claw masters, a monkey-style kung fu fight, and a Swami fighter with ten foot arms are just stepping stones to the massive showdown with the flying guillotine.\n\nFeaturing extravagant choreography by brothers Lau Kar-leung and Lau Kar-wing, this film set the template for martial-arts video games with its centerpiece kung-fu tournament full of freaky contestants, and the fireworks of its final showdown (set in a booby-trapped coffin shop) have yet to be equaled.\n\nThis is one of the greatest kung fu movies of all time, and truly must be seen to be believed.",
@@ -1362,17 +1364,6 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789694118683-tb-masteroftheflyingguillotine.jpg",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/master-of-the-flying-guillotine"
-   }
-  },
-  {
-   "id": "met-opera-2026-2027-cosi-fan-tutte",
-   "title": "Met Opera 2026/2027: Cosi fan tutte",
-   "description": "The Met: Live in HD season continues with Mozart’s satirical comedy of fickle young love. Phelim McDermott’s “colorful, inventive” (The New York Times) staging, inspired by Coney Island in the 1950s, sets the uproarious story at a boardwalk amusement park, where the two pairs of lovers at the heart of the tale find themselves on one emotional—and literal—thrill ride after another. Soprano Federica Lombardi and mezzo-soprano Samantha Hankey sing Fiordiligi and Dorabella, opposite tenor Duke Kim and baritone Andrey Zhilikhovsky as Ferrando and Guglielmo. Bass-baritone Gerald Finley reprises his portrayal of the cynical Don Alfonso, with soprano Ana María Martínez as the witty maid Despina.",
-   "runtime": 230,
-   "rating": "G",
-   "image": "https://media.mobilemoviegoing.com/CustomOneSheets/1789506042_cosi.jpg",
-   "links": {
-    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/met-opera-20262027-cosi-fan-tutte"
    }
   },
   {
@@ -1694,51 +1685,6 @@
    }
   },
   {
-   "id": "seattle-film-festival-block-10",
-   "title": "Seattle Film Festival Block 10",
-   "description": "Films: Making Megaforce.\n\nBlock 10 is a special screening playing on Saturday, October 3, 2026. The film playing in Block 10 is Making Megaforce. A short Q&A will follow the screening of the film.",
-   "image": "https://static.spotapps.co/spots/ef/e841e596374d178c1713ab3b7a2f51/w926",
-   "links": {
-    "tin-room": "https://www.tickettailor.com/events/theseattlefilmfestival/2429117"
-   }
-  },
-  {
-   "id": "seattle-film-festival-block-6",
-   "title": "Seattle Film Festival Block 6",
-   "description": "Films: tomorrows waterfall, Jake, Mental Elder Abuse.\n\nBlock 6 is the first batch of films playing on Saturday, October 3, 2026. The films playing in Block 6 are tomorrows waterfall, Jake, and Mental Elder Abuse. A short Q&A will follow the screening of all the films.",
-   "image": "https://static.spotapps.co/spots/ef/e841e596374d178c1713ab3b7a2f51/w926",
-   "links": {
-    "tin-room": "https://www.tickettailor.com/events/theseattlefilmfestival/2429104"
-   }
-  },
-  {
-   "id": "seattle-film-festival-block-7",
-   "title": "Seattle Film Festival Block 7",
-   "description": "Films: Baby Sea Turtle, Bonding.\n\nBlock 7 is the second batch of films playing on Saturday, October 3, 2026. The films playing in Block 6 are Baby Sea Turtle and Bonding. A short Q&A will follow the screening of all the films.",
-   "image": "https://static.spotapps.co/spots/ef/e841e596374d178c1713ab3b7a2f51/w926",
-   "links": {
-    "tin-room": "https://www.tickettailor.com/events/theseattlefilmfestival/2429107"
-   }
-  },
-  {
-   "id": "seattle-film-festival-block-8",
-   "title": "Seattle Film Festival Block 8",
-   "description": "Films: Parasomnia, The Home, ACB-223, Carpenter Brut - The Misfits/Rebels, Al Mhajba, Slice.\n\nBlock 8 is the third batch of films playing on Saturday, October 3, 2026. The films playing in Block 8 are Parasomnia, The Home, ACB-223, Carpenter Brut - The Misfits/Rebels, Al Mhajba, and Slice. A short Q&A will follow the screening of all the films.",
-   "image": "https://static.spotapps.co/spots/ef/e841e596374d178c1713ab3b7a2f51/w926",
-   "links": {
-    "tin-room": "https://www.tickettailor.com/events/theseattlefilmfestival/2429110"
-   }
-  },
-  {
-   "id": "seattle-film-festival-block-9",
-   "title": "Seattle Film Festival Block 9",
-   "description": "Films: Just One Peek, Beneath The Blue Suburban Skies.\n\nBlock 9 is the fourth batch of films playing on Saturday, October 3, 2026. The films playing in Block 9 are Just One Peek and Beneath The Blue Suburban Skies. A short Q&A will follow the screening of all the films.",
-   "image": "https://static.spotapps.co/spots/ef/e841e596374d178c1713ab3b7a2f51/w926",
-   "links": {
-    "tin-room": "https://www.tickettailor.com/events/theseattlefilmfestival/2429112"
-   }
-  },
-  {
    "id": "seattle-film-society-in-focus-tyler-michael-james",
    "title": "Seattle Film Society In Focus: Tyler Michael James",
    "description": "The Seattle Film Society's IN FOCUS showcase series returns this October with a screening of Tyler Michael James’s 2022 thriller LOW LIFE!\n\nLOW LIFE follows Benny, a small-time YouTube star who catches predators online, experiences a night from hell when he lets one of them into his own home.\n\nLOW LIFE will be preceded by a screening of the film’s proof-of-concept short, and a conversation about James’s film & career will follow the screening. This event is presented in partnership with the Northwest Film Forum.\n\nThursday October 15th at the Northwest Film Forum. Doors at 6:30, Film at 7. See you at the movies!",
@@ -1826,18 +1772,6 @@
    "image": "https://static.spotapps.co/spots/b8/53bd515cd04e779faedbf2b7076899/w926",
    "links": {
     "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
-   "id": "society",
-   "title": "Society",
-   "description": "In remembrance of special effects and makeup artist legend Screaming Mad George, a screening of one of the ickiest, most original body horror shockers of all time.\n\nTeenager Bill Whitney has always felt like the odd one out in his wealthy, upper-class Beverly Hills family. But his sense of alienation takes a sinister turn when he hears an audio recording of his sister’s coming-out party, which seems to implicate his family in a bizarre, ritualistic orgy. Packing stomach-churning grue courtesy of Screaming Mad George and thought-provoking social commentary in equal measure, Brian Yuzna's SOCIETY is a biting satire that culminates in the most gag-inducing “climax” in all of horror history.",
-   "runtime": 100,
-   "year": 1989,
-   "director": "Brian Yuzna",
-   "image": "https://grandillusioncinema.org/wp-content/uploads/2026/09/societyposter-550x857.jpg",
-   "links": {
-    "grand-illusion": "https://grandillusioncinema.org/film/society/"
    }
   },
   {
@@ -2618,418 +2552,6 @@
   }
  ],
  "showings": [
-  {
-   "film": "met-opera-2026-2027-cosi-fan-tutte",
-   "theater": "admiral",
-   "start": "2026-10-03T09:50:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/met-opera-20262027-cosi-fan-tutte",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16444/750"
-  },
-  {
-   "film": "seattle-film-festival-block-6",
-   "theater": "tin-room",
-   "start": "2026-10-03T12:15:00-07:00",
-   "url": "https://www.tickettailor.com/events/theseattlefilmfestival/2429104",
-   "tickets": "https://www.tickettailor.com/events/theseattlefilmfestival/2429104",
-   "notes": [
-    "Seattle Film Festival",
-    "Q&A"
-   ]
-  },
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-03T12:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36349?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "forgotten-island",
-   "theater": "majestic-bay",
-   "start": "2026-10-03T12:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296642-forgotten-island/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36352?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-03T12:50:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16855/780"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-03T13:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16856/781"
-  },
-  {
-   "film": "coyote-vs-acme",
-   "theater": "majestic-bay",
-   "start": "2026-10-03T13:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/267335-coyote-vs-acme/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36355?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "digger",
-   "theater": "siff-downtown",
-   "start": "2026-10-03T13:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/digger",
-   "tickets": "https://www.siff.net/cinema/in-theaters/digger#screening-Wq5GGuD5a3"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-03T13:15:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16857/770"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "siff-uptown",
-   "start": "2026-10-03T13:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-UpZa1d58GC"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-03T13:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-X6KcrYhXR4"
-  },
-  {
-   "film": "nt-live-the-misanthrope",
-   "theater": "siff-film-center",
-   "start": "2026-10-03T14:00:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/stage-to-screen/nt-live-the-misanthrope",
-   "tickets": "https://www.siff.net/programs-and-events/stage-to-screen/nt-live-the-misanthrope#screening-e6ldvHRh5M"
-  },
-  {
-   "film": "seattle-film-festival-block-7",
-   "theater": "tin-room",
-   "start": "2026-10-03T14:30:00-07:00",
-   "url": "https://www.tickettailor.com/events/theseattlefilmfestival/2429107",
-   "tickets": "https://www.tickettailor.com/events/theseattlefilmfestival/2429107",
-   "notes": [
-    "Seattle Film Festival",
-    "Q&A"
-   ]
-  },
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-03T15:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36350?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-03T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16795/781"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-03T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16791/780"
-  },
-  {
-   "film": "forgotten-island",
-   "theater": "majestic-bay",
-   "start": "2026-10-03T15:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296642-forgotten-island/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36353?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-03T15:50:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16796/717"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-03T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16797/770"
-  },
-  {
-   "film": "beetlejuice",
-   "theater": "central-cinema",
-   "start": "2026-10-03T16:00:00-07:00",
-   "url": "https://central-cinema.com/movie/beetlejuice/",
-   "tickets": "https://central-cinema.com/checkout/showing/beetlejuice/3866079"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "majestic-bay",
-   "start": "2026-10-03T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000000085-heart-of-the-beast/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36356?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "nwff",
-   "start": "2026-10-03T16:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/the-history-of-concrete/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a73facdf6ec8567a15dcbe6"
-  },
-  {
-   "film": "digger",
-   "theater": "siff-downtown",
-   "start": "2026-10-03T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/digger",
-   "tickets": "https://www.siff.net/cinema/in-theaters/digger#screening-2Hn7AbHmtR"
-  },
-  {
-   "film": "filipinana",
-   "theater": "siff-uptown",
-   "start": "2026-10-03T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/filipinana",
-   "tickets": "https://www.siff.net/cinema/in-theaters/filipinana#screening-sX7Y6FUgYm"
-  },
-  {
-   "film": "chronovisor",
-   "theater": "nwff",
-   "start": "2026-10-03T16:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/chronovisor/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a761a8e65440a89fa826023"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-03T16:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-17lN1NN3OH"
-  },
-  {
-   "film": "filipinana",
-   "theater": "tasveer",
-   "start": "2026-10-03T17:00:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/filipiana",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/filipiana/4005242"
-  },
-  {
-   "film": "traces-of-home",
-   "theater": "tasveer",
-   "start": "2026-10-03T17:00:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/traces-of-home-film",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/traces-of-home-film/3920735"
-  },
-  {
-   "film": "primetime",
-   "theater": "tasveer",
-   "start": "2026-10-03T17:05:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/primetime-usa-2026",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/primetime-usa-2026/3920736"
-  },
-  {
-   "film": "seattle-film-festival-block-8",
-   "theater": "tin-room",
-   "start": "2026-10-03T17:20:00-07:00",
-   "url": "https://www.tickettailor.com/events/theseattlefilmfestival/2429110",
-   "tickets": "https://www.tickettailor.com/events/theseattlefilmfestival/2429110",
-   "notes": [
-    "Seattle Film Festival",
-    "Q&A"
-   ]
-  },
-  {
-   "film": "from-beyond",
-   "theater": "grand-illusion",
-   "start": "2026-10-03T17:30:00-07:00",
-   "url": "https://grandillusioncinema.org/film/from-beyond/",
-   "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=654529~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-03T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16790/781"
-  },
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-03T18:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36351?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-03T18:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16786/780"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-03T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16788/770"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-03T18:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16787/717"
-  },
-  {
-   "film": "forgotten-island",
-   "theater": "majestic-bay",
-   "start": "2026-10-03T18:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296642-forgotten-island/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36354?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "beetlejuice",
-   "theater": "central-cinema",
-   "start": "2026-10-03T19:00:00-07:00",
-   "url": "https://central-cinema.com/movie/beetlejuice/",
-   "tickets": "https://central-cinema.com/checkout/showing/beetlejuice/3866080"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "majestic-bay",
-   "start": "2026-10-03T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000000085-heart-of-the-beast/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36357?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "nwff",
-   "start": "2026-10-03T19:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/the-history-of-concrete/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a73facdf6ec8567a15dcbdc"
-  },
-  {
-   "film": "primetime",
-   "theater": "tasveer",
-   "start": "2026-10-03T19:10:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/primetime-usa-2026",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/primetime-usa-2026/3920737"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "siff-uptown",
-   "start": "2026-10-03T19:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-tjfkWw8v8q"
-  },
-  {
-   "film": "condor-daughter",
-   "theater": "tasveer",
-   "start": "2026-10-03T19:20:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-condor-daughter-la-hija-cndor-boliviaperuuruguay-2025",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-condor-daughter-la-hija-cndor-boliviaperuuruguay-2025/3920734"
-  },
-  {
-   "film": "seattle-film-festival-block-9",
-   "theater": "tin-room",
-   "start": "2026-10-03T19:20:00-07:00",
-   "url": "https://www.tickettailor.com/events/theseattlefilmfestival/2429112",
-   "tickets": "https://www.tickettailor.com/events/theseattlefilmfestival/2429112",
-   "notes": [
-    "Seattle Film Festival",
-    "Q&A"
-   ]
-  },
-  {
-   "film": "chronovisor",
-   "theater": "nwff",
-   "start": "2026-10-03T19:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/chronovisor/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a761a8e65440a89fa82602d"
-  },
-  {
-   "film": "digger",
-   "theater": "siff-downtown",
-   "start": "2026-10-03T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/digger",
-   "tickets": "https://www.siff.net/cinema/in-theaters/digger#screening-UT4wZNsCMQ"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-03T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-THHrn7LMae"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "tasveer",
-   "start": "2026-10-03T19:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-history-of-concrete-2026-usa",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-history-of-concrete-2026-usa/3960760"
-  },
-  {
-   "film": "society",
-   "theater": "grand-illusion",
-   "start": "2026-10-03T19:45:00-07:00",
-   "url": "https://grandillusioncinema.org/film/society/",
-   "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=654560~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-03T21:10:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16874/780"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-03T21:10:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16789/717"
-  },
-  {
-   "film": "seattle-film-festival-block-10",
-   "theater": "tin-room",
-   "start": "2026-10-03T21:20:00-07:00",
-   "url": "https://www.tickettailor.com/events/theseattlefilmfestival/2429117",
-   "tickets": "https://www.tickettailor.com/events/theseattlefilmfestival/2429117",
-   "notes": [
-    "Seattle Film Festival",
-    "Q&A"
-   ]
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-03T21:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16873/781"
-  },
-  {
-   "film": "ju-on-the-grudge",
-   "theater": "central-cinema",
-   "start": "2026-10-03T21:30:00-07:00",
-   "url": "https://central-cinema.com/movie/ju-on-the-grudge/",
-   "tickets": "https://central-cinema.com/checkout/showing/ju-on-the-grudge/3906012"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-03T21:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16872/770"
-  },
-  {
-   "film": "master-of-the-flying-guillotine",
-   "theater": "beacon",
-   "start": "2026-10-03T22:00:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/master-of-the-flying-guillotine",
-   "tickets": "https://thebeacon.film/calendar/movie/master-of-the-flying-guillotine?showtime=OS3D4GTLFICX2CAWYRKN6ZOG"
-  },
   {
    "film": "paw-patrol-the-dino-movie",
    "theater": "north-bend",
@@ -4050,6 +3572,13 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36375?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "heart-of-the-beast",
+   "theater": "majestic-bay",
+   "start": "2026-10-07T18:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000000085-heart-of-the-beast/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36377?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "nt-live-the-misanthrope",
    "theater": "siff-film-center",
    "start": "2026-10-07T18:30:00-07:00",
@@ -4076,13 +3605,6 @@
    "start": "2026-10-07T18:45:00-07:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16833/717"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "majestic-bay",
-   "start": "2026-10-07T18:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000000085-heart-of-the-beast/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36377?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "beetlejuice",
@@ -7464,6 +6986,16 @@
    "start": "2026-11-07T14:00:00-08:00",
    "url": "https://www.siff.net/programs-and-events/andrzej-wajda/the-promised-land",
    "tickets": "https://www.siff.net/programs-and-events/andrzej-wajda/the-promised-land#screening-knchSlP75J",
+   "notes": [
+    "The Films of Andrzej Wajda"
+   ]
+  },
+  {
+   "film": "man-of-marble",
+   "theater": "siff-film-center",
+   "start": "2026-11-08T14:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/andrzej-wajda/man-of-marble",
+   "tickets": "https://www.siff.net/programs-and-events/andrzej-wajda/man-of-marble#screening-h7ORyjpS6G",
    "notes": [
     "The Films of Andrzej Wajda"
    ]
