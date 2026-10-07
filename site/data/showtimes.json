@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T11:54:00-07:00",
+ "updated": "2026-10-07T12:19:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,10 +14,10 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-06T11:54:00-07:00",
-    "lastSuccess": "2026-10-06T11:54:00-07:00",
+    "checked": "2026-10-07T12:19:00-07:00",
+    "lastSuccess": "2026-10-07T12:19:00-07:00",
     "showings": 63,
-    "through": "2026-11-10"
+    "through": "2026-11-11"
    }
   },
   {
@@ -33,10 +33,10 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-06T11:54:00-07:00",
-    "lastSuccess": "2026-10-06T11:54:00-07:00",
-    "showings": 146,
-    "through": "2026-11-10"
+    "checked": "2026-10-07T12:19:00-07:00",
+    "lastSuccess": "2026-10-07T12:19:00-07:00",
+    "showings": 150,
+    "through": "2026-11-11"
    }
   },
   {
@@ -52,8 +52,8 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-06T11:54:00-07:00",
-    "lastSuccess": "2026-10-06T11:54:00-07:00",
+    "checked": "2026-10-07T12:19:00-07:00",
+    "lastSuccess": "2026-10-07T12:19:00-07:00",
     "showings": 31,
     "through": "2026-11-08"
    }
@@ -70,9 +70,9 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-06T11:54:00-07:00",
-    "lastSuccess": "2026-10-06T11:54:00-07:00",
-    "showings": 10,
+    "checked": "2026-10-07T12:19:00-07:00",
+    "lastSuccess": "2026-10-07T12:19:00-07:00",
+    "showings": 8,
     "through": "2026-11-03"
    }
   },
@@ -88,8 +88,8 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-06T11:54:00-07:00",
-    "lastSuccess": "2026-10-06T11:54:00-07:00",
+    "checked": "2026-10-07T12:19:00-07:00",
+    "lastSuccess": "2026-10-07T12:19:00-07:00",
     "showings": 60,
     "through": "2026-11-05"
    }
@@ -107,10 +107,10 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-06T11:54:00-07:00",
-    "lastSuccess": "2026-10-06T11:54:00-07:00",
-    "showings": 58,
-    "through": "2026-10-29"
+    "checked": "2026-10-07T12:19:00-07:00",
+    "lastSuccess": "2026-10-07T12:19:00-07:00",
+    "showings": 74,
+    "through": "2026-11-05"
    }
   },
   {
@@ -126,9 +126,9 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-06T11:54:00-07:00",
-    "lastSuccess": "2026-10-06T11:54:00-07:00",
-    "showings": 37,
+    "checked": "2026-10-07T12:19:00-07:00",
+    "lastSuccess": "2026-10-07T12:19:00-07:00",
+    "showings": 35,
     "through": "2026-11-02"
    }
   },
@@ -145,9 +145,9 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-06T11:54:00-07:00",
-    "lastSuccess": "2026-10-06T11:54:00-07:00",
-    "showings": 61,
+    "checked": "2026-10-07T12:19:00-07:00",
+    "lastSuccess": "2026-10-07T12:19:00-07:00",
+    "showings": 55,
     "through": "2026-10-29"
    }
   },
@@ -164,10 +164,10 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-06T11:54:00-07:00",
-    "lastSuccess": "2026-10-06T11:54:00-07:00",
-    "showings": 77,
-    "through": "2026-11-04"
+    "checked": "2026-10-07T12:19:00-07:00",
+    "lastSuccess": "2026-10-07T12:19:00-07:00",
+    "showings": 74,
+    "through": "2026-11-11"
    }
   },
   {
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-06T11:54:00-07:00",
-    "lastSuccess": "2026-10-06T11:54:00-07:00",
-    "showings": 26,
+    "checked": "2026-10-07T12:19:00-07:00",
+    "lastSuccess": "2026-10-07T12:19:00-07:00",
+    "showings": 18,
     "through": "2026-10-17"
    }
   },
@@ -201,8 +201,8 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-06T11:54:00-07:00",
-    "lastSuccess": "2026-10-06T11:54:00-07:00",
+    "checked": "2026-10-07T12:19:00-07:00",
+    "lastSuccess": "2026-10-07T12:19:00-07:00",
     "showings": 19,
     "through": "2026-11-01"
    }
@@ -220,9 +220,9 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-06T11:54:00-07:00",
-    "lastSuccess": "2026-10-06T11:54:00-07:00",
-    "showings": 31,
+    "checked": "2026-10-07T12:19:00-07:00",
+    "lastSuccess": "2026-10-07T12:19:00-07:00",
+    "showings": 32,
     "through": "2026-11-01"
    }
   }
@@ -283,6 +283,24 @@
    }
   },
   {
+   "id": "a-nightmare-on-elm-street",
+   "title": "A Nightmare on Elm Street",
+   "description": "1, 2, Feeddy's coming for you...\n\nNancy Thompson and her friends all share the same disturbing image in their dreams: a horribly disfigured man with knives on one hand. They soon learn this man is not just a figment of their imagination, and if they flal asleep, there's a very good chance they may never wake up.\n\nRobert Englund plays the iconic Freddy Krueger in Wes Craven's horror classic. Heather Langenkamp stars as Nancy, one of cinema's most quintessential final girls. The film also features Johnny Depp's big screen debut as her boyfriend Glen.",
+   "runtime": 91,
+   "year": 1984,
+   "director": "Wes Craven",
+   "country": "United States",
+   "language": "English",
+   "rating": "R",
+   "genres": [
+    "Horror"
+   ],
+   "image": "https://indy-systems.imgix.net/ayb5yvf2qr0veovcpsr1zzpzxbd6?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
+   "links": {
+    "central-cinema": "https://central-cinema.com/movie/a-nightmare-on-elm-street/"
+   }
+  },
+  {
    "id": "a-serbian-film",
    "title": "A Serbian Film",
    "description": "Co-presented with Scarecrow Video, keeping the world’s largest physical media archive alive, so no romance, no comedy, not even New French Extremity, is lost to time. Each Trauma Bond screening features a live Drag pre-show from Seattle’s own Monday Mourning.\n\nAn aging porn star agrees to participate in an “art film” in order to make a clean break from the business, only to discover that he has been drafted into making one of the harshest films ever made. In order to escape his living cinematic hell and save his family’s life, Milos will have to sacrifice everything – his pride, his morality, his sanity, and maybe even his own life.",
@@ -329,19 +347,6 @@
    "image": "https://static.spotapps.co/spots/93/2bcf50bb6a401fb6a034d587051c94/w926",
    "links": {
     "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
-   "id": "an-aria-on-gazes",
-   "title": "An Aria on Gazes",
-   "description": "One of legendary filmmaker Hisayasu Satô’s most celebrated and visually stunning works, newly restored!\n\nHousewife Kyoko (Kiyomi Ito) begins moonlighting at a mysterious sex club as a means of rebelling against her boring salaryman husband Akihito (Mineo Sugiura). The Bedroom isn’t like any normal sex club, though: the female hostesses all take the powerful sedative Halcion to sleep through their perverse encounters with the male clientele, waking up at the end of their shifts with no memory of what’s been done to them. But when Kyoko decides to explore her fetish for voyeurism by not taking the drug, the lines between fantasy and reality quickly become increasingly blurred—and dangerous.",
-   "runtime": 65,
-   "year": 1992,
-   "director": "Hisayasu Sato",
-   "language": "Japanese",
-   "image": "https://grandillusioncinema.org/wp-content/uploads/2026/09/anariaongazesposter-550x825.jpg",
-   "links": {
-    "grand-illusion": "https://grandillusioncinema.org/film/an-aria-on-gazes-new-restoration/"
    }
   },
   {
@@ -493,18 +498,6 @@
    }
   },
   {
-   "id": "buchanan-rides-alone",
-   "title": "Buchanan Rides Alone",
-   "description": "Narrow Margin, a quarterly magazine dedicated to neglected corners of cinema, is proud to present with The Beacon for our fourth issue, The Western: B to Z, a screening of Budd Boetticher's BUCHANAN RIDES ALONE. The issue contains new and translated writing honoring, examining and reckoning with the genre from its inception through the heyday of the B western to its dogged holdouts after the collapse of the studio system. Issues will be available to purchase at the show.\n\nThe third film in Budd Boetticher's Ranown cycle, BUCHANAN RIDES ALONE follows Tom Buchanan (Randolph Scott), a drifter defending the life of a Mexican man who's charged for the murder of Roy Agry, whose family rules the town.",
-   "runtime": 80,
-   "year": 1958,
-   "director": "Budd Boetticher",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789847764408-tb-buchananridesalone.png",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/narrow-margin-release-party-buchanan-rides-alone"
-   }
-  },
-  {
    "id": "call-me-by-your-name",
    "title": "Call Me By Your Name",
    "description": "It's the summer of 1983, and precocious 17-year-old Elio Perlman is spending the days with his family at their 17th-century villa in Lombardy, Italy. He soon meets Oliver, a handsome doctoral student who's working as an intern for Elio's father. Amid the sun-drenched splendor of their surroundings, Elio and Oliver discover the heady beauty of awakening desire over the course of a summer that will alter their lives forever.\n\nPart of the Rainbow Reels Series presented by SnoValley Pride (https://snovalleypride.org/).",
@@ -606,20 +599,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jan-May/CIN_CatVidFest26_1600x900.png",
    "links": {
     "siff-uptown": "https://www.siff.net/cinema/in-theaters/cat-vid-fest-26"
-   }
-  },
-  {
-   "id": "christmas-pop-up",
-   "title": "Christmas Pop-Up",
-   "description": "Fran, a quirky, Christmas-obsessed designer is scrambling to move out of the apartment she shares with her ex-boyfriend and his new girlfriend before they get engaged on New Year’s Eve. Will, a jaded celebrity chef who has lost his love for cooking and the holidays, needs to salvage his reputation after a brutal breakup with his business partner. Determined to succeed, Fran enlists her besties to pull off the perfect Christmas culinary pop-up and help Will remember why he loved cooking in the first place. And despite her vow to never date another chef, sparks begin to fly.",
-   "runtime": 93,
-   "year": 2026,
-   "director": "Molly Muse",
-   "country": "USA",
-   "language": "English",
-   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/REN_ChristmasPopUp_1600x900.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/christmas-pop-up"
    }
   },
   {
@@ -1091,8 +1070,20 @@
    "id": "hocus-pocus",
    "title": "Hocus Pocus",
    "description": "In this bewitching story, three mischievous witches are inadvertently resurrected when teenager Max Dennison discovers an ancient spellbook in Salem. Along with his sister Dani and new friend Allison, Max must stop the witches from carrying out a nefarious plan. The trio of witches, portrayed by Bette Midler, Sarah Jessica Parker, and Kathy Najimy, wreak havoc as the children race to steal their spellbook and prevent a wicked curse from engulfing the town",
-   "image": "https://static.spotapps.co/spots/18/10d0d7ae784242bca662d5e29eeb76/w926",
+   "runtime": 96,
+   "year": 1993,
+   "director": "Kenny Ortega",
+   "country": "United States",
+   "language": "English",
+   "rating": "PG",
+   "genres": [
+    "Fantasy",
+    "Comedy",
+    "Family"
+   ],
+   "image": "https://indy-systems.imgix.net/upvblpb06vn9w3ql0mjqpdtqiuuf?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
    "links": {
+    "central-cinema": "https://central-cinema.com/movie/hocus-pocus/",
     "tin-room": "https://tinroombar.com/events"
    }
   },
@@ -1274,6 +1265,20 @@
    }
   },
   {
+   "id": "la-bola-negra",
+   "title": "La bola negra",
+   "description": "La bola negra, also known as The Black Ball, inspired by an unfinished play by Federico García Lorca, will be a queer vindication about three men in three different moments of Spanish history: 1932, 1937, and 2017.",
+   "runtime": 159,
+   "year": 2026,
+   "director": "Javier Calvo, Javier Ambrossi",
+   "country": "USA",
+   "language": "Spanish",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_Labolanegra_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/la-bola-negra"
+   }
+  },
+  {
    "id": "lady",
    "title": "Lady",
    "description": "“Those of us pining for Sian Clifford since the end of 'Fleabag' . . . have been rewarded with an outrageous barnstormer in this bizarre mockumentary comedy.” – Peter Bradshaw, The Guardian\n\nIn pursuit of his first big break (and, more importantly, the promise of a Netflix deal), young documentarian Sam agrees to meet with the aristocratic Lady Isabella at her imposing country estate, Ravenhyde Hall. However, even he is shocked by the immense scope of her patrician pompousness and eccentric behavior. Obscenely self-absorbed, she describes herself as \"the aristocracy's answer to the Kardashians\". Her envisioned vanity project, for which she wants Sam to film the making-of, entails an ill-conceived multimedia performance art showcase to debut at the Stately Stars, a local talent show competition for youth held annually at the Hall. Sam agrees to her proposition, sensing a ripe opportunity to skewer Lady Isabella's artistic pretensions, presenting her creative endeavor as nothing more than privileged self-entitlement. And then something unseen and quite strange begins to happen. Sian Clifford, who played Phoebe Waller-Bridge's sister in \"Fleabag\", gives a riotously unhinged performance as Lady Isabella, while director Sam Abrahams brilliantly utilizes the mockumentary format to fashion a comic narrative that plays out like an unholy communion of Grey Gardens, Sunset Boulevard, and \"Ab Fab\" at its most absurd.",
@@ -1400,18 +1405,6 @@
    "image": "https://grandillusioncinema.org/wp-content/uploads/2026/10/marieantoinetteposter-1.png",
    "links": {
     "grand-illusion": "https://grandillusioncinema.org/film/marie-antoinette/"
-   }
-  },
-  {
-   "id": "master-of-the-flying-guillotine",
-   "title": "Master of the Flying Guillotine",
-   "description": "A blind assassin armed with a vicious flying guillotine is out to kill the legendary one-armed boxer (martial arts superstar Jimmy Wang Yu). Along the way, he interrupts a bizarre kung fu tournament and heads start to roll. It's up to the one-armed boxer now, with his skull shattering punch and his ability to walk on walls. Eagle claw masters, a monkey-style kung fu fight, and a Swami fighter with ten foot arms are just stepping stones to the massive showdown with the flying guillotine.\n\nFeaturing extravagant choreography by brothers Lau Kar-leung and Lau Kar-wing, this film set the template for martial-arts video games with its centerpiece kung-fu tournament full of freaky contestants, and the fireworks of its final showdown (set in a booby-trapped coffin shop) have yet to be equaled.\n\nThis is one of the greatest kung fu movies of all time, and truly must be seen to be believed.",
-   "runtime": 93,
-   "year": 1976,
-   "director": "Jimmy Wang Yu",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789694118683-tb-masteroftheflyingguillotine.jpg",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/master-of-the-flying-guillotine"
    }
   },
   {
@@ -1784,6 +1777,19 @@
    }
   },
   {
+   "id": "seattle-film-society-presents-locals-only-october-2026",
+   "title": "Seattle Film Society Presents Locals Only: October 2026",
+   "description": "October is for terror! On tap this month are flesh eating nightmares and unexplained disappearances, unnerving polaroids and weekends gone wrong. Not to mention a freak you won’t be able to unsee. For all the horror-heads out there, this one’s for you:\n\n- POLAROID by Joey Greene: A young man is thrust into a terrifying mystery when the Polaroid photos that he has taken reveal something that isn’t actually there. (3 Min)\n\n- BEST FRIEND MATERIAL by Mel McCarthy & Nathan Blanchard: A guys weekend goes wrong. (15 min)\n\n- ADHESION by Mel McCarthy & Nathan Blanchard: A vain party clown suffocates in her own flesh-eating nightmare. (4 min)\n\n- MOTHER OF NIGHT by Mohamed Abdullahi & Rayana Mohamed: After a series of unexplained disappearances, a night-shift waitress investigates a ghostly local myth and discovers the horror may be terrifyingly real. (13 Min)\n\n- LOOK AT THIS FREAK by Alex Furnas: A reunion of old friends is disrupted by a hated roommate and something else that’s even worse. (15 Min)\n\nThis event is presented in partnership with the Northwest Film Forum. Join us for a screening and Q&A with drinks to follow at Linda’s Tavern! See ya at the movies!",
+   "runtime": 50,
+   "genres": [
+    "Shorts"
+   ],
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/Locals-Only-NWFF-1600x900-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-only-october-2026/"
+   }
+  },
+  {
    "id": "shaun-the-sheep-the-beast-of-mossy-bottom",
    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
    "description": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
@@ -1848,6 +1854,22 @@
    "image": "https://static.spotapps.co/spots/ae/42a6bc2c224acc92da0f49426452e5/w926",
    "links": {
     "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
+   "id": "star-trek-ii-the-wrath-of-khan",
+   "title": "Star Trek II: The Wrath of Khan",
+   "description": "Admiral Kirk's midlife crisis is interrupted by the return of an old enemy looking for revenge and a potentially destructive device.",
+   "runtime": 112,
+   "year": 1982,
+   "director": "Nicholas Meyer",
+   "rating": "PG",
+   "genres": [
+    "Science fiction"
+   ],
+   "image": "https://all.web.img.acsta.net/img/d8/a7/d8a79ffd1a4b2ced47be8a988397edbe.jpg",
+   "links": {
+    "majestic-bay": "https://www.majesticbay.com/movies/39173-star-trek-ii-the-wrath-of-khan/"
    }
   },
   {
@@ -2249,6 +2271,25 @@
    }
   },
   {
+   "id": "room",
+   "title": "The Room",
+   "description": "The unstoppable cult classic returns for it's monthly screening! Director/Writer/Producer/Leading Man Tommy Wiseau plays Johnny, a banker who likes to throw footballs with friends, mentors a drug dealing man child, loves doggies, and isn't aware that his best friend is sleeping with his future wife. Also, he did not hit her. He did naaaaaaat. Show up early for pre-show fun.",
+   "runtime": 100,
+   "year": 2003,
+   "director": "Tommy Wiseau",
+   "country": "United States",
+   "language": "English",
+   "rating": "R",
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "image": "https://indy-systems.imgix.net/ft8rget6a5qd5o1td85n3f7xv6zm?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
+   "links": {
+    "central-cinema": "https://central-cinema.com/movie/the-room/"
+   }
+  },
+  {
    "id": "scout",
    "title": "The Scout",
    "description": "Sofia works as a location scout for a TV pilot filming in New York City. It’s her job to find the homes, businesses, and exteriors where the show will be filmed. Driving around the city's different neighborhoods, she enters the private spaces of strangers to photograph their cozy apartments and eclectic shops, stepping into the fabric of their lives while trying to satisfy the demands of her erratic employers. Over a day filled with these encounters, Sofia witnesses moments of curiosity, vulnerability, and quiet tension until her work takes a sudden, personal turn. Drawing from her own experience as a location scout, writer-director Paula González-Nasser captures the poetry and costs of being a young creative. Her celebrated directorial debut The Scout crafts a contemplative exploration of urban disconnection, following one woman's journey through other people's worlds as she struggles to find her own.\n\nAlumni of the 2016 edition of NFFTY, filmmakers Paula González-Nasser and Ryan Martin Brown will be in conversation with NFFTY Program Manager Amy Williams following the film. Special youth pricing (24 & younger) is available for the 10/9 screening.",
@@ -2524,18 +2565,6 @@
    }
   },
   {
-   "id": "videodrome",
-   "title": "Videodrome",
-   "description": "Annual William Kennedy Memorial Screening of the David Cronenberg classic!\n\nWhen Max Renn goes looking for edgy new shows for his sleazy cable TV station, he stumbles across the pirate broadcast of a hyperviolent torture show called Videodrome. As he struggles to unearth the origins of the program, he embarks on a hallucinatory journey into a shadow world of right-wing conspiracies, sadomasochistic sex games, and bodily transformation. Starring James Woods and Debbie Harry, with groundbreaking special effects makeup by Rick Baker, VIDEODROME is one of David Cronenberg’s most original and provocative works, fusing social commentary with shocking elements of sex and violence.\n\nBack in June 2021, Seattle lost one of its most dedicated cinephiles, William Kennedy. One of Bill’s final wishes was that people gather to watch VIDEODROME in his memory. A portion of the proceeds from this screening will be donated to Evergreen Playhouse in Centralia, where Bill performed in several productions prior to moving to Seattle.",
-   "runtime": 89,
-   "year": 1983,
-   "director": "David Cronenberg",
-   "image": "https://grandillusioncinema.org/wp-content/uploads/2023/09/51abedf669bedd9706000029-550x733.jpg",
-   "links": {
-    "grand-illusion": "https://grandillusioncinema.org/film/videodrome-the-directors-cut/"
-   }
-  },
-  {
    "id": "wagon-master",
    "title": "Wagon Master",
    "description": "A picaresque road poem, Wagon Master remained a personal favorite of John Ford’s amongst his own pictures and one of three that “came closest to being what I wanted to achieve.” Nearly plotless with an emphasis on grace notes, this relaxed film charts the journey of two horse traders with a shared yen for adventure who are hired by Elder Wiggs (Ward Bond) to lead a Mormon wagon train through southeastern Utah. Along the way they encounter a theater troupe, sex workers, lawmen, Indigenous peoples, and ornery outlaws on the run, all of whom find themselves brought in as members of the traveling community through what Harvard Film Archive calls an “almost musical combination, separation and recombination.” Deceptively simple and elegant in construction, Ford shot this lyrical and visually rapturous film away from his usual commanding landscapes of Monument Valley, instead emphasizing the beauty of a multicultural motley crew of outcasts on the dusty trail.\n\n“Seldom has the western landscape seemed such a tangible emblem of hope and freedom. A masterpiece beyond question — but a masterpiece that never degenerates into pomposity or self-consciousness. It's American filmmaking at its finest and most eloquent.\" — Dave Kehr, Chicago Reader\n\n“Wagon Master is more poetry than drama…less interested in where it is going (plot), than in where it is (the moment). Still, obviously, it is a movie about passage, a ‘parade’ West. Only briefly is ‘home,’ the antithesis of passage, suggested.” — Tag Gallagher\n\n35mm print courtesy of Park Circus",
@@ -2685,301 +2714,6 @@
   }
  ],
  "showings": [
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-06T15:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36367?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-06T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16871/781",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-06T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16868/780",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-06T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16862/717",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "forgotten-island",
-   "theater": "majestic-bay",
-   "start": "2026-10-06T15:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296642-forgotten-island/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36369?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-06T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16865/770",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "beetlejuice",
-   "theater": "central-cinema",
-   "start": "2026-10-06T16:00:00-07:00",
-   "url": "https://central-cinema.com/movie/beetlejuice/",
-   "tickets": "https://central-cinema.com/checkout/showing/beetlejuice/3866085"
-  },
-  {
-   "film": "coyote-vs-acme",
-   "theater": "majestic-bay",
-   "start": "2026-10-06T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/267335-coyote-vs-acme/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36371?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "digger",
-   "theater": "siff-downtown",
-   "start": "2026-10-06T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/digger",
-   "tickets": "https://www.siff.net/cinema/in-theaters/digger#screening-upUjJ9PY43"
-  },
-  {
-   "film": "filipinana",
-   "theater": "siff-uptown",
-   "start": "2026-10-06T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/filipinana",
-   "tickets": "https://www.siff.net/cinema/in-theaters/filipinana#screening-wwIvmofNU7"
-  },
-  {
-   "film": "master-of-the-flying-guillotine",
-   "theater": "beacon",
-   "start": "2026-10-06T16:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/master-of-the-flying-guillotine",
-   "tickets": "https://thebeacon.film/calendar/movie/master-of-the-flying-guillotine?showtime=PTNHA3MDYYCBQIFXYJQAZMBY"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-06T16:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-SP0XMLIEGj"
-  },
-  {
-   "film": "unzipped",
-   "theater": "siff-uptown",
-   "start": "2026-10-06T16:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/unzipped",
-   "tickets": "https://www.siff.net/cinema/in-theaters/unzipped#screening-KNwWNWqLZl"
-  },
-  {
-   "film": "filipinana",
-   "theater": "tasveer",
-   "start": "2026-10-06T17:00:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/filipiana",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/filipiana/4005245"
-  },
-  {
-   "film": "traces-of-home",
-   "theater": "tasveer",
-   "start": "2026-10-06T17:00:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/traces-of-home-film",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/traces-of-home-film/3920761",
-   "notes": [
-    "Open captions"
-   ]
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "tasveer",
-   "start": "2026-10-06T17:15:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-history-of-concrete-2026-usa",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-history-of-concrete-2026-usa/3960761"
-  },
-  {
-   "film": "an-aria-on-gazes",
-   "theater": "grand-illusion",
-   "start": "2026-10-06T18:00:00-07:00",
-   "url": "https://grandillusioncinema.org/film/an-aria-on-gazes-new-restoration/",
-   "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=653896~db6ae971-a7a0-4ce7-8336-1f487b58723c&",
-   "notes": [
-    "New restoration"
-   ]
-  },
-  {
-   "film": "cuckoo-clock",
-   "theater": "admiral",
-   "start": "2026-10-06T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cuckoo-clock",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16555/762",
-   "notes": [
-    "Special advance screening"
-   ]
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-06T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16880/781",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-06T18:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36368?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-06T18:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16869/780",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-06T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16866/770",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "forgotten-island",
-   "theater": "majestic-bay",
-   "start": "2026-10-06T18:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296642-forgotten-island/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36370?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "beetlejuice",
-   "theater": "central-cinema",
-   "start": "2026-10-06T19:00:00-07:00",
-   "url": "https://central-cinema.com/movie/beetlejuice/",
-   "tickets": "https://central-cinema.com/checkout/showing/beetlejuice/3866086"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "majestic-bay",
-   "start": "2026-10-06T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000000085-heart-of-the-beast/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36372?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "nwff",
-   "start": "2026-10-06T19:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/the-history-of-concrete/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a7b8c534c0bc4aa842fc45d"
-  },
-  {
-   "film": "unzipped",
-   "theater": "siff-uptown",
-   "start": "2026-10-06T19:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/unzipped",
-   "tickets": "https://www.siff.net/cinema/in-theaters/unzipped#screening-FFaRp3fShw"
-  },
-  {
-   "film": "primetime",
-   "theater": "tasveer",
-   "start": "2026-10-06T19:10:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/primetime-usa-2026",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/primetime-usa-2026/3920758"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "siff-uptown",
-   "start": "2026-10-06T19:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-aF7WPpP8UZ"
-  },
-  {
-   "film": "condor-daughter",
-   "theater": "tasveer",
-   "start": "2026-10-06T19:20:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-condor-daughter-la-hija-cndor-boliviaperuuruguay-2025",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-condor-daughter-la-hija-cndor-boliviaperuuruguay-2025/3920742"
-  },
-  {
-   "film": "buchanan-rides-alone",
-   "theater": "beacon",
-   "start": "2026-10-06T19:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/narrow-margin-release-party-buchanan-rides-alone",
-   "tickets": "https://thebeacon.film/calendar/movie/narrow-margin-release-party-buchanan-rides-alone?showtime=7OEWN2QV3JQD3ZSHARMCA2XS",
-   "notes": [
-    "Narrow Margin Release Party"
-   ]
-  },
-  {
-   "film": "chronovisor",
-   "theater": "nwff",
-   "start": "2026-10-06T19:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/chronovisor/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a7e0471e90f76270c79f17b"
-  },
-  {
-   "film": "digger",
-   "theater": "siff-downtown",
-   "start": "2026-10-06T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/digger",
-   "tickets": "https://www.siff.net/cinema/in-theaters/digger#screening-R57CDgr91E"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-06T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-ZYB2DRmr2i"
-  },
-  {
-   "film": "traces-of-home",
-   "theater": "tasveer",
-   "start": "2026-10-06T19:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/traces-of-home-film",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/traces-of-home-film/3920760"
-  },
-  {
-   "film": "videodrome",
-   "theater": "grand-illusion",
-   "start": "2026-10-06T20:00:00-07:00",
-   "url": "https://grandillusioncinema.org/film/videodrome-the-directors-cut/",
-   "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=161219~db6ae971-a7a0-4ce7-8336-1f487b58723c&",
-   "notes": [
-    "Director’s cut"
-   ]
-  },
-  {
-   "film": "ju-on-the-grudge",
-   "theater": "central-cinema",
-   "start": "2026-10-06T21:30:00-07:00",
-   "url": "https://central-cinema.com/movie/ju-on-the-grudge/",
-   "tickets": "https://central-cinema.com/checkout/showing/ju-on-the-grudge/3906015"
-  },
   {
    "film": "digger",
    "theater": "majestic-bay",
@@ -4032,6 +3766,20 @@
    "tickets": "https://central-cinema.com/checkout/showing/blade/3906301"
   },
   {
+   "film": "resident-evil",
+   "theater": "majestic-bay",
+   "start": "2026-10-10T22:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36443?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-10T22:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36444?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "lady",
    "theater": "siff-uptown",
    "start": "2026-10-11T11:45:00-07:00",
@@ -4058,13 +3806,6 @@
    "start": "2026-10-11T12:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
    "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-HFk9H3QKKn"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "siff-uptown",
-   "start": "2026-10-11T12:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-P7x1PGZmT5"
   },
   {
    "film": "social-reckoning",
@@ -4331,6 +4072,16 @@
    "tickets": "https://central-cinema.com/checkout/showing/blade/3906304"
   },
   {
+   "film": "shaun-the-sheep-the-beast-of-mossy-bottom",
+   "theater": "north-bend",
+   "start": "2026-10-12T12:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/kids-screening-shaun-the-sheep-the-beast-of-mossy-bottom-monday-oct-12th-12pm",
+   "tickets": "https://tix.northbendtheatre.com/event/kids-screening-shaun-the-sheep-the-beast-of-mossy-bottom-monday-oct-12th-12pm",
+   "notes": [
+    "Kids screening"
+   ]
+  },
+  {
    "film": "forgotten-island",
    "theater": "majestic-bay",
    "start": "2026-10-12T15:30:00-07:00",
@@ -4498,13 +4249,6 @@
    "start": "2026-10-13T16:30:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/primetime",
    "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-MStKBDhCaf"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "siff-uptown",
-   "start": "2026-10-13T16:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-USYyADBs32"
   },
   {
    "film": "naza",
@@ -4706,13 +4450,6 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-w97krocFMd"
   },
   {
-   "film": "history-of-concrete",
-   "theater": "siff-uptown",
-   "start": "2026-10-14T19:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-JJrRbZMVu2"
-  },
-  {
    "film": "resident-evil",
    "theater": "majestic-bay",
    "start": "2026-10-14T19:15:00-07:00",
@@ -4725,6 +4462,13 @@
    "start": "2026-10-14T19:15:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/naza",
    "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-ilcJ5Sxb5H"
+  },
+  {
+   "film": "chronovisor",
+   "theater": "nwff",
+   "start": "2026-10-14T19:30:00-07:00",
+   "url": "https://nwfilmforum.org/films/chronovisor/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac66dc24f61fa92370f9a7f"
   },
   {
    "film": "history-of-concrete",
@@ -6841,6 +6585,16 @@
    ]
   },
   {
+   "film": "seattle-film-society-presents-locals-only-october-2026",
+   "theater": "nwff",
+   "start": "2026-10-29T19:00:00-07:00",
+   "url": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-only-october-2026/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac5b5a42068ad7ca7b55449",
+   "notes": [
+    "Visiting artist"
+   ]
+  },
+  {
    "film": "passenger",
    "theater": "siff-film-center",
    "start": "2026-10-29T19:00:00-07:00",
@@ -6903,11 +6657,31 @@
    "tickets": "https://tix.northbendtheatre.com/event/wildwood-friday-oct-30th-3pm"
   },
   {
+   "film": "hocus-pocus",
+   "theater": "central-cinema",
+   "start": "2026-10-30T16:00:00-07:00",
+   "url": "https://central-cinema.com/movie/hocus-pocus/",
+   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080461",
+   "notes": [
+    "Family"
+   ]
+  },
+  {
    "film": "land-of-the-dead-it-s-for-the-gays",
    "theater": "siff-film-center",
    "start": "2026-10-30T18:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/land-of-the-dead-its-for-the-gays",
    "tickets": "https://www.siff.net/cinema/in-theaters/land-of-the-dead-its-for-the-gays#screening-9Sifmjwjyg"
+  },
+  {
+   "film": "hocus-pocus",
+   "theater": "central-cinema",
+   "start": "2026-10-30T19:00:00-07:00",
+   "url": "https://central-cinema.com/movie/hocus-pocus/",
+   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080462",
+   "notes": [
+    "Family"
+   ]
   },
   {
    "film": "wildwood",
@@ -6931,6 +6705,13 @@
    "notes": [
     "Visiting artist"
    ]
+  },
+  {
+   "film": "a-nightmare-on-elm-street",
+   "theater": "central-cinema",
+   "start": "2026-10-30T21:30:00-07:00",
+   "url": "https://central-cinema.com/movie/a-nightmare-on-elm-street/",
+   "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080564"
   },
   {
    "film": "spookies",
@@ -6970,6 +6751,16 @@
    "tickets": "https://thebeacon.film/calendar/movie/mad-monster-party?showtime=34JFNPFX5L57DNBN6FSIQJUN"
   },
   {
+   "film": "hocus-pocus",
+   "theater": "central-cinema",
+   "start": "2026-10-31T16:00:00-07:00",
+   "url": "https://central-cinema.com/movie/hocus-pocus/",
+   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080463",
+   "notes": [
+    "Family"
+   ]
+  },
+  {
    "film": "2026-collide-o-scope-halloween-show",
    "theater": "nwff",
    "start": "2026-10-31T17:00:00-07:00",
@@ -6987,6 +6778,16 @@
    "tickets": "https://thebeacon.film/calendar/movie/five-minutes-to-die?showtime=SKLNKIDWXYAJIWODKS2XYEQX"
   },
   {
+   "film": "hocus-pocus",
+   "theater": "central-cinema",
+   "start": "2026-10-31T19:00:00-07:00",
+   "url": "https://central-cinema.com/movie/hocus-pocus/",
+   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080464",
+   "notes": [
+    "Family"
+   ]
+  },
+  {
    "film": "rocky-horror-picture-show",
    "theater": "tin-room",
    "start": "2026-10-31T19:00:00-07:00",
@@ -7001,6 +6802,13 @@
    "notes": [
     "Visiting artist"
    ]
+  },
+  {
+   "film": "a-nightmare-on-elm-street",
+   "theater": "central-cinema",
+   "start": "2026-10-31T21:30:00-07:00",
+   "url": "https://central-cinema.com/movie/a-nightmare-on-elm-street/",
+   "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080565"
   },
   {
    "film": "leopard-man",
@@ -7056,6 +6864,16 @@
    "url": "https://tinroombar.com/events"
   },
   {
+   "film": "hocus-pocus",
+   "theater": "central-cinema",
+   "start": "2026-11-01T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/hocus-pocus/",
+   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080465",
+   "notes": [
+    "Family"
+   ]
+  },
+  {
    "film": "wildwood",
    "theater": "north-bend",
    "start": "2026-11-01T19:00:00-08:00",
@@ -7077,11 +6895,38 @@
    "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=661735~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
   },
   {
+   "film": "a-nightmare-on-elm-street",
+   "theater": "central-cinema",
+   "start": "2026-11-01T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/a-nightmare-on-elm-street/",
+   "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080566"
+  },
+  {
+   "film": "hocus-pocus",
+   "theater": "central-cinema",
+   "start": "2026-11-02T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/hocus-pocus/",
+   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080466",
+   "notes": [
+    "Family"
+   ]
+  },
+  {
    "film": "leopard-man",
    "theater": "beacon",
    "start": "2026-11-02T16:30:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/the-leopard-man",
    "tickets": "https://thebeacon.film/calendar/movie/the-leopard-man?showtime=SB5NFQFPBBH3NYKYNYDJTN3X"
+  },
+  {
+   "film": "hocus-pocus",
+   "theater": "central-cinema",
+   "start": "2026-11-02T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/hocus-pocus/",
+   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080467",
+   "notes": [
+    "Family"
+   ]
   },
   {
    "film": "two-lane-blacktop",
@@ -7095,6 +6940,33 @@
    ]
   },
   {
+   "film": "a-nightmare-on-elm-street",
+   "theater": "central-cinema",
+   "start": "2026-11-02T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/a-nightmare-on-elm-street/",
+   "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080567"
+  },
+  {
+   "film": "hocus-pocus",
+   "theater": "central-cinema",
+   "start": "2026-11-03T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/hocus-pocus/",
+   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080468",
+   "notes": [
+    "Family"
+   ]
+  },
+  {
+   "film": "hocus-pocus",
+   "theater": "central-cinema",
+   "start": "2026-11-03T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/hocus-pocus/",
+   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080469",
+   "notes": [
+    "Family"
+   ]
+  },
+  {
    "film": "withdrawal",
    "theater": "grand-illusion",
    "start": "2026-11-03T19:15:00-08:00",
@@ -7102,11 +6974,38 @@
    "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=658861~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
   },
   {
+   "film": "a-nightmare-on-elm-street",
+   "theater": "central-cinema",
+   "start": "2026-11-03T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/a-nightmare-on-elm-street/",
+   "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080568"
+  },
+  {
+   "film": "hocus-pocus",
+   "theater": "central-cinema",
+   "start": "2026-11-04T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/hocus-pocus/",
+   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080470",
+   "notes": [
+    "Family"
+   ]
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-04T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-TnEy6voDr2"
+  },
+  {
+   "film": "hocus-pocus",
+   "theater": "central-cinema",
+   "start": "2026-11-04T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/hocus-pocus/",
+   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080471",
+   "notes": [
+    "Family"
+   ]
   },
   {
    "film": "star-trek-the-motion-picture",
@@ -7137,11 +7036,28 @@
    ]
   },
   {
+   "film": "a-nightmare-on-elm-street",
+   "theater": "central-cinema",
+   "start": "2026-11-04T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/a-nightmare-on-elm-street/",
+   "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080569"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-05T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-Z90R95VVcM"
+  },
+  {
+   "film": "cartoon-happy-hour",
+   "theater": "central-cinema",
+   "start": "2026-11-05T17:00:00-08:00",
+   "url": "https://central-cinema.com/movie/cartoon-happy-hour/",
+   "tickets": "https://central-cinema.com/checkout/showing/cartoon-happy-hour/4080472",
+   "notes": [
+    "Free admission"
+   ]
   },
   {
    "film": "two-lane-blacktop",
@@ -7169,11 +7085,18 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-yVBQ5UAlEE"
   },
   {
-   "film": "christmas-pop-up",
+   "film": "room",
+   "theater": "central-cinema",
+   "start": "2026-11-05T20:00:00-08:00",
+   "url": "https://central-cinema.com/movie/the-room/",
+   "tickets": "https://central-cinema.com/checkout/showing/the-room/4080473"
+  },
+  {
+   "film": "la-bola-negra",
    "theater": "siff-uptown",
-   "start": "2026-11-05T19:30:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/christmas-pop-up",
-   "tickets": "https://www.siff.net/cinema/in-theaters/christmas-pop-up#screening-NJGxrLb0fS"
+   "start": "2026-11-06T15:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
+   "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-tAq3Qkhj3Z"
   },
   {
    "film": "godzilla-minus-zero",
@@ -7181,6 +7104,13 @@
    "start": "2026-11-06T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-2OlA8yPUrS"
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "siff-uptown",
+   "start": "2026-11-06T19:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
+   "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-jyy6W7DBcu"
   },
   {
    "film": "godzilla-minus-zero",
@@ -7197,6 +7127,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-HHrlhNC0HR"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "siff-uptown",
+   "start": "2026-11-07T12:45:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
+   "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-t58xtqtHbe"
+  },
+  {
    "film": "promised-land",
    "theater": "siff-film-center",
    "start": "2026-11-07T14:00:00-08:00",
@@ -7207,11 +7144,25 @@
    ]
   },
   {
+   "film": "la-bola-negra",
+   "theater": "siff-uptown",
+   "start": "2026-11-07T15:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
+   "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-mCdibm8yym"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-07T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-8qurTrnJ2H"
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "siff-uptown",
+   "start": "2026-11-07T19:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
+   "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-v76SjtDQsv"
   },
   {
    "film": "godzilla-minus-zero",
@@ -7226,6 +7177,13 @@
    "start": "2026-11-08T11:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-Ww7cJ7t3EZ"
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "siff-uptown",
+   "start": "2026-11-08T12:45:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
+   "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-cdBSKXwOqq"
   },
   {
    "film": "man-of-marble",
@@ -7245,6 +7203,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-oD8TYUkcQK"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "siff-uptown",
+   "start": "2026-11-08T15:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
+   "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-f0X1aWCsyV"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-08T18:30:00-08:00",
@@ -7252,11 +7217,25 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-MqjUGxJqCC"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "siff-uptown",
+   "start": "2026-11-08T19:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
+   "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-g8oYnknw4x"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-09T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-CWDtygoJpS"
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "siff-uptown",
+   "start": "2026-11-09T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
+   "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-k5flA4nN6X"
   },
   {
    "film": "discreet-charm-of-the-bourgeoisie",
@@ -7267,6 +7246,13 @@
    "notes": [
     "SIFF Movie Club"
    ]
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "siff-uptown",
+   "start": "2026-11-09T19:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
+   "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-uahqoNm8Dl"
   },
   {
    "film": "godzilla-minus-zero",
@@ -7281,6 +7267,20 @@
    "start": "2026-11-10T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-k3QLIJUDXp"
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "siff-uptown",
+   "start": "2026-11-10T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
+   "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-CsNd2cInOa"
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "siff-uptown",
+   "start": "2026-11-10T19:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
+   "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-RQqruD1jJS"
   },
   {
    "film": "godzilla-minus-zero",
@@ -7299,6 +7299,44 @@
     "Nouvelles Femmes",
     "35mm"
    ]
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-11T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-GPDNyAkQas"
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "siff-uptown",
+   "start": "2026-11-11T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
+   "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-pAX3CCCg0X"
+  },
+  {
+   "film": "star-trek-ii-the-wrath-of-khan",
+   "theater": "majestic-bay",
+   "start": "2026-11-11T19:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/39173-star-trek-ii-the-wrath-of-khan/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36383?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Special screening"
+   ]
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "siff-uptown",
+   "start": "2026-11-11T19:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
+   "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-BcIIBU6fwp"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-11T19:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-bqL9IPieS1"
   }
  ]
 }
