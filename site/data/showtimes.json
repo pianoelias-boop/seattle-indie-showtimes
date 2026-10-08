@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T12:19:00-07:00",
+ "updated": "2026-10-08T12:16:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,10 +14,10 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-07T12:19:00-07:00",
-    "lastSuccess": "2026-10-07T12:19:00-07:00",
+    "checked": "2026-10-08T12:16:00-07:00",
+    "lastSuccess": "2026-10-08T12:16:00-07:00",
     "showings": 63,
-    "through": "2026-11-11"
+    "through": "2026-11-12"
    }
   },
   {
@@ -33,10 +33,10 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-07T12:19:00-07:00",
-    "lastSuccess": "2026-10-07T12:19:00-07:00",
-    "showings": 150,
-    "through": "2026-11-11"
+    "checked": "2026-10-08T12:16:00-07:00",
+    "lastSuccess": "2026-10-08T12:16:00-07:00",
+    "showings": 144,
+    "through": "2026-11-12"
    }
   },
   {
@@ -52,10 +52,10 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-07T12:19:00-07:00",
-    "lastSuccess": "2026-10-07T12:19:00-07:00",
+    "checked": "2026-10-08T12:16:00-07:00",
+    "lastSuccess": "2026-10-08T12:16:00-07:00",
     "showings": 31,
-    "through": "2026-11-08"
+    "through": "2026-11-12"
    }
   },
   {
@@ -70,8 +70,8 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-07T12:19:00-07:00",
-    "lastSuccess": "2026-10-07T12:19:00-07:00",
+    "checked": "2026-10-08T12:16:00-07:00",
+    "lastSuccess": "2026-10-08T12:16:00-07:00",
     "showings": 8,
     "through": "2026-11-03"
    }
@@ -88,10 +88,10 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-07T12:19:00-07:00",
-    "lastSuccess": "2026-10-07T12:19:00-07:00",
+    "checked": "2026-10-08T12:16:00-07:00",
+    "lastSuccess": "2026-10-08T12:16:00-07:00",
     "showings": 60,
-    "through": "2026-11-05"
+    "through": "2026-11-12"
    }
   },
   {
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-07T12:19:00-07:00",
-    "lastSuccess": "2026-10-07T12:19:00-07:00",
-    "showings": 74,
+    "checked": "2026-10-08T12:16:00-07:00",
+    "lastSuccess": "2026-10-08T12:16:00-07:00",
+    "showings": 71,
     "through": "2026-11-05"
    }
   },
@@ -126,9 +126,9 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-07T12:19:00-07:00",
-    "lastSuccess": "2026-10-07T12:19:00-07:00",
-    "showings": 35,
+    "checked": "2026-10-08T12:16:00-07:00",
+    "lastSuccess": "2026-10-08T12:16:00-07:00",
+    "showings": 34,
     "through": "2026-11-02"
    }
   },
@@ -145,9 +145,9 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-07T12:19:00-07:00",
-    "lastSuccess": "2026-10-07T12:19:00-07:00",
-    "showings": 55,
+    "checked": "2026-10-08T12:16:00-07:00",
+    "lastSuccess": "2026-10-08T12:16:00-07:00",
+    "showings": 54,
     "through": "2026-10-29"
    }
   },
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-07T12:19:00-07:00",
-    "lastSuccess": "2026-10-07T12:19:00-07:00",
-    "showings": 74,
+    "checked": "2026-10-08T12:16:00-07:00",
+    "lastSuccess": "2026-10-08T12:16:00-07:00",
+    "showings": 67,
     "through": "2026-11-11"
    }
   },
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-07T12:19:00-07:00",
-    "lastSuccess": "2026-10-07T12:19:00-07:00",
-    "showings": 18,
+    "checked": "2026-10-08T12:16:00-07:00",
+    "lastSuccess": "2026-10-08T12:16:00-07:00",
+    "showings": 10,
     "through": "2026-10-17"
    }
   },
@@ -201,8 +201,8 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-07T12:19:00-07:00",
-    "lastSuccess": "2026-10-07T12:19:00-07:00",
+    "checked": "2026-10-08T12:16:00-07:00",
+    "lastSuccess": "2026-10-08T12:16:00-07:00",
     "showings": 19,
     "through": "2026-11-01"
    }
@@ -220,9 +220,9 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-07T12:19:00-07:00",
-    "lastSuccess": "2026-10-07T12:19:00-07:00",
-    "showings": 32,
+    "checked": "2026-10-08T12:16:00-07:00",
+    "lastSuccess": "2026-10-08T12:16:00-07:00",
+    "showings": 31,
     "through": "2026-11-01"
    }
   }
@@ -260,7 +260,7 @@
    "description": "Wajda’s striking feature debut, set in 1942 on the outskirts of occupied Warsaw, centers on Stach, a teen who witnesses his friend murdered by a Nazi and subsequently joins a left-wing resistance cell. The mixture of Italian neorealism and atmospheric dread established Wajda as a director to watch, as well as foregrounding key recurring themes in his work – honour, courage and sacrifice. The first in Wajda’s acclaimed war trilogy, this landmark film helped change the trajectory of Polish cinema with its stark account of wartime tragedies and coming of age during a time of unbelievable loss.",
    "runtime": 87,
    "year": 1954,
-   "director": "Andrezj Wajda",
+   "director": "Andrzej Wajda",
    "country": "Poland",
    "language": "Polish",
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Films%20of%20Andrej%20Wajda/Wajda%20Films%20Images/generation.png",
@@ -369,7 +369,7 @@
    "description": "The final entry of Wajda’s celebrated WWII trilogy and a touchstone of Polish cinema, Ashes and Diamonds follows the militant Maciek (Zbigniew Cybulski) who finds himself tasked with the assassination of an incoming commissar. But when he falls for a local barmaid, he’s offered a glimpse of a world beyond war and destruction, leading him to question his commitment to a cause that risks his life. Wajda’s classic drama cemented his position as a world-class filmmaker and features an iconic central performance by Cybulski, the ‘Polish James Dean’ – who contributes legendary charisma to this probing look at the complex post-war future for a new nation and its people.",
    "runtime": 100,
    "year": 1958,
-   "director": "Andrezj Wajda",
+   "director": "Andrzej Wajda",
    "country": "Poland",
    "language": "Polish",
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Films%20of%20Andrej%20Wajda/Wajda%20Films%20Images/ashesdiamonds.png",
@@ -412,20 +412,9 @@
   {
    "id": "beetlejuice",
    "title": "Beetlejuice",
-   "description": "Thanks to an untimely demise via drowning, a young couple end up as poltergeists in their New England farmhouse, where they fail to meet the challenge of scaring away the insufferable new owners, who want to make drastic changes. In desperation, the undead newlyweds turn to an expert frightmeister, but he's got a diabolical agenda of his own.\n\nBeetlejuice gave director Burton the chance to unleash his visual style on the big screen. Iconis performances abound from the talented cast, including the great Catherine O'Hara as Delia Deetz.",
-   "runtime": 92,
-   "year": 1988,
-   "director": "Tim Burton",
-   "country": "United States",
-   "language": "English",
-   "rating": "PG",
-   "genres": [
-    "Fantasy",
-    "Comedy"
-   ],
-   "image": "https://indy-systems.imgix.net/s0b9dy99rqvpqhy713q55pzil2u7?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
+   "description": "When a young couple dies and becomes trapped in their beloved home, they try to scare away the obtrusive new owners, the Deetzes. Their attempts backfire, inadvertently summoning Beetlejuice, a troublesome and chaotic ghost. Beetlejuice then inserts himself into the lives of the Deetzes and their teenage daughter, Lydia, creating escalating mayhem and comedic situations. The spirits must find a way to rid themselves of Beetlejuice before he ruins everything.",
+   "image": "https://static.spotapps.co/spots/4a/4d9c8960a24592943777fd3ebf24cc/w926",
    "links": {
-    "central-cinema": "https://central-cinema.com/movie/beetlejuice/",
     "tin-room": "https://tinroombar.com/events"
    }
   },
@@ -524,6 +513,20 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/08/cameraperson1600-2-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/truth-to-fiction-cameraperson/"
+   }
+  },
+  {
+   "id": "candy-mountain",
+   "title": "Candy Mountain",
+   "description": "A rock ‘n’ roll odyssey from New York into the wilderness of Nova Scotia, Candy Mountain follows down-on-his-luck Julius, a generally unpleasant dude and mediocre musician to boot (Kevin J. O’Connor), who develops a get rich quick scheme: track down the reclusive guitar maker Elmore Silk. The journey up the road, full of wrong turns and dead ends, finds Julius confronting and frequently upsetting the disgruntled personalities that the ever elusive Silk left in his wake, from scorned family members (Tom Waits as Silk’s nouveau riche brother, a wheelchair-bound Dr. John as his cranky son in law) to abandoned lovers (Bull Ogier). Reportedly a challenging co-directorial collaboration, the film nonetheless registers as a delectable synthesis of Robert Franks photographic eye (as found in his canonical \"The Americans\") and the road mythologizing seen throughout the work of cult novelist Rudolph Wurlitzer (Two-Lane Blacktop, Walker, Pat Garrett And Billy The Kid). Spread out in the back seat for what Jonathan Rosenbaum calls a “wry, laid-back ‘Heart of Darkness.’”\n\n35mm print courtesy of Museum of Fine Arts Houston.",
+   "runtime": 103,
+   "year": 1987,
+   "director": "Robert Frank, Rudy Wurlitzer",
+   "country": "Switzerland, Canada, France",
+   "language": "English",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/The%20Open%20Road/candymountain.png",
+   "links": {
+    "siff-film-center": "https://www.siff.net/programs-and-events/the-open-road/candy-mountain"
    }
   },
   {
@@ -642,38 +645,6 @@
    }
   },
   {
-   "id": "contempt",
-   "title": "Contempt",
-   "description": "Before Jean-Luc Godard and Francçois Truffaut made their own films, they wrote as film critics, \"Brigitte Bardot symbolizes a new side of a new French generation, the postwar freedom and sexual independence of women.” French culture has revered the female form for centuries; the Republic is a female noun; postage stamps are adorned with nude paintings and sculptures; the country’s symbol is Marianne, who has been sculpted as Brigitte Bardot; in the 1960s her name was one of the most referenced search terms worldwide. Contempt opens with Camille (Bardot) naked in bed with her husband Paul (Michel Piccoli) playfully enumerating her physical beauties, which echoes an age-old French poetic tradition. It’s a happy, mutually loving moment against which the advancing film is measured. Paul is a screenwriter, and the couple goes South to join a film production on the Mediterranean. The director is god of cinema Fritz Lang (Metropolis), the producer is boorish Jerry Prokosch (Jack Palance). The film is Homer’s Odyssey (beating Christopher Nolan by six decades), in which fate, chance and free will drive the action and influence choices. When Jerry offers Camille a ride to his villa in his two-seat roadster, she wants her husband to say no, but he doesn’t, fostering marital misunderstanding, doubt and distrust. Camille and Paul’s discord blossoms in a famous sequence where making a simple decision becomes a room-to-room spectacle of push-pull emotions. Amidst the luscious natural beauty of the land where Drama was born, tensions created must be released. Martin Scorsese, who used Contempt’s poignant music in his film Casino, calls the film “brilliant, romantic, genuinely tragic, and also one of the greatest films about filmmaking.” Bardot is radiant as the sun, Fritz Lang is the voice of wisdom, ancient statues comment silently, the mechanics of shooting scenes are sacred, almost mythic rituals. Between sea and sky, Godard plays Lang’s assistant, calling for “Silence”.",
-   "runtime": 102,
-   "year": 1963,
-   "director": "Jean-Luc Godard",
-   "country": "France",
-   "language": "French",
-   "image": "https://www.siff.net/images/CINEMA/2026/Nouvelles%20Femmes/contempt.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/programs-and-events/nouvelles-femmes/contempt"
-   }
-  },
-  {
-   "id": "coyote-vs-acme",
-   "title": "Coyote vs Acme",
-   "description": "After decades of being blown to bits by bombs, demolished by dynamite, mangled by magnets, battered by boulders, trampled by trains, tricked by tunnels, sprung by springs, steamrolled by steamrollers, maligned by misfires, bedeviled by bungees, rattled by rockets, backstabbed by bat suits, rocked by rocket skates, upended by unicycles, quaked by quake pills, rubberized by rogue bands, and hurled headlong off every cliff in the Southwest, Wile E. Coyote (Genius) finally fights back. Teaming up with billboard accident lawyer Kevin Avery (Will Forte), he takes on slick corporate counsel Buddy Crane (John Cena) and ACME, Inc., the profit-obsessed conglomerate behind every one of the Coyote’s chaotic catastrophes.",
-   "runtime": 103,
-   "year": 2026,
-   "director": "Dave Green",
-   "rating": "PG",
-   "genres": [
-    "Comedy",
-    "Adventure",
-    "Animation"
-   ],
-   "image": "https://all.web.img.acsta.net/img/67/56/675608ae9d2e5cffbe837da19f77069b.jpg",
-   "links": {
-    "majestic-bay": "https://www.majesticbay.com/movies/267335-coyote-vs-acme/"
-   }
-  },
-  {
    "id": "deep-red",
    "title": "Deep Red",
    "description": "The grisly killing of a celebrity telepath in Rome leads David Hemmings and Daria Nicolodi down a rabbit hole of repressed trauma, gruesome deaths and one of the creepiest puppets ever put on the screen. Dario Argento’s masterwork still feels incredibly modern; its perspective-shredding camera hurtles across rooms and lovingly circles fetishized instruments of both music and death while Goblin’s blissed-out prog-rock score blares on the soundtrack. Luxuriate in the rhythms of one of the most stylish thrillers ever made – here in its full, original Italian version. This is the movie that hooked every cinephile on the giallo genre.",
@@ -732,7 +703,7 @@
   {
    "id": "dracula-prisoner-of-frankenstein",
    "title": "Dracula, Prisoner of Frankenstein",
-   "description": "Jess Franco knows you know these monsters. He just wants to dream about them. So DRACULA, PRISONER OF FRANKENSTEIN wastes little time on introductions, explanations or even dialogue, and heads straight for the images that make monster movies irresistible. A castle looms through the fog. A coffin opens. Lightning flashes over a laboratory. Howard Vernon’s corpse-faced Dracula rises from the dead. Frankenstein’s Monster stalks the countryside. Beautiful women wander through the night. And just when the dream seems complete, the Wolf Man comes howling into it.\n\nDennis Price’s Dr. Frankenstein presides over this private Gothic universe, resurrecting and enslaving Dracula, commanding a homemade Monster of his own and sending everyone drifting through castles, crypts and desolate landscapes to Bruno Nicolai’s magnificent score. Franco lets plot dissolve into atmosphere and gives himself over to whatever image fascinates him next, his camera zooming compulsively toward faces, windows, animals and strange details in the landscape. Nothing needs to look realistic to feel uncanny here. A rubber bat is still a rubber bat, but when Franco sends it flapping across a real Gothic landscape, somehow the whole world gets stranger (and better).\n\nThis is Jess Franco in concentrated form: cheap and beautiful, crude and hypnotic, made in a hurry by a filmmaker who trusts his own obsessions more than the rules of conventional filmmaking. Part Universal monster rally, part comic book, part lost silent film in delirious color, DRACULA, PRISONER OF FRANKENSTEIN strips monster cinema down to the things Franco loves most and rearranges them according to the logic of a dream. Frankenstein looks handmade. The bat has a wire. The camera zooms like it’s possessed. The Wolf Man seems to have wandered in from another movie. And the whole thing is beautiful enough to bring tears to your eyes.\n\n“The movie F.W. Murnau might have made if Universal had hired him to direct HOUSE OF FRANKENSTEIN in color.\" - Tim Lucas",
+   "description": "Restoration by Severin Films\n\nJess Franco knows you know these monsters. He just wants to dream about them. So DRACULA, PRISONER OF FRANKENSTEIN wastes little time on introductions, explanations or even dialogue, and heads straight for the images that make monster movies irresistible. A castle looms through the fog. A coffin opens. Lightning flashes over a laboratory. Howard Vernon’s corpse-faced Dracula rises from the dead. Frankenstein’s Monster stalks the countryside. Beautiful women wander through the night. And just when the dream seems complete, the Wolf Man comes howling into it.\n\nDennis Price’s Dr. Frankenstein presides over this private Gothic universe, resurrecting and enslaving Dracula, commanding a homemade Monster of his own and sending everyone drifting through castles, crypts and desolate landscapes to Bruno Nicolai’s magnificent score. Franco lets plot dissolve into atmosphere and gives himself over to whatever image fascinates him next, his camera zooming compulsively toward faces, windows, animals and strange details in the landscape. Nothing needs to look realistic to feel uncanny here. A rubber bat is still a rubber bat, but when Franco sends it flapping across a real Gothic landscape, somehow the whole world gets stranger (and better).\n\nThis is Jess Franco in concentrated form: cheap and beautiful, crude and hypnotic, made in a hurry by a filmmaker who trusts his own obsessions more than the rules of conventional filmmaking. Part Universal monster rally, part comic book, part lost silent film in delirious color, DRACULA, PRISONER OF FRANKENSTEIN strips monster cinema down to the things Franco loves most and rearranges them according to the logic of a dream. Frankenstein looks handmade. The bat has a wire. The camera zooms like it’s possessed. The Wolf Man seems to have wandered in from another movie. And the whole thing is beautiful enough to bring tears to your eyes.\n\n“The movie F.W. Murnau might have made if Universal had hired him to direct HOUSE OF FRANKENSTEIN in color.\" - Tim Lucas",
    "runtime": 85,
    "year": 1972,
    "director": "Jess Franco",
@@ -799,7 +770,7 @@
    "description": "The lead protagonist of a film disappears mid production, and his family and crew search for him before tragic news reaches them. Wajda’s first film where he received sole screenwriting credit, this deeply personal homage to his beloved actor Zbigniew Cybulski, the star of Ashes and Diamonds, is also a scathing portrait of the film industry. The film-within-a-film mirrors the real life tragedy, with actors channeling their real life experiences into their performances. Weaving together autobiography and fiction, Wajda questions what it means to be an artist and how we mourn by creating legends as a way to interpret the past.",
    "runtime": 99,
    "year": 1969,
-   "director": "Andrezj Wajda",
+   "director": "Andrzej Wajda",
    "country": "Poland",
    "language": "Polish",
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Films%20of%20Andrej%20Wajda/Wajda%20Films%20Images/everythingforsale.png",
@@ -878,7 +849,7 @@
    "id": "forgotten-island",
    "title": "Forgotten Island",
    "description": "While celebrating their last night together, Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali, packed with magical and mythological creatures they grew up hearing stories about from their Filipino families.\n\nSome of these figures will become friends, some foes. Joined by well-meaning-but- hapless weredog Raww (Dave Franco) and a small-but-mighty pack of pals, Jo and Raissa must face The Dreaded Manananggal (Tony winning icon Lea Salonga), the most feared creature on the island. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
-   "runtime": 109,
+   "runtime": 108,
    "year": 2026,
    "director": "Joel Crawford, Januel P. Mercado",
    "rating": "PG",
@@ -1050,19 +1021,17 @@
   {
    "id": "heart-of-the-beast",
    "title": "Heart of the Beast",
-   "description": "After a harrowing plane crash, Special Forces veteran James Belmont (Brad Pitt) and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements. From acclaimed filmmaker David Ayer, Heart of the Beast is an intense adventure thriller that explores the unbreakable bond between a man and his best friend as they face their greatest battle yet.",
+   "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
    "runtime": 111,
    "year": 2026,
    "director": "David Ayer",
    "rating": "PG-13",
    "genres": [
-    "Action",
     "Adventure",
     "Thriller"
    ],
-   "image": "https://all.web.img.acsta.net/img/69/1d/691d6b4c0e582dd6bb33404496af9d1b.jpg",
+   "image": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
    "links": {
-    "majestic-bay": "https://www.majesticbay.com/movies/1000000085-heart-of-the-beast/",
     "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast"
    }
   },
@@ -1194,24 +1163,6 @@
    }
   },
   {
-   "id": "ju-on-the-grudge",
-   "title": "Ju-on: The Grudge",
-   "description": "When a social worker is sent to check on a traumatized elderly woman whose family have moved in at the site of a notorious murder case, she unwittingly unleashes a cycle of terror that transmits via its victims.\n\nThis quiet and creepy J-Horror gem gets under your skin with tight cinematography and a script crafted to haunt your thoughts once the movie is done.\n\nIn Japanese with English subtitles.",
-   "runtime": 92,
-   "year": 2002,
-   "director": "Takashi Shimizu",
-   "country": "Japan",
-   "language": "Japanese",
-   "rating": "R",
-   "genres": [
-    "Horror"
-   ],
-   "image": "https://indy-systems.imgix.net/636tkszkjpg9yrq5yl7l3fz7jqw5?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
-   "links": {
-    "central-cinema": "https://central-cinema.com/movie/ju-on-the-grudge/"
-   }
-  },
-  {
    "id": "jucks",
    "title": "Jucks",
    "description": "Set in Denver City, 2064 AD, JUCKS is an experimental sci-fi silent film. It follows a haunted protagonist who enters a dystopian landscape lorded by an omniscient radio frequency known as Jucks, and saturated with a hallucinogenic substance. Jules searches for one thing: Gold.\n\nCW: Flashing lights, blood/gore\n\nSCREENS WITH:\n\nIf I'm Here It Is By Mystery (Clari Ribeiro, Brazil, 20m)\n\nNew Rio, 2054. Renowned witch Dahlia arrives at the port with a mission: to found the most powerful Clan that has ever existed and thus defeat the Order of Truth. In the future, many people are trans — but only a few are witches.\n\nCW: Stabbing of a trans woman, blood/gore",
@@ -1230,7 +1181,7 @@
    "description": "In the final stages of the 1944 Warsaw Uprising, a unit of Polish Home Army resistance fighters attempt to escape the Nazi aggressors through a hellish descent through the labyrinthian city sewers. Jerzy Lipman's claustrophobic, high contrast cinematography conveys their nightmarish struggle along the road to freedom. Based on true events, the film brought Wajda international acclaim for its evocative portrait of strength, duty and hope in the face of insurmountable odds.",
    "runtime": 96,
    "year": 1957,
-   "director": "Andrezj Wajda",
+   "director": "Andrzej Wajda",
    "country": "Poland",
    "language": "Polish",
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Films%20of%20Andrej%20Wajda/Wajda%20Films%20Images/kanal.png",
@@ -1342,22 +1293,6 @@
    }
   },
   {
-   "id": "love-jones",
-   "title": "Love Jones",
-   "description": "Say hello to Darious Lovehall (Larenz Tate) and Nina Mosley (Nia Long), two confused lovebirds who discover that you can never underestimate the power of a love jones.",
-   "runtime": 110,
-   "year": 1997,
-   "director": "Theodore Witcher",
-   "rating": "R",
-   "genres": [
-    "Comedy"
-   ],
-   "image": "https://all.web.img.acsta.net/img/31/86/31869ebc3995256c59aefde210e2bdc4.jpg",
-   "links": {
-    "majestic-bay": "https://www.majesticbay.com/movies/65383-love-jones/"
-   }
-  },
-  {
    "id": "mad-monster-party",
    "title": "Mad Monster Party?",
    "description": "By 1967, the monsters had made it. Dracula, Frankenstein, the Wolf Man and the rest of the old horror gang had escaped the graveyard and taken over television, toy stores, model kits, comic books and the bedrooms of monster-crazed kids everywhere. There was really only one thing left to do: throw a party.\n\nAnd what a party. Rankin/Bass took the stop-motion wizardry behind RUDOLPH THE RED-NOSED REINDEER, handed the monsters over to MAD Magazine legends Harvey Kurtzman and Jack Davis, brought in Boris Karloff to preside over the festivities and Phyllis Diller to play Frankenstein’s extremely talkative mate, then invited every creature they could squeeze onto the Isle of Evil. Dracula! The Wolf Man! The Mummy! Dr. Jekyll and Mr. Hyde! The Invisible Man! Zombies! Skeletons! A Peter Lorre-looking ghoul! Jack Davis designed them, a studio full of Japanese animators built them, and somebody had to move every single one of these maniacs one frame at a time.\n\nThe result is a glorious 1960s monster-kid fever dream where Frankenstein discovers a formula capable of destroying all matter and celebrates by announcing his retirement. There are musical numbers, terrible puns, monster politics, a skeleton rock band called Little Tibia and the Fibias, Dracula dancing and enough lovingly handcrafted gothic clutter to fill a dozen Halloween specials. Part monster rally, part MAD Magazine cartoon brought to life and part Rankin/Bass holiday special for the greatest holiday of them all, MAD MONSTER PARTY? is what happens when an entire generation stops being afraid of monsters and starts letting them babysit their kids.",
@@ -1387,7 +1322,7 @@
    "description": "In the 1970s, student filmmaker Agnieszka investigates the life of a 1950s bricklayer and discredited labor hero who is only remembered through statue representations in cellars and storage lockers. Discovering facts about the bricklayer have been suppressed, she has to decide whether to pursue the truth or not while navigating the complexities of communism's rise in Poland. Mixing satirical humor and poetic storytelling, this thought-provoking examination of the moral responsibility of an individual and the way art can challenge dominant ideology remains one of Wajda’s most unique productions.",
    "runtime": 161,
    "year": 1976,
-   "director": "Andrezj Wajda",
+   "director": "Andrzej Wajda",
    "country": "Poland",
    "language": "Polish",
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Films%20of%20Andrej%20Wajda/Wajda%20Films%20Images/manofmarble.png",
@@ -1416,18 +1351,6 @@
    "image": "https://media.mobilemoviegoing.com/CustomOneSheets/1789506386_macbeth.jpg",
    "links": {
     "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/met-opera-20262027-macbeth"
-   }
-  },
-  {
-   "id": "motel-hell",
-   "title": "Motel Hell",
-   "description": "Farmer Vincent makes the best smoked meats in the county, and like any successful small businessman, he has a secret recipe. Unfortunately, the secret is people. With help from his devoted sister Ida, Vincent plants unlucky travelers neck-deep in a hidden garden, fattens them up and eventually turns them into the famous fritters, sausages and jerky sold from his roadside motel. As Vincent likes to say, “It takes all kinds of critters to make Farmer Vincent’s fritters.”\n\nMOTEL HELL takes THE TEXAS CHAIN SAW MASSACRE’s cannibal backwoods nightmare and runs it through a roadside tourist trap where everybody is just a little too friendly. Rory Calhoun plays Vincent with the sunny confidence of a man who genuinely believes murder is simply part of running a quality farm-to-table operation, while director Kevin Connor piles on chainsaws, meat smokers, severed heads, sexual weirdness and a climactic duel involving a pig mask that deserves to hang in the Smithsonian. Gross, goofy and unexpectedly good-natured, MOTEL HELL combines the atmosphere of a Saturday-night barbecue with the ethics of a slaughterhouse. It’s the rare cannibal movie that could almost pass for wholesome entertainment, provided you don’t ask what’s smoking out back.",
-   "runtime": 101,
-   "year": 1980,
-   "director": "Kevin Connor",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1790029483771-tb-motelhell.png",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/motel-hell"
    }
   },
   {
@@ -1492,6 +1415,18 @@
    }
   },
   {
+   "id": "next-of-kin",
+   "title": "Next of Kin",
+   "description": "When Linda inherits her mother’s sprawling retirement home in rural Australia, she returns to a place she hasn’t seen since childhood and discovers that the elderly residents have started dying with suspicious regularity. Then she finds her mother’s old diaries, which describe eerily similar deaths decades earlier. There are figures at windows, faucets that won’t stop running, footsteps in empty rooms and an enormous old house that seems determined to keep Linda from ever getting a decent night’s sleep.\n\nNEXT OF KIN spends its first hour moving at the speed of a nightmare you can’t quite wake up from, then suddenly remembers it’s an Australian horror movie and all hell breaks loose. Director Tony Williams smothers the film in rain, shadows, long hallways and creeping dread, while Tangerine Dream veteran Klaus Schulze’s pulsing electronic score keeps the dread humming. Together they turn a retirement home into one of the great haunted spaces of ’80s horror without ever settling comfortably into a ghost story. Elegant, eccentric and quietly menacing, NEXT OF KIN keeps tightening the screws until its stately Gothic nightmare finally cracks open and something much wilder comes spilling out.",
+   "runtime": 89,
+   "year": 1982,
+   "director": "Tony Williams",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1790029558553-tb-nextofkin.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/next-of-kin"
+   }
+  },
+  {
    "id": "night-of-the-living-dead",
    "title": "Night of the Living Dead",
    "description": "The dead come back to life and eat the living. Several people barricade themselves inside a rural house in an attempt to survive the night. Outside are hordes of relentless, shambling zombies who can only be killed by a blow to the head.",
@@ -1542,23 +1477,9 @@
    }
   },
   {
-   "id": "nt-live-the-misanthrope",
-   "title": "NT Live: The Misanthrope",
-   "description": "Award-winner Sandra Oh (\"Killing Eve\") plays the title role in this razor-sharp reimagining of Molière’s classic dark comedy.\n\nTelling the truth isn’t always that simple. Alice, a brilliant novelist, despises the carefully constructed lies of modern society. But the more she challenges those around her, the fiercer the backlash becomes. Soon, she must confront the price of speaking her truth in a world that would rather silence\nher.\n\nFilmed live on stage at the National Theatre, Indhu Rubasingham directs Martin Crimp’s (Cyrano de Bergerac) highly anticipated play.",
-   "runtime": 150,
-   "year": 2026,
-   "director": "Indhu Rubasingham",
-   "country": "United Kingdom",
-   "language": "English",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Stage%20to%20Screen/CIN_Mistanthrope_1600x900%20%282%29.png",
-   "links": {
-    "siff-film-center": "https://www.siff.net/programs-and-events/stage-to-screen/nt-live-the-misanthrope"
-   }
-  },
-  {
    "id": "once-upon-a-time-in-seattle",
    "title": "Once Upon a Time In Seattle",
-   "description": "SPECIAL NOVEMBER 2026 EDITION! ALREADY UPDATED FROM THE SEPTEMBER 2026 EDITION!\n\nComprised of moments from over 40 films shot in Seattle, and a few irresistible facsimiles, Once Upon a Time in Seattle is part love letter, part loony action adventure, and part free-associative meditation on the transience of landscape in a city that has always had a complicated relationship with honoring its past while moving swiftly (recklessly?) into the future.\n\nThere is no linear narrative, and dialogue is kept to a minimum. The city itself is both location and protagonist, while the function of the human characters, or perhaps more accurately, ciphers, is that of a vessel to move us through the city and occasionally offer loose context or comic relief. With one exception, no single existing shot or sequence is sustained longer than a minute, with most individual shots lasting less than 20 seconds, and over half clocking in at 5 seconds or less. The result is a deceptively complex amalgamation of wholly unrelated material, and an impressively unique editorial/directorial achievement.\n\nSurprisingly weaving numerous throughlines from the many disparate existing narratives, while leaving much open to the viewer’s interpretation, scene chronology floats between seemingly non sequitur, to surprisingly, quietly poignant, depending on the viewer’s own history with the city. A hyper-local, one-of-a-kind film experience and an opportunity to examine Seattle’s ever-changing landscape as seen through the camera lens, Once Upon a Time in Seattle offers a unique portal to examine our city’s topography (and vibe!) of the past, both near and distant.",
+   "description": "A perpetually living project, Once Upon a Time in Seattle returns to Northwest Film Forum in a revised, expanded (and shorter!?) edit for this special encore engagement. Comprised of moments from 50 films shot in Seattle (up from 47 in the previous iteration,) and a few irresistible facsimiles, Once Upon a Time in Seattle is part love letter, part loony action adventure, and part free-associative meditation on the transience of landscape in a city that has always had a complicated relationship with honoring its past while moving swiftly (recklessly?) into the future.\n\nThere is no linear narrative, and dialogue is kept to a minimum. The city itself is both location and protagonist, while the function of the human characters, or perhaps more accurately, ciphers, is that of a vessel to move us through the city and occasionally offer loose context or comic relief.\n\nNo single existing shot or sequence is sustained longer than a minute, with most individual shots lasting less than 20 seconds, and over half clocking in at 5 seconds or less. The result is a deceptively complex amalgamation of wholly unrelated material, and an impressively unique editorial/directorial achievement.\n\nSurprisingly weaving numerous throughlines from the many disparate existing narratives, while leaving much open to the viewer’s interpretation, scene chronology floats between seemingly non sequitur, to quietly poignant, depending on the viewer’s own history with the city.\n\nA hyper-local, one-of-a-kind film experience and an opportunity to examine Seattle’s ever-changing landscape as seen through the camera lens, Once Upon a Time in Seattle offers a unique portal to examine our city’s topography (and vibe!) of the past, both near and distant.\n\nIf you saw the premiere in September and loved it, come see how it’s changed!",
    "runtime": 101,
    "year": 2026,
    "director": "Collide-O-Scope",
@@ -1985,7 +1906,7 @@
    "description": "Young Stanislaw, riddled with tuberculosis, departs Switzerland to spend his final days with his introverted forester brother Boleshaw on their secluded farm. This return home reignites a sensual passion for life, music, and love, giving him a vibrant energy at odds with his mournful brother. Their conflicting emotions lead to confronting repressed guilt and reconciliation of the past. Set in the early 1930s, this intimate character study offered Wajda the opportunity to explore areas outside of his intensely political war films and contemplate nature through reworking motifs from classic Polish landscape and symbolist paintings in this elegant depiction of early twentieth century provincial life.",
    "runtime": 99,
    "year": 1970,
-   "director": "Andrezj Wajda",
+   "director": "Andrzej Wajda",
    "country": "Poland",
    "language": "Polish",
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Films%20of%20Andrej%20Wajda/Wajda%20Films%20Images/birchwood.png",
@@ -2005,18 +1926,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/REN_TheBlueRoseP2_1600x900.png",
    "links": {
     "siff-uptown": "https://www.siff.net/cinema/in-theaters/the-blue-rose-part-ii"
-   }
-  },
-  {
-   "id": "body-snatcher",
-   "title": "The Body Snatcher",
-   "description": "Terror lives in the shadows when it comes to the films conjured from the imagination of Val Lewton, the visionary producer-auteur who turned our fears of the unseen and the unknown into haunting excursions into existential dread. As head of RKO’s B-horror-movie unit during the 1940s, Lewton brought a new sophistication to the genre by wringing chills not from conventional movie monsters but from brooding atmosphere, suggestion, and psychosexual unease. Suffused with ritual, mysticism, and the occult, the poetically hypnotic and the shockingly subversive films are still-tantalizing dreams of death that dare to embrace the darkness.\n\nBased on a story by Robert Louis Stevenson, this spare and chilling entry in Lewton’s oeuvre stars a brilliant Boris Karloff as a struggling cab driver in 19th-century Edinburgh who helps procure bodies from freshly dug graves for a local doctor. Soon enough, the bodies he delivers become a little too fresh. Lewton and director Robert Wise, of course, provide the eerie atmospherics, yet Karloff brings his customary richness of character to this deeply unsettling role, cutting through all the ghoulish murder and blackmail with humor and literate depth as THE BODY SNATCHER builds toward its truly macabre finale.",
-   "runtime": 78,
-   "year": 1945,
-   "director": "Robert Wise",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789694216225-tb-bodysnatcher.jpg",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/the-body-snatcher"
    }
   },
   {
@@ -2052,19 +1961,6 @@
    "image": "https://indy-systems.imgix.net/moojxvhlu1ye64h0mij9sgvyb4z7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress&cs=origin",
    "links": {
     "tasveer": "https://filmcenter.tasveer.org/movie/the-condor-daughter-la-hija-cndor-boliviaperuuruguay-2025"
-   }
-  },
-  {
-   "id": "cuckoo-clock",
-   "title": "The Cuckoo Clock",
-   "description": "A young woman falls in love with the home-health-care nurse sent to care for her Grandmother with dementia. When the nurse mysteriously disappears, Grandma’s cuckoo clock speaks to her with a warning… Grandma might be responsible.",
-   "runtime": 90,
-   "year": 2026,
-   "director": "Lisa Jay",
-   "rating": "R",
-   "image": "https://image.tmdb.org/t/p/w300/hDG71mDFLumiFZHLBvlILoscfvx.jpg",
-   "links": {
-    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cuckoo-clock"
    }
   },
   {
@@ -2158,18 +2054,6 @@
    }
   },
   {
-   "id": "matrix",
-   "title": "The Matrix",
-   "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
-   "runtime": 136,
-   "year": 1999,
-   "rating": "R",
-   "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/MatrixSquare5.png",
-   "links": {
-    "north-bend": "https://tix.northbendtheatre.com/event/the-matrix-wednesday-oct-7th-7pm"
-   }
-  },
-  {
    "id": "most-dangerous-game",
    "title": "The Most Dangerous Game",
    "description": "The Sprocket Society presents: a yacht blithely strays into cut-throat terror in this legendary pre-Code thriller, shown with spooky shorts — all on 16mm film!\n\nA secret island owned by a rich, calculating psychopath with unholy kinks. An innocent man and woman thrown together by pure chance, stranded by “accident,” far beyond the help of any caring soul. Frayed wits and a woodsman’s knife pitted against the rich man’s cunning, his arsenal, and his pack of ravening hounds. Ah, the manhunt is on! The bloodlust…so sweet. So perfectly crafted. So inconsequential.\n\nJoel McRae, Fay Wray, and a gloriously villainous Leslie Banks star in a tightly wound thriller that’s as short and hard-hitting as a crossbow bolt.\n\nA low budget studio throw-away, 94 years later it’s been copied countless times yet never bested. Co-helmed by the director of King Kong and shot on the same jungle sets, the tension and fog-choked visuals linger long after the credits roll.\n\nAll aboard: your berth awaits!\n\nPresented with selected short subjects.",
@@ -2225,7 +2109,7 @@
    "description": "Set during the Industrial Revolution in 19th century Łódź, three entrepreneurial friends pool their resources to open a textile factory. But friendships, personal relationships and moral values are soon tested when they encounter ruthlessly competitive barons and competing self interests. An adaptation of Nobel Prize-winning author Stanisław Reymont’s novel, the film is a compelling and continually pertinent indictment of rampant capitalism and humanity’s more selfish impulses. Wajda’s first Academy Award-nominated drama remains one of his most celebrated films.",
    "runtime": 169,
    "year": 1974,
-   "director": "Andrezj Wajda",
+   "director": "Andrzej Wajda",
    "country": "Poland",
    "language": "Polish",
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Films%20of%20Andrej%20Wajda/Wajda%20Films%20Images/promisedland.png",
@@ -2367,7 +2251,7 @@
    "description": "An intellectual poet and peasant woman unite in matrimony, with their wedding party attended by a class-crossing assortment of society. However, the veneer of harmony is broken when ghosts – drawn from local history and legend – appear out of the fog to the revellers. Wajda’s psychedelic adaptation of Stanisław Wyspiański’s influential 1901 play where (as stated in the prologue) “everything in [the] story is true —even the dreams,” employs dizzying cinematography and creates an eerie atmosphere to offer a searing critique of the nation’s phantoms. It became one of the most culturally significant works of Polish cinema.",
    "runtime": 103,
    "year": 1972,
-   "director": "Andrezj Wajda",
+   "director": "Andrzej Wajda",
    "country": "Poland",
    "language": "Polish",
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Films%20of%20Andrej%20Wajda/Wajda%20Films%20Images/wedding.png",
@@ -2711,281 +2595,23 @@
    "links": {
     "tin-room": "https://tinroombar.com/events"
    }
+  },
+  {
+   "id": "zi",
+   "title": "Zi",
+   "description": "In Hong Kong, a young woman haunted by visions of her future self meets a stranger who changes the course of her night—and possibly her life. Kogonada plays with — and returns to — form in this sensitive cinematic poem. Held within a stylish jaunt through the streets of Hong Kong, zi is a film with soul and a wavelike confidence that commits to recursivity as a mode and central theme. Kogonada regulars Michelle Mao, Haley Lu Richardson, and Jin Ha carefully portray transitory misfits, grappling with a clever fusion of existential anxiety, romantic misgiving, and personal memory. Somewhere between sci-fi and supernatural, a deep, easy warmth takes root. Kogonada crafts a decidedly contained film, exploring a pervasive sense of unmooring, yet cultivating an unrelenting sense of peace. Through the igniting/smoldering embers of relationships lost/forming, zi is an invitation to surrender to Kogonada’s truly indie world of temporal fragmentation.\n\n“An instant classic.”\n\n— Richard Brody, The New Yorker\n\n“Bold, beautiful, and beguiling. Michelle Mao crafts what ought to be a breakout performance for the ages.”\n\n— Chase Hutchinson, TheWrap",
+   "runtime": 99,
+   "year": 2026,
+   "director": "Kogonada",
+   "country": "United States, Hong Kong",
+   "language": "English, Cantonese",
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/zi1600-3-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/zi/"
+   }
   }
  ],
  "showings": [
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-07T15:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36373?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-07T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16840/781"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-07T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16836/780"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-07T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16841/717"
-  },
-  {
-   "film": "forgotten-island",
-   "theater": "majestic-bay",
-   "start": "2026-10-07T15:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296642-forgotten-island/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36374?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-07T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16842/770"
-  },
-  {
-   "film": "beetlejuice",
-   "theater": "central-cinema",
-   "start": "2026-10-07T16:00:00-07:00",
-   "url": "https://central-cinema.com/movie/beetlejuice/",
-   "tickets": "https://central-cinema.com/checkout/showing/beetlejuice/3866087"
-  },
-  {
-   "film": "coyote-vs-acme",
-   "theater": "majestic-bay",
-   "start": "2026-10-07T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/267335-coyote-vs-acme/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36376?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "digger",
-   "theater": "siff-downtown",
-   "start": "2026-10-07T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/digger",
-   "tickets": "https://www.siff.net/cinema/in-theaters/digger#screening-KYMfinWp3D"
-  },
-  {
-   "film": "filipinana",
-   "theater": "siff-uptown",
-   "start": "2026-10-07T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/filipinana",
-   "tickets": "https://www.siff.net/cinema/in-theaters/filipinana#screening-7gWRPxxRie"
-  },
-  {
-   "film": "body-snatcher",
-   "theater": "beacon",
-   "start": "2026-10-07T16:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/the-body-snatcher",
-   "tickets": "https://thebeacon.film/calendar/movie/the-body-snatcher?showtime=KUHDHXUWR7E7TWKQ4MPMXNMR"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-07T16:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-N11b9u4lss"
-  },
-  {
-   "film": "unzipped",
-   "theater": "siff-uptown",
-   "start": "2026-10-07T16:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/unzipped",
-   "tickets": "https://www.siff.net/cinema/in-theaters/unzipped#screening-Kw3PAj7TCM"
-  },
-  {
-   "film": "condor-daughter",
-   "theater": "tasveer",
-   "start": "2026-10-07T16:50:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-condor-daughter-la-hija-cndor-boliviaperuuruguay-2025",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-condor-daughter-la-hija-cndor-boliviaperuuruguay-2025/3920743"
-  },
-  {
-   "film": "traces-of-home",
-   "theater": "tasveer",
-   "start": "2026-10-07T17:00:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/traces-of-home-film",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/traces-of-home-film/3920765"
-  },
-  {
-   "film": "primetime",
-   "theater": "tasveer",
-   "start": "2026-10-07T17:10:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/primetime-usa-2026",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/primetime-usa-2026/3920762"
-  },
-  {
-   "film": "cuckoo-clock",
-   "theater": "admiral",
-   "start": "2026-10-07T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cuckoo-clock",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16556/762",
-   "notes": [
-    "Special advance screening"
-   ]
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-07T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16878/781"
-  },
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-07T18:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36375?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "majestic-bay",
-   "start": "2026-10-07T18:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000000085-heart-of-the-beast/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36377?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "nt-live-the-misanthrope",
-   "theater": "siff-film-center",
-   "start": "2026-10-07T18:30:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/stage-to-screen/nt-live-the-misanthrope",
-   "tickets": "https://www.siff.net/programs-and-events/stage-to-screen/nt-live-the-misanthrope#screening-BDMbBIMua2"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-07T18:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16832/780"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-07T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16834/770"
-  },
-  {
-   "film": "beetlejuice",
-   "theater": "central-cinema",
-   "start": "2026-10-07T19:00:00-07:00",
-   "url": "https://central-cinema.com/movie/beetlejuice/",
-   "tickets": "https://central-cinema.com/checkout/showing/beetlejuice/3866088"
-  },
-  {
-   "film": "love-jones",
-   "theater": "majestic-bay",
-   "start": "2026-10-07T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/65383-love-jones/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36058?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
-   "notes": [
-    "Retro Night"
-   ]
-  },
-  {
-   "film": "matrix",
-   "theater": "north-bend",
-   "start": "2026-10-07T19:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/the-matrix-wednesday-oct-7th-7pm",
-   "tickets": "https://tix.northbendtheatre.com/event/the-matrix-wednesday-oct-7th-7pm",
-   "notes": [
-    "Presented by Jeff Warren",
-    "Free"
-   ]
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "siff-uptown",
-   "start": "2026-10-07T19:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-mqd6GMw4Fx"
-  },
-  {
-   "film": "filipinana",
-   "theater": "tasveer",
-   "start": "2026-10-07T19:10:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/filipiana",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/filipiana/4005246"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-07T19:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-Ulk2V4BJwm"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "tasveer",
-   "start": "2026-10-07T19:20:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-history-of-concrete-2026-usa",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-history-of-concrete-2026-usa/4005400"
-  },
-  {
-   "film": "motel-hell",
-   "theater": "beacon",
-   "start": "2026-10-07T19:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/motel-hell",
-   "tickets": "https://thebeacon.film/calendar/movie/motel-hell?showtime=CPA5PMQXZU2SRPOBRN6ZQQOS"
-  },
-  {
-   "film": "true-stories",
-   "theater": "nwff",
-   "start": "2026-10-07T19:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/true-stories/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6aa34bd9d6cb049f9b0f02aa"
-  },
-  {
-   "film": "digger",
-   "theater": "siff-downtown",
-   "start": "2026-10-07T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/digger",
-   "tickets": "https://www.siff.net/cinema/in-theaters/digger#screening-A9bEOYM4so"
-  },
-  {
-   "film": "contempt",
-   "theater": "siff-uptown",
-   "start": "2026-10-07T19:30:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/nouvelles-femmes/contempt",
-   "tickets": "https://www.siff.net/programs-and-events/nouvelles-femmes/contempt#screening-R5NOmEaDHN",
-   "notes": [
-    "Nouvelles Femmes"
-   ]
-  },
-  {
-   "film": "traces-of-home",
-   "theater": "tasveer",
-   "start": "2026-10-07T19:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/traces-of-home-film",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/traces-of-home-film/3920763"
-  },
-  {
-   "film": "ju-on-the-grudge",
-   "theater": "central-cinema",
-   "start": "2026-10-07T21:30:00-07:00",
-   "url": "https://central-cinema.com/movie/ju-on-the-grudge/",
-   "tickets": "https://central-cinema.com/checkout/showing/ju-on-the-grudge/3906017"
-  },
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-08T06:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36392?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
   {
    "film": "verity",
    "theater": "admiral",
@@ -3322,6 +2948,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-rBW4542rhM"
   },
   {
+   "film": "primetime",
+   "theater": "tasveer",
+   "start": "2026-10-09T17:25:00-07:00",
+   "url": "https://filmcenter.tasveer.org/movie/primetime-usa-2026",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/primetime-usa-2026/4087779"
+  },
+  {
    "film": "black-zombie",
    "theater": "tasveer",
    "start": "2026-10-09T17:30:00-07:00",
@@ -3408,18 +3041,18 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-ExvQoGQNrL"
   },
   {
-   "film": "history-of-concrete",
-   "theater": "siff-uptown",
-   "start": "2026-10-09T19:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-RwsDC76IoN"
-  },
-  {
    "film": "primetime",
    "theater": "siff-uptown",
    "start": "2026-10-09T19:20:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/primetime",
    "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-wZj7EVZsTm"
+  },
+  {
+   "film": "history-of-concrete",
+   "theater": "tasveer",
+   "start": "2026-10-09T19:30:00-07:00",
+   "url": "https://filmcenter.tasveer.org/movie/the-history-of-concrete-2026-usa",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-history-of-concrete-2026-usa/4087780"
   },
   {
    "film": "black-zombie",
@@ -3543,13 +3176,6 @@
    "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-saturday-oct-10th-3pm"
   },
   {
-   "film": "black-zombie",
-   "theater": "tasveer",
-   "start": "2026-10-10T15:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/black-zombie",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/black-zombie/3960758"
-  },
-  {
    "film": "naza",
    "theater": "tasveer",
    "start": "2026-10-10T15:45:00-07:00",
@@ -3630,18 +3256,18 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-HA3AKHstH7"
   },
   {
-   "film": "history-of-concrete",
-   "theater": "siff-uptown",
-   "start": "2026-10-10T16:40:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-4gy5lpwLCb"
-  },
-  {
    "film": "naza",
    "theater": "siff-uptown",
    "start": "2026-10-10T17:15:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/naza",
    "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-UhUUkuEpnD"
+  },
+  {
+   "film": "history-of-concrete",
+   "theater": "tasveer",
+   "start": "2026-10-10T17:25:00-07:00",
+   "url": "https://filmcenter.tasveer.org/movie/the-history-of-concrete-2026-usa",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-history-of-concrete-2026-usa/4087781"
   },
   {
    "film": "black-zombie",
@@ -3736,6 +3362,13 @@
    "start": "2026-10-10T19:30:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/primetime",
    "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-2Q817B2iwr"
+  },
+  {
+   "film": "primetime",
+   "theater": "tasveer",
+   "start": "2026-10-10T19:30:00-07:00",
+   "url": "https://filmcenter.tasveer.org/movie/primetime-usa-2026",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/primetime-usa-2026/4087782"
   },
   {
    "film": "black-zombie",
@@ -3839,6 +3472,13 @@
    ]
   },
   {
+   "film": "primetime",
+   "theater": "tasveer",
+   "start": "2026-10-11T14:10:00-07:00",
+   "url": "https://filmcenter.tasveer.org/movie/primetime-usa-2026",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/primetime-usa-2026/4087784"
+  },
+  {
    "film": "black-zombie",
    "theater": "tasveer",
    "start": "2026-10-11T14:15:00-07:00",
@@ -3918,6 +3558,13 @@
    "start": "2026-10-11T16:15:00-07:00",
    "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36419?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "history-of-concrete",
+   "theater": "tasveer",
+   "start": "2026-10-11T16:15:00-07:00",
+   "url": "https://filmcenter.tasveer.org/movie/the-history-of-concrete-2026-usa",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-history-of-concrete-2026-usa/4087785"
   },
   {
    "film": "black-zombie",
@@ -6674,6 +6321,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/land-of-the-dead-its-for-the-gays#screening-9Sifmjwjyg"
   },
   {
+   "film": "next-of-kin",
+   "theater": "beacon",
+   "start": "2026-10-30T19:00:00-07:00",
+   "url": "https://thebeacon.film/calendar/movie/next-of-kin",
+   "tickets": "https://thebeacon.film/calendar/movie/next-of-kin?showtime=PV4SV77N5UHHYNC5MDTZOW55"
+  },
+  {
    "film": "hocus-pocus",
    "theater": "central-cinema",
    "start": "2026-10-30T19:00:00-07:00",
@@ -7337,6 +6991,52 @@
    "start": "2026-11-11T19:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-bqL9IPieS1"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-12T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-x1b25pJySe"
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "siff-uptown",
+   "start": "2026-11-12T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
+   "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-rd4By7CglH"
+  },
+  {
+   "film": "candy-mountain",
+   "theater": "siff-film-center",
+   "start": "2026-11-12T19:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/the-open-road/candy-mountain",
+   "tickets": "https://www.siff.net/programs-and-events/the-open-road/candy-mountain#screening-WDJuvbJC5Y",
+   "notes": [
+    "The Open Road",
+    "35mm"
+   ]
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "siff-uptown",
+   "start": "2026-11-12T19:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
+   "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-mmQCedCeus"
+  },
+  {
+   "film": "zi",
+   "theater": "nwff",
+   "start": "2026-11-12T19:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/zi/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ab171985167563a6abf8492"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-12T19:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-dNVNyIrVkI"
   }
  ]
 }
