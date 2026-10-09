@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T12:16:00-07:00",
+ "updated": "2026-10-09T11:48:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-08T12:16:00-07:00",
-    "lastSuccess": "2026-10-08T12:16:00-07:00",
-    "showings": 63,
+    "checked": "2026-10-09T11:48:00-07:00",
+    "lastSuccess": "2026-10-09T11:48:00-07:00",
+    "showings": 61,
     "through": "2026-11-12"
    }
   },
@@ -33,9 +33,9 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-08T12:16:00-07:00",
-    "lastSuccess": "2026-10-08T12:16:00-07:00",
-    "showings": 144,
+    "checked": "2026-10-09T11:48:00-07:00",
+    "lastSuccess": "2026-10-09T11:48:00-07:00",
+    "showings": 148,
     "through": "2026-11-12"
    }
   },
@@ -52,10 +52,10 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-08T12:16:00-07:00",
-    "lastSuccess": "2026-10-08T12:16:00-07:00",
+    "checked": "2026-10-09T11:48:00-07:00",
+    "lastSuccess": "2026-10-09T11:48:00-07:00",
     "showings": 31,
-    "through": "2026-11-12"
+    "through": "2026-11-13"
    }
   },
   {
@@ -70,8 +70,8 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-08T12:16:00-07:00",
-    "lastSuccess": "2026-10-08T12:16:00-07:00",
+    "checked": "2026-10-09T11:48:00-07:00",
+    "lastSuccess": "2026-10-09T11:48:00-07:00",
     "showings": 8,
     "through": "2026-11-03"
    }
@@ -88,10 +88,10 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-08T12:16:00-07:00",
-    "lastSuccess": "2026-10-08T12:16:00-07:00",
-    "showings": 60,
-    "through": "2026-11-12"
+    "checked": "2026-10-09T11:48:00-07:00",
+    "lastSuccess": "2026-10-09T11:48:00-07:00",
+    "showings": 68,
+    "through": "2026-11-13"
    }
   },
   {
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-08T12:16:00-07:00",
-    "lastSuccess": "2026-10-08T12:16:00-07:00",
-    "showings": 71,
+    "checked": "2026-10-09T11:48:00-07:00",
+    "lastSuccess": "2026-10-09T11:48:00-07:00",
+    "showings": 69,
     "through": "2026-11-05"
    }
   },
@@ -126,9 +126,9 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-08T12:16:00-07:00",
-    "lastSuccess": "2026-10-08T12:16:00-07:00",
-    "showings": 34,
+    "checked": "2026-10-09T11:48:00-07:00",
+    "lastSuccess": "2026-10-09T11:48:00-07:00",
+    "showings": 33,
     "through": "2026-11-02"
    }
   },
@@ -145,9 +145,9 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-08T12:16:00-07:00",
-    "lastSuccess": "2026-10-08T12:16:00-07:00",
-    "showings": 54,
+    "checked": "2026-10-09T11:48:00-07:00",
+    "lastSuccess": "2026-10-09T11:48:00-07:00",
+    "showings": 48,
     "through": "2026-10-29"
    }
   },
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-08T12:16:00-07:00",
-    "lastSuccess": "2026-10-08T12:16:00-07:00",
-    "showings": 67,
+    "checked": "2026-10-09T11:48:00-07:00",
+    "lastSuccess": "2026-10-09T11:48:00-07:00",
+    "showings": 112,
     "through": "2026-11-11"
    }
   },
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-08T12:16:00-07:00",
-    "lastSuccess": "2026-10-08T12:16:00-07:00",
-    "showings": 10,
+    "checked": "2026-10-09T11:48:00-07:00",
+    "lastSuccess": "2026-10-09T11:48:00-07:00",
+    "showings": 74,
     "through": "2026-10-17"
    }
   },
@@ -201,9 +201,9 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-08T12:16:00-07:00",
-    "lastSuccess": "2026-10-08T12:16:00-07:00",
-    "showings": 19,
+    "checked": "2026-10-09T11:48:00-07:00",
+    "lastSuccess": "2026-10-09T11:48:00-07:00",
+    "showings": 18,
     "through": "2026-11-01"
    }
   },
@@ -220,9 +220,9 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-08T12:16:00-07:00",
-    "lastSuccess": "2026-10-08T12:16:00-07:00",
-    "showings": 31,
+    "checked": "2026-10-09T11:48:00-07:00",
+    "lastSuccess": "2026-10-09T11:48:00-07:00",
+    "showings": 30,
     "through": "2026-11-01"
    }
   }
@@ -312,6 +312,20 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/08/serbianfilm1600-2-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/trauma-bond-a-serbian-film-2026-extended-cut/"
+   }
+  },
+  {
+   "id": "a-simple-machine",
+   "title": "A Simple Machine",
+   "description": "A Simple Machine is the award-winning, debut feature from director Mark Alan Hoffman, featuring a breakout lead performance by rising star Richard Blackmon. A true indie from the PNW, it is a quietly profound tour-de-force stunningly shot by cinematographer Kevin Fletcher (It’s What’s Inside) and scored by renowned composer Mark Orton (The Holdovers, Nebraska).\n\nAs the country looks to mark its 250th anniversary amid deep uncertainty, this story offers rare respite - a modern-day, cinematic Walden - a luminous, deeply human meditation on personal freedom, economic independence, and the cost of wanting less in a culture built on more.\n\n“…relevant to almost everyone in America, as affordability becomes one of our biggest worries.” —Tim Molloy, MovieMaker",
+   "runtime": 100,
+   "year": 2025,
+   "director": "Mark Alan Hoffman",
+   "country": "USA",
+   "language": "English",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/REN_ASimpleMachine_1600x900.png",
+   "links": {
+    "siff-film-center": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/a-simple-machine"
    }
   },
   {
@@ -662,7 +676,7 @@
    "id": "digger",
    "title": "Digger",
    "description": "Academy Award-winning filmmaker Alejandro G. Iñárritu returns with his original film Digger, starring Tom Cruise in the title role.\n\nThe most powerful man in the world embarks on a frantic mission to prove he is humanity’s savior before the disaster he’s unleashed destroys everything.\n\nCruise stars alongside Oscar winner Riz Ahmed, John Goodman, Oscar nominee Sandra Hüller, Michael Stuhlbarg, and Oscar nominee Jesse Plemons.",
-   "runtime": 129,
+   "runtime": 139,
    "year": 2026,
    "director": "Alejandro G. Iñárritu",
    "country": "USA, United Kingdom, Mexico",
@@ -686,6 +700,16 @@
    "image": "https://static.spotapps.co/spots/1d/2b3d8c066545a9a3ef1e5dba5dd8a3/w926",
    "links": {
     "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
+   "id": "double-feature",
+   "title": "Double Feature",
+   "genres": [
+    "Other"
+   ],
+   "links": {
+    "majestic-bay": "https://www.majesticbay.com/movies/307572-double-feature/"
    }
   },
   {
@@ -752,6 +776,90 @@
    }
   },
   {
+   "id": "engauge-2026-beyond-borders",
+   "title": "Engauge 2026 – Beyond Borders",
+   "description": "This seemingly disparate collection of films takes us beyond the often artificial boundaries of countries, equipment, formats, frames, genres, species, states, and styles.\n\nFILMS IN THIS PROGRAM:\n\nSome Place to Stand (Sandy McLennan | color/sound | 16mm to digital | 4:04 | CA)\n\nAn Expo ’67 song on 45, current hand-processed film footage, reflecting on social concepts then and now.\n\nThe Spider (Shanna Maurizi color/sound | 16mm to digital | 8:45 (time updated?) | US)\n\nNighttime visions emerge from a dusty roadside and out of the depths of the subconscious as two characters are drawn together by a shared experience. “The Spider” mines family history by developing an ancestral mythology where time is simultaneous, but loss is real.\n\nHurricane Season (Michelle Trujillo | b&w/sound | 16mm to digital | 6:22 | US)\n\nHurricane anxiety takes a visceral form as the image searches for an escape route. Inspired by true events. Created on 16mm film and developed with comfrey, mint, yerba mate and willow leaves.\n\nJonah (Daniel Cortés Ramírez | b&w/sound lomokino to digital *wide* | 10:40 | Colombia)\n\nJonah, the anti-prophet, escapes once again from the god who humiliated him.\n\nHe boards a ship to Tarshish, and out on the vast sea, a distant yet familiar echo calls to him. His body trembles from the trauma, but a deep embrace gathers him up and holds him close.\n\nThis film uses 35mm Lomokino footage to imagine an alternative fate for the perpetrators’ violence.\n\nEn La Paz (Jeremy Moss | b&w/sound | 16mm to digital | 3:00 | US/Bolivia)\n\nCreated in-camera on a rooftop in La Paz, Bolivia in July on B&W reversal film with my Bolex as dusk was approaching. The city’s sea of antennas and surrounding mountains pointing to the sky inform the film’s sound.\n\nKaze No E (or Why the Wind Whispers Among the Leaves) (Takahiro Suzuki | color/sound | 16mm to digital | 7:05 | US)\n\nFour young researchers in Big Sky Country begin to wonder about the vastness of the world and greater cosmos. If non-human presences were capable of harboring intelligence and communicating, what information could they pass along? Using the trees and wind as messengers, the researchers record and decipher writings and recordings from the trees and wind, relating them back to the land and universe, before finding ways to embody them through sound and movement as a form of empathy and communion with a greater intelligence.\n\nTransmission (Douglas Urbank | b&w/sound | 16mm to digital | 7:20 | US)\n\nLayers of patterns generate sound.\n\nToss a Rose Over (Janelle VanderKelen | color/sound | 16mm to digital | 10:44 | US)\n\nThe green ones share stories of change in this travelogue from the vantage point of plants. In a canyon where all things move, these ancient beings urge humanity to reconsider acts of interspecies and intraspecies relation during a current period of anthropogenic climate change.\n\nLeaf Peeper (Vito Rowlands | color/sound | Super 8 to digital | 2:54 | US)\n\nA frantic frolic in Fall foliage. A stop-motion autumn adventure. A symphony in blaze orange.\n\nRun (Robert Schaller | b&w/silent | 11:51 | 16mm print | US)\n\nAn optical quest to capture the feeling of running through the Colorado mountains on and around the Continental Divide.\n\nAlpine Tundra (Kathleen Rugh | color/sound | 5:35 | 16mm print | US)\n\nAt an elevation of 14,264 feet above sea level, the peak of Mount Blue Sky is too harsh for trees and common vegetation. Instead, the ground is covered with fragile tundra grass, weak soil, and rock. In this harsh climate exists the highest paved road in North America, that allows visitors traveling by car to partake in striking views and a sense of awe in the extremes of nature.",
+   "runtime": 86,
+   "genres": [
+    "Shorts",
+    "Experimental"
+   ],
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/beyondborders1600-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/engauge-2026-beyond-borders/"
+   }
+  },
+  {
+   "id": "engauge-2026-expanded-cinema-performance-and-film",
+   "title": "Engauge 2026 – Expanded Cinema Performance and Film",
+   "description": "FILMS IN THIS PROGRAM:\n\nNo Landscape Ever Made Me Cry (Sujin Lee | b&w/silent | 5:30 |16mm to digital | US/Korea)\n\nI am a crier, and this film tells stories about holding back (or not holding back) tears; words break down and often turn into crying. The film tries to explain those tears. It also reflects an ambivalent attitude—being personal while trying to maintain distance from these emotions, wanting to talk about crying but not quite being able to. Produced on 16mm film using inkjet-printed paper and plastic negatives, the entire process was cameraless.\n\nPedra e Montanha, Expanded Cinema Performance of 35mm Slides by Tetsuya Maruyama (3-35mm slide projectors + live sound accompaniment by Corey J. Brewer | 50:00 | Brazil)\n\nA continuation of ongoing research into contemporary mining activities in Brazil and beyond. Multiple 35mm slide projectors cycle through images captured by a Brazilian mining company while being manipulated live by the artist using three 35mm slide projectors. Live sound accompaniment by local artist/musician Corey J. Brewer incorporates field recordings taken by Maruyama and Brewer (check for accuracy).",
+   "runtime": 60,
+   "genres": [
+    "Shorts",
+    "Experimental"
+   ],
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/tetsuya1600-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/engauge-2026-expanded-cinema-performance-and-film/"
+   }
+  },
+  {
+   "id": "engauge-2026-pattern-and-place",
+   "title": "Engauge 2026 – Pattern and Place",
+   "description": "Inspired by Eric Stewart’s description of his film as “a quiet study in pattern and place,” these films closely observe phenomena, not limited to but often privileging the natural world. 2 films will be shown on 16mm and the last is an expanded cinema performance.\n\nFILMS IN THIS PROGRAM:\n\nMaya at 24 (Lynne Sachs | b&w/sound | 4:47 | 16mm to digital | US)\n\nLynne Sachs films her daughter Maya in 16mm black and white film, at ages 6, 16 and 24. At each iteration, Maya runs around her mother, in a circle – clockwise – as if propelling herself in the same direction as time, forward. Conscious of the strange simultaneous temporal landscape that only film can convey, we watch Maya in motion at each distinct age.\n\nSolar Wave (Christina Nguyen | color/sound | 2:53 | 16mm to digital | US)\n\nsun light, sun set, sun rise, sun ray. a hand processed in camera roll shot on Kodak 3383 color print stock.\n\nHemispheres (Eric Stewart | color/sound | 7:14 | 16mm to digital | US)\n\nFilmed over the course of several years in southern Colorado, Hemispheres is a quiet study in pattern and place, as observed through the window of my living room. Shot on Super 16mm film, the project layers multiple time-lapse exposures of cacti and seasonal light, capturing subtle shifts in color, atmosphere, and rhythm. Like the inlay of a sundial meeting a garden’s creeping vines, what emerges is not a photograph of a singular view or moment, but a composite drawing of duration—using light to trace the intersecting cycles of growth and dormancy, brightness and shadow, warm and cool, seasonal progression and retreat…\n\nStock (Lucy Ellis | color/sound | 1:50 | 35mm to digital | UK)\n\nStock uses both new and obsolete digital stock imagery transferred onto 35mm film through UV printing, pen plotting and sticker transfer. Drawing parallels between the vertical storage of information digitally and on the film surface, the imagery transfers from one storage system to another allowing for a shift in line, texture and detail, a drift from digital precision. Undertaking a new form of light and a new identity (from digital to analog) the imagery becomes slow in its formation whilst unstable in nature.\n\nLicht & Ton (Light & Sound) (Jan Rehwinkel | b&w/sound | 5:50 | Germany)\n\nA film without a camera: The fascination of painting tone or noise—a composition of visible sound and audible images. After experimenting with photograms on 16mm film, whose technical precision proved too much for me, I decided to switch to what I like best about filmmaking: painting what I want to see (and hear!) onto the material myself. When I work this way, I am constantly confronted with failure or the impossibility of perfection – even the contact printer I used to make the screening copy was unpredictable. But I see all of this as a creative tool and integrate it into the process.\n\nFluss (Penny McCann | b&w/sound | 3:39 | 16mm to digital | CA)\n\nIn this experimental film, a journey down the Danube River is transformed into a dream space of half-seen images and flickering shorelines. Though at times abstract, the river remains certain, always moving towards the sea. Filmed in black and white 16mm and hand-processed, Fluss is a companion to River (2023), a black and white study of the Ottawa River in winter. Commissioned by Ottawa’s Lightproof Film Collective.\n\nDrift (Tessa Garland | b&w&color/sound | 7:25 | S 8 to digital | UK)\n\nShot on Super 8, the film captures a walk around a precarious, low-lying sandbank island, where fleeting observations come into focus only to vanish again. Rotations and cycles ebb and flow through manmade wind vanes assembled from foraged sea drift, while sea-worn objects hint at deeper meanings beneath the surface. Prehistoric-looking cacti punctuate the island, contributing to its strange, otherworldly atmosphere.\n\nPhytophonics (Karel Doing | color/sound | 4:18 | 16mm to digital | UK)\n\nPlant matter is used to create finely detailed indexical traces on photochemical film. The traces are not only visible but also audible. By feeding botanical textures, patterns and rhythms into the optical sound system noise, cracks, pops and hiss is generated. Seeing is hearing. Such a cross modality disobeys the usual lipsync illusion and replaces this so called realism with a radically different concreteness. Phytophonics is serious play with living material in a world that is increasingly based on simulated sham. Eco-punk against the abyss created by late-capitalism.\n\nSpring Song (Wei Gao | color/sound | 16:21 | 16mm to digital | Korea/France)\n\n“Spring Song” was filmed from 2016 to 2024. Every spring, the filmmaker, armed with a Super 8mm camera and using the vibrant colors of Ektachrome super 8 film, or Kodak color negative film, captured the vibrant blossoms, grasses, leaves, insects, and small animals of spring. The filmmaker’s meticulous daily observations in her own rooftop garden, as well as her chance encounters in the National Forest Park, revealed a rich natural ecosystem. She also employed cameraless photography, creating images of plants through photochemical reactions between Super 8mm film, plants, and organic matter. She then combined these Super 8mm and cameraless images together to create a dynamic and colorful vision of spring. In the context of increasingly strained ecological environments, the director created a living green ecosystem in her rooftop garden, observing plants and practicing a lifestyle integrated with nature.\n\nGradually Forming a Circle (Zack Parrinella | color/sound | 8:02 | 16mm print | US)\n\nA stepped and steady progression of a line becoming a circle. Soundtrack by Zekarias Musele Thompson.\n\nThe Rocks: Kata Tjuta West of Ularu (Dianna Barrie and Richard Tuohy | color/sound | 6:00 16mm print | AU)\n\nLooking at the present, as though the far future were dreaming of its ancient past – an ‘iconogenic’ vision of Australia.\n\nMounds Above the Earth (Jaiyi Chen | color/sound | 7:39 | *35mm, 16mm and interventionist tools, performed by Spencer Sundell | US)\n\n“Mounds Above the Earth” contemplates ecological cycles, perception, and environmental transformation, anchored in the rare emergence of two periodical cicada broods surfacing simultaneously for the first time in more than two centuries. The film follows the flicker of red through the cicadas’ developing eyes, a blood moon, and a retelling of an ancient fable.",
+   "runtime": 86,
+   "genres": [
+    "Shorts",
+    "Experimental"
+   ],
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/patternplace1600-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/engauge-2026-pattern-place/"
+   }
+  },
+  {
+   "id": "engauge-2026-tactility-and-memory",
+   "title": "Engauge 2026 – Tactility and Memory",
+   "description": "These films posit a connection between the haptic world and what we choose to embody, remember, erase, perhaps forget. Filmmakers manipulate the medium in a variety of ways to emphasize visual texture and showcase techniques that evoke memory and touch.\n\nFILMS IN THIS PROGRAM:\n\nCaribou (Lindsay Aksarniq McIntyre | color/sound | 16mm to digital | 15:00 | CA)\n\nAn experimental documentary created with handmade and manufactured emulsions exploring the close and enduring connections between Inuit, caribou, lichens, and land use. Lichen developers help bring the images to life, while caribou hide is processed into gelatin to make handmade emulsion. Filmed primarily on the land in Nunavut where caribou struggle to maintain their lifeways amidst burn events, habitat disruption and changing conditions.\n\nI Found Some Old Footage of a Tree (Krista Lee Steinke | color/sound | 16mm to digital | 3:22 | US)\n\nAn experimental film that unfolds as a glimpse into the creative process: a sketch, a vignette, a visual mind map, and a meditation on how to document a planet in flux. In this piece, the materiality of film becomes a metaphor for time, impermanence, and the fragility of the natural world. Working with Super 8mm and 16mm footage, the image itself carries traces of transformation, decay, and memory, blurring the boundaries between document and artifact. A sense of anxiety and urgency shapes the work, leaving us uncertain whether we are witnessing the past, the present, or a message from the future. Ultimately, the film asks how cinema can hold onto a world that is continually changing, and what remains when both landscapes and images begin to disappear.\n\nEOJ (Tianming (Alaric) Zhou b&w/sound | 16mm to digital | 2:22 | China/US)\n\nRegulatory signs shot on 16mm, hand-processed with caffenol, and subjected to both analog and digital corrosion. EOJ reimagines the anxiety induced by caffeine hypersensitivity and the pressures of social conditioning.\n\nAutopsia del Río (Ada Rajkovíc | color/sound | Super 8 to digital | 2:37 | US)\n\nInspired by David Gatten’s “What The Water Said,” this film uses the material of Super 8 celluloid itself to record the memories of the Río de la Plata, a former burial ground for los desaparecidos during Argentina’s military dictatorship.\n\nFlow Attachment (Tijana Petrovic | b&w/sound | 16mm to digital | 8:40 | US)\n\nA coastal sand dune is transformed and reshaped into digital ether. The film focuses closely on sand as a material, which is composed of silica, the mineral that is a primary ingredient in manufacturing silicon chips, lenses, binoculars, microscopes and mirrors – devices that extend our vision. The film uses these devices to visually capture the sand dune and evoke the transformation of materials that goes into their production. Through 16mm analog techniques, elemental forces of a sand dune merge with the physical properties of the celluloid.\n\nPolychora (Abinadi Meza | color/sound | 16mm to digital | 9:22 | US/Mex)\n\nA cameraless 16mm film, scanned to 4K and slowed into extreme temporal dilation: an aqueous prism where chromatic membranes evolve. Its title evokes the polychoron, a four dimensional form. Fractal traces surface within the color fields: analog and digital, cellular and cosmic, coexisting in the same luminous space. Polychora functions as a neuro refuge, a haptic cinema where the eyes and body can rest inside something vast.\n\nTactile Light Diary (Callon Murphy | b&w/sound | 8mm to digital | 6:00 | CA)\n\nTouch replicated through audiovisual means./Fabric structures exposed and magnified.\n\nTextiles dance over microphone and screen./Images burst to the forefront.\n\nFirst a beach, then an unclean pool./Summer slips into fall./ Details are forgotten or misremembered./The retained memory of tactile objects.\n\nNeed and Desire (Francesca Svampa | color/sound | Super 8 to digital | 8:24 | Spain/Italy)\n\nA gesture of erasure. A spell. If you lift the emulsion from a photograph, destroy its surface, transplant it onto a new body, does the memory it carried survive? “Need and Desire” originates from this question, and from the poetic belief that making a film can alter reality. The cinematic act becomes [an] incantation: a process that destroys and reconstructs simultaneously. Still memories become an “emulsional” landscape.\n\nFata Morgana (Hannu Nieminen | color + b&w/sound | Super 8 to digital | 5:16 | Finland)\n\nFata Morgana is a mirage phenomenon in which distant objects appear distorted, often floating or stretched out on the horizon. The film is an experimental study of memory, images and filming, and how memories can transform, rust and disintegrate. The photographs are from a summer spent on the banks of the Terijoki River in Karelia, which [the] Soviet Union took from Finland after WWII.\n\nInterwoven Intervals (Laura Kraning | b&w/sound | 16mm to digital | 6:00 | US)\n\nPattern drafts are the graphical score for weaving – grids of light and dark representing the over and under of weft threads between the warps. In this material hybrid of film and textile, the graphic repetition of grids, lines, and squares assert a structural form that is fragile and vulnerable to erasure.\n\nLa Duréte du Mental/Mental Toughness (Charles-Andre Coderre | color/sound | 35mm to digital *wide* | 20:00 | CA)\n\n“It’s a distraction for many, a profession for a few, when for me sport is my whole life. And if fighting is the reason you’re living. If every muscle clamors : train me, exercise, put on a sprint. Find a competitor or at least fight against a pole. It’s hard to get started but it’s otherwise difficult to stop. Even with your back against the mat. Never mind. You have to stand up and go further. You will now have to fight against yourself.” Transforming Olympic wrestling and pole vaulting Soviet films from the 1980s into expressive, painterly imagery, the film appears as a film practitioner’s decathlon.",
+   "runtime": 85,
+   "genres": [
+    "Shorts",
+    "Experimental"
+   ],
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/tactilitymemory1600-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/engauge-2026-tactility-and-memory/"
+   }
+  },
+  {
+   "id": "engauge-2026-tainted",
+   "title": "Engauge 2026 – Tainted",
+   "description": "This program gathers a group of films that confront the various underbellies of life: deceptive icons, devastated landscapes, climate change, predatory advertising, drug addiction, toxic politics and environmental disasters, among others, using found footage emulsion lifting, documentary techniques, handmade film and cameras, single framing, and narrative strategies.\n\nFILMS IN THIS PROGRAM:\n\nFront Ear Theory (Brady Lewis | color/sound | 5:12 | S8 to digital | US)\n\n“Front Ear Theory” is a five-minute history lesson. To be more precise, it’s a story about a history lesson. Or about a history teacher. It’s an experimental narrative that was shot entirely on super-8 (mostly Kodachrome) film.\n\nBigger Than Us, The Berkeley Pit, Butte, Montana (color/sound | 9:00 | 16mm to digital | US)\n\nA portrait of a huge open-air copper mine in Butte, Montana. The closed mine dominates the city geographically, and also financially, culturally, historically, and in the on-going health effects from the highly toxic metals and chemicals which fill the bright blue-green water in the pit. (The pit is a designated Superfund site.) After a few opening titles which briefly introduce us to the pit and its history, the film becomes a wordless visual montage, almost always superimposing several layers of footage.–David Finkelstein.\n\nBlu/Blue (Andrea Nevi | color/sound | 4:47 | Super 8 to digital | Italy)\n\nA community displaced by a climate disaster settles in a new habitat, where memories of their former way of life slowly begin to resurface. BLU is an experimental climate fiction short film made entirely from Super 8mm found footage recovered from a flea market.\n\nInjured? (Eislow Johnson | color/sound | 13:28 | 16mm to digital | US)\n\nNeed help? Crashouts, manifestation influencers and injury lawyers collide in this breakneck ride through the Midwest. 50 years after attorney ads were first legalized in the U.S., their ubiquitous self-portraits (allegedly) invoke a churn-and-burn economy of volume, velocity, fears and veneers.\n\nWhat You Don't See (Karl Nussbaum | color/sound | 1:25 | 16mm to digital | US)\n\nThis film is about what the audience doesn’t see when we watch a film – the sprockets, the optical soundtrack, the splicing tape, the celluloid itself, the frame lines, etc. This is a very short Direct Animation film I made at MONO NO AWARE in Brooklyn. It’s totally analog and was made using only 16 mm and Super 8 found footage film strips.\n\nOn The Glue (Dave Johnson | color/sound | 3:02 | 16mm to digital | CA)\n\nFrom the depths of London, England’s Barracks district amongst the derelict weapons huts, comes a public service expose from the 1970s revealing “THE HORRORS” of kids participating in the act of glue sniffing. The narrative is told in three parts: The reporter, a mother, and her “addict son” David. This film and its title have been appropriated from a 1970’s BBC expose. The visual treatment exposed the footage (and the filmmaker) by gluing pieces of film together then ripping it apart. This becomes an interesting metaphor of creating using the substance of the problem presented in the film. The film was edited by hand and sequenced using measurements to time each shot.\n\nThe Gloaming (Charlotte Pryce | color/sound | 14:00 | 16mm to digital | US)\n\nA metaphorical tale of pyrophytic transmutation, of metamorphosis through fire. Inspired by medieval paintings of celestial portents, The Gloaming is a work of bio-mysticism that takes the form of a fable. The slippage between substances and the ethereal nature of matter finds a parallel in the chemical accretions of the hand processed film. In a time of environmental uncertainty, the film offers a story of adaptation and survival.\n\nThought/Action (Dirk De Bruyn | color/sound | 10:27 | 16mm to digital | AU)\n\nInitiated in 1996 and belatedly completed in 2026, this home-processed 16mm film material was inspired by Marc Adrian’s Total (1968) and incorporates Moucle Blackout and Laszlo Dudas’s voices. Partially shot at Hearst’s San Simeon Castle, Canada and Royal Melbourne Show, it is an exploration of overcoming traumatic thoughts through materialist actions onto the film surface. The completion gap demonstrates the power of and resistance to traumatic events.\n\nBetter Lighting (Kathryn Ramey | color/sound | 2:13 | 16mm to digital | US)\n\nAn agitprop made from two 30-second GE adverts from the 1970s repurposed to rebuke the role white women voters in the US have chosen to uphold white supremacy and the patriarchy instead of supporting the interests of women and anyone who loves them.\n\nNecropolis (Kevin T. Allen | color/sound | 8:53 | Super 8 to digital | US)\n\nA Stone Tape film inspired by the yellow fever epidemic in 19th century New Orleans, using analog camera techniques and contact microphones to excavate the material traces of trauma. Coined by archaeologist and parapsychologist T.C. Lethbridge, Stone Tape Theory posits that material objects record traumatic events of the past…and that they can be played back.\n\nGood Neighbors Care (Kate E. Hinshaw | color/sound | 3:50 | 16mm to digital | US)\n\nFor decades chemical company DuPont and its subsidiary Chemours poisoned North Carolina’s drinking water through illegally dumping forever chemicals into the Cape Fear River. On altered 16mm film, corporate promises of community care and pure water dissolve as rivers and bodies merge in a meditation on what it means to exist in an imperfect environment.\n\nNorth (Hogan Seidel | b&w/sound | 3:00 | 16mm to digital | US)\n\nI found a decaying print of Nanook of the North and continued its collapse through photochemical processes, confronting the violence of its legacy. “North” is not a restoration, but a reckoning—an act of holding damaged images until they blur, bleed, and refuse the gaze that once claimed them.\n\nAssets (Christine Lucy Latimer | color/sound | 2:22 | 16mm print | CA)\n\nHundreds of digitally generated filters and assets used by online content creators to simulate a “shot on film” aesthetic are collaged together on expired 16mm Ektachrome. Random contemporary approximations of film artifacts, ranging from industrial to experimental, move through the frame in impossible trajectories. A film of transitions that never transition, positioning moving image signifiers in a post-truth era.\n\nAshes to Ashes (Sidney Gordon | color/sound | 5:00 | 16mm print | CA)\n\n“Ashes to Ashes” depicts fragments of the artist’s diary as they undergo physical and emotional transformation through a blazing agricultural landscape. Words turn to ash as the past is consumed by flames. Rivers ignite from embers, flow through vessels and begin to crack. Manifested through the land and material processes lies a situated reflection on recovery, loss and evolution. The film was shot at the 2024 Independent Imaging Retreat. It was developed with common comfrey and contaminated wood ash foraged from the farm and was coated in the artist’s blood.",
+   "runtime": 79,
+   "genres": [
+    "Shorts",
+    "Experimental"
+   ],
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/tainted1600-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/engauge-2026-tainted/"
+   }
+  },
+  {
+   "id": "engauge-2026-we-are-all-together",
+   "title": "Engauge 2026 – We Are All Together",
+   "description": "This phrase, borrowed from Lynne Sachs’ film “A Month of Single Frames,” perfectly captures the relationality that this program embodies: birth, death, motherhood, illness, widowhood, friendship, family, gender, artistry. These films, deeply anchored in the challenging realities of the everyday, are ultimately uplifting.\n\nFILMS IN THIS PROGRAM:\n\nExplant/Implant (Josh Weisbach | color/sound | 3:16 | 16mm print | US)\n\nA lifetime of surgeries continues with an upgrade in battery life and a downgrade in scar tissue when the filmmaker has his original pacemaker replaced after sixteen years.\n\nObjectionable Fruit (Gabby Follett and Hogan Seidel | color/sound | 15:00 16mm to digital | US)\n\n“Objectionable Fruit” is an experimental documentary examining the Ginkgo tree—a living fossil celebrated for its resilience and unique capacity to change sexes, defying human-imposed binaries. Using the Ginkgo as a metaphor for fluidity and endurance, the film weaves together themes of gender identity, ecological interconnectedness, and the nuanced complexities of trans existence.\n\nDyade (Carole Thibaud & Bertille LaFarge | b&w/sound | 6:50 | 16mm to digital | France)\n\nA film made by two sisters, filmmaker and dancer. Written by four hands, shot and danced in turn. Witness to a shared experience, created through the inspiration of the moment, the light, and the place. A story of gesture, transmission, play, and poetry. The film images were shot in 16mm at the Bressieux farm (Savoie, France) in February 2023, developed in Mire’s shared laboratory in Nantes, and edited back and forth.\n\nYou May Laugh at Me a Little (Yuula Benivolski | color/sound | 22:35 | 16mm to digital | CA/Palestine)\n\nA film about a glassblower in Hebron—a place historically known for glass production, which dominated the region for centuries. Each family in the business was known for their own traditional recipe. A couple of years ago I interviewed the last glassblower in Hebron’s old city, and filmed him during a regular day at his studio.\n\nThe Algae (Ursula Brookbank | b&w/sound | 5:45 | 16mm to digital | US)\n\nThree sisters of sorrow bring tears and comfort to a widow.\n\nMoving Feelings (Rendro Aryo | color/sound | 5:38 |Super 8 to digital l Indonesia)\n\nAn experimental poetry film shot using a super 8 mm camera from 1975. A film that plays with poetry through poetic images. A man and a woman searching and questioning the meaning of youth.\n\nTo My Son (Linda Fenstermaker | color/sound | 6:40 | 16mm to digital | US)\n\nA visual exploration on the transition to motherhood and how time shifts in this phase of life seen through the landscapes of the Pacific Northwest.\n\nA Month of Single Frames (Lynne Sachs | color/sound | S 8 to digital | US)\n\nIn 1998, filmmaker Barbara Hammer had a one-month artist residency in the C Scape Duneshack which is run by the Provincetown Community Compact in Cape Cod, Massachusetts. The shack had no running water or electricity. While there, she shot 16mm film with her Beaulieu camera, recorded sounds with her cassette recorder and kept a journal. In 2018, Barbara began her own process of dying by revisiting her personal archive. She gave all of her Duneshack images, sounds and writing to filmmaker Lynne Sachs and invited her to make a film with the material.\n\n“While editing the film, the words on the screen came to me in a dream. I was really trying to figure out a way to talk to the experience of solitude that Barbara had had, how to be there with her somehow through the time that we would all share together watching her and the film. My text is a confrontation with a somatic cinema that brings us all together in multiple spaces at once.”\n\n— Lynne Sachs",
+   "runtime": 81,
+   "genres": [
+    "Shorts",
+    "Experimental"
+   ],
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/wearealltogether1600-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/engauge-2026-we-are-all-together/"
+   }
+  },
+  {
    "id": "entanglements-shorts",
    "title": "Entanglements (Shorts)",
    "description": "What’s in a label? This shorts program follows attractions and relationships through change and self-discovery. Beyond the meet-cute, connecting can be complicated- let’s do it anyway!\n\nSHORTS IN THIS PROGRAM:\n\nBuffalo 10 (Trisha Pickelhaupt, United States, 12m)\n\nA trans woman aching for the simplicity of her upbringing moves back to Buffalo from NYC, where she gets asked out at the local bowling alley.\n\nWall Udder (Alexandra Hayden, United States , 8m)\n\nA dissatisfied woman confronts repressed feelings of malaise after her partner comes home smelling like milk.\n\nDevils in The Bush (Juliet Belisario, Canada, 8m)\n\nFollowing the disappearance of her girlfriend, a trans filmmaker discovers EmileCam, a 24-hour livestream devoted to spying on her.\n\nLa Perla Victoria, Desde un Corazón Trans (Sol Jimenez Palacios, Devyn Galindo, Victoria Castro, United States, 9m)\n\nLa Perla Victoria resists narratives that reduce trans migrants to mere victims. Instead, it offers a portrait of trans life that is tender, political, and profoundly human, rooted in the belief that telling our stories is itself a form of liberation.\n\nCW: Descriptions of gun violence and assault, descriptions imprisonment at the US border\n\nSaved Me (TJ Gascho, United States, 3m)\n\nLove knows no bounds! A Seattle film screening comes to life as Cupid’s arrow flies off the screen and into the crowd!\n\nSword Over The Door (Alec Mazzoli, United States, 14m)\n\nFour friends playing a tabletop roleplaying game slowly realize that something is wrong.\n\nCW: Flashing lights, camera techniques that may affect those prone to dizziness or vertigo.\n\nZombie Butterflies (Pê Moreira, Thomas Argos, Brazil, 17m)\n\nIn this romcom stained with Brazilian queerness, João used to think the butterflies in his stomach were dead. When he falls in love with Lucas, his best friend, something weird starts happening in his belly. Maybe he has zombie butterflies.\n\nMotherhood (Ava Corder, United States, 12m)\n\nA pregnant trans woman in the heat of active labor battles strict medical protocols and her family’s doubts to have a natural birth.\n\nCW: Blood/gore",
@@ -779,26 +887,6 @@
    }
   },
   {
-   "id": "filipinana",
-   "title": "Filipiñana",
-   "description": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past.\n\n\"Darkly comic, visually inventive...cinematically builds into a scathing account of inequality, showing how women like Isabel are condemned to work in a place whose atmosphere is closer to that of a colonial plantation than a cushy country club.\"\n— Jordan Mintzer, The Hollywood Reporter",
-   "runtime": 100,
-   "year": 2025,
-   "director": "Rafael Manuel",
-   "country": "Singapore",
-   "language": "Filipino, English, Ilokano",
-   "rating": "NR",
-   "genres": [
-    "Drama",
-    "Mystery"
-   ],
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_Filipinana_1600x900.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/filipinana",
-    "tasveer": "https://filmcenter.tasveer.org/movie/filipiana"
-   }
-  },
-  {
    "id": "five-minutes-to-die",
    "title": "Five Minutes to Die!",
    "description": "It's FIVE MINUTES TO LIVE... HALLOWEEN EDITION!\n\nHere's the deal. You buy a ticket. We show you the first five minutes of five different mystery movies. Then everybody votes on which one to watch in its entirety!\n\nYou've got FIVE MINUTES TO DIE! Come have an encounter with the unexpected free from the burden of preconceptions. Choose your own adventure in the unimaginably vast world of strange and interesting cinema. Experience the delight of pure surprise. We'll promise a wild time if you promise to be open to anything.",
@@ -823,7 +911,7 @@
   {
    "id": "flying-embers-and-a-fortress",
    "title": "Flying Embers and a Fortress",
-   "description": "The abduction of Jonas Burgos in 2007 was brazen—carried out at noon in a crowded mall. As his family launched their search, a car plate brought them face-to-face with powerful forces. Thus began their fight for justice.\n\nDespite insurmountable barriers, anonymous informants have provided leads and even the last known photo of Jonas in captivity. At the forefront of this battle is Edita, his 80-year-old mother, and her other son, filmmaker JL Burgos.\n\nPresented through testimonials from their lawyer, a reporter, a former Justice Secretary and Human Rights Commission Chair, and witnesses who agreed to appear on condition of anonymity, combined with animation and never-before-seen footage of the family’s relentless search, JL pieces the stories together to uncover the painful truths about his brother’s disappearance.",
+   "description": "PRESENTED BY TANOD LUPA & ICHRP-WA\n\nFarmer-activist Jonas Burgos, son of the late press freedom icon and anti-Marcos publisher Jose Burgos Jr., had just finished a training program on organic farming for members of the Philippine peasant organization Kilusang Magbubukid ng Pilipinas (KMP), when he was abducted on April 28, 2007. The abduction was brazen—carried out at noon in a crowded mall. As his family launched their search, a car plate brought them face-to-face with powerful forces. Thus began their fight for justice.\n\nDespite insurmountable barriers, anonymous informants have provided leads and even the last known photo of Jonas in captivity. At the forefront of this battle is Edita, his 80-year-old mother, and her other son, filmmaker JL Burgos.\n\nPresented through testimonials from their lawyer, a reporter, a former Justice Secretary and Human Rights Commission Chair, and witnesses who agreed to appear on condition of anonymity, combined with animation and never-before-seen footage of the family’s relentless search, JL pieces the stories together to uncover the painful truths about his brother’s disappearance.\n\nThis 2024 documentary is a timely examination of the rights abuses that activists and organizers continue to face today in the Philippines under the Marcos Jr. administration, especially as KMP still carries out a national day of action in the Philippines for landless farmers annually on October 21st. Join Tanod Lupa at the Beacon for these screenings and discussion on how this relates to our current community, as we carry out demands of Justice for the Negros 19 massacre and justice for the rights and welfare of peasant farmers throughout the Philippines.\n\nTanod Lupa (Tagalog for “Earth Guardian”) is an organization based in South Seattle building solidarity with land defenders as they struggle against environmental destruction and degradation. TL is a member of the Friends of the Filipino People in Struggle (FFPS) network and the International Coalition for Human Rights in the Philippines (ICHRP).",
    "runtime": 96,
    "year": 2024,
    "director": "JL Burgos",
@@ -1190,20 +1278,6 @@
    }
   },
   {
-   "id": "kikujiro",
-   "title": "Kikujiro",
-   "description": "Stuck in Tokyo with his grandmother while all his buddies are out of town, the start of summer vacation has been a bit of a drag for 9-year-old Masao. When the boy impulsively decides to set out and track down the mother he’s never met, a concerned neighbor sends her indolent, former yakuza husband Kikujiro (Takeshi Kitano) to escort him on the road. Gambling away their travel money on cycling races, the pair are forced to rely on the good graces of colorful characters they meet along the way. Always eccentric, Takeshi “Beat” Kitano spent the ‘80s and ‘90s stretching his deadpan style across violent yakuza titles, broad comedies, and heartfelt dramas, and here he channels his cross-genre strengths in a bumbling quest across the countryside with warmth and signature slapstick. Accompanied by an unforgettable Joe Hishashi score and full of delightful digressions found in the best road trips, Kikujiro stands as one of the most charming summer vacations in cinema.\n\n\"It’s full of strange flights of fancy that come out of nowhere and go nowhere. And along with the laughs, it creates a sense of loss so strong and grievous that this feeling may stick with you for days. Yes, it’s sentimental, but it’s also highly atypical and downright weird. And it’s been haunting me ever since I first saw it.\" — Jonathan Rosenbaum\n\n35mm print courtesy of Sony Pictures Classics",
-   "runtime": 121,
-   "year": 1999,
-   "director": "Takeshi Kitano",
-   "country": "Japan",
-   "language": "Japanese",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/The%20Open%20Road/CIN_Kikujiro2_1600x900.png",
-   "links": {
-    "siff-film-center": "https://www.siff.net/programs-and-events/the-open-road/kikujiro"
-   }
-  },
-  {
    "id": "l-amour-fou",
    "title": "L’Amour Fou",
    "description": "Confined to decades of oblivion after its original celluloid elements were damaged in a fire, Jacques Rivette’s formally brilliant and psychologically lacerating L’AMOUR FOU — among the most important and legendary films of the French New Wave — has been meticulously restored and will be presented by critic A.S. Hamrah in celebration of his recent collection ALGORITHM OF THE NIGHT!\n\nArguably the most extreme, radical, and essential of the French auteur’s films, L’AMOUR FOU was Rivette’s first feature to introduce the signature characteristics of his visionary cinema, including a durational gamesmanship and reflexive interplays between film, theatre, art, and life.\n\nNarcissistic theatre director Sebastian (Jean-Pierre Kalfon) is staging and rehearsing a minimalist adaptation of Racine’s Andromaque while an independent television crew (led by André Labarthe) shoots a documentary of the preparations in real time, their handheld 16mm footage cut alongside the rest of the film shot on 35mm. Under extreme pressure, Sebastian’s actor wife Claire (Bulle Ogier, never more luminous) buckles and anxiously abandons her role, only to be replaced by his ex, further spurring her jealousy, isolation, and paranoia.\n\nA portrait of mad love and of unbridled and boundless passion that threatens to eclipse (even annihilate) the self, over four hypnotic, spellbinding hours, L’AMOUR FOU weds astonishing improvisation with raw psychodrama, defying the limits of reality as life and art risk dangerously, desirously subsuming one another.",
@@ -1340,6 +1414,18 @@
    "image": "https://grandillusioncinema.org/wp-content/uploads/2026/10/marieantoinetteposter-1.png",
    "links": {
     "grand-illusion": "https://grandillusioncinema.org/film/marie-antoinette/"
+   }
+  },
+  {
+   "id": "members-only-mystery-preview-november-2026",
+   "title": "Members Only Mystery Preview - November 2026",
+   "description": "Have you ever wanted to get a sneak preview of some of The Forum’s upcoming programming at an exclusive, members-only event? This is your chance to do just that! Join us for our November 2026 installment of our Members Only Mystery Screenings, where we can promise you you’ll be treated to an evening with a fantastic film, but you’ll only know what it is right before you see it!",
+   "runtime": 100,
+   "director": "???",
+   "language": "English",
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/membersonlynov26-1600-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/members-mystery-preview-november-2026/"
    }
   },
   {
@@ -1613,26 +1699,6 @@
    }
   },
   {
-   "id": "rrr",
-   "title": "RRR",
-   "description": "Rise! Roar! Revolt!\n\nRRR Asks the question \"What if two heroic revolutionary leaders who fought the British Raj had met in real life and teamed up?\" Then, the film answers this question with \"They would become friends and team up to have insanely awesome battles against the colonizers!\"\n\nA film filled with drama, action, fun, and real emotional impact. Featuring seven songs, including the Oscar winning Naatu Naatu, RRR is a theatrical experience like no other and deserving of a visit to the big screen.\n\nPresented in the original Telegu with English subtitles.",
-   "runtime": 187,
-   "year": 2022,
-   "director": "S. S. Rajamouli",
-   "country": "India",
-   "language": "Telugu",
-   "rating": "R",
-   "genres": [
-    "Action",
-    "Adventure",
-    "Drama"
-   ],
-   "image": "https://indy-systems.imgix.net/n99uugrg4gaqy8dtcwd73wchxalc?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
-   "links": {
-    "central-cinema": "https://central-cinema.com/movie/rrr-2/"
-   }
-  },
-  {
    "id": "salome-s-last-dance",
    "title": "Salome's Last Dance",
    "description": "Presented by SIFF and Seattle Opera, in conjunction with their production of \"Salome.\"\n\nOn Guy Fawkes Night, Oscar Wilde goes to a luxury brothel where the owner has prepared a surprise for the renowned author: a private and very special performance of his banned play \"Salome.\"",
@@ -1711,6 +1777,145 @@
    }
   },
   {
+   "id": "seattle-polish-film-festival-brother",
+   "title": "Seattle Polish Film Festival: Brother",
+   "description": "Brother is a moving story about a woman and a family put to the test in a world of violence, unfulfilled ambitions, and mounting chaos. Fourteen-year-old Dawid takes care of his younger brother and tries to live up to his mother's expectations as she tries to break free from a toxic past and start over, without her husband, who is behind bars. Although the boy has talent and strength, it becomes increasingly difficult for him to stay in control amid a daily life stretched between school, home, and the street. Everything becomes even more complicated when Konrad enters their lives, the only adult Dawid truly trusts. But this is only the beginning of turbulent events that could ultimately tear this family apart... or save it.",
+   "runtime": 100,
+   "year": 2025,
+   "director": "Maciej Sobieszczański",
+   "country": "Poland",
+   "language": "Polish",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Seattle%20Polish%20FF%202026/REN_SPFF26Brother_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/brother"
+   }
+  },
+  {
+   "id": "seattle-polish-film-festival-erupcja",
+   "title": "Seattle Polish Film Festival: Erupcja",
+   "description": "A romantic vacation goes awry when a volcanic eruption strands Bethany and her soon-to-be fiancé, Rob in Warsaw, Poland. Bethany takes the explosive event as a sign to ditch her baggage, reunite with childhood friend Nel and traipse across lofts, clubs and back alleys, all the while becoming entangled in an emotional web that challenges her sense of self. From American maverick Pete Ohs, who wrote, directed, edited, photographed, and produced this dizzyingly charming European postcard, comes Erupcja, a delightful anti-romantic comedy about the pains and pleasures of being in love.",
+   "runtime": 71,
+   "year": 2026,
+   "director": "Pete Ohs",
+   "country": "Poland, USA",
+   "language": "English",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Seattle%20Polish%20FF%202026/REN_SPFF26Erupcja_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/erupcja"
+   }
+  },
+  {
+   "id": "seattle-polish-film-festival-gorky-resort",
+   "title": "Seattle Polish Film Festival: Gorky Resort",
+   "description": "It is 1939. The world is descending into chaos. Thousands of Poland's most distinguished citizens are taken captive by the Soviet Union, where they are subjected to relentless ideological indoctrination as part of a larger plan.\n\nAn ambitious Soviet agent makes it his personal mission to break the will of one particular prisoner, a world-renowned young pianist and respected leader among his fellow captives. If he can be forced to surrender his convictions, many others may follow.\nCan the young officer, devoted husband, and loving father withstand an opponent backed by the full power and ruthless machinery of the Soviet regime?\n\nA deadly psychological battle begins, driven by manipulation, intimidation, and false promises. Some prisoners cling to the hope that they will soon return home. Others, convinced the enemy will show no mercy, risk everything in a desperate escape attempt. Unaware that time is running out, they do not realize that their captor is preparing to make his final move at any moment.",
+   "runtime": 113,
+   "year": 2026,
+   "director": "Łukasz Palkowski",
+   "country": "Poland",
+   "language": "Polish",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Seattle%20Polish%20FF%202026/REN_SPFF26GorkyResort_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/gorky-resort"
+   }
+  },
+  {
+   "id": "seattle-polish-film-festival-gsf-shorts",
+   "title": "Seattle Polish Film Festival: GSF Shorts",
+   "description": "Sara has a bright future ahead with her wonderful boyfriend. On this beautiful day, they are set to celebrate their engagement at his family home. However, the accidental death of a stranger turns this special day into a nightmare. Caught in the whirlwind of tragedy, Sara faces a moral dilemma. She reluctantly becomes entangled in the family's manipulations and lies to protect them, but the bitter taste of deceit starts to weigh heavily on her. As secrets unravel, Sara discovers that the truth is far more dangerous than she imagined, forcing her to confront the dark side of the people she thought she knew. Who can she trust when the line between loyalty and betrayal blurs?\n\nThe Color of Cherries\n\nAfter the death of their mother, two sisters meet in their old family home in the countryside. One’s return after years of absence becomes an opportunity to confront a difficult past marked by violence and family secrets. An intimate family drama set within the stifling space of a rural household. Their encounter is not a forced reconciliation, but an attempt to reconfigure the past and acknowledge the coexistence of conflicting personal narratives.\n\nFear\n\nJola is a taxi driver and widow, who lives with her 25-year-old son, Marek in a small town near Polish-Belarusian border. Initially disconnected from the unfolding tragedy at the border, Jola's perspective shifts dramatically after she encounters in a forest an exhausted couple with their deceased newborn. Determined to help them despite the legal risks and the strain on her relationship with her son, Jola unwittingly becomes embroiled in a situation that will irrevocably alter her life.\n\nPenguin Habits\n\n\"Mom saves penguins\" – that’s how Emilia’s job would be described by her son, Antek. The day has come for Emilia to depart for a research station in Antarctica, and the boy must stay at home under his grandfather’s care. As events begin to spiral out of control, Emilia is faced with a difficult dilemma – can she balance her dreams and professional ambitions with being a mother?",
+   "runtime": 75,
+   "year": 2025,
+   "country": "Poland",
+   "language": "Polish",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Seattle%20Polish%20FF%202026/REN_SPFF26Shorts_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/gsf-shorts"
+   }
+  },
+  {
+   "id": "seattle-polish-film-festival-heel",
+   "title": "Seattle Polish Film Festival: Heel",
+   "description": "At nineteen, Tommy is a criminal who revels in his lifestyle, orchestrating brutal acts of violence alongside his crew. That life is upended the night a stranger named Chris abducts him. He wakes up chained in the basement of a remote house, thrust into the middle of a deeply unsettling family dynamic, Chris and his enigmatic wife, Kathryn, are determined to reform him into their idea of a \"good boy\" through a twisted process of forced rehabilitation. Amid the confusion and fear, one thing remains clear to Tommy: he has to get out.",
+   "runtime": 110,
+   "year": 2026,
+   "director": "Jan Komasa",
+   "country": "Poland",
+   "language": "English",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Seattle%20Polish%20FF%202026/REN_SPFF26Heel_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/heel"
+   }
+  },
+  {
+   "id": "seattle-polish-film-festival-home-sweet-home",
+   "title": "Seattle Polish Film Festival: Home Sweet Home",
+   "description": "When Gośka meets Grzesiek online, she's convinced he's finally The One. Grzesiek is crazy about her, showers her with flowers, and proposes in Venice. This must be love, right? But cracks quickly begin to appear in this perfect picture. Soon, their shared home becomes the most dangerous place for Gośka. Smarzowski takes a look inside \"good homes,\" where things happen that most people prefer to keep silent about. Home Sweet Home is a film about the limits of love that you won't be able to forget.",
+   "runtime": 107,
+   "year": 2025,
+   "director": "Wojciech Smarzowski",
+   "country": "Poland",
+   "language": "Polish",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Seattle%20Polish%20FF%202026/REN_SPFF26HomeSweetHome_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/home-sweet-home"
+   }
+  },
+  {
+   "id": "seattle-polish-film-festival-larp",
+   "title": "Seattle Polish Film Festival: Larp",
+   "description": "Sergiusz, a teenager at a technical high school, is misunderstood by his family and bullied by his peers because of his passion for fantasy and LARP (live action role-playing) games. In the incredible world of imagination and adventures full of magic and swords, he's a true hero : masculine, brave, invincible. In the real world - not so much. The situation gets even more complicated when a new student joins his class, the beautiful Helena, whom he falls in love with at first sight. Unfortunately, the girl starts hanging out with a group of popular students. Sergiusz feels that, up against the school trolls, he has little chance of winning Helena's heart. Everything changes when he unexpectedly discovers the teenage girl's secret, and a famous bestselling author arrives in town.",
+   "runtime": 100,
+   "year": 2025,
+   "director": "Kordian Kądziela",
+   "country": "Poland",
+   "language": "Polish",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Seattle%20Polish%20FF%202026/REN_SPFF26Larp_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/larp"
+   }
+  },
+  {
+   "id": "seattle-polish-film-festival-picasso-s-mermaid",
+   "title": "Seattle Polish Film Festival: Picasso's Mermaid",
+   "description": "Mary accidentally discovers a Mermaid drawn on the wall of her small apartment in Warsaw. It turns out it was drawn by Pablo Picasso during his visit in 1948! The woman is delighted, but she has no idea that the Mermaid is about to turn her life upside down. Next door lives Radomski, an elderly man and retired journalist who remembers Picasso's visit. He is not at all pleased by the discovery of the Mermaid. Things from the past come back to him, mostly things he had already managed to forget. His thoughts return to Picasso's visit, as well as to the fate of the neighbors who, in exchange for the apartment they were given, had to show the Mermaid to anyone interested.",
+   "runtime": 95,
+   "year": 2026,
+   "director": "Janusz Zaorski",
+   "country": "Poland",
+   "language": "Polish",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Seattle%20Polish%20FF%202026/REN_SPFF26PicassosMermaid_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/picassos-mermaid"
+   }
+  },
+  {
+   "id": "seattle-polish-film-festival-the-altar-boys",
+   "title": "Seattle Polish Film Festival: The Altar Boys",
+   "description": "A group of teenage altar boys, frustrated by the indifferent attitude of adults and the Church as an institution toward social injustice, decide to carry out their own unconventional plan for moral renewal. Armed with youthful rebellion and their own interpretation of Scripture, they plant a bug... in the confessional, to get to know their neighbors better. Masked like Zorro and with ambitions on the scale of Robin Hood, they become judges in their own neighborhood, helping those in need and dispensing punishment for sins. But their mission turns into a dangerous game, and as the boys apply their own idealistic code of honor, they start walking a fine line between good and evil. The real life of the housing estate blends with a mission straight out of a superhero comic book, except instead of capes, these heroes wear surplices.",
+   "runtime": 110,
+   "year": 2025,
+   "director": "Piotr Domalewski",
+   "country": "Poland",
+   "language": "Polish",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Seattle%20Polish%20FF%202026/REN_SPFF26AltarBoys_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/the-altar-boys"
+   }
+  },
+  {
+   "id": "seattle-polish-film-festival-wild-wild-east",
+   "title": "Seattle Polish Film Festival: Wild, Wild East",
+   "description": "A harsh winter in 1943. Wolff, a mysterious official from Berlin, arrives in a sleepy small town in eastern Poland. He carefully guards the reasons for his visit, but his mere presence quickly disturbs the peace in Małe Zalesie. An atmosphere of distrust and threat builds. Everyone has their own secrets, and rumors of missing gold cause the line between truth and lies to blur. A story of people caught up in dramatic choices, where life is at stake and every decision carries real consequences.",
+   "runtime": 120,
+   "year": 2026,
+   "director": "Jan Holubek",
+   "country": "Poland",
+   "language": "Polish/ German",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Seattle%20Polish%20FF%202026/REN_SPFF26Wildwildeast_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/wild-wild-east"
+   }
+  },
+  {
    "id": "shaun-the-sheep-the-beast-of-mossy-bottom",
    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
    "description": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
@@ -1719,7 +1924,7 @@
    "rating": "PG",
    "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/ShauntheSheepSquare.jpg",
    "links": {
-    "north-bend": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-thursday-oct-8th-6pm"
+    "north-bend": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-friday-oct-9th-3pm"
    }
   },
   {
@@ -1734,7 +1939,7 @@
   {
    "id": "singin-in-the-rain",
    "title": "Singin' in the Rain",
-   "description": "Join us for a very special celebration of the Majestic Bay Theatres' 25th year! We'll kick off the evening with the premiere of a 30 minute documentary telling the story of our theater, before watching one of the very first films we ever showed, Singin' in the Rain! We look forward to celebrating with you!\n\nGene Kelly, Debbie Reynolds and Donald O'Connor star in one of the greatest musicals ever filmed. Musician Don Lockwood (Kelly) rises to stardom during Hollywood's silent-movie era--paired with the beautiful, jealous and dumb Lina Lamont (Jean Hagen). When Lockwood becomes attracted to young studio singer Kathy Selden (Reynolds), Lamont has her fired. But with the introduction of talking pictures, audiences laugh when they hear Lockwood speak for the first time--and the studio uses Selden to dub her voice. Set during the advent of \"talkies,\" this film classic song-and-dance numbers celebrate the beginning of movie musicals.",
+   "description": "Gene Kelly, Debbie Reynolds and Donald O'Connor star in one of the greatest musicals ever filmed. Musician Don Lockwood (Kelly) rises to stardom during Hollywood's silent-movie era--paired with the beautiful, jealous and dumb Lina Lamont (Jean Hagen). When Lockwood becomes attracted to young studio singer Kathy Selden (Reynolds), Lamont has her fired. But with the introduction of talking pictures, audiences laugh when they hear Lockwood speak for the first time--and the studio uses Selden to dub her voice. Set during the advent of \"talkies,\" this film classic song-and-dance numbers celebrate the beginning of movie musicals.",
    "runtime": 103,
    "year": 1952,
    "director": "Stanley Donen, Gene Kelly",
@@ -1744,7 +1949,7 @@
    ],
    "image": "https://all.web.img.acsta.net/img/88/96/88960a06f6a3c80b9779fe8a6e1b8429.jpg",
    "links": {
-    "majestic-bay": "https://www.majesticbay.com/movies/5120-our-25th-anniversary-celebration-singin-in-the-rain-and-documentary-screening/"
+    "majestic-bay": "https://www.majesticbay.com/movies/5120-singin-in-the-rain-1952/"
    }
   },
   {
@@ -1791,15 +1996,6 @@
    "image": "https://all.web.img.acsta.net/img/d8/a7/d8a79ffd1a4b2ced47be8a988397edbe.jpg",
    "links": {
     "majestic-bay": "https://www.majesticbay.com/movies/39173-star-trek-ii-the-wrath-of-khan/"
-   }
-  },
-  {
-   "id": "star-trek-voyager",
-   "title": "Star Trek Voyager",
-   "description": "Set in 2273, Star Trek: The Motion Picture follows Admiral James T. Kirk as he takes command of the refitted USS Enterprise to intercept a mysterious, world‑destroying alien cloud known as V’Ger, which is on a collision course with Earth",
-   "image": "https://static.spotapps.co/spots/d7/2595f1e13b441c973c9096f5f3277f/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -1889,18 +2085,6 @@
    }
   },
   {
-   "id": "abominable-dr-phibes",
-   "title": "The Abominable Dr. Phibes",
-   "description": "Vincent Price is Dr. Anton Phibes: organist, theologian, inventor, presumed-dead widower and the kind of doctor who responds to medical malpractice by constructing an Art Deco murder palace and killing nine doctors according to the Biblical plagues of Egypt. Phibes himself has no face and can’t speak without plugging his neck into a gramophone, but he does have a silent assistant named Vulnavia, a mechanical orchestra and an inexhaustible flair for pageantry.\n\nTHE ABOMINABLE DR. PHIBES is a revenge movie dressed for its own funeral, swathed in velvet, clockwork and candlelight and determined to put a lot more bodies in the ground before the service is over. Robert Fuest’s candy-colored nightmare gives Vincent Price one of his greatest roles while perversely denying him the use of his actual voice for most of it. Equal parts horror movie, black comedy and deranged interior-design catalog, PHIBES is macabre, ridiculous, gorgeous and completely committed to the proposition that if you’re going to murder nine people, you might as well make a show out of it.",
-   "runtime": 94,
-   "year": 1971,
-   "director": "Robert Fuest",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1790029387815-tb-abominabledrphibes.png",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/the-abominable-dr-phibes"
-   }
-  },
-  {
    "id": "birch-wood",
    "title": "The Birch Wood",
    "description": "Young Stanislaw, riddled with tuberculosis, departs Switzerland to spend his final days with his introverted forester brother Boleshaw on their secluded farm. This return home reignites a sensual passion for life, music, and love, giving him a vibrant energy at odds with his mournful brother. Their conflicting emotions lead to confronting repressed guilt and reconciliation of the past. Set in the early 1930s, this intimate character study offered Wajda the opportunity to explore areas outside of his intensely political war films and contemplate nature through reworking motifs from classic Polish landscape and symbolist paintings in this elegant depiction of early twentieth century provincial life.",
@@ -1943,24 +2127,6 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/threesideddream1600-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/the-case-of-the-three-sided-dream/"
-   }
-  },
-  {
-   "id": "condor-daughter",
-   "title": "The Condor Daughter",
-   "description": "Clara is a teenager growing up in a small indigenous community high in the Andes. Her adoptive mother, a midwife who took her in as a baby, has taught her the ancient songs used to guide women through childbirth, melodies passed down for generations, believed to bring new life safely into the world. But while her voice carries on this tradition, her dreams lie elsewhere: she longs to leave the mountains behind and become a folkloric music star in the big city.",
-   "runtime": 109,
-   "year": 2025,
-   "director": "Álvaro Olmos",
-   "country": "Bolivia, Peru, Uruguay",
-   "language": "Spanish",
-   "genres": [
-    "Drama",
-    "Music"
-   ],
-   "image": "https://indy-systems.imgix.net/moojxvhlu1ye64h0mij9sgvyb4z7?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress&cs=origin",
-   "links": {
-    "tasveer": "https://filmcenter.tasveer.org/movie/the-condor-daughter-la-hija-cndor-boliviaperuuruguay-2025"
    }
   },
   {
@@ -2021,7 +2187,6 @@
    ],
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_HistoryofConcrete_1600x900.png",
    "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
     "siff-downtown": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
     "nwff": "https://nwfilmforum.org/films/the-history-of-concrete/",
     "tasveer": "https://filmcenter.tasveer.org/movie/the-history-of-concrete-2026-usa"
@@ -2075,6 +2240,20 @@
    "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/NightmareBeforeChristmasSquare8.jpg",
    "links": {
     "north-bend": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-thursday-oct-15th-7pm"
+   }
+  },
+  {
+   "id": "parallax-view",
+   "title": "The Parallax View",
+   "description": "After a presidential candidate is assassinated, political reporter Joe Frady begins to suspect that the mysterious Parallax Corporation may be involved. As he investigates, others who share his suspicions start turning up dead, including his editor, Bill Rintels. Eventually, Frady uncovers a conspiracy bigger than anyone expected and must race to prevent the corporation’s next big hit as this political thriller plays out in an explosive game of cat and mouse.",
+   "runtime": 102,
+   "year": 1974,
+   "director": "Alan J. Pakula",
+   "country": "United States",
+   "language": "English",
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/parallaxview1600-1-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/the-parallax-view/"
    }
   },
   {
@@ -2260,23 +2439,6 @@
    }
   },
   {
-   "id": "traces-of-home",
-   "title": "Traces of Home",
-   "description": "Delving into the past and not shying away from the dug-up pain, a young filmmaker speaks to her Mexican mother and Palestinian father about their trying journeys into the United States. In a society with rhetoric increasingly vilifying Mexicans and Palestinians, the filmmaker picks up her camera in a bid to address the grief at the center of the generational trauma that has underscored her relationship with her family. A meditation of loss and grief relieved, ultimately, through reconciliation.",
-   "runtime": 93,
-   "year": 2025,
-   "director": "Colette Ghunim",
-   "country": "United States",
-   "language": "English",
-   "genres": [
-    "Documentary"
-   ],
-   "image": "https://indy-systems.imgix.net/crr0ku5vdtz71h8p9dhu63h1hhqh?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress&cs=origin",
-   "links": {
-    "tasveer": "https://filmcenter.tasveer.org/movie/traces-of-home-film"
-   }
-  },
-  {
    "id": "train-to-busan",
    "title": "Train to Busan",
    "description": "Seok-woo is a workaholic dad who has trouble bonding with his young daughter Su-an. For her birthday, she wants to visit her mother in Busan. After seeing how he's been neglecting her feelings, he agrees and accompanies her on the train ride across the country.\n\nThen, the world falls apart.\n\nAnd Seok-woo transforms from an absent father to a devoted dad with one mission: to make sure his daughter survives.\n\nMet with worldwide acclaim, Train To Busan balances a cast of well-rounded characters with suspense and bursts of visceral action, all while weaving in social commentary for a refreshing take on the zombie genre.\n\nPresented in the original Korean language with English subtitles.",
@@ -2322,20 +2484,6 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/transit2026-1600-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/stuff-2026-trans-it-shorts/"
-   }
-  },
-  {
-   "id": "true-stories",
-   "title": "True Stories",
-   "description": "There is perhaps no film to come out of the Reagan era that is as optimistic and positive about American life than David Byrne’s True Stories.\n\nInspired by absurd tabloid clippings he collected while on tour with Talking Heads with the question of “what if this was all true,” Byrne managed to create a collage of average middle-American life that elevates its subjects to the extraordinary. Moving between computer chip plants, mall fashion shows, and basement Voodou rituals, True Stories becomes the inverse of a film like David Lynch’s Blue Velvet (released the same year!) in that it seeks to find the good hidden underneath the (sometimes) hard exterior of American life deep in the heart of Texas.",
-   "runtime": 89,
-   "year": 1986,
-   "director": "David Byrne",
-   "country": "United States",
-   "language": "English, Portuguese, Spanish",
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/truestories1600-1-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/true-stories/"
    }
   },
   {
@@ -2385,20 +2533,6 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789694968693-tb-universalmonstermash.jpg",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/universal-monster-mash-double-feature"
-   }
-  },
-  {
-   "id": "unzipped",
-   "title": "Unzipped",
-   "description": "Both a time capsule of the buoyant, raucous 1990s, when pop culture and high art became interchangeable, and a vérité-style, in-the-trenches report on the daily agonies and ecstasies of the creative process, this seminal artistic portrait—sumptuously shot by Ellen Kuras and Robert Leacock—transcends glitz and glamour to offer an extraordinary view of the charisma and force of will inherent to genius, as well as its personal costs.\n\nDigitally restored by the Sundance Institute and UCLA Film & Television Archive. Funding provided by Isaac Mizrahi Entertainment. Laboratory services by Roundabout Entertainment, Inc. and Deluxe Media Audio Services.",
-   "runtime": 73,
-   "year": 1995,
-   "director": "Douglas Keeve",
-   "country": "USA",
-   "language": "English",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_Unzipped_1600x900.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/unzipped"
    }
   },
   {
@@ -2528,9 +2662,16 @@
    "director": "Alex Huston Fischer, Eleanor Wilson",
    "country": "USA",
    "language": "English",
+   "rating": "R",
+   "genres": [
+    "Romance",
+    "Drama",
+    "Fantasy"
+   ],
    "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/CIN_Wicker_1600x900.png",
    "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/wicker"
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/wicker",
+    "majestic-bay": "https://www.majesticbay.com/movies/322884-wicker/"
    }
   },
   {
@@ -2584,7 +2725,8 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_YouCanSeeEverything_1600x900.png",
    "links": {
     "siff-uptown": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-    "tasveer": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa"
+    "tasveer": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
+    "majestic-bay": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/"
    }
   },
   {
@@ -2613,257 +2755,6 @@
  ],
  "showings": [
   {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-08T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16852/781"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-08T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16848/780"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-08T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16853/717"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-08T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16854/770"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-08T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36388?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "forgotten-island",
-   "theater": "majestic-bay",
-   "start": "2026-10-08T16:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296642-forgotten-island/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36391?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "digger",
-   "theater": "siff-downtown",
-   "start": "2026-10-08T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/digger",
-   "tickets": "https://www.siff.net/cinema/in-theaters/digger#screening-uyW0gp4jBZ"
-  },
-  {
-   "film": "filipinana",
-   "theater": "siff-uptown",
-   "start": "2026-10-08T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/filipinana",
-   "tickets": "https://www.siff.net/cinema/in-theaters/filipinana#screening-CLw6WCGkiZ"
-  },
-  {
-   "film": "abominable-dr-phibes",
-   "theater": "beacon",
-   "start": "2026-10-08T16:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/the-abominable-dr-phibes",
-   "tickets": "https://thebeacon.film/calendar/movie/the-abominable-dr-phibes?showtime=W54GDJB3SVNEGPVKHRCRUHOE"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-08T16:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36389?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-08T16:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-PoO6dYfOHF"
-  },
-  {
-   "film": "unzipped",
-   "theater": "siff-uptown",
-   "start": "2026-10-08T16:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/unzipped",
-   "tickets": "https://www.siff.net/cinema/in-theaters/unzipped#screening-U8ZNgUoNpe"
-  },
-  {
-   "film": "condor-daughter",
-   "theater": "tasveer",
-   "start": "2026-10-08T16:50:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-condor-daughter-la-hija-cndor-boliviaperuuruguay-2025",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-condor-daughter-la-hija-cndor-boliviaperuuruguay-2025/3920745"
-  },
-  {
-   "film": "cartoon-happy-hour",
-   "theater": "central-cinema",
-   "start": "2026-10-08T17:00:00-07:00",
-   "url": "https://central-cinema.com/movie/cartoon-happy-hour/",
-   "tickets": "https://central-cinema.com/checkout/showing/cartoon-happy-hour/3866090",
-   "notes": [
-    "Free admission"
-   ]
-  },
-  {
-   "film": "traces-of-home",
-   "theater": "tasveer",
-   "start": "2026-10-08T17:00:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/traces-of-home-film",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/traces-of-home-film/3920767"
-  },
-  {
-   "film": "filipinana",
-   "theater": "tasveer",
-   "start": "2026-10-08T17:15:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/filipiana",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/filipiana/4005264"
-  },
-  {
-   "film": "shaun-the-sheep-the-beast-of-mossy-bottom",
-   "theater": "north-bend",
-   "start": "2026-10-08T18:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-thursday-oct-8th-6pm",
-   "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-thursday-oct-8th-6pm"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-08T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16847/781"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-08T18:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16843/780"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-08T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16845/770"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-08T18:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16844/717"
-  },
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-08T18:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36393?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-08T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36387?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "true-stories",
-   "theater": "nwff",
-   "start": "2026-10-08T19:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/true-stories/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6aa34bf2e87fa46a67faef33"
-  },
-  {
-   "film": "kikujiro",
-   "theater": "siff-film-center",
-   "start": "2026-10-08T19:00:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/the-open-road/kikujiro",
-   "tickets": "https://www.siff.net/programs-and-events/the-open-road/kikujiro#screening-sIu42gQjlr",
-   "notes": [
-    "The Open Road",
-    "35mm"
-   ]
-  },
-  {
-   "film": "unzipped",
-   "theater": "siff-uptown",
-   "start": "2026-10-08T19:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/unzipped",
-   "tickets": "https://www.siff.net/cinema/in-theaters/unzipped#screening-Ys2I0HCdFl"
-  },
-  {
-   "film": "star-trek-voyager",
-   "theater": "tin-room",
-   "start": "2026-10-08T19:00:00-07:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
-   "film": "primetime",
-   "theater": "tasveer",
-   "start": "2026-10-08T19:10:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/primetime-usa-2026",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/primetime-usa-2026/3920766"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-08T19:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36390?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "siff-uptown",
-   "start": "2026-10-08T19:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-8N0qYYNrJC"
-  },
-  {
-   "film": "condor-daughter",
-   "theater": "tasveer",
-   "start": "2026-10-08T19:20:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-condor-daughter-la-hija-cndor-boliviaperuuruguay-2025",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-condor-daughter-la-hija-cndor-boliviaperuuruguay-2025/3920746"
-  },
-  {
-   "film": "digger",
-   "theater": "siff-downtown",
-   "start": "2026-10-08T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/digger",
-   "tickets": "https://www.siff.net/cinema/in-theaters/digger#screening-3MoLGITY1f"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-08T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-8Znp3aVENF"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "tasveer",
-   "start": "2026-10-08T19:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-history-of-concrete-2026-usa",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-history-of-concrete-2026-usa/4005401"
-  },
-  {
-   "film": "rrr",
-   "theater": "central-cinema",
-   "start": "2026-10-08T20:00:00-07:00",
-   "url": "https://central-cinema.com/movie/rrr-2/",
-   "tickets": "https://central-cinema.com/checkout/showing/rrr-2/3866089"
-  },
-  {
    "film": "social-reckoning",
    "theater": "majestic-bay",
    "start": "2026-10-09T13:15:00-07:00",
@@ -2890,6 +2781,34 @@
    "start": "2026-10-09T15:00:00-07:00",
    "url": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-friday-oct-9th-3pm",
    "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-friday-oct-9th-3pm"
+  },
+  {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-09T15:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16888/781"
+  },
+  {
+   "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-09T15:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16887/780"
+  },
+  {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-09T15:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16889/717"
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-09T16:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16890/770"
   },
   {
    "film": "vertigo",
@@ -2976,6 +2895,34 @@
    "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-friday-oct-9th-6pm"
   },
   {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-09T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16886/781"
+  },
+  {
+   "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-09T18:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16884/780"
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-09T18:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16885/770"
+  },
+  {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-09T18:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16883/717"
+  },
+  {
    "film": "digger",
    "theater": "majestic-bay",
    "start": "2026-10-09T18:45:00-07:00",
@@ -2987,9 +2934,9 @@
    "theater": "beacon",
    "start": "2026-10-09T19:00:00-07:00",
    "url": "https://thebeacon.film/calendar/movie/l-amour-fou-w-a-s-hamrah",
-   "tickets": "https://thebeacon.film/calendar/movie/l-amour-fou-w-a-s-hamrah?showtime=MLMHNFKEJ3XDE65Q22EMEZL7",
    "notes": [
-    "With A.S. Hamrah"
+    "With A.S. Hamrah",
+    "Sold out"
    ]
   },
   {
@@ -3090,6 +3037,34 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/69b051d729a15bdc4ef01c61"
   },
   {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-09T21:05:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16891/717"
+  },
+  {
+   "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-09T21:10:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16894/780"
+  },
+  {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-09T21:25:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16893/781"
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-09T21:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16892/770"
+  },
+  {
    "film": "blade",
    "theater": "central-cinema",
    "start": "2026-10-09T21:50:00-07:00",
@@ -3105,10 +3080,31 @@
   },
   {
    "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-10T12:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16911/780"
+  },
+  {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-10T13:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16910/781"
+  },
+  {
+   "film": "digger",
    "theater": "siff-downtown",
    "start": "2026-10-10T13:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/digger",
    "tickets": "https://www.siff.net/cinema/in-theaters/digger#screening-KZtVc3ti1n"
+  },
+  {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-10T13:10:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16909/717"
   },
   {
    "film": "social-reckoning",
@@ -3116,6 +3112,13 @@
    "start": "2026-10-10T13:15:00-07:00",
    "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36405?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-10T13:20:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16908/770"
   },
   {
    "film": "forgotten-island",
@@ -3176,11 +3179,39 @@
    "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-saturday-oct-10th-3pm"
   },
   {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-10T15:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16905/781"
+  },
+  {
+   "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-10T15:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16902/780"
+  },
+  {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-10T15:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16896/717"
+  },
+  {
    "film": "naza",
    "theater": "tasveer",
    "start": "2026-10-10T15:45:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/naza-2026-hebrewenglish-subtitled-in-english",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/naza-2026-hebrewenglish-subtitled-in-english/3960753"
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-10T16:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16899/770"
   },
   {
    "film": "vertigo",
@@ -3291,6 +3322,34 @@
    "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-saturday-oct-10th-6pm"
   },
   {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-10T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16906/781"
+  },
+  {
+   "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-10T18:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16903/780"
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-10T18:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16900/770"
+  },
+  {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-10T18:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16897/717"
+  },
+  {
    "film": "digger",
    "theater": "majestic-bay",
    "start": "2026-10-10T18:45:00-07:00",
@@ -3392,6 +3451,34 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/naza-2026-hebrewenglish-subtitled-in-english/3960750"
   },
   {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-10T21:05:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16895/717"
+  },
+  {
+   "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-10T21:10:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16901/780"
+  },
+  {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-10T21:25:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16904/781"
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-10T21:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16898/770"
+  },
+  {
    "film": "blade",
    "theater": "central-cinema",
    "start": "2026-10-10T21:50:00-07:00",
@@ -3434,6 +3521,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-Ck9orF23gT"
   },
   {
+   "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-11T12:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16920/780"
+  },
+  {
    "film": "history-of-concrete",
    "theater": "siff-downtown",
    "start": "2026-10-11T12:45:00-07:00",
@@ -3441,11 +3535,32 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-HFk9H3QKKn"
   },
   {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-11T13:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16927/781"
+  },
+  {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-11T13:10:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16915/717"
+  },
+  {
    "film": "social-reckoning",
    "theater": "majestic-bay",
    "start": "2026-10-11T13:15:00-07:00",
    "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36415?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-11T13:20:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16919/770"
   },
   {
    "film": "forgotten-island",
@@ -3525,11 +3640,39 @@
    ]
   },
   {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-11T15:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16925/781"
+  },
+  {
    "film": "history-of-concrete",
    "theater": "siff-downtown",
    "start": "2026-10-11T15:40:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
    "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-gna22pYktK"
+  },
+  {
+   "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-11T15:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16922/780"
+  },
+  {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-11T15:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16913/717"
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-11T16:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16917/770"
   },
   {
    "film": "vertigo",
@@ -3632,6 +3775,13 @@
    "url": "https://tinroombar.com/events"
   },
   {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-11T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16924/781"
+  },
+  {
    "film": "digger",
    "theater": "siff-downtown",
    "start": "2026-10-11T18:30:00-07:00",
@@ -3644,6 +3794,27 @@
    "start": "2026-10-11T18:30:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/primetime",
    "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-votF2yvCwl"
+  },
+  {
+   "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-11T18:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16921/780"
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-11T18:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16916/770"
+  },
+  {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-11T18:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16912/717"
   },
   {
    "film": "digger",
@@ -3736,11 +3907,39 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36433?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-12T15:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16939/781"
+  },
+  {
+   "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-12T15:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16937/780"
+  },
+  {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-12T15:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16930/717"
+  },
+  {
    "film": "social-reckoning",
    "theater": "majestic-bay",
    "start": "2026-10-12T15:45:00-07:00",
    "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36431?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-12T16:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16933/770"
   },
   {
    "film": "resident-evil",
@@ -3771,15 +3970,20 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-plE2j9b9HF"
   },
   {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-12T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16938/781"
+  },
+  {
    "film": "singin-in-the-rain",
    "theater": "majestic-bay",
    "start": "2026-10-12T18:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/5120-our-25th-anniversary-celebration-singin-in-the-rain-and-documentary-screening/",
+   "url": "https://www.majesticbay.com/movies/5120-singin-in-the-rain-1952/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36135?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
    "notes": [
-    "Our 25th Anniversary Celebration",
-    "Documentary Screening",
-    "Free"
+    "Special screening"
    ]
   },
   {
@@ -3805,6 +4009,27 @@
    "notes": [
     "SIFF Movie Club"
    ]
+  },
+  {
+   "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-12T18:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16936/780"
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-12T18:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16932/770"
+  },
+  {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-12T18:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16929/717"
   },
   {
    "film": "digger",
@@ -3847,6 +4072,46 @@
    "start": "2026-10-12T21:50:00-07:00",
    "url": "https://central-cinema.com/movie/blade/",
    "tickets": "https://central-cinema.com/checkout/showing/blade/3906306"
+  },
+  {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-13T15:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16971/781",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-13T15:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16969/780",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-13T15:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16965/717",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-13T16:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16967/770",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "vertigo",
@@ -3905,11 +4170,51 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-GS7J98dDoG"
   },
   {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-13T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16972/781",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "history-of-concrete",
    "theater": "nwff",
    "start": "2026-10-13T18:30:00-07:00",
    "url": "https://nwfilmforum.org/films/the-history-of-concrete/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6abe79909b68e6a9d185d08d"
+  },
+  {
+   "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-13T18:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16970/780",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-13T18:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16968/770",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-13T18:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16966/717",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "digger",
@@ -3982,6 +4287,34 @@
    "tickets": "https://central-cinema.com/checkout/showing/blade/3906309"
   },
   {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-14T15:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16955/781"
+  },
+  {
+   "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-14T15:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16953/780"
+  },
+  {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-14T15:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16949/717"
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-14T16:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16951/770"
+  },
+  {
    "film": "vertigo",
    "theater": "central-cinema",
    "start": "2026-10-14T16:00:00-07:00",
@@ -4036,6 +4369,34 @@
    "start": "2026-10-14T16:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/naza",
    "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-IZjAHFgZD7"
+  },
+  {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-14T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16956/781"
+  },
+  {
+   "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-14T18:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16954/780"
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-14T18:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16952/770"
+  },
+  {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-14T18:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16950/717"
   },
   {
    "film": "digger",
@@ -4142,6 +4503,34 @@
    "tickets": "https://central-cinema.com/checkout/showing/blade/3906312"
   },
   {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-15T15:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16963/781"
+  },
+  {
+   "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-15T15:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16961/780"
+  },
+  {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-15T15:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16957/717"
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-15T16:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16959/770"
+  },
+  {
    "film": "digger",
    "theater": "siff-downtown",
    "start": "2026-10-15T16:15:00-07:00",
@@ -4180,6 +4569,13 @@
    ]
   },
   {
+   "film": "verity",
+   "theater": "admiral",
+   "start": "2026-10-15T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16964/781"
+  },
+  {
    "film": "understanding-myself-as-an-amphibian",
    "theater": "nwff",
    "start": "2026-10-15T18:30:00-07:00",
@@ -4188,6 +4584,27 @@
    "notes": [
     "With Objectionable Fruit"
    ]
+  },
+  {
+   "film": "digger",
+   "theater": "admiral",
+   "start": "2026-10-15T18:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16962/780"
+  },
+  {
+   "film": "heart-of-the-beast",
+   "theater": "admiral",
+   "start": "2026-10-15T18:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16960/770"
+  },
+  {
+   "film": "practical-magic-2",
+   "theater": "admiral",
+   "start": "2026-10-15T18:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16958/717"
   },
   {
    "film": "nightmare-before-christmas",
@@ -4270,6 +4687,13 @@
    "tickets": "https://central-cinema.com/checkout/showing/hausu-house/3918198"
   },
   {
+   "film": "double-feature",
+   "theater": "majestic-bay",
+   "start": "2026-10-16T16:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36467?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "devils",
    "theater": "siff-uptown",
    "start": "2026-10-16T16:15:00-07:00",
@@ -4317,6 +4741,13 @@
    "start": "2026-10-16T19:00:00-07:00",
    "url": "https://central-cinema.com/movie/grosse-pointe-blank/",
    "tickets": "https://central-cinema.com/checkout/showing/grosse-pointe-blank/3918200"
+  },
+  {
+   "film": "double-feature",
+   "theater": "majestic-bay",
+   "start": "2026-10-16T19:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36466?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "nightmare-before-christmas",
@@ -4381,6 +4812,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-MHR1TJIUIh"
   },
   {
+   "film": "double-feature",
+   "theater": "majestic-bay",
+   "start": "2026-10-17T13:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36489?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "devils",
    "theater": "siff-uptown",
    "start": "2026-10-17T13:15:00-07:00",
@@ -4430,6 +4868,13 @@
    "start": "2026-10-17T16:00:00-07:00",
    "url": "https://central-cinema.com/movie/hausu-house/",
    "tickets": "https://central-cinema.com/checkout/showing/hausu-house/3918201"
+  },
+  {
+   "film": "double-feature",
+   "theater": "majestic-bay",
+   "start": "2026-10-17T16:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36490?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "entanglements-shorts",
@@ -4489,6 +4934,13 @@
    "start": "2026-10-17T19:00:00-07:00",
    "url": "https://central-cinema.com/movie/grosse-pointe-blank/",
    "tickets": "https://central-cinema.com/checkout/showing/grosse-pointe-blank/3918203"
+  },
+  {
+   "film": "double-feature",
+   "theater": "majestic-bay",
+   "start": "2026-10-17T19:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36491?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "drawn-to-life-shorts",
@@ -4577,6 +5029,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-78b1DmKXsX"
   },
   {
+   "film": "double-feature",
+   "theater": "majestic-bay",
+   "start": "2026-10-18T13:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36492?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "devils",
    "theater": "siff-uptown",
    "start": "2026-10-18T13:15:00-07:00",
@@ -4636,6 +5095,13 @@
    "start": "2026-10-18T16:00:00-07:00",
    "url": "https://central-cinema.com/movie/hausu-house/",
    "tickets": "https://central-cinema.com/checkout/showing/hausu-house/3918204"
+  },
+  {
+   "film": "double-feature",
+   "theater": "majestic-bay",
+   "start": "2026-10-18T16:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36493?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "mutable-archive-shorts",
@@ -4721,6 +5187,13 @@
    "tickets": "https://central-cinema.com/checkout/showing/grosse-pointe-blank/3918206"
   },
   {
+   "film": "double-feature",
+   "theater": "majestic-bay",
+   "start": "2026-10-18T19:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36494?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "devils",
    "theater": "siff-uptown",
    "start": "2026-10-18T19:15:00-07:00",
@@ -4763,6 +5236,13 @@
    "tickets": "https://central-cinema.com/checkout/showing/hausu-house/3918207"
   },
   {
+   "film": "double-feature",
+   "theater": "majestic-bay",
+   "start": "2026-10-19T16:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36495?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "isle-of-the-dead",
    "theater": "beacon",
    "start": "2026-10-19T16:30:00-07:00",
@@ -4789,6 +5269,13 @@
    "start": "2026-10-19T19:00:00-07:00",
    "url": "https://central-cinema.com/movie/grosse-pointe-blank/",
    "tickets": "https://central-cinema.com/checkout/showing/grosse-pointe-blank/3918209"
+  },
+  {
+   "film": "double-feature",
+   "theater": "majestic-bay",
+   "start": "2026-10-19T19:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36498?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "who-moves-america",
@@ -4854,6 +5341,13 @@
    "tickets": "https://central-cinema.com/checkout/showing/grosse-pointe-blank/3918210"
   },
   {
+   "film": "double-feature",
+   "theater": "majestic-bay",
+   "start": "2026-10-20T16:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36501?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "devils",
    "theater": "siff-uptown",
    "start": "2026-10-20T16:00:00-07:00",
@@ -4900,6 +5394,13 @@
    "notes": [
     "Presented by Seattle Scare Society"
    ]
+  },
+  {
+   "film": "double-feature",
+   "theater": "majestic-bay",
+   "start": "2026-10-20T19:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36502?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "who-moves-america",
@@ -4962,6 +5463,13 @@
    "start": "2026-10-21T16:00:00-07:00",
    "url": "https://central-cinema.com/movie/hausu-house/",
    "tickets": "https://central-cinema.com/checkout/showing/hausu-house/3918211"
+  },
+  {
+   "film": "double-feature",
+   "theater": "majestic-bay",
+   "start": "2026-10-21T16:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36503?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "devils",
@@ -5069,6 +5577,20 @@
    ]
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-22T15:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36445?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-22T15:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36446?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "wildwood",
    "theater": "majestic-bay",
    "start": "2026-10-22T15:30:00-07:00",
@@ -5112,6 +5634,27 @@
    "notes": [
     "Free admission"
    ]
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-22T18:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36447?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-22T18:45:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36449?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-10-22T19:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36291?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "haunted-destination-new-film-from-local-filmmaker-taylor-gut",
@@ -5190,11 +5733,25 @@
    "tickets": "https://central-cinema.com/checkout/showing/the-totally-halloween-sing-along/3918213"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-23T15:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36456?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "wildwood",
    "theater": "north-bend",
    "start": "2026-10-23T15:00:00-07:00",
    "url": "https://tix.northbendtheatre.com/event/wildwood-friday-oct-23rd-3pm",
    "tickets": "https://tix.northbendtheatre.com/event/wildwood-friday-oct-23rd-3pm"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-23T15:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36458?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "you-can-see-everything",
@@ -5216,6 +5773,13 @@
    "start": "2026-10-23T16:00:00-07:00",
    "url": "https://central-cinema.com/movie/frankenstein-1931/",
    "tickets": "https://central-cinema.com/checkout/showing/frankenstein-1931/3999049"
+  },
+  {
+   "film": "seattle-polish-film-festival-gsf-shorts",
+   "theater": "siff-uptown",
+   "start": "2026-10-23T16:00:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/gsf-shorts",
+   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/gsf-shorts#screening-53R4RFWabV"
   },
   {
    "film": "wicker",
@@ -5263,11 +5827,32 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6a91d35c712b742c7d529934"
   },
   {
+   "film": "seattle-polish-film-festival-the-altar-boys",
+   "theater": "siff-uptown",
+   "start": "2026-10-23T18:00:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/the-altar-boys",
+   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/the-altar-boys#screening-DWx1sK9X4p"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-23T18:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36457?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "bernstein-s-wall",
    "theater": "siff-film-center",
    "start": "2026-10-23T18:30:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/bernsteins-wall",
    "tickets": "https://www.siff.net/cinema/in-theaters/bernsteins-wall#screening-gHSmgOueGk"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-10-23T18:45:00-07:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36293?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "you-can-see-everything",
@@ -5289,6 +5874,13 @@
    "start": "2026-10-23T19:00:00-07:00",
    "url": "https://central-cinema.com/movie/frankenstein-1931/",
    "tickets": "https://central-cinema.com/checkout/showing/frankenstein-1931/3999050"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-23T19:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36459?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "you-can-see-everything",
@@ -5335,6 +5927,13 @@
    ]
   },
   {
+   "film": "seattle-polish-film-festival-erupcja",
+   "theater": "siff-uptown",
+   "start": "2026-10-23T20:30:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/erupcja",
+   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/erupcja#screening-fdtTpxwyFK"
+  },
+  {
    "film": "rocky-horror-picture-show",
    "theater": "north-bend",
    "start": "2026-10-23T21:00:00-07:00",
@@ -5367,6 +5966,20 @@
    "start": "2026-10-24T11:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/whalefall",
    "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-AYaaPnTe8G"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-24T12:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36450?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-24T12:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36455?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "you-can-see-everything",
@@ -5404,6 +6017,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-VuosqmQKZ8"
   },
   {
+   "film": "seattle-polish-film-festival-brother",
+   "theater": "siff-uptown",
+   "start": "2026-10-24T14:00:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/brother",
+   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/brother#screening-yx4n4o7Ggs"
+  },
+  {
    "film": "no-country-for-mothers",
    "theater": "tasveer",
    "start": "2026-10-24T14:00:00-07:00",
@@ -5419,6 +6039,13 @@
    "theater": "tin-room",
    "start": "2026-10-24T14:00:00-07:00",
    "url": "https://tinroombar.com/events"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-24T14:45:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36452?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "wildwood",
@@ -5459,11 +6086,25 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6a91d3a9a328434b4647b0cc"
   },
   {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-24T15:45:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36453?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-10-24T15:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-xPYyicOnQF"
+  },
+  {
+   "film": "seattle-polish-film-festival-heel",
+   "theater": "siff-uptown",
+   "start": "2026-10-24T15:45:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/heel",
+   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/heel#screening-K3R0I9ZCOJ"
   },
   {
    "film": "frankenstein",
@@ -5518,6 +6159,27 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/take-me-home/4003539"
   },
   {
+   "film": "seattle-polish-film-festival-picasso-s-mermaid",
+   "theater": "siff-uptown",
+   "start": "2026-10-24T17:45:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/picassos-mermaid",
+   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/picassos-mermaid#screening-XEjrqUKJo5"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-24T18:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36451?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-24T18:45:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36454?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "tasveer",
    "start": "2026-10-24T18:45:00-07:00",
@@ -5532,6 +6194,13 @@
    "tickets": "https://thebeacon.film/calendar/movie/the-vanishing?showtime=64O6UF3ZSRDOTWHCFUKYKYUJ"
   },
   {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-10-24T19:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36298?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-10-24T19:00:00-07:00",
@@ -5543,6 +6212,13 @@
    "theater": "tin-room",
    "start": "2026-10-24T19:00:00-07:00",
    "url": "https://tinroombar.com/events"
+  },
+  {
+   "film": "seattle-polish-film-festival-home-sweet-home",
+   "theater": "siff-uptown",
+   "start": "2026-10-24T19:30:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/home-sweet-home",
+   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/home-sweet-home#screening-SBP5HVpaMP"
   },
   {
    "film": "wildwood",
@@ -5590,6 +6266,13 @@
    "tickets": "https://thebeacon.film/calendar/movie/vhs-uber-alles-presents?showtime=DWTMSQMHFRLAMPP7GHK5IZXG"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-25T12:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36475?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "whalefall",
    "theater": "siff-downtown",
    "start": "2026-10-25T12:00:00-07:00",
@@ -5602,6 +6285,13 @@
    "start": "2026-10-25T12:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/bernsteins-wall",
    "tickets": "https://www.siff.net/cinema/in-theaters/bernsteins-wall#screening-vOUhh2xbpL"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-25T12:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36472?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "you-can-see-everything",
@@ -5632,6 +6322,13 @@
    "tickets": "https://thebeacon.film/calendar/movie/i-walked-with-a-zombie?showtime=JXFI7YYCCFFFXGSVVVUMMDH2"
   },
   {
+   "film": "seattle-polish-film-festival-gorky-resort",
+   "theater": "siff-uptown",
+   "start": "2026-10-25T14:00:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/gorky-resort",
+   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/gorky-resort#screening-NRaGJITOCs"
+  },
+  {
    "film": "take-me-home",
    "theater": "tasveer",
    "start": "2026-10-25T14:00:00-07:00",
@@ -5644,6 +6341,13 @@
    "start": "2026-10-25T14:30:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/bernsteins-wall",
    "tickets": "https://www.siff.net/cinema/in-theaters/bernsteins-wall#screening-sm7DFWqgdd"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-25T14:45:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36473?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "wildwood",
@@ -5684,6 +6388,13 @@
    ]
   },
   {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-25T15:45:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36476?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-10-25T15:45:00-07:00",
@@ -5696,6 +6407,13 @@
    "start": "2026-10-25T16:00:00-07:00",
    "url": "https://central-cinema.com/movie/frankenstein-1931/",
    "tickets": "https://central-cinema.com/checkout/showing/frankenstein-1931/3999053"
+  },
+  {
+   "film": "seattle-polish-film-festival-larp",
+   "theater": "siff-uptown",
+   "start": "2026-10-25T16:00:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/larp",
+   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/larp#screening-xR9x7c8t3r"
   },
   {
    "film": "tenzing",
@@ -5750,6 +6468,27 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/nagarkirtan-bengali-2017/4004424"
   },
   {
+   "film": "seattle-polish-film-festival-wild-wild-east",
+   "theater": "siff-uptown",
+   "start": "2026-10-25T18:15:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/wild-wild-east",
+   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/wild-wild-east#screening-sbTSJJyWEw"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-25T18:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36474?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-25T18:45:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36477?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "basic-instinct",
    "theater": "central-cinema",
    "start": "2026-10-25T19:00:00-07:00",
@@ -5758,6 +6497,13 @@
    "notes": [
     "Presented by Camp Napalm"
    ]
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-10-25T19:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36301?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "wildwood",
@@ -5796,6 +6542,20 @@
    "start": "2026-10-25T19:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/wicker",
    "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-o0ABloDqTs"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-26T15:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36478?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-26T15:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36480?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "wildwood",
@@ -5848,6 +6608,20 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-26T18:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36479?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-26T18:45:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36481?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "tasveer",
    "start": "2026-10-26T18:45:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
@@ -5859,6 +6633,13 @@
    "start": "2026-10-26T19:00:00-07:00",
    "url": "https://central-cinema.com/movie/frankenstein-1931/",
    "tickets": "https://central-cinema.com/checkout/showing/frankenstein-1931/3999055"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-10-26T19:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36295?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "begotten",
@@ -5924,6 +6705,20 @@
    "tickets": "https://central-cinema.com/checkout/showing/fright-night/3999056"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-27T15:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36482?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-27T15:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36484?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "wildwood",
    "theater": "majestic-bay",
    "start": "2026-10-27T15:30:00-07:00",
@@ -5935,7 +6730,7 @@
    "theater": "siff-uptown",
    "start": "2026-10-27T15:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-K0s0qPC5cU"
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-27e2GpODm9"
   },
   {
    "film": "frankenstein",
@@ -5974,6 +6769,20 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-27T18:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36483?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-27T18:45:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36485?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "tasveer",
    "start": "2026-10-27T18:45:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
@@ -5988,6 +6797,13 @@
    "notes": [
     "Cinemancy: post-film discussion"
    ]
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-10-27T19:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36303?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "jennifer-s-body",
@@ -6034,6 +6850,20 @@
    "start": "2026-10-27T19:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/wicker",
    "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-H1U2LGSmjb"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-28T15:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36486?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-28T15:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36487?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "wildwood",
@@ -6083,6 +6913,20 @@
    "start": "2026-10-28T17:30:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/take-me-home",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/take-me-home/4003549"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-28T18:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36305?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-10-28T18:45:00-07:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36488?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "ring",
@@ -6672,6 +7516,13 @@
    ]
   },
   {
+   "film": "engauge-2026-tactility-and-memory",
+   "theater": "nwff",
+   "start": "2026-11-04T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/engauge-2026-tactility-and-memory/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac54041dfd1d1dc8a50ca6c"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-04T19:30:00-08:00",
@@ -6711,6 +7562,17 @@
    "tickets": "https://central-cinema.com/checkout/showing/cartoon-happy-hour/4080472",
    "notes": [
     "Free admission"
+   ]
+  },
+  {
+   "film": "engauge-2026-beyond-borders",
+   "theater": "nwff",
+   "start": "2026-11-05T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/engauge-2026-beyond-borders/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac5411bb3da548d1ab3c1ce",
+   "notes": [
+    "On film",
+    "Visiting artist"
    ]
   },
   {
@@ -6760,6 +7622,27 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-2OlA8yPUrS"
   },
   {
+   "film": "engauge-2026-tainted",
+   "theater": "nwff",
+   "start": "2026-11-06T16:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/engauge-2026-tainted/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac5429d67f4b3469e340756",
+   "notes": [
+    "On film"
+   ]
+  },
+  {
+   "film": "engauge-2026-expanded-cinema-performance-and-film",
+   "theater": "nwff",
+   "start": "2026-11-06T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/engauge-2026-expanded-cinema-performance-and-film/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac543724a03924fe203feda",
+   "notes": [
+    "On film",
+    "Visiting artist"
+   ]
+  },
+  {
    "film": "la-bola-negra",
    "theater": "siff-uptown",
    "start": "2026-11-06T19:15:00-08:00",
@@ -6798,6 +7681,17 @@
    ]
   },
   {
+   "film": "engauge-2026-pattern-and-place",
+   "theater": "nwff",
+   "start": "2026-11-07T15:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/engauge-2026-pattern-place/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac54546e50404416a4bc72c",
+   "notes": [
+    "On film",
+    "Visiting artist"
+   ]
+  },
+  {
    "film": "la-bola-negra",
    "theater": "siff-uptown",
    "start": "2026-11-07T15:15:00-08:00",
@@ -6810,6 +7704,17 @@
    "start": "2026-11-07T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-8qurTrnJ2H"
+  },
+  {
+   "film": "engauge-2026-we-are-all-together",
+   "theater": "nwff",
+   "start": "2026-11-07T17:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/engauge-2026-we-are-all-together/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac545eb481cf315ad9d4e2a",
+   "notes": [
+    "On film",
+    "Visiting artist"
+   ]
   },
   {
    "film": "la-bola-negra",
@@ -6986,6 +7891,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-BcIIBU6fwp"
   },
   {
+   "film": "members-only-mystery-preview-november-2026",
+   "theater": "nwff",
+   "start": "2026-11-11T19:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/members-mystery-preview-november-2026/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac7fb697f461cb98f1cf5cd"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-11T19:30:00-08:00",
@@ -7005,6 +7917,13 @@
    "start": "2026-11-12T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
    "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-rd4By7CglH"
+  },
+  {
+   "film": "parallax-view",
+   "theater": "nwff",
+   "start": "2026-11-12T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/the-parallax-view/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac7e97077b3f430b7e06c20"
   },
   {
    "film": "candy-mountain",
@@ -7037,6 +7956,23 @@
    "start": "2026-11-12T19:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-dNVNyIrVkI"
+  },
+  {
+   "film": "zi",
+   "theater": "nwff",
+   "start": "2026-11-13T17:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/zi/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ab171da02ce9929ad1ac3d3"
+  },
+  {
+   "film": "a-simple-machine",
+   "theater": "siff-film-center",
+   "start": "2026-11-13T18:30:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/a-simple-machine",
+   "tickets": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/a-simple-machine#screening-nQ8QBIoaGe",
+   "notes": [
+    "PNW Awards"
+   ]
   }
  ]
 }
