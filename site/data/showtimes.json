@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T11:48:00-07:00",
+ "updated": "2026-10-10T10:51:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-09T11:48:00-07:00",
-    "lastSuccess": "2026-10-09T11:48:00-07:00",
-    "showings": 61,
+    "checked": "2026-10-10T10:51:00-07:00",
+    "lastSuccess": "2026-10-10T10:51:00-07:00",
+    "showings": 59,
     "through": "2026-11-12"
    }
   },
@@ -33,9 +33,9 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-09T11:48:00-07:00",
-    "lastSuccess": "2026-10-09T11:48:00-07:00",
-    "showings": 148,
+    "checked": "2026-10-10T10:51:00-07:00",
+    "lastSuccess": "2026-10-10T10:51:00-07:00",
+    "showings": 142,
     "through": "2026-11-12"
    }
   },
@@ -52,10 +52,10 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-09T11:48:00-07:00",
-    "lastSuccess": "2026-10-09T11:48:00-07:00",
-    "showings": 31,
-    "through": "2026-11-13"
+    "checked": "2026-10-10T10:51:00-07:00",
+    "lastSuccess": "2026-10-10T10:51:00-07:00",
+    "showings": 32,
+    "through": "2026-11-14"
    }
   },
   {
@@ -70,8 +70,8 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-09T11:48:00-07:00",
-    "lastSuccess": "2026-10-09T11:48:00-07:00",
+    "checked": "2026-10-10T10:51:00-07:00",
+    "lastSuccess": "2026-10-10T10:51:00-07:00",
     "showings": 8,
     "through": "2026-11-03"
    }
@@ -88,9 +88,9 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-09T11:48:00-07:00",
-    "lastSuccess": "2026-10-09T11:48:00-07:00",
-    "showings": 68,
+    "checked": "2026-10-10T10:51:00-07:00",
+    "lastSuccess": "2026-10-10T10:51:00-07:00",
+    "showings": 67,
     "through": "2026-11-13"
    }
   },
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-09T11:48:00-07:00",
-    "lastSuccess": "2026-10-09T11:48:00-07:00",
-    "showings": 69,
+    "checked": "2026-10-10T10:51:00-07:00",
+    "lastSuccess": "2026-10-10T10:51:00-07:00",
+    "showings": 66,
     "through": "2026-11-05"
    }
   },
@@ -126,9 +126,9 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-09T11:48:00-07:00",
-    "lastSuccess": "2026-10-09T11:48:00-07:00",
-    "showings": 33,
+    "checked": "2026-10-10T10:51:00-07:00",
+    "lastSuccess": "2026-10-10T10:51:00-07:00",
+    "showings": 32,
     "through": "2026-11-02"
    }
   },
@@ -145,9 +145,9 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-09T11:48:00-07:00",
-    "lastSuccess": "2026-10-09T11:48:00-07:00",
-    "showings": 48,
+    "checked": "2026-10-10T10:51:00-07:00",
+    "lastSuccess": "2026-10-10T10:51:00-07:00",
+    "showings": 42,
     "through": "2026-10-29"
    }
   },
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-09T11:48:00-07:00",
-    "lastSuccess": "2026-10-09T11:48:00-07:00",
-    "showings": 112,
+    "checked": "2026-10-10T10:51:00-07:00",
+    "lastSuccess": "2026-10-10T10:51:00-07:00",
+    "showings": 109,
     "through": "2026-11-11"
    }
   },
@@ -182,10 +182,10 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-09T11:48:00-07:00",
-    "lastSuccess": "2026-10-09T11:48:00-07:00",
-    "showings": 74,
-    "through": "2026-10-17"
+    "checked": "2026-10-10T10:51:00-07:00",
+    "lastSuccess": "2026-10-10T10:51:00-07:00",
+    "showings": 63,
+    "through": "2026-11-14"
    }
   },
   {
@@ -201,9 +201,9 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-09T11:48:00-07:00",
-    "lastSuccess": "2026-10-09T11:48:00-07:00",
-    "showings": 18,
+    "checked": "2026-10-10T10:51:00-07:00",
+    "lastSuccess": "2026-10-10T10:51:00-07:00",
+    "showings": 17,
     "through": "2026-11-01"
    }
   },
@@ -220,10 +220,10 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-09T11:48:00-07:00",
-    "lastSuccess": "2026-10-09T11:48:00-07:00",
-    "showings": 30,
-    "through": "2026-11-01"
+    "checked": "2026-10-10T10:51:00-07:00",
+    "lastSuccess": "2026-10-10T10:51:00-07:00",
+    "showings": 29,
+    "through": "2026-11-08"
    }
   }
  ],
@@ -239,6 +239,15 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/08/1600x900-CoS-Halloween-2026-FINAL-copy-1200x675.jpg",
    "links": {
     "nwff": "https://nwfilmforum.org/events/2026-collide-o-scope-halloween-show/"
+   }
+  },
+  {
+   "id": "5point-film-fest-2026",
+   "title": "5Point Film Fest 2026",
+   "description": "Adventure is coming to North Bend on November 8! Pro Ski and Mountain Service is hosting 5Point Film Festival - On The Road, an evening of inspiring short films from the acclaimed 5Point Film Festival, founded in Carbondale, Colorado.\n\nThis film program features some of the year’s most unforgettable stories of adventure, perseverance and the human spirit—all curated with the heart and soul that 5Point is known for. Whether you're a lifelong outdoor enthusiast or simply love a good story, these films are sure to move, challenge and ignite your sense of adventure.\n\nFrom wild expeditions to urban athletes to environmental advocacy to intimate character-driven stories, 5Point OTR captures the joy, risk, and revelation of a life lived outside the comfort zone. Each short film is handpicked to reflect 5Point’s guiding principles: Respect, Commitment, Humility, Purpose and Balance.",
+   "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/5point2026Square02.jpg",
+   "links": {
+    "north-bend": "https://tix.northbendtheatre.com/event/5point-film-fest-2026-hosted-by-pro-ski-and-mountain-service-sunday-november-8th-5pm"
    }
   },
   {
@@ -352,6 +361,20 @@
    "image": "https://static.spotapps.co/spots/a8/86d7b061584956b36ed8ae76c5f116/w926",
    "links": {
     "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
+   "id": "again-again",
+   "title": "Again Again",
+   "description": "What happens after Groundhog Day ends? What happens when the protagonist has to contend with life post-time loop, in all of its messy permanence? Again Again, the debut feature from Aberdeen-raised filmmaker Mia Moore, puts a singularly queer spin on that very question. Moore herself stars as Aggie, a foul-mouthed, pot-smoking trans woman who awakens from a ten-year time loop into a new day. But a decade, it seems, wasn't nearly enough time for Aggie to sort out her on-again-off-again relationship with her childhood best friend, Tess (Aria Taylor).\n\nExecutive produced by pioneering filmmaker Lilly Wachowski, Again Again is heady yet intimate, asking existential questions while staying tightly focused on a trans woman's subjectivity. Over the course of a single day, which Aggie promises Tess will be \"one normal day with none of that time garbage,\" the two friends bum around Aberdeen, revisiting their shared past and negotiating their uncertain future. Again Again is steeped in gloomy Aberdeen atmosphere, from the gritty shipyards to the demolition derby. Yet Aggie remains haunted by what she witnessed in \"the loop.\" When she starts to unravel the mystery of what—and who—caused the time loop in the first place, Aggie must choose the future once and for all.\n\n—Alison Jean Smith\n\n“Again Again tasks its characters to live their lives as if today were their last and the unknown possibilities of tomorrow were far from a given. And it wants everyone in the audience to do the same. It’s scary stuff. It’s also beautiful.” – Sara Michelle Fetters, Seattle Gay News",
+   "runtime": 99,
+   "year": 2026,
+   "director": "Mia Moore, Heather Ballish",
+   "country": "USA",
+   "language": "English",
+   "image": "https://www.siff.net/images/FESTIVAL/2026/Films/Film%20Detail%20Hero%20Images%20-%20Features/AgainAgain.jpg",
+   "links": {
+    "siff-film-center": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/again-again"
    }
   },
   {
@@ -645,20 +668,6 @@
    }
   },
   {
-   "id": "come-and-see",
-   "title": "Come and See",
-   "description": "This widely acclaimed film from Soviet director Elem Klimov is a stunning, senses-shattering plunge into the dehumanizing horrors of war. As Nazi forces encroach on his small village in present-day Belarus, teenage Flyora (Aleksei Kravchenko, in one of the screen’s most searing depictions of anguish since Renée Falconetti’s Joan of Arc) eagerly joins the Soviet resistance. Rather than the adventure and glory he envisioned, what he finds is a waking nightmare of unimaginable carnage and cruelty—rendered with a feverish, otherworldly intensity by Klimov’s subjective camerawork and expressionistic sound design. Nearly suppressed by Soviet censors who took eight years to approve its script, Come and See is perhaps the most visceral, impossible-to-forget antiwar film ever made.",
-   "runtime": 142,
-   "year": 1985,
-   "director": "Elem Klimov",
-   "country": "Soviet Union",
-   "language": "Belarusian, German, Russian",
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/08/comeandsee1600-4-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/trauma-bond-come-and-see/"
-   }
-  },
-  {
    "id": "deep-red",
    "title": "Deep Red",
    "description": "The grisly killing of a celebrity telepath in Rome leads David Hemmings and Daria Nicolodi down a rabbit hole of repressed trauma, gruesome deaths and one of the creepiest puppets ever put on the screen. Dario Argento’s masterwork still feels incredibly modern; its perspective-shredding camera hurtles across rooms and lovingly circles fetishized instruments of both music and death while Goblin’s blissed-out prog-rock score blares on the soundtrack. Luxuriate in the rhythms of one of the most stylish thrillers ever made – here in its full, original Italian version. This is the movie that hooked every cinephile on the giallo genre.",
@@ -700,16 +709,6 @@
    "image": "https://static.spotapps.co/spots/1d/2b3d8c066545a9a3ef1e5dba5dd8a3/w926",
    "links": {
     "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
-   "id": "double-feature",
-   "title": "Double Feature",
-   "genres": [
-    "Other"
-   ],
-   "links": {
-    "majestic-bay": "https://www.majesticbay.com/movies/307572-double-feature/"
    }
   },
   {
@@ -815,6 +814,20 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/patternplace1600-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/engauge-2026-pattern-place/"
+   }
+  },
+  {
+   "id": "engauge-2026-rankin-renwick-solo-show",
+   "title": "Engauge 2026 – Rankin Renwick Solo Show",
+   "description": "Engauge is thrilled to welcome back Portland, OR-based artist Rankin Renwick, this time to present their work in a solo show. All films by Rankin Renwick.\n\nFILMS IN THIS PROGRAM:\n\nToxic Shock (color/sound | 2:50 | S8 to 16mm | 16mm print | 1983)\n\nA visceral personal response to surviving a near-fatal case of Toxic Shock Syndrome. Toxic Shock combines intimate taboos of needles, blood and tampons with tried and true hands-on self-defense, set to a spare, penetrating and unknown score provided by a cassette tape gifted by a forgotten friend. A call to arms; what will you do in defense of your body?\n\nPortrait #1: Cascadia Terminal (color/sound | 6:00 | 16mm hand processed and tinted to digital | 2005)\n\nA 6-minute mesmerizing stare at the most historically efficient grain terminal at the port of Vancouver, B.C. The Canadian Pacific Railway services the terminal, which can unload up to 300 cars in 24 hours, a pace equal to approximately 25,800 tons of prairie grain. Why are we so attracted to the power of industrial sites? Many kids used to hang out here, get high and make out; it has the feel of a ruin though it is still in operation. A huge compound on the water within the city of Vancouver, Cascadia Terminal expands the spirit and gives the feeling of space, of being maybe further out in the country. There even used to be a squat for a bit, in an industrial building near the property. The gentle intimacy of the beautiful score invites us to step into the landscape, but sadly due to Homeland Security measures affecting coastal ports enacted since this filming, we are no longer allowed.\n\nNote: The Portrait Series is part of an ongoing series of filmed places, stories and histories of Cascadia with scores by musicians living in the Pacific Northwest. Portrait #3: House of Sound (2009) will screen later in this program. Portrait #2: Trojan screened at EEFF 2025.\n\nBritton, South Dakota (b&w/sound | 9:00 | 16mm to digital | 2003)\n\nIvan Besse managed the Strand movie theater in Britton, South Dakota during the Depression. Besse owned a 16mm camera and used it to shoot people at their various activities around town during the day. He screened the local footage before feature films and newsreels as a lure to entice paying customers into the theater. Of the 2 1/2 hours of footage, most of it depicts townspeople walking down the street; there are also scenes of a barn being moved, a cornhusking contest and kids running out of a school. What really stands out is 8 minutes of children’s portraits. The subjects–dressed in what appears to be their Sunday best–clearly had no notion of a movie camera. The lack of an overt narrative creates a sort of cinematic paper doll environment–the film invites viewers to drape these images with futures, which have long since become histories. The drone of Johnne Eschleman’s accompanying melancholy organ composition casts a tragic shadow over these bright faces, one that may or may not have come to pass.\n\nCrowdog (b&w & color/sound | 7:00 | Super 8 to digital | 1984/1998)\n\nAn early encounter with Peter Mathiessen’s 1983 book In the Spirit of Crazy Horse concerning the fallout of the FBI’s ‘Reign of Terror’ over the American Indian Movement led a teenaged filmmaker on a pilgrimage to the Pine Ridge Indian Reservation in South Dakota. This journal entry of a film describes a young artist in the midst of over two years of shoe-free peregrinations, with a spare, mesmerizing narration that reflects a landscape ranging from the slimy underbelly of dirty Chicago to a hitchhiker’s perch in the back of a dusty pickup truck. See the kindness of the older self who dares also to show us the convictions of our youth. Bare feet on a paved road, a white girl stands to one side of a white line, a wolf dog weaves and dances before the camera.\n\nYawn (color/sound | 2:00 | 16mm to digital | 1998)\n\nTwo sublime minutes of the human experience: the color orange, piano, a wordless documentary on both the inhale and the exhale. The unspoken challenge: can the viewer last without joining the fray?\n\nOlympia (b&w/sound | 11:00 | S8 to digital | 1984/1998)\n\nThe ultimate origin story, eleven grueling minutes of a home birth. Midwives and friends surround a naked woman bulging with life as she endures the last eternal moments of her pregnancy and a child arrives. The grainy, black-and-white super-8 film softens the visual experience, while the pulsating soundtrack recalls approaching helicopters or jackhammer job-sites–birth from the point of view of the forthcoming baby. The camera never flinches; even as the new human crouches on m30 ama’s flattened belly and the music eases into hypnotic low string meditations, and the viewer aches for release into the comfort of the family circle, still the afterbirth must emerge before the film pulls back to reveal an ordinary living room, an ordinary day.\n\n9 is a secret (b&w/sound | 6:00 | 16mm and video to digital)\n\n“Renwick recounts a sad time in her life, when a friend was dying and she suddenly became aware of the presence of crows. The dark birds in turn point her to the practice of counting crows, which is both a children’s rhyming game and a form of divination in which the number of crows suggests events in the future. Eight crows augur death: nine crows reference a secret. Renwick combines these fragments with glimpses of imagery – a bed, the crows captured as silhouettes, a man’s twisted body – to craft a lyrical and moving essay that works its magic through poetic accretion rather than narrative logic.” –Holly Willis, L.A. Weekly\n\nCrackhouse (color/sound | 2:30 | S8 to digital | 2015)\n\nMosaic artist Jeffrey Bale, described by the New York Times as a ‘rock star’, transformed a former Portland crack house into a stone art paradise, an urban sanctuary and bird haven. Crack House, edited in camera, is a cosmic burst of color and sound created to celebrate the 50th anniversary of the introduction of Super 8 film.\n\nPortrait #3: House of Sound (b&w/sound | 11:22 | 35mm to digital | 2009)\n\nIn the 1950s, Williams Avenue had the most significant concentration of Blacks living in Portland. In the late ‘50s, pushing an ‘urban renewal’ policy and exercising the power of eminent domain, the Portland City Council condemned almost the entire neighborhood to replace it with the Memorial Coliseum, Rose Quarter and Emmanuel Hospital. Edited film and an edited 5-hour radio show dedicated to the memory of the House of Sound record store, this is a eulogy for the former community center and for all the places up and down the street that used to fill those empty lots, now unrecognizable as mixed-use, high-rise hyper-urban development.\n\nSF Hitch (b&w & color/sound | 5:17 | S8 and 16mm to digital | 2012)\n\nShot and edited over the span of three decades, SF HITCH recounts the artist’s experience of hitch-hiking with their feisty canine companion from Chicago to San Francisco in 1981. Both visuals and narrative are woven together with the agility and vitality of Beat poetics—a reflection of the experience of unmoored travel and an homage to the very artists they meet upon arrival.\n\n“My wolf dog Zeb and I set off hitching in the early 80’s from Chicago to SF to see what it’s all about. We met some beats and some freaks.” – Rankin Renwick",
+   "runtime": 60,
+   "genres": [
+    "Shorts",
+    "Experimental"
+   ],
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/rankinrenwick1600-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/engauge-2026-rankin-renwick-solo-show/"
    }
   },
   {
@@ -1200,7 +1213,7 @@
   {
    "id": "irreversible",
    "title": "Irreversible",
-   "description": "One night. An unforgivable act. A tale told in reverse.\n\nAcclaimed filmmaker Gaspar Noé’s unflinching exploration of human savagery and the uncompromising nature of time, Irreversible was met with a groundswell of acclaim and uproar upon its premiere at Cannes in 2002. Stylish, sexually frank, and brutal, the film’s conceit of exploring the events of one terrible night on the streets of Paris in reverse chronological order was celebrated and derided in equal measure, helping to further cement Noé’s legacy as a cinematic enfant terrible.",
+   "description": "This Halloween series is co-presented by Monday Mourning and Scarecrow Video, where every ticket directly benefits the world’s largest physical media archive, so no romance, no comedy, not even New French Extremity, is lost to time. Each Trauma Bond screening features a live Drag pre-show with Miss Monday.\n\nOne night. An unforgivable act. A tale told in reverse.\n\nAcclaimed filmmaker Gaspar Noé’s unflinching exploration of human savagery and the uncompromising nature of time, Irreversible was met with a groundswell of acclaim and uproar upon its premiere at Cannes in 2002. Stylish, sexually frank, and brutal, the film’s conceit of exploring the events of one terrible night on the streets of Paris in reverse chronological order was celebrated and derided in equal measure, helping to further cement Noé’s legacy as a cinematic enfant terrible.",
    "runtime": 97,
    "year": 2002,
    "director": "Gaspar Noé",
@@ -1275,18 +1288,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Films%20of%20Andrej%20Wajda/Wajda%20Films%20Images/kanal.png",
    "links": {
     "siff-film-center": "https://www.siff.net/programs-and-events/andrzej-wajda/kana%C5%82"
-   }
-  },
-  {
-   "id": "l-amour-fou",
-   "title": "L’Amour Fou",
-   "description": "Confined to decades of oblivion after its original celluloid elements were damaged in a fire, Jacques Rivette’s formally brilliant and psychologically lacerating L’AMOUR FOU — among the most important and legendary films of the French New Wave — has been meticulously restored and will be presented by critic A.S. Hamrah in celebration of his recent collection ALGORITHM OF THE NIGHT!\n\nArguably the most extreme, radical, and essential of the French auteur’s films, L’AMOUR FOU was Rivette’s first feature to introduce the signature characteristics of his visionary cinema, including a durational gamesmanship and reflexive interplays between film, theatre, art, and life.\n\nNarcissistic theatre director Sebastian (Jean-Pierre Kalfon) is staging and rehearsing a minimalist adaptation of Racine’s Andromaque while an independent television crew (led by André Labarthe) shoots a documentary of the preparations in real time, their handheld 16mm footage cut alongside the rest of the film shot on 35mm. Under extreme pressure, Sebastian’s actor wife Claire (Bulle Ogier, never more luminous) buckles and anxiously abandons her role, only to be replaced by his ex, further spurring her jealousy, isolation, and paranoia.\n\nA portrait of mad love and of unbridled and boundless passion that threatens to eclipse (even annihilate) the self, over four hypnotic, spellbinding hours, L’AMOUR FOU weds astonishing improvisation with raw psychodrama, defying the limits of reality as life and art risk dangerously, desirously subsuming one another.",
-   "runtime": 245,
-   "year": 1969,
-   "director": "Jacques Rivette",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789694366310-tb-lamourfou.jpg",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/l-amour-fou-w-a-s-hamrah"
    }
   },
   {
@@ -1426,6 +1427,17 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/membersonlynov26-1600-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/members-mystery-preview-november-2026/"
+   }
+  },
+  {
+   "id": "met-opera-2026-2027-carmen",
+   "title": "Met Opera 2026/2027: Carmen",
+   "description": "Richard Eyre’s beloved production of Bizet’s masterpiece returns to theaters, led by mezzo-soprano Elīna Garanča as the title character and tenor Roberto Alagna as Don José in the indelible 2010 Met performance—a fan favorite of The Met: Live in HD series. Yannick Nézet-Séguin conducts in his company-debut season.",
+   "runtime": 180,
+   "rating": "G",
+   "image": "https://media.mobilemoviegoing.com/CustomOneSheets/1789507185_carmen.jpg",
+   "links": {
+    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/met-opera-20262027-carmen-encore"
    }
   },
   {
@@ -1604,6 +1616,20 @@
    "links": {
     "tin-room": "https://tinroombar.com/events",
     "north-bend": "https://tix.northbendtheatre.com/event/poltergeist-wednesday-october-14th-7pm"
+   }
+  },
+  {
+   "id": "powwow-people",
+   "title": "Powwow People",
+   "description": "As an immersive, observational story, Powwow People invites audiences to witness the unfolding of a powwow over the course of a single day. Emcee Reuben Little Head is the perfect guide, grounded, generous, and often hilarious. The film's final 30-minute long take is deeply inclusive, creating space for viewers to simply be present with community. It's a powerful reminder that to witness in this way is a privilege and a blessing.\n\n—Tracy Rector\n\n“the audience is the real winner for the privilege of having shared the company of so many talented people, the rich textures and engaging sonic environment of a powerful summer day’s gathering” – Josh Bis, The SunBreak",
+   "runtime": 88,
+   "year": 2025,
+   "director": "Sky Hopinka (Ho-Chunk Nation/Pechanga Band of Luiseño Indians)",
+   "country": "USA",
+   "language": "English",
+   "image": "https://www.siff.net/images/FESTIVAL/2026/Films/Film%20Detail%20Hero%20Images%20-%20Features/PowwowPeople.jpg",
+   "links": {
+    "siff-film-center": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/powwow-people"
    }
   },
   {
@@ -1924,7 +1950,7 @@
    "rating": "PG",
    "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/ShauntheSheepSquare.jpg",
    "links": {
-    "north-bend": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-friday-oct-9th-3pm"
+    "north-bend": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-saturday-oct-10th-3pm"
    }
   },
   {
@@ -1939,7 +1965,7 @@
   {
    "id": "singin-in-the-rain",
    "title": "Singin' in the Rain",
-   "description": "Gene Kelly, Debbie Reynolds and Donald O'Connor star in one of the greatest musicals ever filmed. Musician Don Lockwood (Kelly) rises to stardom during Hollywood's silent-movie era--paired with the beautiful, jealous and dumb Lina Lamont (Jean Hagen). When Lockwood becomes attracted to young studio singer Kathy Selden (Reynolds), Lamont has her fired. But with the introduction of talking pictures, audiences laugh when they hear Lockwood speak for the first time--and the studio uses Selden to dub her voice. Set during the advent of \"talkies,\" this film classic song-and-dance numbers celebrate the beginning of movie musicals.",
+   "description": "Join us for a very special celebration of the Majestic Bay Theatres 25th year! The first public film we ever showed was a matinee of Singin' in the Rain on October 13, 2000, so to celebrate we've scheduled a full week of this film, with every showtime at matinee price!\n\nOur General Manager Jesse spent our 25th year creating a documentary about our theater, so for a special treat we are including a free screening of this documentary directly after every showtime of Singin' in the Rain.\n\nOur official celebration is taking place on the last day of our 25th year, October 12th, with a complimentary event that is now 100% booked.\n\nGene Kelly, Debbie Reynolds and Donald O'Connor star in one of the greatest musicals ever filmed. Musician Don Lockwood (Kelly) rises to stardom during Hollywood's silent-movie era--paired with the beautiful, jealous and dumb Lina Lamont (Jean Hagen). When Lockwood becomes attracted to young studio singer Kathy Selden (Reynolds), Lamont has her fired. But with the introduction of talking pictures, audiences laugh when they hear Lockwood speak for the first time--and the studio uses Selden to dub her voice. Set during the advent of \"talkies,\" this film classic song-and-dance numbers celebrate the beginning of movie musicals.",
    "runtime": 103,
    "year": 1952,
    "director": "Stanley Donen, Gene Kelly",
@@ -1949,7 +1975,7 @@
    ],
    "image": "https://all.web.img.acsta.net/img/88/96/88960a06f6a3c80b9779fe8a6e1b8429.jpg",
    "links": {
-    "majestic-bay": "https://www.majesticbay.com/movies/5120-singin-in-the-rain-1952/"
+    "majestic-bay": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/"
    }
   },
   {
@@ -1971,15 +1997,6 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789694661339-tb-spookies.jpg",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/spookies"
-   }
-  },
-  {
-   "id": "star-trek-2009",
-   "title": "Star Trek 2009",
-   "description": "A young and untested crew sets out on the inaugural voyage of the U.S.S. Enterprise, the most advanced starship ever built. Led by James T. Kirk, a spirited and unconventional officer, and his logical Vulcan first officer, Spock, the crew encounters unexpected dangers and conflicts. They must overcome their personal differences and work together to navigate uncharted territory, forming a lasting camaraderie as they explore the galaxy and push the boundaries of human understanding.",
-   "image": "https://static.spotapps.co/spots/ae/42a6bc2c224acc92da0f49426452e5/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -2754,323 +2771,6 @@
   }
  ],
  "showings": [
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-09T13:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36402?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "forgotten-island",
-   "theater": "majestic-bay",
-   "start": "2026-10-09T13:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296642-forgotten-island/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36401?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-09T13:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36403?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "shaun-the-sheep-the-beast-of-mossy-bottom",
-   "theater": "north-bend",
-   "start": "2026-10-09T15:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-friday-oct-9th-3pm",
-   "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-friday-oct-9th-3pm"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-09T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16888/781"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-09T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16887/780"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-09T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16889/717"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-09T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16890/770"
-  },
-  {
-   "film": "vertigo",
-   "theater": "central-cinema",
-   "start": "2026-10-09T16:00:00-07:00",
-   "url": "https://central-cinema.com/movie/vertigo/",
-   "tickets": "https://central-cinema.com/checkout/showing/vertigo/3906296"
-  },
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-09T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36395?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "digger",
-   "theater": "siff-downtown",
-   "start": "2026-10-09T16:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/digger",
-   "tickets": "https://www.siff.net/cinema/in-theaters/digger#screening-QtYgZFfh15"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-09T16:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36396?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-09T16:20:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-Li27u80l6W"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-09T16:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36397?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-09T16:40:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-yElSr8xmQe"
-  },
-  {
-   "film": "lady",
-   "theater": "siff-uptown",
-   "start": "2026-10-09T17:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/lady",
-   "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-rBW4542rhM"
-  },
-  {
-   "film": "primetime",
-   "theater": "tasveer",
-   "start": "2026-10-09T17:25:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/primetime-usa-2026",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/primetime-usa-2026/4087779"
-  },
-  {
-   "film": "black-zombie",
-   "theater": "tasveer",
-   "start": "2026-10-09T17:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/black-zombie",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/black-zombie/3960746"
-  },
-  {
-   "film": "naza",
-   "theater": "tasveer",
-   "start": "2026-10-09T17:45:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/naza-2026-hebrewenglish-subtitled-in-english",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/naza-2026-hebrewenglish-subtitled-in-english/3960743"
-  },
-  {
-   "film": "shaun-the-sheep-the-beast-of-mossy-bottom",
-   "theater": "north-bend",
-   "start": "2026-10-09T18:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-friday-oct-9th-6pm",
-   "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-friday-oct-9th-6pm"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-09T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16886/781"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-09T18:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16884/780"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-09T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16885/770"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-09T18:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16883/717"
-  },
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-09T18:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36398?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "l-amour-fou",
-   "theater": "beacon",
-   "start": "2026-10-09T19:00:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/l-amour-fou-w-a-s-hamrah",
-   "notes": [
-    "With A.S. Hamrah",
-    "Sold out"
-   ]
-  },
-  {
-   "film": "vertigo",
-   "theater": "central-cinema",
-   "start": "2026-10-09T19:00:00-07:00",
-   "url": "https://central-cinema.com/movie/vertigo/",
-   "tickets": "https://central-cinema.com/checkout/showing/vertigo/3906297"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-09T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36399?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "scout",
-   "theater": "siff-film-center",
-   "start": "2026-10-09T19:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-scout",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-scout#screening-DdOltqSaL4"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-09T19:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-TwuQ5TdnmY"
-  },
-  {
-   "film": "star-trek-2009",
-   "theater": "tin-room",
-   "start": "2026-10-09T19:00:00-07:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-09T19:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36400?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "siff-downtown",
-   "start": "2026-10-09T19:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-ExvQoGQNrL"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-09T19:20:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-wZj7EVZsTm"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "tasveer",
-   "start": "2026-10-09T19:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-history-of-concrete-2026-usa",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-history-of-concrete-2026-usa/4087780"
-  },
-  {
-   "film": "black-zombie",
-   "theater": "tasveer",
-   "start": "2026-10-09T19:35:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/black-zombie",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/black-zombie/3960745"
-  },
-  {
-   "film": "lady",
-   "theater": "siff-uptown",
-   "start": "2026-10-09T19:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/lady",
-   "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-PoujPnjj57"
-  },
-  {
-   "film": "naza",
-   "theater": "tasveer",
-   "start": "2026-10-09T19:45:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/naza-2026-hebrewenglish-subtitled-in-english",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/naza-2026-hebrewenglish-subtitled-in-english/3960742"
-  },
-  {
-   "film": "come-and-see",
-   "theater": "nwff",
-   "start": "2026-10-09T20:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/trauma-bond-come-and-see/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a91c815361173dfc894007a"
-  },
-  {
-   "film": "an-autumn-afternoon",
-   "theater": "nwff",
-   "start": "2026-10-09T20:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/an-autumn-afternoon/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/69b051d729a15bdc4ef01c61"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-09T21:05:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16891/717"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-09T21:10:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16894/780"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-09T21:25:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16893/781"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-09T21:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16892/770"
-  },
-  {
-   "film": "blade",
-   "theater": "central-cinema",
-   "start": "2026-10-09T21:50:00-07:00",
-   "url": "https://central-cinema.com/movie/blade/",
-   "tickets": "https://central-cinema.com/checkout/showing/blade/3906298"
-  },
   {
    "film": "naza",
    "theater": "siff-uptown",
@@ -3980,10 +3680,12 @@
    "film": "singin-in-the-rain",
    "theater": "majestic-bay",
    "start": "2026-10-12T18:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/5120-singin-in-the-rain-1952/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36135?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
+   "tickets": "http://tix.mvtx.us/noweb",
    "notes": [
-    "Special screening"
+    "Double Feature",
+    "Majestic Bay Doc",
+    "Free"
    ]
   },
   {
@@ -4531,6 +4233,20 @@
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16959/770"
   },
   {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-15T16:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36460?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "forgotten-island",
+   "theater": "majestic-bay",
+   "start": "2026-10-15T16:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/296642-forgotten-island/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36461?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "digger",
    "theater": "siff-downtown",
    "start": "2026-10-15T16:15:00-07:00",
@@ -4543,6 +4259,13 @@
    "start": "2026-10-15T16:15:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/lady",
    "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-pdPLZEDC6d"
+  },
+  {
+   "film": "resident-evil",
+   "theater": "majestic-bay",
+   "start": "2026-10-15T16:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36462?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "primetime",
@@ -4607,6 +4330,20 @@
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16958/717"
   },
   {
+   "film": "digger",
+   "theater": "majestic-bay",
+   "start": "2026-10-15T18:45:00-07:00",
+   "url": "https://www.majesticbay.com/movies/327174-digger/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36463?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-15T19:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36464?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "nightmare-before-christmas",
    "theater": "north-bend",
    "start": "2026-10-15T19:00:00-07:00",
@@ -4633,6 +4370,13 @@
     "The Open Road",
     "35mm"
    ]
+  },
+  {
+   "film": "resident-evil",
+   "theater": "majestic-bay",
+   "start": "2026-10-15T19:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36465?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "naza",
@@ -4687,11 +4431,16 @@
    "tickets": "https://central-cinema.com/checkout/showing/hausu-house/3918198"
   },
   {
-   "film": "double-feature",
+   "film": "singin-in-the-rain",
    "theater": "majestic-bay",
    "start": "2026-10-16T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36467?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36508?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Double Feature",
+    "Majestic Bay Doc",
+    "Free"
+   ]
   },
   {
    "film": "devils",
@@ -4743,11 +4492,16 @@
    "tickets": "https://central-cinema.com/checkout/showing/grosse-pointe-blank/3918200"
   },
   {
-   "film": "double-feature",
+   "film": "singin-in-the-rain",
    "theater": "majestic-bay",
    "start": "2026-10-16T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36466?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36466?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Double Feature",
+    "Majestic Bay Doc",
+    "Free"
+   ]
   },
   {
    "film": "nightmare-before-christmas",
@@ -4812,11 +4566,16 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-MHR1TJIUIh"
   },
   {
-   "film": "double-feature",
+   "film": "singin-in-the-rain",
    "theater": "majestic-bay",
    "start": "2026-10-17T13:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36489?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36489?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Double Feature",
+    "Majestic Bay Doc",
+    "Free"
+   ]
   },
   {
    "film": "devils",
@@ -4870,11 +4629,16 @@
    "tickets": "https://central-cinema.com/checkout/showing/hausu-house/3918201"
   },
   {
-   "film": "double-feature",
+   "film": "singin-in-the-rain",
    "theater": "majestic-bay",
    "start": "2026-10-17T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36490?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36490?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Double Feature",
+    "Majestic Bay Doc",
+    "Free"
+   ]
   },
   {
    "film": "entanglements-shorts",
@@ -4936,11 +4700,16 @@
    "tickets": "https://central-cinema.com/checkout/showing/grosse-pointe-blank/3918203"
   },
   {
-   "film": "double-feature",
+   "film": "singin-in-the-rain",
    "theater": "majestic-bay",
    "start": "2026-10-17T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36491?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36491?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Double Feature",
+    "Majestic Bay Doc",
+    "Free"
+   ]
   },
   {
    "film": "drawn-to-life-shorts",
@@ -5029,11 +4798,16 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-78b1DmKXsX"
   },
   {
-   "film": "double-feature",
+   "film": "singin-in-the-rain",
    "theater": "majestic-bay",
    "start": "2026-10-18T13:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36492?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36492?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Double Feature",
+    "Majestic Bay Doc",
+    "Free"
+   ]
   },
   {
    "film": "devils",
@@ -5097,11 +4871,16 @@
    "tickets": "https://central-cinema.com/checkout/showing/hausu-house/3918204"
   },
   {
-   "film": "double-feature",
+   "film": "singin-in-the-rain",
    "theater": "majestic-bay",
    "start": "2026-10-18T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36493?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36493?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Double Feature",
+    "Majestic Bay Doc",
+    "Free"
+   ]
   },
   {
    "film": "mutable-archive-shorts",
@@ -5187,11 +4966,16 @@
    "tickets": "https://central-cinema.com/checkout/showing/grosse-pointe-blank/3918206"
   },
   {
-   "film": "double-feature",
+   "film": "singin-in-the-rain",
    "theater": "majestic-bay",
    "start": "2026-10-18T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36494?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36494?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Double Feature",
+    "Majestic Bay Doc",
+    "Free"
+   ]
   },
   {
    "film": "devils",
@@ -5236,11 +5020,16 @@
    "tickets": "https://central-cinema.com/checkout/showing/hausu-house/3918207"
   },
   {
-   "film": "double-feature",
+   "film": "singin-in-the-rain",
    "theater": "majestic-bay",
    "start": "2026-10-19T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36495?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36495?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Double Feature",
+    "Majestic Bay Doc",
+    "Free"
+   ]
   },
   {
    "film": "isle-of-the-dead",
@@ -5271,11 +5060,16 @@
    "tickets": "https://central-cinema.com/checkout/showing/grosse-pointe-blank/3918209"
   },
   {
-   "film": "double-feature",
+   "film": "singin-in-the-rain",
    "theater": "majestic-bay",
    "start": "2026-10-19T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36498?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36498?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Double Feature",
+    "Majestic Bay Doc",
+    "Free"
+   ]
   },
   {
    "film": "who-moves-america",
@@ -5341,11 +5135,16 @@
    "tickets": "https://central-cinema.com/checkout/showing/grosse-pointe-blank/3918210"
   },
   {
-   "film": "double-feature",
+   "film": "singin-in-the-rain",
    "theater": "majestic-bay",
    "start": "2026-10-20T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36501?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36501?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Double Feature",
+    "Majestic Bay Doc",
+    "Free"
+   ]
   },
   {
    "film": "devils",
@@ -5396,11 +5195,16 @@
    ]
   },
   {
-   "film": "double-feature",
+   "film": "singin-in-the-rain",
    "theater": "majestic-bay",
    "start": "2026-10-20T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36502?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36502?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Double Feature",
+    "Majestic Bay Doc",
+    "Free"
+   ]
   },
   {
    "film": "who-moves-america",
@@ -5465,11 +5269,16 @@
    "tickets": "https://central-cinema.com/checkout/showing/hausu-house/3918211"
   },
   {
-   "film": "double-feature",
+   "film": "singin-in-the-rain",
    "theater": "majestic-bay",
    "start": "2026-10-21T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/307572-double-feature/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36503?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36503?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Double Feature",
+    "Majestic Bay Doc",
+    "Free"
+   ]
   },
   {
    "film": "devils",
@@ -7724,6 +7533,17 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-v76SjtDQsv"
   },
   {
+   "film": "engauge-2026-rankin-renwick-solo-show",
+   "theater": "nwff",
+   "start": "2026-11-07T19:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/engauge-2026-rankin-renwick-solo-show/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac94e1ef34d70d1766425db",
+   "notes": [
+    "On film",
+    "Visiting artist"
+   ]
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-07T19:30:00-08:00",
@@ -7767,6 +7587,17 @@
    "start": "2026-11-08T15:15:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
    "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-f0X1aWCsyV"
+  },
+  {
+   "film": "5point-film-fest-2026",
+   "theater": "north-bend",
+   "start": "2026-11-08T17:00:00-08:00",
+   "url": "https://tix.northbendtheatre.com/event/5point-film-fest-2026-hosted-by-pro-ski-and-mountain-service-sunday-november-8th-5pm",
+   "tickets": "https://tix.northbendtheatre.com/event/5point-film-fest-2026-hosted-by-pro-ski-and-mountain-service-sunday-november-8th-5pm",
+   "notes": [
+    "Hosted by Pro Ski and Mountain Service",
+    "Mountain Film Festival"
+   ]
   },
   {
    "film": "godzilla-minus-zero",
@@ -7970,6 +7801,36 @@
    "start": "2026-11-13T18:30:00-08:00",
    "url": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/a-simple-machine",
    "tickets": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/a-simple-machine#screening-nQ8QBIoaGe",
+   "notes": [
+    "PNW Awards"
+   ]
+  },
+  {
+   "film": "met-opera-2026-2027-carmen",
+   "theater": "admiral",
+   "start": "2026-11-14T12:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/met-opera-20262027-carmen-encore",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16446/755",
+   "notes": [
+    "Encore"
+   ]
+  },
+  {
+   "film": "powwow-people",
+   "theater": "siff-film-center",
+   "start": "2026-11-14T15:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/powwow-people",
+   "tickets": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/powwow-people#screening-9VQiPenW3C",
+   "notes": [
+    "PNW Awards"
+   ]
+  },
+  {
+   "film": "again-again",
+   "theater": "siff-film-center",
+   "start": "2026-11-14T18:30:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/again-again",
+   "tickets": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/again-again#screening-7VHkBe1CUM",
    "notes": [
     "PNW Awards"
    ]
