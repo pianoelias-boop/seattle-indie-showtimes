@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T10:51:00-07:00",
+ "updated": "2026-10-11T11:03:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,10 +14,10 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-10T10:51:00-07:00",
-    "lastSuccess": "2026-10-10T10:51:00-07:00",
-    "showings": 59,
-    "through": "2026-11-12"
+    "checked": "2026-10-11T11:03:00-07:00",
+    "lastSuccess": "2026-10-11T11:03:00-07:00",
+    "showings": 57,
+    "through": "2026-11-15"
    }
   },
   {
@@ -33,9 +33,9 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-10T10:51:00-07:00",
-    "lastSuccess": "2026-10-10T10:51:00-07:00",
-    "showings": 142,
+    "checked": "2026-10-11T11:03:00-07:00",
+    "lastSuccess": "2026-10-11T11:03:00-07:00",
+    "showings": 132,
     "through": "2026-11-12"
    }
   },
@@ -52,10 +52,10 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-10T10:51:00-07:00",
-    "lastSuccess": "2026-10-10T10:51:00-07:00",
-    "showings": 32,
-    "through": "2026-11-14"
+    "checked": "2026-10-11T11:03:00-07:00",
+    "lastSuccess": "2026-10-11T11:03:00-07:00",
+    "showings": 31,
+    "through": "2026-11-15"
    }
   },
   {
@@ -70,8 +70,8 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-10T10:51:00-07:00",
-    "lastSuccess": "2026-10-10T10:51:00-07:00",
+    "checked": "2026-10-11T11:03:00-07:00",
+    "lastSuccess": "2026-10-11T11:03:00-07:00",
     "showings": 8,
     "through": "2026-11-03"
    }
@@ -88,10 +88,10 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-10T10:51:00-07:00",
-    "lastSuccess": "2026-10-10T10:51:00-07:00",
-    "showings": 67,
-    "through": "2026-11-13"
+    "checked": "2026-10-11T11:03:00-07:00",
+    "lastSuccess": "2026-10-11T11:03:00-07:00",
+    "showings": 68,
+    "through": "2026-11-15"
    }
   },
   {
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-10T10:51:00-07:00",
-    "lastSuccess": "2026-10-10T10:51:00-07:00",
-    "showings": 66,
+    "checked": "2026-10-11T11:03:00-07:00",
+    "lastSuccess": "2026-10-11T11:03:00-07:00",
+    "showings": 63,
     "through": "2026-11-05"
    }
   },
@@ -126,9 +126,9 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-10T10:51:00-07:00",
-    "lastSuccess": "2026-10-10T10:51:00-07:00",
-    "showings": 32,
+    "checked": "2026-10-11T11:03:00-07:00",
+    "lastSuccess": "2026-10-11T11:03:00-07:00",
+    "showings": 33,
     "through": "2026-11-02"
    }
   },
@@ -145,9 +145,9 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-10T10:51:00-07:00",
-    "lastSuccess": "2026-10-10T10:51:00-07:00",
-    "showings": 42,
+    "checked": "2026-10-11T11:03:00-07:00",
+    "lastSuccess": "2026-10-11T11:03:00-07:00",
+    "showings": 35,
     "through": "2026-10-29"
    }
   },
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-10T10:51:00-07:00",
-    "lastSuccess": "2026-10-10T10:51:00-07:00",
-    "showings": 109,
+    "checked": "2026-10-11T11:03:00-07:00",
+    "lastSuccess": "2026-10-11T11:03:00-07:00",
+    "showings": 98,
     "through": "2026-11-11"
    }
   },
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-10T10:51:00-07:00",
-    "lastSuccess": "2026-10-10T10:51:00-07:00",
-    "showings": 63,
+    "checked": "2026-10-11T11:03:00-07:00",
+    "lastSuccess": "2026-10-11T11:03:00-07:00",
+    "showings": 47,
     "through": "2026-11-14"
    }
   },
@@ -201,9 +201,9 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-10T10:51:00-07:00",
-    "lastSuccess": "2026-10-10T10:51:00-07:00",
-    "showings": 17,
+    "checked": "2026-10-11T11:03:00-07:00",
+    "lastSuccess": "2026-10-11T11:03:00-07:00",
+    "showings": 16,
     "through": "2026-11-01"
    }
   },
@@ -220,9 +220,9 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-10T10:51:00-07:00",
-    "lastSuccess": "2026-10-10T10:51:00-07:00",
-    "showings": 29,
+    "checked": "2026-10-11T11:03:00-07:00",
+    "lastSuccess": "2026-10-11T11:03:00-07:00",
+    "showings": 27,
     "through": "2026-11-08"
    }
   }
@@ -261,20 +261,6 @@
    "image": "https://grandillusioncinema.org/wp-content/uploads/2026/09/achineseghoststoryposter-550x790.jpg",
    "links": {
     "grand-illusion": "https://grandillusioncinema.org/film/a-chinese-ghost-story-new-4k-restoration/"
-   }
-  },
-  {
-   "id": "a-generation",
-   "title": "A Generation",
-   "description": "Wajda’s striking feature debut, set in 1942 on the outskirts of occupied Warsaw, centers on Stach, a teen who witnesses his friend murdered by a Nazi and subsequently joins a left-wing resistance cell. The mixture of Italian neorealism and atmospheric dread established Wajda as a director to watch, as well as foregrounding key recurring themes in his work – honour, courage and sacrifice. The first in Wajda’s acclaimed war trilogy, this landmark film helped change the trajectory of Polish cinema with its stark account of wartime tragedies and coming of age during a time of unbelievable loss.",
-   "runtime": 87,
-   "year": 1954,
-   "director": "Andrzej Wajda",
-   "country": "Poland",
-   "language": "Polish",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Films%20of%20Andrej%20Wajda/Wajda%20Films%20Images/generation.png",
-   "links": {
-    "siff-film-center": "https://www.siff.net/programs-and-events/andrzej-wajda/a-generation"
    }
   },
   {
@@ -335,6 +321,17 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/REN_ASimpleMachine_1600x900.png",
    "links": {
     "siff-film-center": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/a-simple-machine"
+   }
+  },
+  {
+   "id": "a-storm-is-coming-dance-of-the-living",
+   "title": "A Storm Is Coming / Dance of the Living",
+   "description": "A Storm Is Coming\n\nYear: 2025\nDirector: Cristóbal Arteaga Rozas\nGenre: Short / Drama\nRuntime: 8 minutes 19 seconds\nCountries: Chile, Spain\nLanguage: Spanish with English subtitles\n\nSynopsis: In a Galician village, Antón, a retired farmer, leads a quiet life with his wife Uxía, tending to their crops and animals. His routine is suddenly disrupted when he receives a call from Vortex, an alien general who warns him of an imminent threat that could freeze time and endanger the universe.\n\nDance of the Living\n\nYear: 2025\nDirector: Jose Alayón\nGenre: Drama / Children\nRuntime: 90 minutes\nCountry: Spain\nLanguage: Spanish w/ English subtitles\n\nSynopsis: On the arid island of Fuerteventura, Miguel and his daughter Mariana struggle to move forward after his wife's death, a loss that has set them adrift. Traditional wrestling is all they know, their way of making a place in the world. But Miguel’s body is failing him, and Mariana’s anger is pushing her to break the rules. As the championship final approaches, father and daughter find themselves on uncertain ground, searching for a way back to each other before it's too late.",
+   "runtime": 98,
+   "year": 2025,
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1791687941532-slff.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/a-storm-is-coming-dance-of-the-living"
    }
   },
   {
@@ -412,6 +409,19 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Films%20of%20Andrej%20Wajda/Wajda%20Films%20Images/ashesdiamonds.png",
    "links": {
     "siff-film-center": "https://www.siff.net/programs-and-events/andrzej-wajda/ashes-and-diamonds"
+   }
+  },
+  {
+   "id": "auntie-mame",
+   "title": "Auntie Mame",
+   "description": "\"Life is a banquet--and some poor suckers are starving to death.\" Mame Dennis\n\nWhen young, impressionable Patrick Dennis' millionaire father dies, the boy is left in the care of his only living relative--his flamboyant, extravagant, devil-may-care ... and never, never dull Auntie Mame. New York during the Jazz Age--Despite the best efforts of estate executive Dwight Babcock (Fred Clark) to rear Patrick (Jan Handzlik and Roger Smith) as a boring, stuffy aristocrat, the boy is swept into Mame Dennis' (Rosalind Russell) world of parties, flappers and the most eccentric, entertaining, intelligent set of friends anywhere. Through the stock market crash, a marriage to a rich Southerner and his death while scaling the Alps, Mame's whirlwind approach to life opens Patrick's eyes to endless possibilities. Based on the hit Broadway play and the novel by Patrick Dennis. Golden Globe Award winner for Actress in a Leading Role - Musical or Comedy (Rosalind Russell), Picture - Comedy Six Academy Award nominations: Best Picture Best Actress in a Leading Role (Rosalind Russell) Best Actress in a Supporting Role (Peggy Cass) Best Cinematography, Color Best Art Direction-Set Decoration, Black-and-White or Color Best Film Editing",
+   "runtime": 145,
+   "year": 1958,
+   "director": "Morton DaCosta",
+   "country": "USA",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Community%20Screenings/Auntiemame.png",
+   "links": {
+    "siff-downtown": "https://www.siff.net/programs-and-events/community-screenings/auntie-mame"
    }
   },
   {
@@ -700,15 +710,6 @@
     "siff-downtown": "https://www.siff.net/cinema/in-theaters/digger",
     "majestic-bay": "https://www.majesticbay.com/movies/327174-digger/",
     "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger"
-   }
-  },
-  {
-   "id": "dolphin-tale",
-   "title": "Dolphin Tale",
-   "description": "After a young dolphin suffers a life-altering injury from a crab trap, a dedicated community rallies to rescue and rehabilitate her. Winter, a resilient and inspiring dolphin, faces an uncertain future with significant damage to her tail. A team of experts and a determined boy work together to develop an innovative prosthetic, leading to a remarkable recovery that captures the hearts of people worldwide and promotes hope and compassion",
-   "image": "https://static.spotapps.co/spots/1d/2b3d8c066545a9a3ef1e5dba5dd8a3/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -1725,20 +1726,6 @@
    }
   },
   {
-   "id": "salome-s-last-dance",
-   "title": "Salome's Last Dance",
-   "description": "Presented by SIFF and Seattle Opera, in conjunction with their production of \"Salome.\"\n\nOn Guy Fawkes Night, Oscar Wilde goes to a luxury brothel where the owner has prepared a surprise for the renowned author: a private and very special performance of his banned play \"Salome.\"",
-   "runtime": 89,
-   "year": 1988,
-   "director": "Ken Russell",
-   "country": "United Kingdom",
-   "language": "English",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_SalomesLastDance_1600x900.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/salomes-last-dance"
-   }
-  },
-  {
    "id": "scare-package-shorts",
    "title": "Scare Package (Shorts)",
    "description": "Destiny and desire lead us to nightmarish worlds. A complete package of shorts that delve into body horror, camp, psychosexual fantasy, and the grotesque.\n\nCW: Blood / Gore\n\nFILMS IN THIS PROGRAM:\n\nBurning of a Family Tree (Alison Mattingly, United States, 12m)\n\nWhen Eden returns home to their estranged family after the death of their abusive father, they are forced to confront their traumatic past… and their father’s reanimated corpse.\n\nCW: Religious psychosis\n\nCHASER (Jesse Williams, United Kingdom, 10m)\n\nWhen Sophia, a trans woman on a night out crosses paths with the seemingly charming Callum, she realizes he may not have her best interest at heart…\n\nCW: Flashing lights\n\nThe Dysphoria (Kylie Aoibheann, Australia, 13m)\n\nA trans woman performs a satanic ritual to get a vagina, but unwittingly invites a demonic presence into her home who demands a terrible sacrifice.\n\nAutonecrophile: What It Is To Be An Exquisite Corpse (Maxine Sizemore, United States, 11m)\n\nBased on the filmmakers experience of OCD induced Cotard syndrome, Autonecrophile is an experimental horror short told from the perspective of a conscious dead body who gains the memories of the necrophiliac ex boyfriend who killed her, finding she died long before she wound up in her coffin.\n\nCW: Cancer, necrophilia\n\nDahlia Has a Phobia (Lenox Myette, United States, 14m)\n\nTwo women retreat for a quiet weekend to salvage their unraveling relationship. But when one’s crippling fear of scarecrows resurfaces, their fragile dynamic begins to fracture.\n\nCW: Relational abuse\n\nGod Hates a Coward (David Leo, United States, 11m)\n\nA young transgender man goes into a psychosexual spiral after meeting the object of his desires: an aging punk vocalist.\n\nCW: Flashing lights, sexual violence, transphobia\n\nResurrect Me as a Parasite (Lou Lou Sainsbury & Gabi Dao, Netherlands, 10m)\n\nA vampiric trio facilitates the transition of a new host across a former limestone quarry and the sacred mountain grotto of Mary Magdalene, troubling the binaries of life, death, gender and parasitism.",
@@ -1950,7 +1937,7 @@
    "rating": "PG",
    "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/ShauntheSheepSquare.jpg",
    "links": {
-    "north-bend": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-saturday-oct-10th-3pm"
+    "north-bend": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-sunday-oct-11th-3pm"
    }
   },
   {
@@ -2116,20 +2103,6 @@
    }
   },
   {
-   "id": "blue-rose-part-ii",
-   "title": "The Blue Rose: Part II",
-   "description": "\"Hang onto your light\" as we jump head first into the dark nightmare of The Blue Rose. Someone or something is coming out of the forest wrecking havoc in Twin Peaks. The sheriff station is in shambles, the FBI are in over their heads and a darkness is engulfing the small mountain town. Uncover the mystery of the woods and bare witness to a nightmarish homage to David Lynch and the world of \"Twin Peaks\".",
-   "runtime": 60,
-   "year": 2026,
-   "director": "James Grixoni",
-   "country": "USA",
-   "language": "English",
-   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/REN_TheBlueRoseP2_1600x900.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/the-blue-rose-part-ii"
-   }
-  },
-  {
    "id": "case-of-the-three-sided-dream",
    "title": "The Case of the Three Sided Dream",
    "description": "The documentary film on the life and legacy of Rahsaan Roland Kirk – a one of a kind musician, personality, activist and windmill slayer who despite being blind, becoming paralyzed, and facing America’s racial injustices – did not relent.\n\nCo-Presented with Earshot Jazz Festival!",
@@ -2224,6 +2197,19 @@
    }
   },
   {
+   "id": "joyless-economy",
+   "title": "The Joyless Economy",
+   "description": "Cinema can sometimes become the ground on which a person’s most intimate desires are built. Marjorie Conrad’s The Joyless Economy unfolds the inner landscape of a woman through an accumulation of film posters and images. Though it follows a woman whose relationship begins to fracture because of her film collection, the film is not ultimately about infidelity or obsession. Its deeper question concerns how two realms shape one another: a life formed under the influence of cinema, and cinema reshaped by the experience of life.\n\nA second-person narration addressed to herself functions both as confession and as a voice of self-analysis, turning the speaker into an object of her own scrutiny. The film was made for a single viewer, yet paradoxically this private letter summons each audience member’s own memories of cinema. The films she has collected no longer remain other people’s stories. Each image encounters life, becoming a new memory and generating a new narrative.\n\n\"Exploring the long relationship between human beings and cinema known as cinephilia, The Joyless Economy becomes a small anthropology of how we collect images and invent ourselves within them.\" — DMZ International Documentary Festival\n\n\"A bracingly, beautifully confessional film that’s as formally inventive as it is emotionally illuminating, Marjorie Conrad’s documentary … is a daring demonstration of all that independent cinema can be.\" – Chase Hutchinson, The Wrap",
+   "runtime": 58,
+   "year": 2026,
+   "director": "Marjorie Conrad",
+   "country": "USA",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/SFCS%202026/CIN_TheJoylessEconomy_1600x900.png",
+   "links": {
+    "siff-film-center": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/the-joyless-economy"
+   }
+  },
+  {
    "id": "leopard-man",
    "title": "The Leopard Man",
    "description": "A black leopard escapes into the night, a small New Mexico town grows frightened, and Val Lewton and Jacques Tourneur have everything they need. Adapted from Cornell Woolrich’s Black Alibi and given its wonderfully lurid title by RKO in the wake of CAT PEOPLE, THE LEOPARD MAN turns a simple pulp premise into one of the strangest and most beautifully controlled thrillers of the 1940s—a movie built from darkness, sound, chance and the fear of being alone at exactly the wrong moment.\n\nThe final collaboration between Lewton and Tourneur keeps wandering away from the path a conventional mystery might take, following the nighttime life of the town with an almost dreamlike freedom. Ordinary errands and encounters acquire an inexplicable tension. Wind moves through empty streets. Water drips beneath a railroad trestle. Castanets click somewhere in the darkness. Tourneur and cinematographer Robert De Grasse fill the screen with pools of black so deep that simply waiting to discover what might emerge from them becomes almost unbearable, while the soundtrack makes every footstep and distant noise feel potentially significant.\n\nAt barely over an hour, THE LEOPARD MAN is lean enough to qualify as pure pulp and strange enough to continually escape its own premise. Beneath the mystery runs the fatalism of Woolrich and Lewton’s fascination with ordinary lives brushing unexpectedly against the unknown, all expressed through filmmaking of extraordinary economy and precision. Manny Farber was already championing it as one of Hollywood’s “original gems” in the early 1950s, and its nocturnal spell has only grown stronger with time. A street, a shadow, a sound in the distance: few horror films have ever needed less to make the darkness feel dangerous.",
@@ -2233,6 +2219,20 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789695841818-tb-leopardman.jpg",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/the-leopard-man"
+   }
+  },
+  {
+   "id": "life-we-leave",
+   "title": "The Life We Leave",
+   "description": "Micah Truman has been at the forefront of shaping the market for legal human composting in Washington State. Formerly a businessman outside of the death industry, he brings on funeral directors Katey Houston and Brie Smith to workshop the humanity that is revealed when death is raw. The team paves the way in revolutionizing the future of death care by renouncing outdated funeral practices and returning to human roots of community care during the transition at the end of life. Truman creates a facility to naturalize the process, where bodies can be broken down into soil. The merger of business pitches and financial feasibility cracks open the basis of loss and grief in an extractive world to facilitate delicate and empathetic care. JJ Gerber's directorial debut accesses the transformative power of the evolving death industry at its most human.\n\n—Aly Shwedo\n\n“Gerber’s film makes one consider that how we leave this world may matter less than what we choose to leave behind. Is death an ending, or merely a continuation?” – Mike Ward, Should I See It",
+   "runtime": 87,
+   "year": 2026,
+   "director": "JJ Gerber",
+   "country": "USA",
+   "language": "English",
+   "image": "https://www.siff.net/images/FESTIVAL/2026/Films/Film%20Detail%20Hero%20Images%20-%20Features/LifeWeLeave.jpg",
+   "links": {
+    "siff-film-center": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/the-life-we-leave"
    }
   },
   {
@@ -2747,6 +2747,23 @@
    }
   },
   {
+   "id": "you-sorta-know-it-s-gonna-end",
+   "title": "You Sorta Know It's Gonna End",
+   "description": "From staples of the independent Canadian scene, filmmakers Kalil Haddad and Ryan Steel present their new shorts cycle You Sorta Know It’s Gonna End. Conceived as a video mixtape, this hour-long compendium echoes the era of VHS rips, featuring ten classic shorts from both directors, alongside the new collaboration ‘BAND PRACTICE’.\n\nA bold new voice in queer experimental film, Kalil Haddad’s global tour of his previous collection ‘He Never Dies : The Films of Kalil Haddad’ established him as a provocateur; reckoning with a fraught visual aesthetic which inhabits the burning edge of cultural danger and morality. He recently starred in Isiah Medina’s 2025 debut feature, Gangsterism (2025).\n\nRyan Steel is a member of the Winnipeg Film Group, previously working with established voices of the Canadian avant-garde such as directors Guy Maddin (My Winnipeg, Rumours) and Grace Glowiki (Dead Lover). He brings to this work his notion of material, analog and DIY aesthetic – together, crafting You Sorta Know It’s Gonna End as a tangle of nostalgia, masculine crisis and caustic youth.",
+   "runtime": 62,
+   "year": 2026,
+   "director": "Kalil Haddad, Ryan Steel",
+   "country": "Canada",
+   "language": "English",
+   "genres": [
+    "Shorts"
+   ],
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/yousortaknow1600-1-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/you-sorta-know-its-gonna-end/"
+   }
+  },
+  {
    "id": "young-frankenstein",
    "title": "Young Frankenstein",
    "description": "Following in the footsteps of his infamous grandfather, Dr. Frederick Frankenstein inherits his ancestor's Transylvanian castle and laboratory. He initially attempts to distance himself from the family's legacy, but is drawn into recreating the experiments that brought his grandfather's monster to life. With the help of Igor, the bubbly Inga, and the unsettling Frau Blücher, Frederick’s plans are complicated by a living monster and the unexpected arrival of his fiancée, Elizabeth, leading to chaotic and hilarious consequences.",
@@ -2771,434 +2788,6 @@
   }
  ],
  "showings": [
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-10T12:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-ftCc2M5q3u"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-10T12:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16911/780"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-10T13:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16910/781"
-  },
-  {
-   "film": "digger",
-   "theater": "siff-downtown",
-   "start": "2026-10-10T13:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/digger",
-   "tickets": "https://www.siff.net/cinema/in-theaters/digger#screening-KZtVc3ti1n"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-10T13:10:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16909/717"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-10T13:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36405?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-10T13:20:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16908/770"
-  },
-  {
-   "film": "forgotten-island",
-   "theater": "majestic-bay",
-   "start": "2026-10-10T13:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296642-forgotten-island/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36411?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "lady",
-   "theater": "siff-uptown",
-   "start": "2026-10-10T13:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/lady",
-   "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-6VUV5ZYKse"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-10T13:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36408?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "a-generation",
-   "theater": "siff-film-center",
-   "start": "2026-10-10T14:00:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/andrzej-wajda/a-generation",
-   "tickets": "https://www.siff.net/programs-and-events/andrzej-wajda/a-generation#screening-WwRpwG6kBZ",
-   "notes": [
-    "The Films of Andrzej Wajda"
-   ]
-  },
-  {
-   "film": "salome-s-last-dance",
-   "theater": "siff-uptown",
-   "start": "2026-10-10T14:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/salomes-last-dance",
-   "tickets": "https://www.siff.net/cinema/in-theaters/salomes-last-dance#screening-ReGLUcv705"
-  },
-  {
-   "film": "dolphin-tale",
-   "theater": "tin-room",
-   "start": "2026-10-10T14:00:00-07:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-10T14:50:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-EZSeULcSMM"
-  },
-  {
-   "film": "shaun-the-sheep-the-beast-of-mossy-bottom",
-   "theater": "north-bend",
-   "start": "2026-10-10T15:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-saturday-oct-10th-3pm",
-   "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-saturday-oct-10th-3pm"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-10T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16905/781"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-10T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16902/780"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-10T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16896/717"
-  },
-  {
-   "film": "naza",
-   "theater": "tasveer",
-   "start": "2026-10-10T15:45:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/naza-2026-hebrewenglish-subtitled-in-english",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/naza-2026-hebrewenglish-subtitled-in-english/3960753"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-10T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16899/770"
-  },
-  {
-   "film": "vertigo",
-   "theater": "central-cinema",
-   "start": "2026-10-10T16:00:00-07:00",
-   "url": "https://central-cinema.com/movie/vertigo/",
-   "tickets": "https://central-cinema.com/checkout/showing/vertigo/3906299"
-  },
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-10T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36412?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "an-autumn-afternoon",
-   "theater": "nwff",
-   "start": "2026-10-10T16:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/an-autumn-afternoon/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/69b052209c468cf51e6a886f"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-10T16:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36406?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "lady",
-   "theater": "siff-uptown",
-   "start": "2026-10-10T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/lady",
-   "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-7Ve0tBQXsh"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-10T16:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36409?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "screamplay",
-   "theater": "nwff",
-   "start": "2026-10-10T16:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/screamplay-4k-restoration/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6aa3000391007cf874588ccc",
-   "notes": [
-    "4K restoration"
-   ]
-  },
-  {
-   "film": "scout",
-   "theater": "siff-film-center",
-   "start": "2026-10-10T16:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-scout",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-scout#screening-YfOi5QaIgv"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-10T16:35:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-ejC61dN9gb"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "siff-downtown",
-   "start": "2026-10-10T16:40:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-HA3AKHstH7"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-10T17:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-UhUUkuEpnD"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "tasveer",
-   "start": "2026-10-10T17:25:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-history-of-concrete-2026-usa",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-history-of-concrete-2026-usa/4087781"
-  },
-  {
-   "film": "black-zombie",
-   "theater": "tasveer",
-   "start": "2026-10-10T17:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/black-zombie",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/black-zombie/3960752"
-  },
-  {
-   "film": "naza",
-   "theater": "tasveer",
-   "start": "2026-10-10T17:45:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/naza-2026-hebrewenglish-subtitled-in-english",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/naza-2026-hebrewenglish-subtitled-in-english/3960749"
-  },
-  {
-   "film": "shaun-the-sheep-the-beast-of-mossy-bottom",
-   "theater": "north-bend",
-   "start": "2026-10-10T18:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-saturday-oct-10th-6pm",
-   "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-saturday-oct-10th-6pm"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-10T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16906/781"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-10T18:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16903/780"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-10T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16900/770"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-10T18:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16897/717"
-  },
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-10T18:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36413?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "scout",
-   "theater": "siff-film-center",
-   "start": "2026-10-10T18:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-scout",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-scout#screening-duKpQgU6iu"
-  },
-  {
-   "film": "vertigo",
-   "theater": "central-cinema",
-   "start": "2026-10-10T19:00:00-07:00",
-   "url": "https://central-cinema.com/movie/vertigo/",
-   "tickets": "https://central-cinema.com/checkout/showing/vertigo/3906300"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-10T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36407?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "an-autumn-afternoon",
-   "theater": "nwff",
-   "start": "2026-10-10T19:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/an-autumn-afternoon/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/69b052209c468cf51e6a8879"
-  },
-  {
-   "film": "blue-rose-part-ii",
-   "theater": "siff-uptown",
-   "start": "2026-10-10T19:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-blue-rose-part-ii",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-blue-rose-part-ii#screening-oZRTFEHEfH"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-10T19:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36410?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "screamplay",
-   "theater": "nwff",
-   "start": "2026-10-10T19:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/screamplay-4k-restoration/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6aa3002017ed6cc5966215ab",
-   "notes": [
-    "4K restoration"
-   ]
-  },
-  {
-   "film": "digger",
-   "theater": "siff-downtown",
-   "start": "2026-10-10T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/digger",
-   "tickets": "https://www.siff.net/cinema/in-theaters/digger#screening-ssxBn96qMj"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-10T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-2Q817B2iwr"
-  },
-  {
-   "film": "primetime",
-   "theater": "tasveer",
-   "start": "2026-10-10T19:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/primetime-usa-2026",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/primetime-usa-2026/4087782"
-  },
-  {
-   "film": "black-zombie",
-   "theater": "tasveer",
-   "start": "2026-10-10T19:35:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/black-zombie",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/black-zombie/3960751"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-10T19:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-VBLQmYqTsi"
-  },
-  {
-   "film": "naza",
-   "theater": "tasveer",
-   "start": "2026-10-10T19:45:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/naza-2026-hebrewenglish-subtitled-in-english",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/naza-2026-hebrewenglish-subtitled-in-english/3960750"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-10T21:05:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16895/717"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-10T21:10:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16901/780"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-10T21:25:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16904/781"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-10T21:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16898/770"
-  },
-  {
-   "film": "blade",
-   "theater": "central-cinema",
-   "start": "2026-10-10T21:50:00-07:00",
-   "url": "https://central-cinema.com/movie/blade/",
-   "tickets": "https://central-cinema.com/checkout/showing/blade/3906301"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-10T22:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36443?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-10T22:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36444?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
   {
    "film": "lady",
    "theater": "siff-uptown",
@@ -3306,6 +2895,13 @@
    "start": "2026-10-11T14:20:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/naza",
    "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-pM3kXEA0Yr"
+  },
+  {
+   "film": "a-storm-is-coming-dance-of-the-living",
+   "theater": "beacon",
+   "start": "2026-10-11T14:30:00-07:00",
+   "url": "https://thebeacon.film/calendar/movie/a-storm-is-coming-dance-of-the-living",
+   "tickets": "https://thebeacon.film/calendar/movie/a-storm-is-coming-dance-of-the-living?showtime=5MJOTFPLUHX4RLKE6YXUXWKB"
   },
   {
    "film": "lady",
@@ -7834,6 +7430,71 @@
    "notes": [
     "PNW Awards"
    ]
+  },
+  {
+   "film": "auntie-mame",
+   "theater": "siff-downtown",
+   "start": "2026-11-15T11:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/community-screenings/auntie-mame",
+   "tickets": "https://www.siff.net/programs-and-events/community-screenings/auntie-mame#screening-HDtjeZXJwb",
+   "notes": [
+    "Community Screening"
+   ]
+  },
+  {
+   "film": "joyless-economy",
+   "theater": "siff-film-center",
+   "start": "2026-11-15T15:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/the-joyless-economy",
+   "tickets": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/the-joyless-economy#screening-NVgvsIYAyY",
+   "notes": [
+    "PNW Awards"
+   ]
+  },
+  {
+   "film": "zi",
+   "theater": "nwff",
+   "start": "2026-11-15T16:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/zi/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ab171da02ce9929ad1ac3d8"
+  },
+  {
+   "film": "you-sorta-know-it-s-gonna-end",
+   "theater": "nwff",
+   "start": "2026-11-15T16:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/you-sorta-know-its-gonna-end/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac6afcf23850effe89a6889"
+  },
+  {
+   "film": "you-sorta-know-it-s-gonna-end",
+   "theater": "nwff",
+   "start": "2026-11-15T18:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/you-sorta-know-its-gonna-end/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac6b00009c0a7948b2a12bb"
+  },
+  {
+   "film": "life-we-leave",
+   "theater": "siff-film-center",
+   "start": "2026-11-15T18:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/the-life-we-leave",
+   "tickets": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/the-life-we-leave#screening-swMDkXI5Xt",
+   "notes": [
+    "PNW Awards"
+   ]
+  },
+  {
+   "film": "zi",
+   "theater": "nwff",
+   "start": "2026-11-15T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/zi/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ab171da02ce9929ad1ac3dd"
+  },
+  {
+   "film": "you-sorta-know-it-s-gonna-end",
+   "theater": "nwff",
+   "start": "2026-11-15T19:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/you-sorta-know-its-gonna-end/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac6b00009c0a7948b2a12c0"
   }
  ]
 }
