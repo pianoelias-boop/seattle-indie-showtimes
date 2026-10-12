@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T11:03:00-07:00",
+ "updated": "2026-10-12T14:43:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-11T11:03:00-07:00",
-    "lastSuccess": "2026-10-11T11:03:00-07:00",
-    "showings": 57,
+    "checked": "2026-10-12T14:43:00-07:00",
+    "lastSuccess": "2026-10-12T14:43:00-07:00",
+    "showings": 54,
     "through": "2026-11-15"
    }
   },
@@ -33,9 +33,9 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-11T11:03:00-07:00",
-    "lastSuccess": "2026-10-11T11:03:00-07:00",
-    "showings": 132,
+    "checked": "2026-10-12T14:43:00-07:00",
+    "lastSuccess": "2026-10-12T14:43:00-07:00",
+    "showings": 120,
     "through": "2026-11-12"
    }
   },
@@ -52,10 +52,10 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-11T11:03:00-07:00",
-    "lastSuccess": "2026-10-11T11:03:00-07:00",
-    "showings": 31,
-    "through": "2026-11-15"
+    "checked": "2026-10-12T14:43:00-07:00",
+    "lastSuccess": "2026-10-12T14:43:00-07:00",
+    "showings": 29,
+    "through": "2026-11-16"
    }
   },
   {
@@ -70,8 +70,8 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-11T11:03:00-07:00",
-    "lastSuccess": "2026-10-11T11:03:00-07:00",
+    "checked": "2026-10-12T14:43:00-07:00",
+    "lastSuccess": "2026-10-12T14:43:00-07:00",
     "showings": 8,
     "through": "2026-11-03"
    }
@@ -88,10 +88,10 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-11T11:03:00-07:00",
-    "lastSuccess": "2026-10-11T11:03:00-07:00",
-    "showings": 68,
-    "through": "2026-11-15"
+    "checked": "2026-10-12T14:43:00-07:00",
+    "lastSuccess": "2026-10-12T14:43:00-07:00",
+    "showings": 66,
+    "through": "2026-11-16"
    }
   },
   {
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-11T11:03:00-07:00",
-    "lastSuccess": "2026-10-11T11:03:00-07:00",
-    "showings": 63,
+    "checked": "2026-10-12T14:43:00-07:00",
+    "lastSuccess": "2026-10-12T14:43:00-07:00",
+    "showings": 60,
     "through": "2026-11-05"
    }
   },
@@ -126,9 +126,9 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-11T11:03:00-07:00",
-    "lastSuccess": "2026-10-11T11:03:00-07:00",
-    "showings": 33,
+    "checked": "2026-10-12T14:43:00-07:00",
+    "lastSuccess": "2026-10-12T14:43:00-07:00",
+    "showings": 32,
     "through": "2026-11-02"
    }
   },
@@ -145,9 +145,9 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-11T11:03:00-07:00",
-    "lastSuccess": "2026-10-11T11:03:00-07:00",
-    "showings": 35,
+    "checked": "2026-10-12T14:43:00-07:00",
+    "lastSuccess": "2026-10-12T14:43:00-07:00",
+    "showings": 29,
     "through": "2026-10-29"
    }
   },
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-11T11:03:00-07:00",
-    "lastSuccess": "2026-10-11T11:03:00-07:00",
-    "showings": 98,
+    "checked": "2026-10-12T14:43:00-07:00",
+    "lastSuccess": "2026-10-12T14:43:00-07:00",
+    "showings": 89,
     "through": "2026-11-11"
    }
   },
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-11T11:03:00-07:00",
-    "lastSuccess": "2026-10-11T11:03:00-07:00",
-    "showings": 47,
+    "checked": "2026-10-12T14:43:00-07:00",
+    "lastSuccess": "2026-10-12T14:43:00-07:00",
+    "showings": 35,
     "through": "2026-11-14"
    }
   },
@@ -201,9 +201,9 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-11T11:03:00-07:00",
-    "lastSuccess": "2026-10-11T11:03:00-07:00",
-    "showings": 16,
+    "checked": "2026-10-12T14:43:00-07:00",
+    "lastSuccess": "2026-10-12T14:43:00-07:00",
+    "showings": 15,
     "through": "2026-11-01"
    }
   },
@@ -220,9 +220,9 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-11T11:03:00-07:00",
-    "lastSuccess": "2026-10-11T11:03:00-07:00",
-    "showings": 27,
+    "checked": "2026-10-12T14:43:00-07:00",
+    "lastSuccess": "2026-10-12T14:43:00-07:00",
+    "showings": 24,
     "through": "2026-11-08"
    }
   }
@@ -321,17 +321,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/REN_ASimpleMachine_1600x900.png",
    "links": {
     "siff-film-center": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/a-simple-machine"
-   }
-  },
-  {
-   "id": "a-storm-is-coming-dance-of-the-living",
-   "title": "A Storm Is Coming / Dance of the Living",
-   "description": "A Storm Is Coming\n\nYear: 2025\nDirector: Cristóbal Arteaga Rozas\nGenre: Short / Drama\nRuntime: 8 minutes 19 seconds\nCountries: Chile, Spain\nLanguage: Spanish with English subtitles\n\nSynopsis: In a Galician village, Antón, a retired farmer, leads a quiet life with his wife Uxía, tending to their crops and animals. His routine is suddenly disrupted when he receives a call from Vortex, an alien general who warns him of an imminent threat that could freeze time and endanger the universe.\n\nDance of the Living\n\nYear: 2025\nDirector: Jose Alayón\nGenre: Drama / Children\nRuntime: 90 minutes\nCountry: Spain\nLanguage: Spanish w/ English subtitles\n\nSynopsis: On the arid island of Fuerteventura, Miguel and his daughter Mariana struggle to move forward after his wife's death, a loss that has set them adrift. Traditional wrestling is all they know, their way of making a place in the world. But Miguel’s body is failing him, and Mariana’s anger is pushing her to break the rules. As the championship final approaches, father and daughter find themselves on uncertain ground, searching for a way back to each other before it's too late.",
-   "runtime": 98,
-   "year": 2025,
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1791687941532-slff.png",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/a-storm-is-coming-dance-of-the-living"
    }
   },
   {
@@ -500,18 +489,9 @@
    "runtime": 90,
    "year": 2026,
    "director": "Maya Annik Bedward",
-   "country": "Canada",
-   "language": "English",
-   "rating": "NR",
-   "genres": [
-    "Documentary",
-    "Horror",
-    "Thriller"
-   ],
    "image": "https://grandillusioncinema.org/wp-content/uploads/2026/09/blackzombieposter-550x814.jpg",
    "links": {
-    "grand-illusion": "https://grandillusioncinema.org/film/black-zombie/",
-    "tasveer": "https://filmcenter.tasveer.org/movie/black-zombie"
+    "grand-illusion": "https://grandillusioncinema.org/film/black-zombie/"
    }
   },
   {
@@ -588,20 +568,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_CapturingBigfoot_1600x900.png",
    "links": {
     "siff-uptown": "https://www.siff.net/cinema/in-theaters/capturing-bigfoot"
-   }
-  },
-  {
-   "id": "carrie",
-   "title": "Carrie",
-   "description": "Brian De Palma’s classic, supernatural horror film was based on Stephen King’s first novel and resulted in Sissy Spacek earning an Oscar nomination for her portrayal of a teenaged social outcast wielding fatal telekinetic powers. Carrie White (Spacek) is a shy, friendless teenager perpetually at the mercy of her Mean Girls-esque peers, who taunt and deride her on a daily basis. Her blind panic at her first menstruation—a result of her sheltered existence and the conservative, religious guilt drummed into her by her fanatical mother—only causes her classmates’ vicious harassment to escalate. Despite the well-intentioned interference of her protective gym teacher (Betty Buckley), Carrie’s fate as a bullying victim seems sealed. When Queen Bee Chris Hargenson (Nancy Allen) engineers a humiliating prank at the school prom, Carrie lashes out in a horrifying and vengeful display of her violent powers. One of the first mainstream films to focus on the special brand of cruelty unique to teenage girls, and a truly chilling horror film, Carrie endures as one of De Palma’s strongest achievements.",
-   "runtime": 98,
-   "year": 1976,
-   "director": "Brian De Palma",
-   "country": "USA",
-   "language": "English",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/SIFF%20Book%20Club/CIN_SBC_Carrie_1600x900.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/programs-and-events/siff-book-club/carrie"
    }
   },
   {
@@ -1278,20 +1244,6 @@
    }
   },
   {
-   "id": "kana",
-   "title": "Kanał",
-   "description": "In the final stages of the 1944 Warsaw Uprising, a unit of Polish Home Army resistance fighters attempt to escape the Nazi aggressors through a hellish descent through the labyrinthian city sewers. Jerzy Lipman's claustrophobic, high contrast cinematography conveys their nightmarish struggle along the road to freedom. Based on true events, the film brought Wajda international acclaim for its evocative portrait of strength, duty and hope in the face of insurmountable odds.",
-   "runtime": 96,
-   "year": 1957,
-   "director": "Andrzej Wajda",
-   "country": "Poland",
-   "language": "Polish",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Films%20of%20Andrej%20Wajda/Wajda%20Films%20Images/kanal.png",
-   "links": {
-    "siff-film-center": "https://www.siff.net/programs-and-events/andrzej-wajda/kana%C5%82"
-   }
-  },
-  {
    "id": "la-bola-negra",
    "title": "La bola negra",
    "description": "La bola negra, also known as The Black Ball, inspired by an unfinished play by Federico García Lorca, will be a queer vindication about three men in three different moments of Spanish history: 1932, 1937, and 2017.",
@@ -1484,21 +1436,16 @@
   },
   {
    "id": "naza",
-   "title": "Naza",
-   "description": "Shot at night on the rooftops of Tel Aviv, the film reveals in detail the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza. The film's title - NAZA - is a term that appears throughout the documentary. It is a military acronym euphemistically used by Israeli intelligence to indicate the number of civilians that it expects will be killed in an airstrike.\n\nDirectors' Note\nWe made this film out of a sense of obligation to use our position as Israeli filmmakers and journalists to examine the systems behind the mass killing of Palestinian civilians for which our country is responsible. While filming members of Israel’s military on rooftops at night in Tel Aviv over the past three years, we found ourselves asking the very questions that were asked by our grandparents’ generation and throughout the 20th century: how does one group of people allow the total dehumanization of another? What do the inner workings of such a system look like? Many of the revelations in the film were published almost immediately as we learned of them, in the months following the October 7th attacks, by The Guardian (one of NAZA’s producers), in collaboration with reporting partners +972 Magazine and Local Call. The film lets us explore something deeper than we could in our investigative journalism alone: not only the words being said but also those that are not said, the silence. It is up to all of us to break that silence.\n\n— Yuval Abraham and Rachel Szor",
+   "title": "NAZA",
+   "description": "Shot at night on the rooftops of Tel Aviv, NAZA reveals the systems behind Israel’s bombing of Gaza and its mass killing of Palestinian civilians. The film is directed by Yuval Abraham and Rachel Szor, two of the four co-directors of the 2024 Oscar-winning documentary No Other Land, and produced by the Guardian and James Wilson, and executive produced by Jonathan Glazer, the Oscar-winning team behind The Zone of Interest. NAZA is titled for a military acronym euphemistically used by Israeli intelligence to indicate the number of civilians that it expects will be killed in an airstrike. The film builds on revelations first published by the Israeli-Palestinian publication +972 Magazine, Hebrew-language outlet Local Call, and The Guardian between 2023 and 2025.",
    "runtime": 80,
    "year": 2026,
    "director": "Yuval Abraham, Rachel Szor",
    "country": "United Kingdom",
    "language": "Hebrew and English",
-   "rating": "NR",
-   "genres": [
-    "Documentary"
-   ],
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_NAZA_1600x900.png",
    "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/naza",
-    "tasveer": "https://filmcenter.tasveer.org/movie/naza-2026-hebrewenglish-subtitled-in-english"
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/naza"
    }
   },
   {
@@ -1661,24 +1608,9 @@
    "country": "USA",
    "language": "English",
    "rating": "R",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Thriller"
-   ],
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_Primetime_1600x900.png",
    "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/primetime",
-    "tasveer": "https://filmcenter.tasveer.org/movie/primetime-usa-2026"
-   }
-  },
-  {
-   "id": "real-steel",
-   "title": "Real Steel",
-   "description": "Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After his robot is trashed, he reluctantly teams up with his estranged son to rebuild and train an unlikely contender.",
-   "image": "https://static.spotapps.co/spots/cb/653ace975d4444abf6c76af09a3734/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/primetime"
    }
   },
   {
@@ -1749,20 +1681,6 @@
    }
   },
   {
-   "id": "screamplay",
-   "title": "Screamplay",
-   "description": "“…takes HOLLYWOOD by the throat and STRANGLES it!”\n\nEdgar Allan (Rufus B. Seder) is an aspiring screenwriter who has just come to Hollywood to make it in the movies… only to wind up working as the janitor at a fleabag apartment complex run by the greasy ex-boxer Martin (George Kuchar) instead. When Edgar begins channeling his frustrations with his kooky neighbors into fodder for his latest screenplay, the vivid murder scenes he writes begin to happen for real. As the bodies begin to pile up and the line between reality and fiction become increasingly blurred, Edgar, who is convinced that the only way to be a real writer is to suffer, is slowly driven mad.\n\nInventively produced using a host of early cinematic techniques and featuring a memorable performance by underground film legend George Kuchar, Rufus Butler Seder’s Screamplay is a singularly charming tribute to Old Hollywood and a marvel of low-budget but high-concept filmmaking. New 4K restoration by Muscle Distribution in association with Matchbox Cine.",
-   "runtime": 93,
-   "year": 1983,
-   "director": "Rufus Butler Seder",
-   "country": "United States",
-   "language": "English",
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/screamplay1600-1-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/screamplay-4k-restoration/"
-   }
-  },
-  {
    "id": "seattle-film-society-in-focus-tyler-michael-james",
    "title": "Seattle Film Society In Focus: Tyler Michael James",
    "description": "The Seattle Film Society's IN FOCUS showcase series returns this October with a screening of Tyler Michael James’s 2022 thriller LOW LIFE!\n\nLOW LIFE follows Benny, a small-time YouTube star who catches predators online, experiences a night from hell when he lets one of them into his own home.\n\nLOW LIFE will be preceded by a screening of the film’s proof-of-concept short, and a conversation about James’s film & career will follow the screening. This event is presented in partnership with the Northwest Film Forum.\n\nThursday October 15th at the Northwest Film Forum. Doors at 6:30, Film at 7. See you at the movies!",
@@ -1779,7 +1697,7 @@
   {
    "id": "seattle-film-society-presents-locals-only-october-2026",
    "title": "Seattle Film Society Presents Locals Only: October 2026",
-   "description": "October is for terror! On tap this month are flesh eating nightmares and unexplained disappearances, unnerving polaroids and weekends gone wrong. Not to mention a freak you won’t be able to unsee. For all the horror-heads out there, this one’s for you:\n\n- POLAROID by Joey Greene: A young man is thrust into a terrifying mystery when the Polaroid photos that he has taken reveal something that isn’t actually there. (3 Min)\n\n- BEST FRIEND MATERIAL by Mel McCarthy & Nathan Blanchard: A guys weekend goes wrong. (15 min)\n\n- ADHESION by Mel McCarthy & Nathan Blanchard: A vain party clown suffocates in her own flesh-eating nightmare. (4 min)\n\n- MOTHER OF NIGHT by Mohamed Abdullahi & Rayana Mohamed: After a series of unexplained disappearances, a night-shift waitress investigates a ghostly local myth and discovers the horror may be terrifyingly real. (13 Min)\n\n- LOOK AT THIS FREAK by Alex Furnas: A reunion of old friends is disrupted by a hated roommate and something else that’s even worse. (15 Min)\n\nThis event is presented in partnership with the Northwest Film Forum. Join us for a screening and Q&A with drinks to follow at Linda’s Tavern! See ya at the movies!",
+   "description": "October is for terror! On tap this month are flesh eating nightmares and unexplained disappearances, unnerving polaroids and weekends gone wrong. Not to mention a freak you won’t be able to unsee. For all the horror-heads out there, this one’s for you:\n\n- POLAROID by Joey Greene: A young man is thrust into a terrifying mystery when the Polaroid photos that he has taken reveal something that isn’t actually there. (3 Min)\n\n- BEST FRIEND MATERIAL by Mel McCarthy & Nathan Blanchard: A guys weekend goes wrong. (15 min)\n\n- ADHESION by Mark Woo: A vain party clown suffocates in her own flesh-eating nightmare. (4 min)\n\n- MOTHER OF NIGHT by Mohamed Abdullahi & Rayana Mohamed: After a series of unexplained disappearances, a night-shift waitress investigates a ghostly local myth and discovers the horror may be terrifyingly real. (13 Min)\n\n- LOOK AT THIS FREAK by Alex Furnas: A reunion of old friends is disrupted by a hated roommate and something else that’s even worse. (15 Min)\n\nThis event is presented in partnership with the Northwest Film Forum. Join us for a screening and Q&A with drinks to follow at Linda’s Tavern! See ya at the movies!",
    "runtime": 50,
    "genres": [
     "Shorts"
@@ -1926,18 +1844,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Seattle%20Polish%20FF%202026/REN_SPFF26Wildwildeast_1600x900.png",
    "links": {
     "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/wild-wild-east"
-   }
-  },
-  {
-   "id": "shaun-the-sheep-the-beast-of-mossy-bottom",
-   "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-   "description": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go wrong when a wild beast appears in the woods.",
-   "runtime": 91,
-   "year": 2026,
-   "rating": "PG",
-   "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/ShauntheSheepSquare.jpg",
-   "links": {
-    "north-bend": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-sunday-oct-11th-3pm"
    }
   },
   {
@@ -2170,16 +2076,13 @@
    "director": "John Wilson",
    "country": "USA",
    "language": "English",
-   "rating": "NR",
    "genres": [
-    "Documentary",
-    "Comedy"
+    "Documentary"
    ],
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_HistoryofConcrete_1600x900.png",
    "links": {
     "siff-downtown": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-    "nwff": "https://nwfilmforum.org/films/the-history-of-concrete/",
-    "tasveer": "https://filmcenter.tasveer.org/movie/the-history-of-concrete-2026-usa"
+    "nwff": "https://nwfilmforum.org/films/the-history-of-concrete/"
    }
   },
   {
@@ -2367,20 +2270,6 @@
    "image": "https://indy-systems.imgix.net/ft8rget6a5qd5o1td85n3f7xv6zm?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
    "links": {
     "central-cinema": "https://central-cinema.com/movie/the-room/"
-   }
-  },
-  {
-   "id": "scout",
-   "title": "The Scout",
-   "description": "Sofia works as a location scout for a TV pilot filming in New York City. It’s her job to find the homes, businesses, and exteriors where the show will be filmed. Driving around the city's different neighborhoods, she enters the private spaces of strangers to photograph their cozy apartments and eclectic shops, stepping into the fabric of their lives while trying to satisfy the demands of her erratic employers. Over a day filled with these encounters, Sofia witnesses moments of curiosity, vulnerability, and quiet tension until her work takes a sudden, personal turn. Drawing from her own experience as a location scout, writer-director Paula González-Nasser captures the poetry and costs of being a young creative. Her celebrated directorial debut The Scout crafts a contemplative exploration of urban disconnection, following one woman's journey through other people's worlds as she struggles to find her own.\n\nAlumni of the 2016 edition of NFFTY, filmmakers Paula González-Nasser and Ryan Martin Brown will be in conversation with NFFTY Program Manager Amy Williams following the film. Special youth pricing (24 & younger) is available for the 10/9 screening.",
-   "runtime": 89,
-   "year": 2025,
-   "director": "Paula González-Nasser",
-   "country": "USA",
-   "language": "English",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_TheScout_1600x900.png",
-   "links": {
-    "siff-film-center": "https://www.siff.net/cinema/in-theaters/the-scout"
    }
   },
   {
@@ -2692,6 +2581,20 @@
    }
   },
   {
+   "id": "wild-boys-of-the-road",
+   "title": "Wild Boys of the Road",
+   "description": "“Police Alarmed at Increase of Wild Boys of the Road: Seek Solution to Problem of Homeless Waifs”\n\nFaced with the realization that their middle-class folks do not have enough money to feed them, buddies Tommy and Edie decide that the best course to alleviate that burden is to do what an estimated 250,000 other American teens did during the height of the Great Depression: live on the road and criss-cross the country on freight trains. Riding the rails from city to city through the Midwest to the east coast, the pair have their newfound sense of freedom challenged as they face the desperation, poverty and exploitation lost orphans experience in the slums. Despite the ever present railway detectives, the wild boys find solidarity amongst each other and turn a hobo camp into a mini society. In many respects the archetypal filmmaker of the pre-Code era, “Wild Bill” Wellmann’s features in the early ‘30s packed a gritty punch of hard edged social realism, an unflinching look at the traumas of the era.\n\n35mm print courtesy of the Library of Congress",
+   "runtime": 67,
+   "year": 1933,
+   "director": "William Wellman",
+   "country": "USA",
+   "language": "English",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/The%20Open%20Road/wildboysoftheroad.png",
+   "links": {
+    "siff-film-center": "https://www.siff.net/programs-and-events/the-open-road/wild-boys-of-the-road"
+   }
+  },
+  {
    "id": "wildwood",
    "title": "Wildwood",
    "description": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel (Peyton Elizabeth Lee) launches a desperate rescue mission into the Impassable Wilderness—an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg (Jacob Tremblay), Prue navigates a world of talking animals, bandits, and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover the strength and belief she never knew she possessed. If she hopes to save her brother and protect Wildwood’s fragile future, she will have to risk everything. From Oscar®-nominated and BAFTA®-winning LAIKA, Wildwood is a sweeping adventure about love, sacrifice, and the magic that reveals itself when we dare to look beyond the familiar.",
@@ -2788,413 +2691,6 @@
   }
  ],
  "showings": [
-  {
-   "film": "lady",
-   "theater": "siff-uptown",
-   "start": "2026-10-11T11:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/lady",
-   "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-GR4aRQXwwU"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-11T12:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-MqW6SKf5lf"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-11T12:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-Ck9orF23gT"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-11T12:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16920/780"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "siff-downtown",
-   "start": "2026-10-11T12:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-HFk9H3QKKn"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-11T13:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16927/781"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-11T13:10:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16915/717"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-11T13:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36415?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-11T13:20:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16919/770"
-  },
-  {
-   "film": "forgotten-island",
-   "theater": "majestic-bay",
-   "start": "2026-10-11T13:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296642-forgotten-island/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36416?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-11T13:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36417?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "kana",
-   "theater": "siff-film-center",
-   "start": "2026-10-11T14:00:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/andrzej-wajda/kana%C5%82",
-   "tickets": "https://www.siff.net/programs-and-events/andrzej-wajda/kana%C5%82#screening-3M9ikyH8RW",
-   "notes": [
-    "The Films of Andrzej Wajda"
-   ]
-  },
-  {
-   "film": "primetime",
-   "theater": "tasveer",
-   "start": "2026-10-11T14:10:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/primetime-usa-2026",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/primetime-usa-2026/4087784"
-  },
-  {
-   "film": "black-zombie",
-   "theater": "tasveer",
-   "start": "2026-10-11T14:15:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/black-zombie",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/black-zombie/3960756"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-11T14:20:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-pM3kXEA0Yr"
-  },
-  {
-   "film": "a-storm-is-coming-dance-of-the-living",
-   "theater": "beacon",
-   "start": "2026-10-11T14:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/a-storm-is-coming-dance-of-the-living",
-   "tickets": "https://thebeacon.film/calendar/movie/a-storm-is-coming-dance-of-the-living?showtime=5MJOTFPLUHX4RLKE6YXUXWKB"
-  },
-  {
-   "film": "lady",
-   "theater": "siff-uptown",
-   "start": "2026-10-11T14:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/lady",
-   "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-26wT4pchfq"
-  },
-  {
-   "film": "naza",
-   "theater": "tasveer",
-   "start": "2026-10-11T14:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/naza-2026-hebrewenglish-subtitled-in-english",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/naza-2026-hebrewenglish-subtitled-in-english/3960757"
-  },
-  {
-   "film": "shaun-the-sheep-the-beast-of-mossy-bottom",
-   "theater": "north-bend",
-   "start": "2026-10-11T15:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-sunday-oct-11th-3pm",
-   "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-sunday-oct-11th-3pm"
-  },
-  {
-   "film": "carrie",
-   "theater": "siff-uptown",
-   "start": "2026-10-11T15:30:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/siff-book-club/carrie",
-   "tickets": "https://www.siff.net/programs-and-events/siff-book-club/carrie#screening-XLAEPL8Pc2",
-   "notes": [
-    "SIFF Book Club",
-    "50th Anniversary"
-   ]
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-11T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16925/781"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "siff-downtown",
-   "start": "2026-10-11T15:40:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-gna22pYktK"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-11T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16922/780"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-11T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16913/717"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-11T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16917/770"
-  },
-  {
-   "film": "vertigo",
-   "theater": "central-cinema",
-   "start": "2026-10-11T16:00:00-07:00",
-   "url": "https://central-cinema.com/movie/vertigo/",
-   "tickets": "https://central-cinema.com/checkout/showing/vertigo/3906302"
-  },
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-11T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36418?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "an-autumn-afternoon",
-   "theater": "nwff",
-   "start": "2026-10-11T16:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/an-autumn-afternoon/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/69b052209c468cf51e6a8874"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-11T16:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36419?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "tasveer",
-   "start": "2026-10-11T16:15:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-history-of-concrete-2026-usa",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-history-of-concrete-2026-usa/4087785"
-  },
-  {
-   "film": "black-zombie",
-   "theater": "tasveer",
-   "start": "2026-10-11T16:20:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/black-zombie",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/black-zombie/3960754"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-11T16:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36420?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "screamplay",
-   "theater": "nwff",
-   "start": "2026-10-11T16:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/screamplay-4k-restoration/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6aa3002017ed6cc5966215a6",
-   "notes": [
-    "4K restoration"
-   ]
-  },
-  {
-   "film": "scout",
-   "theater": "siff-film-center",
-   "start": "2026-10-11T16:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-scout",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-scout#screening-4suF2SJP2h"
-  },
-  {
-   "film": "naza",
-   "theater": "tasveer",
-   "start": "2026-10-11T16:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/naza-2026-hebrewenglish-subtitled-in-english",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/naza-2026-hebrewenglish-subtitled-in-english/3960755"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-11T16:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-obDmgjfqZU"
-  },
-  {
-   "film": "lady",
-   "theater": "siff-uptown",
-   "start": "2026-10-11T17:10:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/lady",
-   "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-DIPrGBJRJQ"
-  },
-  {
-   "film": "shaun-the-sheep-the-beast-of-mossy-bottom",
-   "theater": "north-bend",
-   "start": "2026-10-11T18:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-sunday-oct-11th-6pm",
-   "tickets": "https://tix.northbendtheatre.com/event/shaun-the-sheep-the-beast-of-mossy-bottom-sunday-oct-11th-6pm"
-  },
-  {
-   "film": "real-steel",
-   "theater": "tin-room",
-   "start": "2026-10-11T18:00:00-07:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-11T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16924/781"
-  },
-  {
-   "film": "digger",
-   "theater": "siff-downtown",
-   "start": "2026-10-11T18:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/digger",
-   "tickets": "https://www.siff.net/cinema/in-theaters/digger#screening-QAokvbVwY4"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-11T18:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-votF2yvCwl"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-11T18:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16921/780"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-11T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16916/770"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-11T18:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16912/717"
-  },
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-11T18:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36421?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "scout",
-   "theater": "siff-film-center",
-   "start": "2026-10-11T18:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-scout",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-scout#screening-pdVjZ45QCn"
-  },
-  {
-   "film": "vertigo",
-   "theater": "central-cinema",
-   "start": "2026-10-11T19:00:00-07:00",
-   "url": "https://central-cinema.com/movie/vertigo/",
-   "tickets": "https://central-cinema.com/checkout/showing/vertigo/3906303"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-11T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36422?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "an-autumn-afternoon",
-   "theater": "nwff",
-   "start": "2026-10-11T19:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/an-autumn-afternoon/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/69b052209c468cf51e6a887e"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-11T19:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36423?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-11T19:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-K0xWIaXt8J"
-  },
-  {
-   "film": "screamplay",
-   "theater": "nwff",
-   "start": "2026-10-11T19:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/screamplay-4k-restoration/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6aa3002017ed6cc5966215b0",
-   "notes": [
-    "4K restoration"
-   ]
-  },
-  {
-   "film": "lady",
-   "theater": "siff-uptown",
-   "start": "2026-10-11T19:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/lady",
-   "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-MXrdQvkpxV"
-  },
-  {
-   "film": "blade",
-   "theater": "central-cinema",
-   "start": "2026-10-11T21:50:00-07:00",
-   "url": "https://central-cinema.com/movie/blade/",
-   "tickets": "https://central-cinema.com/checkout/showing/blade/3906304"
-  },
-  {
-   "film": "shaun-the-sheep-the-beast-of-mossy-bottom",
-   "theater": "north-bend",
-   "start": "2026-10-12T12:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/kids-screening-shaun-the-sheep-the-beast-of-mossy-bottom-monday-oct-12th-12pm",
-   "tickets": "https://tix.northbendtheatre.com/event/kids-screening-shaun-the-sheep-the-beast-of-mossy-bottom-monday-oct-12th-12pm",
-   "notes": [
-    "Kids screening"
-   ]
-  },
   {
    "film": "forgotten-island",
    "theater": "majestic-bay",
@@ -3745,7 +3241,8 @@
    "url": "https://www.siff.net/programs-and-events/scarecrowber-2026/deep-red",
    "tickets": "https://www.siff.net/programs-and-events/scarecrowber-2026/deep-red#screening-vvOceCdcwv",
    "notes": [
-    "Scarecrowber"
+    "Scarecrowber",
+    "Sold out"
    ]
   },
   {
@@ -4602,13 +4099,6 @@
    "tickets": "https://central-cinema.com/checkout/showing/hausu-house/3918205"
   },
   {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-19T15:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-gZaVdygI9Y"
-  },
-  {
    "film": "hausu-house",
    "theater": "central-cinema",
    "start": "2026-10-19T16:00:00-07:00",
@@ -4778,7 +4268,10 @@
    "theater": "siff-uptown",
    "start": "2026-10-20T18:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-1ZV6hdCZpl"
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-1ZV6hdCZpl",
+   "notes": [
+    "Sold out"
+   ]
   },
   {
    "film": "hausu-house",
@@ -7495,6 +6988,31 @@
    "start": "2026-11-15T19:30:00-08:00",
    "url": "https://nwfilmforum.org/films/you-sorta-know-its-gonna-end/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ac6b00009c0a7948b2a12c0"
+  },
+  {
+   "film": "zi",
+   "theater": "nwff",
+   "start": "2026-11-16T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/zi/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ab171da02ce9929ad1ac3e2"
+  },
+  {
+   "film": "wild-boys-of-the-road",
+   "theater": "siff-film-center",
+   "start": "2026-11-16T19:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/the-open-road/wild-boys-of-the-road",
+   "tickets": "https://www.siff.net/programs-and-events/the-open-road/wild-boys-of-the-road#screening-56gTumlIIe",
+   "notes": [
+    "The Open Road",
+    "35mm"
+   ]
+  },
+  {
+   "film": "you-sorta-know-it-s-gonna-end",
+   "theater": "nwff",
+   "start": "2026-11-16T19:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/you-sorta-know-its-gonna-end/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac6b00009c0a7948b2a12c5"
   }
  ]
 }
