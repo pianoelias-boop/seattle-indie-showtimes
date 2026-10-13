@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T14:43:00-07:00",
+ "updated": "2026-10-13T12:51:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,8 +14,8 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-12T14:43:00-07:00",
-    "lastSuccess": "2026-10-12T14:43:00-07:00",
+    "checked": "2026-10-13T12:51:00-07:00",
+    "lastSuccess": "2026-10-13T12:51:00-07:00",
     "showings": 54,
     "through": "2026-11-15"
    }
@@ -33,10 +33,10 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-12T14:43:00-07:00",
-    "lastSuccess": "2026-10-12T14:43:00-07:00",
-    "showings": 120,
-    "through": "2026-11-12"
+    "checked": "2026-10-13T12:51:00-07:00",
+    "lastSuccess": "2026-10-13T12:51:00-07:00",
+    "showings": 126,
+    "through": "2026-11-17"
    }
   },
   {
@@ -52,9 +52,9 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-12T14:43:00-07:00",
-    "lastSuccess": "2026-10-12T14:43:00-07:00",
-    "showings": 29,
+    "checked": "2026-10-13T12:51:00-07:00",
+    "lastSuccess": "2026-10-13T12:51:00-07:00",
+    "showings": 28,
     "through": "2026-11-16"
    }
   },
@@ -70,8 +70,8 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-12T14:43:00-07:00",
-    "lastSuccess": "2026-10-12T14:43:00-07:00",
+    "checked": "2026-10-13T12:51:00-07:00",
+    "lastSuccess": "2026-10-13T12:51:00-07:00",
     "showings": 8,
     "through": "2026-11-03"
    }
@@ -88,9 +88,9 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-12T14:43:00-07:00",
-    "lastSuccess": "2026-10-12T14:43:00-07:00",
-    "showings": 66,
+    "checked": "2026-10-13T12:51:00-07:00",
+    "lastSuccess": "2026-10-13T12:51:00-07:00",
+    "showings": 64,
     "through": "2026-11-16"
    }
   },
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-12T14:43:00-07:00",
-    "lastSuccess": "2026-10-12T14:43:00-07:00",
-    "showings": 60,
+    "checked": "2026-10-13T12:51:00-07:00",
+    "lastSuccess": "2026-10-13T12:51:00-07:00",
+    "showings": 59,
     "through": "2026-11-05"
    }
   },
@@ -126,8 +126,8 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-12T14:43:00-07:00",
-    "lastSuccess": "2026-10-12T14:43:00-07:00",
+    "checked": "2026-10-13T12:51:00-07:00",
+    "lastSuccess": "2026-10-13T12:51:00-07:00",
     "showings": 32,
     "through": "2026-11-02"
    }
@@ -145,8 +145,8 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-12T14:43:00-07:00",
-    "lastSuccess": "2026-10-12T14:43:00-07:00",
+    "checked": "2026-10-13T12:51:00-07:00",
+    "lastSuccess": "2026-10-13T12:51:00-07:00",
     "showings": 29,
     "through": "2026-10-29"
    }
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-12T14:43:00-07:00",
-    "lastSuccess": "2026-10-12T14:43:00-07:00",
-    "showings": 89,
+    "checked": "2026-10-13T12:51:00-07:00",
+    "lastSuccess": "2026-10-13T12:51:00-07:00",
+    "showings": 111,
     "through": "2026-11-11"
    }
   },
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-12T14:43:00-07:00",
-    "lastSuccess": "2026-10-12T14:43:00-07:00",
-    "showings": 35,
+    "checked": "2026-10-13T12:51:00-07:00",
+    "lastSuccess": "2026-10-13T12:51:00-07:00",
+    "showings": 23,
     "through": "2026-11-14"
    }
   },
@@ -201,8 +201,8 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-12T14:43:00-07:00",
-    "lastSuccess": "2026-10-12T14:43:00-07:00",
+    "checked": "2026-10-13T12:51:00-07:00",
+    "lastSuccess": "2026-10-13T12:51:00-07:00",
     "showings": 15,
     "through": "2026-11-01"
    }
@@ -220,8 +220,8 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-12T14:43:00-07:00",
-    "lastSuccess": "2026-10-12T14:43:00-07:00",
+    "checked": "2026-10-13T12:51:00-07:00",
+    "lastSuccess": "2026-10-13T12:51:00-07:00",
     "showings": 24,
     "through": "2026-11-08"
    }
@@ -981,20 +981,6 @@
    }
   },
   {
-   "id": "ginger-snaps",
-   "title": "Ginger Snaps",
-   "description": "Directed by John Fawcett and cowritten by Karen Walton, Ginger Snaps, a cult classic from Canada, is a supernatural coming-of-age story centering around two misfit sisters, 15-year-old Brigitte Fitzgerald and almost 16-year-old Ginger, who are obsessed with dying and bound by a childhood pact to stay together forever. Their loathing of mind-numbing suburban existence quickly changes to a survival-first mindset when Ginger is savagely attacked by a werewolf while walking at night in the woods. She survives and her external wounds heal, but something is clearly not the same. Ginger Snaps cleverly turns Ginger’s monthly werewolf cravings into a transgressive metaphor about the strange and mysterious horror of becoming a woman. — MoMA",
-   "runtime": 108,
-   "year": 2000,
-   "director": "John Fawcett",
-   "country": "Canada",
-   "language": "English",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/SMC/CIN_SMC_GingerSnaps_1600x900.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/programs-and-events/siff-movie-club/ginger-snaps"
-   }
-  },
-  {
    "id": "godzilla-minus-zero",
    "title": "Godzilla Minus Zero",
    "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life.\n\nJust as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant.\n\nThere is no third time. Everything ends here.",
@@ -1218,19 +1204,6 @@
    }
   },
   {
-   "id": "joybubbles",
-   "title": "Joybubbles",
-   "description": "In the 1950s, a boy discovers he can control the global telephone system simply by whistling a magic tone. Born blind and hungry for connection, his early obsession with the telephone sparks a subculture that shapes the future of hacking and modern technology in the 20th century.\n\nTold through vivid archival footage and Joybubbles’ own voice recordings, the film celebrates a visionary who redefined connection and challenged assumptions about disability, identity, and imagination.\n\nJoybubbles pulses with the curiosity and wonder he brought to the world, brought to life through director Rachael J. Morrison’s inventive, tactile storytelling.\n\nPresented with open audio description and open captions",
-   "runtime": 79,
-   "year": 2026,
-   "director": "Rachael J. Morrison",
-   "country": "USA",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_Joybubbles_1600x900.png",
-   "links": {
-    "siff-film-center": "https://www.siff.net/cinema/in-theaters/joybubbles"
-   }
-  },
-  {
    "id": "jucks",
    "title": "Jucks",
    "description": "Set in Denver City, 2064 AD, JUCKS is an experimental sci-fi silent film. It follows a haunted protagonist who enters a dystopian landscape lorded by an omniscient radio frequency known as Jucks, and saturated with a hallucinogenic substance. Jules searches for one thing: Gold.\n\nCW: Flashing lights, blood/gore\n\nSCREENS WITH:\n\nIf I'm Here It Is By Mystery (Clari Ribeiro, Brazil, 20m)\n\nNew Rio, 2054. Renowned witch Dahlia arrives at the port with a mission: to found the most powerful Clan that has ever existed and thus defeat the Order of Truth. In the future, many people are trans — but only a few are witches.\n\nCW: Stabbing of a trans woman, blood/gore",
@@ -1415,6 +1388,20 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/mutablearchive1600-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/stuff-2026-mutable-archive-shorts/"
+   }
+  },
+  {
+   "id": "my-night-at-maud-s",
+   "title": "My Night at Maud's",
+   "description": "I exist. What is my essence? What do I choose? Éric Rohmer, one of the founding New Wave figures, liked to stroll the streets of Paris. Even if he had a planned destination, he was open to the music of chance. Rohmer’s characters are solidly self-directed, but they can be surprised by life. In a provincial town, Jean Louis (Jean-Louis Trintignant) believes he’ll meet his dream woman and marry her, and he spots college student Françoise (Marie-Christine Barrault) in church. He’s determined that she will be the one, but he hasn’t even met her. Unplanned things happen: Jean-Louis runs into his old friend Vidal (Antoine Vitez), who suggests that they visit his friend Maud (Françoise Fabian), one of the most liberated New Wave heroines, who has broken many traditional barriers (she’s an accomplished physician, highly cultured, and a loving single parent). The three stay up late, drinking and discussing freedom of choice. Vidal leaves, it’s snowing heavily, why not have Jean-Louis stay the night? There’s one bed; Maud sleeps naked. Rohmer’s cinema explores forward motion and hesitation, the nature of things, and cosmic grace. New Wave women show the way.",
+   "runtime": 105,
+   "year": 1969,
+   "director": "Éric Rohmer",
+   "country": "France",
+   "language": "French",
+   "image": "https://www.siff.net/images/CINEMA/2026/Nouvelles%20Femmes/mynightatmauds.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/programs-and-events/nouvelles-femmes/my-night-at-mauds"
    }
   },
   {
@@ -2082,6 +2069,7 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_HistoryofConcrete_1600x900.png",
    "links": {
     "siff-downtown": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
     "nwff": "https://nwfilmforum.org/films/the-history-of-concrete/"
    }
   },
@@ -2692,182 +2680,6 @@
  ],
  "showings": [
   {
-   "film": "forgotten-island",
-   "theater": "majestic-bay",
-   "start": "2026-10-12T15:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296642-forgotten-island/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36433?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-12T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16939/781"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-12T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16937/780"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-12T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16930/717"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-12T15:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36431?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-12T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16933/770"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-12T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36432?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-12T16:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-8c7mTp3oSn"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-12T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-yTGWAq6xMl"
-  },
-  {
-   "film": "lady",
-   "theater": "siff-uptown",
-   "start": "2026-10-12T16:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/lady",
-   "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-plE2j9b9HF"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-12T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16938/781"
-  },
-  {
-   "film": "singin-in-the-rain",
-   "theater": "majestic-bay",
-   "start": "2026-10-12T18:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
-   "tickets": "http://tix.mvtx.us/noweb",
-   "notes": [
-    "Double Feature",
-    "Majestic Bay Doc",
-    "Free"
-   ]
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "nwff",
-   "start": "2026-10-12T18:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/the-history-of-concrete/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6abe797da8cc2c328aa21bf4"
-  },
-  {
-   "film": "joybubbles",
-   "theater": "siff-film-center",
-   "start": "2026-10-12T18:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/joybubbles",
-   "tickets": "https://www.siff.net/cinema/in-theaters/joybubbles#screening-3nx1CuRJGw"
-  },
-  {
-   "film": "ginger-snaps",
-   "theater": "siff-uptown",
-   "start": "2026-10-12T18:30:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/siff-movie-club/ginger-snaps",
-   "tickets": "https://www.siff.net/programs-and-events/siff-movie-club/ginger-snaps#screening-9WE2YUelBy",
-   "notes": [
-    "SIFF Movie Club"
-   ]
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-12T18:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16936/780"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-12T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16932/770"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-12T18:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16929/717"
-  },
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-12T18:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36435?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-12T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36434?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "an-autumn-afternoon",
-   "theater": "nwff",
-   "start": "2026-10-12T19:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/an-autumn-afternoon/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a91d7f67b2641beb16e260d"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-12T19:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-ARQmG1yqiN"
-  },
-  {
-   "film": "lady",
-   "theater": "siff-uptown",
-   "start": "2026-10-12T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/lady",
-   "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-ipeT68MJFq"
-  },
-  {
-   "film": "blade",
-   "theater": "central-cinema",
-   "start": "2026-10-12T21:50:00-07:00",
-   "url": "https://central-cinema.com/movie/blade/",
-   "tickets": "https://central-cinema.com/checkout/showing/blade/3906306"
-  },
-  {
    "film": "verity",
    "theater": "admiral",
    "start": "2026-10-13T15:40:00-07:00",
@@ -3298,20 +3110,6 @@
    "tickets": "https://central-cinema.com/checkout/showing/blade/3906312"
   },
   {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-15T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16963/781"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-15T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16961/780"
-  },
-  {
    "film": "practical-magic-2",
    "theater": "admiral",
    "start": "2026-10-15T15:45:00-07:00",
@@ -3385,13 +3183,6 @@
    ]
   },
   {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-15T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16964/781"
-  },
-  {
    "film": "understanding-myself-as-an-amphibian",
    "theater": "nwff",
    "start": "2026-10-15T18:30:00-07:00",
@@ -3400,13 +3191,6 @@
    "notes": [
     "With Objectionable Fruit"
    ]
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-15T18:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16962/780"
   },
   {
    "film": "heart-of-the-beast",
@@ -3536,11 +3320,32 @@
    ]
   },
   {
+   "film": "naza",
+   "theater": "siff-uptown",
+   "start": "2026-10-16T16:00:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/naza",
+   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-nVw03qI3s3"
+  },
+  {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-16T16:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36470?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "devils",
    "theater": "siff-uptown",
    "start": "2026-10-16T16:15:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-vcSJmlnX6P"
+  },
+  {
+   "film": "resident-evil",
+   "theater": "majestic-bay",
+   "start": "2026-10-16T16:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36468?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "whalefall",
@@ -3575,7 +3380,10 @@
    "theater": "siff-uptown",
    "start": "2026-10-16T18:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-IOtai67XCB"
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-IOtai67XCB",
+   "notes": [
+    "Sold out"
+   ]
   },
   {
    "film": "grosse-pointe-blank",
@@ -3610,11 +3418,25 @@
    "url": "https://tinroombar.com/events"
   },
   {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-16T19:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36471?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "devils",
    "theater": "siff-uptown",
    "start": "2026-10-16T19:15:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-ABjs9RVuW7"
+  },
+  {
+   "film": "resident-evil",
+   "theater": "majestic-bay",
+   "start": "2026-10-16T19:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36469?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "whalefall",
@@ -3671,11 +3493,25 @@
    ]
   },
   {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-17T13:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36515?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "devils",
    "theater": "siff-uptown",
    "start": "2026-10-17T13:15:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-vWsVgKNHNh"
+  },
+  {
+   "film": "resident-evil",
+   "theater": "majestic-bay",
+   "start": "2026-10-17T13:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36512?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "whalefall",
@@ -3699,6 +3535,13 @@
    "theater": "tin-room",
    "start": "2026-10-17T14:00:00-07:00",
    "url": "https://tinroombar.com/events"
+  },
+  {
+   "film": "naza",
+   "theater": "siff-uptown",
+   "start": "2026-10-17T14:45:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/naza",
+   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-ktTrP1i6uB"
   },
   {
    "film": "nightmare-before-christmas",
@@ -3741,11 +3584,25 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ab482f3fb631a9487614a41"
   },
   {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-17T16:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36516?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "devils",
    "theater": "siff-uptown",
    "start": "2026-10-17T16:15:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-RlxbljyiHp"
+  },
+  {
+   "film": "resident-evil",
+   "theater": "majestic-bay",
+   "start": "2026-10-17T16:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36513?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "jucks",
@@ -3770,6 +3627,13 @@
    "start": "2026-10-17T17:00:00-07:00",
    "url": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-saturday-oct-17th-5pm",
    "tickets": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-saturday-oct-17th-5pm"
+  },
+  {
+   "film": "history-of-concrete",
+   "theater": "siff-uptown",
+   "start": "2026-10-17T17:00:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
+   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-2bABfAnCG3"
   },
   {
    "film": "i-walked-with-a-zombie",
@@ -3825,6 +3689,13 @@
    "url": "https://tinroombar.com/events"
   },
   {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-17T19:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36517?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "devils",
    "theater": "siff-uptown",
    "start": "2026-10-17T19:15:00-07:00",
@@ -3839,6 +3710,13 @@
    "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=653901~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
   },
   {
+   "film": "resident-evil",
+   "theater": "majestic-bay",
+   "start": "2026-10-17T19:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36514?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "flesh-and-fluids-shorts",
    "theater": "nwff",
    "start": "2026-10-17T19:30:00-07:00",
@@ -3851,6 +3729,13 @@
    "start": "2026-10-17T19:30:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/whalefall",
    "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-1G8KBdFfCf"
+  },
+  {
+   "film": "naza",
+   "theater": "siff-uptown",
+   "start": "2026-10-17T19:40:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/naza",
+   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-l7U08UGOOn"
   },
   {
    "film": "rocky-horror-picture-show",
@@ -3884,6 +3769,13 @@
    ]
   },
   {
+   "film": "naza",
+   "theater": "siff-uptown",
+   "start": "2026-10-18T11:40:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/naza",
+   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-tYkhduxsny"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-10-18T12:00:00-07:00",
@@ -3903,11 +3795,25 @@
    ]
   },
   {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-18T13:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36518?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "devils",
    "theater": "siff-uptown",
    "start": "2026-10-18T13:15:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-Wvck5T0chN"
+  },
+  {
+   "film": "resident-evil",
+   "theater": "majestic-bay",
+   "start": "2026-10-18T13:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36519?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "whalefall",
@@ -3983,6 +3889,20 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ab493c324996f62a76dd1e2"
   },
   {
+   "film": "naza",
+   "theater": "siff-uptown",
+   "start": "2026-10-18T16:00:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/naza",
+   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-iyAUJo8oLg"
+  },
+  {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-18T16:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36522?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "devils",
    "theater": "siff-uptown",
    "start": "2026-10-18T16:15:00-07:00",
@@ -3995,6 +3915,13 @@
    "start": "2026-10-18T16:30:00-07:00",
    "url": "https://grandillusioncinema.org/film/television-terror-triple-feature-pizza-party-2/",
    "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=656184~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
+  },
+  {
+   "film": "resident-evil",
+   "theater": "majestic-bay",
+   "start": "2026-10-18T16:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36520?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "trans-it-shorts",
@@ -4071,11 +3998,25 @@
    ]
   },
   {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-18T19:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36523?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "devils",
    "theater": "siff-uptown",
    "start": "2026-10-18T19:15:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-lFOjfVXEmd"
+  },
+  {
+   "film": "resident-evil",
+   "theater": "majestic-bay",
+   "start": "2026-10-18T19:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36521?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "we-live-shorts",
@@ -4099,6 +4040,13 @@
    "tickets": "https://central-cinema.com/checkout/showing/hausu-house/3918205"
   },
   {
+   "film": "naza",
+   "theater": "siff-uptown",
+   "start": "2026-10-19T15:50:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/naza",
+   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-l128LwxJ26"
+  },
+  {
    "film": "hausu-house",
    "theater": "central-cinema",
    "start": "2026-10-19T16:00:00-07:00",
@@ -4118,11 +4066,32 @@
    ]
   },
   {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-19T16:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36496?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "history-of-concrete",
+   "theater": "siff-uptown",
+   "start": "2026-10-19T16:15:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
+   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-K88ioJGrsP"
+  },
+  {
    "film": "isle-of-the-dead",
    "theater": "beacon",
    "start": "2026-10-19T16:30:00-07:00",
    "url": "https://thebeacon.film/calendar/movie/isle-of-the-dead",
    "tickets": "https://thebeacon.film/calendar/movie/isle-of-the-dead?showtime=WPNE7XFWYJ5QNOFB54HV53WN"
+  },
+  {
+   "film": "resident-evil",
+   "theater": "majestic-bay",
+   "start": "2026-10-19T16:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36497?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "devils",
@@ -4179,6 +4148,13 @@
    ]
   },
   {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-19T19:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36499?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-10-19T19:15:00-07:00",
@@ -4191,6 +4167,13 @@
    "start": "2026-10-19T19:30:00-07:00",
    "url": "https://thebeacon.film/calendar/movie/begotten",
    "tickets": "https://thebeacon.film/calendar/movie/begotten?showtime=UDODQDHCC5HJMV5F26L4IJZB"
+  },
+  {
+   "film": "resident-evil",
+   "theater": "majestic-bay",
+   "start": "2026-10-19T19:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36500?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "whalefall",
@@ -4240,11 +4223,32 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-8DN08VIMWX"
   },
   {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-20T16:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36526?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "naza",
+   "theater": "siff-uptown",
+   "start": "2026-10-20T16:15:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/naza",
+   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-hk2iDV3Hux"
+  },
+  {
    "film": "begotten",
    "theater": "beacon",
    "start": "2026-10-20T16:30:00-07:00",
    "url": "https://thebeacon.film/calendar/movie/begotten",
    "tickets": "https://thebeacon.film/calendar/movie/begotten?showtime=3UUWOXHOA7U7OIIPDG4RTUXN"
+  },
+  {
+   "film": "resident-evil",
+   "theater": "majestic-bay",
+   "start": "2026-10-20T16:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36524?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "whalefall",
@@ -4313,6 +4317,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-xHZZmWZPYv"
   },
   {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-20T19:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36527?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "flying-embers-and-a-fortress",
    "theater": "beacon",
    "start": "2026-10-20T19:30:00-07:00",
@@ -4328,6 +4339,13 @@
    "notes": [
     "New 4K restoration"
    ]
+  },
+  {
+   "film": "resident-evil",
+   "theater": "majestic-bay",
+   "start": "2026-10-20T19:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36525?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "whalefall",
@@ -4377,11 +4395,32 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-SSkVwe0YFn"
   },
   {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-21T16:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36505?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "naza",
+   "theater": "siff-uptown",
+   "start": "2026-10-21T16:15:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/naza",
+   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-mor5jahQ9r"
+  },
+  {
    "film": "isle-of-the-dead",
    "theater": "beacon",
    "start": "2026-10-21T16:30:00-07:00",
    "url": "https://thebeacon.film/calendar/movie/isle-of-the-dead",
    "tickets": "https://thebeacon.film/calendar/movie/isle-of-the-dead?showtime=OWJRU4VHFH62VZ2OHJU3JLG7"
+  },
+  {
+   "film": "resident-evil",
+   "theater": "majestic-bay",
+   "start": "2026-10-21T16:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36504?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "whalefall",
@@ -4444,11 +4483,25 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-sM1te1EqLd"
   },
   {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-21T19:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36507?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "universal-monster-mash-double-feature",
    "theater": "beacon",
    "start": "2026-10-21T19:30:00-07:00",
    "url": "https://thebeacon.film/calendar/movie/universal-monster-mash-double-feature",
    "tickets": "https://thebeacon.film/calendar/movie/universal-monster-mash-double-feature?showtime=VMRAT33ETP27GFFNGWU3EJSX"
+  },
+  {
+   "film": "resident-evil",
+   "theater": "majestic-bay",
+   "start": "2026-10-21T19:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36506?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "case-of-the-three-sided-dream",
@@ -4501,6 +4554,13 @@
    "start": "2026-10-22T15:30:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-WYv85e0RT9"
+  },
+  {
+   "film": "naza",
+   "theater": "siff-uptown",
+   "start": "2026-10-22T16:00:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/naza",
+   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-vZqvLmf8qs"
   },
   {
    "film": "flying-embers-and-a-fortress",
@@ -7013,6 +7073,16 @@
    "start": "2026-11-16T19:30:00-08:00",
    "url": "https://nwfilmforum.org/films/you-sorta-know-its-gonna-end/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ac6b00009c0a7948b2a12c5"
+  },
+  {
+   "film": "my-night-at-maud-s",
+   "theater": "siff-uptown",
+   "start": "2026-11-17T19:30:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/nouvelles-femmes/my-night-at-mauds",
+   "tickets": "https://www.siff.net/programs-and-events/nouvelles-femmes/my-night-at-mauds#screening-iFjuR2vZHl",
+   "notes": [
+    "Nouvelles Femmes"
+   ]
   }
  ]
 }
