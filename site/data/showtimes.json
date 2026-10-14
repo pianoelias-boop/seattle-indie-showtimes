@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T12:51:00-07:00",
+ "updated": "2026-10-14T10:59:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-13T12:51:00-07:00",
-    "lastSuccess": "2026-10-13T12:51:00-07:00",
-    "showings": 54,
+    "checked": "2026-10-14T10:59:00-07:00",
+    "lastSuccess": "2026-10-14T10:59:00-07:00",
+    "showings": 52,
     "through": "2026-11-15"
    }
   },
@@ -33,9 +33,9 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-13T12:51:00-07:00",
-    "lastSuccess": "2026-10-13T12:51:00-07:00",
-    "showings": 126,
+    "checked": "2026-10-14T10:59:00-07:00",
+    "lastSuccess": "2026-10-14T10:59:00-07:00",
+    "showings": 122,
     "through": "2026-11-17"
    }
   },
@@ -52,8 +52,8 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-13T12:51:00-07:00",
-    "lastSuccess": "2026-10-13T12:51:00-07:00",
+    "checked": "2026-10-14T10:59:00-07:00",
+    "lastSuccess": "2026-10-14T10:59:00-07:00",
     "showings": 28,
     "through": "2026-11-16"
    }
@@ -70,8 +70,8 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-13T12:51:00-07:00",
-    "lastSuccess": "2026-10-13T12:51:00-07:00",
+    "checked": "2026-10-14T10:59:00-07:00",
+    "lastSuccess": "2026-10-14T10:59:00-07:00",
     "showings": 8,
     "through": "2026-11-03"
    }
@@ -88,10 +88,10 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-13T12:51:00-07:00",
-    "lastSuccess": "2026-10-13T12:51:00-07:00",
-    "showings": 64,
-    "through": "2026-11-16"
+    "checked": "2026-10-14T10:59:00-07:00",
+    "lastSuccess": "2026-10-14T10:59:00-07:00",
+    "showings": 67,
+    "through": "2026-11-18"
    }
   },
   {
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-13T12:51:00-07:00",
-    "lastSuccess": "2026-10-13T12:51:00-07:00",
-    "showings": 59,
+    "checked": "2026-10-14T10:59:00-07:00",
+    "lastSuccess": "2026-10-14T10:59:00-07:00",
+    "showings": 56,
     "through": "2026-11-05"
    }
   },
@@ -126,8 +126,8 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-13T12:51:00-07:00",
-    "lastSuccess": "2026-10-13T12:51:00-07:00",
+    "checked": "2026-10-14T10:59:00-07:00",
+    "lastSuccess": "2026-10-14T10:59:00-07:00",
     "showings": 32,
     "through": "2026-11-02"
    }
@@ -145,8 +145,8 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-13T12:51:00-07:00",
-    "lastSuccess": "2026-10-13T12:51:00-07:00",
+    "checked": "2026-10-14T10:59:00-07:00",
+    "lastSuccess": "2026-10-14T10:59:00-07:00",
     "showings": 29,
     "through": "2026-10-29"
    }
@@ -164,10 +164,10 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-13T12:51:00-07:00",
-    "lastSuccess": "2026-10-13T12:51:00-07:00",
-    "showings": 111,
-    "through": "2026-11-11"
+    "checked": "2026-10-14T10:59:00-07:00",
+    "lastSuccess": "2026-10-14T10:59:00-07:00",
+    "showings": 106,
+    "through": "2026-11-18"
    }
   },
   {
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-13T12:51:00-07:00",
-    "lastSuccess": "2026-10-13T12:51:00-07:00",
-    "showings": 23,
+    "checked": "2026-10-14T10:59:00-07:00",
+    "lastSuccess": "2026-10-14T10:59:00-07:00",
+    "showings": 15,
     "through": "2026-11-14"
    }
   },
@@ -201,8 +201,8 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-13T12:51:00-07:00",
-    "lastSuccess": "2026-10-13T12:51:00-07:00",
+    "checked": "2026-10-14T10:59:00-07:00",
+    "lastSuccess": "2026-10-14T10:59:00-07:00",
     "showings": 15,
     "through": "2026-11-01"
    }
@@ -220,8 +220,8 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-13T12:51:00-07:00",
-    "lastSuccess": "2026-10-13T12:51:00-07:00",
+    "checked": "2026-10-14T10:59:00-07:00",
+    "lastSuccess": "2026-10-14T10:59:00-07:00",
     "showings": 24,
     "through": "2026-11-08"
    }
@@ -370,20 +370,6 @@
    "image": "https://static.spotapps.co/spots/93/2bcf50bb6a401fb6a034d587051c94/w926",
    "links": {
     "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
-   "id": "an-autumn-afternoon",
-   "title": "An Autumn Afternoon",
-   "description": "The last film by Yasujiro Ozu was also his final masterpiece, a gently heartbreaking story about a man’s dignified resignation to life’s shifting currents and society’s modernization. Though the widower Shuhei (frequent Ozu leading man Chishu Ryu) has been living comfortably for years with his grown daughter, a series of events leads him to accept and encourage her marriage and departure from their home. As elegantly composed and achingly tender as any of the Japanese master’s films, An Autumn Afternoon is one of cinema’s fondest farewells.",
-   "runtime": 113,
-   "year": 1962,
-   "director": "Yasujirō Ozu",
-   "country": "Japan",
-   "language": "Japanese",
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/03/anautumnafternoon1600-5-1200x675.jpg",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/an-autumn-afternoon/"
    }
   },
   {
@@ -661,7 +647,7 @@
    "id": "digger",
    "title": "Digger",
    "description": "Academy Award-winning filmmaker Alejandro G. Iñárritu returns with his original film Digger, starring Tom Cruise in the title role.\n\nThe most powerful man in the world embarks on a frantic mission to prove he is humanity’s savior before the disaster he’s unleashed destroys everything.\n\nCruise stars alongside Oscar winner Riz Ahmed, John Goodman, Oscar nominee Sandra Hüller, Michael Stuhlbarg, and Oscar nominee Jesse Plemons.",
-   "runtime": 139,
+   "runtime": 128,
    "year": 2026,
    "director": "Alejandro G. Iñárritu",
    "country": "USA, United Kingdom, Mexico",
@@ -981,6 +967,19 @@
    }
   },
   {
+   "id": "glass-art-society-x-refract-film-festival",
+   "title": "Glass Art Society x REFRACT Film Festival",
+   "description": "Presented by Glass Art Society and REFRACT. Enjoy the intersection of glass and film and watch the Glass Art Society Annual Film Festival (2026)! The following short films will be shown as follows:\n\nSpeculum Vogue, directed by Emma Mitchison\n\nTouching the Light, directed by Cary Rapaport\n\nChime: An Extended View, directed by Janetje Jeanine Verloop\n\nDead Horse Bay, directed by Zachary Finkelstein\n\nPlay with Materials, directed by Daichi Fuwa\n\nI, Phoenix, directed by Simone Fezer\n\nTouches as from Inside, directed by Ina Kristine Hove\n\nBlowing in a New Era, directed by Charlie Reid McGowan\n\nInvocation, directed by Caitlin Greenberg Elena Lee,\n\nPioneer Gallerist, directed by Danièle Bellemare Lee\n\nIn partnership with the Glass Art Society and REFRACT all ticket proceeds will go to support SIFF",
+   "runtime": 160,
+   "year": 2026,
+   "country": "USA",
+   "language": "English",
+   "image": "https://www.siff.net/images/CINEMA/Rentals/REN_GASOpeningNight26_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/glass-art-society-x-refract-film-festival"
+   }
+  },
+  {
    "id": "godzilla-minus-zero",
    "title": "Godzilla Minus Zero",
    "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life.\n\nJust as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant.\n\nThere is no third time. Everything ends here.",
@@ -1214,6 +1213,23 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/jucks1600-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/stuff-2026-jucks-mystery/"
+   }
+  },
+  {
+   "id": "kokomo-city",
+   "title": "Kokomo City",
+   "description": "In the wildly entertaining and refreshingly unfiltered documentary Kokomo City, filmmaker D. Smith passes the mic to four Black transgender sex workers in Atlanta and New York City – Daniella Carter, Koko Da Doll, Liyah Mitchell, and Dominique Silver – who unapologetically break down the walls of their profession. Holding nothing back, the film vibrates with energy, sex, challenge, and hard-earned wisdom.\n\nThis vital portrait, edited and shot by Smith in bold black and white, is her feature directorial debut. A two-time Grammy-nominated producer, singer, and songwriter, Smith made history as the first trans woman cast on a primetime unscripted TV show. Executive produced by Lena Waithe, KOKOMO CITY won the Sundance Film Festival’s NEXT Innovator Award and NEXT Audience Award, as well as the Berlinale’s Audience Award in the Panorama Documentary section.",
+   "runtime": 73,
+   "year": 2023,
+   "director": "D. Smith",
+   "country": "United States",
+   "language": "English",
+   "genres": [
+    "Documentary"
+   ],
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/06/kokomocity1600-1-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/wtf-with-stuff-kokomo-city/"
    }
   },
   {
@@ -1524,6 +1540,20 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/07/onceuponatimeinseattle1600-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/once-upon-time-seattle/"
+   }
+  },
+  {
+   "id": "opening-night-gas-film-festival",
+   "title": "Opening Night GAS Film Festival",
+   "description": "What if the rock could be a lens? And if it’s not a question of if, but when? Braided Sand engages the geologic materiality of imaging and communication technologies. There is no glass lens without ancient sand, itself the result of hundreds of millions of years of geologic activity. Filmed at a sand mine, a glass factory, and a nanotech laboratory, Braided Sand moves between observation and abstraction, juxtaposing human and geologic timescales, plunging viewers into churning industrial environments to lay bare the weighty earthly bases of seemingly invisible and immaterial infrastructures.",
+   "runtime": 120,
+   "year": 2026,
+   "director": "Tracy Szatan",
+   "country": "USA",
+   "language": "English",
+   "image": "https://www.siff.net/images/CINEMA/Rentals/REN_GASOpeningNight26_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/opening-night-gas-film-festival"
    }
   },
   {
@@ -1896,6 +1926,22 @@
    }
   },
   {
+   "id": "star-trek-iii-the-search-for-spock",
+   "title": "Star Trek III: The Search for Spock",
+   "description": "Admiral Kirk must battle the Klingons to protect the Genesis Planet and save a friend's life.",
+   "runtime": 105,
+   "year": 1984,
+   "director": "Leonard Nimoy",
+   "rating": "PG",
+   "genres": [
+    "Science fiction"
+   ],
+   "image": "https://all.web.img.acsta.net/img/fa/0b/fa0b4cca685012dc16a4539ea850b16a.jpg",
+   "links": {
+    "majestic-bay": "https://www.majesticbay.com/movies/39174-star-trek-iii-the-search-for-spock/"
+   }
+  },
+  {
    "id": "star-trek-the-motion-picture",
    "title": "Star Trek: The Motion Picture",
    "description": "When a destructive space entity is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine, and hopefully stop it.",
@@ -2057,20 +2103,16 @@
   {
    "id": "history-of-concrete",
    "title": "The History of Concrete",
-   "description": "Following the finale of his acclaimed HBO series How To with John Wilson, NYC documentarian John Wilson looks to the bedrock of his beloved New York City for inspiration and structure. Concrete, the world’s most widely used building material, appears as an ever-present life force, and John sets out to make the definitive documentary on the matter. After attending a workshop on how to write and sell a Hallmark movie, he decides to use the industry-approved Hallmark formula to tell this seemingly drab story and increase his movie’s appeal. But his foundation soon begins to crumble—literally and figuratively—as he struggles to balance artistic freedom with the realities of the modern film industry.",
+   "description": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete.",
    "runtime": 101,
    "year": 2026,
    "director": "John Wilson",
    "country": "USA",
    "language": "English",
-   "genres": [
-    "Documentary"
-   ],
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_HistoryofConcrete_1600x900.png",
    "links": {
     "siff-downtown": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-    "nwff": "https://nwfilmforum.org/films/the-history-of-concrete/"
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete"
    }
   },
   {
@@ -2430,6 +2472,20 @@
    }
   },
   {
+   "id": "vagabond",
+   "title": "Vagabond",
+   "description": "Sandrine Bonnaire won the Best Actress César for her portrayal of the defiant young drifter Mona, found frozen to death in a ditch at the beginning of Vagabond. Agnès Varda pieces together Mona’s story through flashbacks told by those who encountered her (played by a largely nonprofessional cast), producing a splintered portrait of an enigmatic woman. With its sparse, poetic imagery, Vagabond is a stunner, and won Varda the top prize at the Venice Film Festival.",
+   "runtime": 105,
+   "year": 1985,
+   "director": "Agnès Varda",
+   "country": "France",
+   "language": "Arabic, French",
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/vagabond1600-3-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/vagabond/"
+   }
+  },
+  {
    "id": "verity",
    "title": "Verity",
    "description": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
@@ -2560,7 +2616,8 @@
    "genres": [
     "Romance",
     "Drama",
-    "Fantasy"
+    "Fantasy",
+    "Comedy"
    ],
    "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/CIN_Wicker_1600x900.png",
    "links": {
@@ -2679,219 +2736,6 @@
   }
  ],
  "showings": [
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-13T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16971/781",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-13T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16969/780",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-13T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16965/717",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-13T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16967/770",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "vertigo",
-   "theater": "central-cinema",
-   "start": "2026-10-13T16:00:00-07:00",
-   "url": "https://central-cinema.com/movie/vertigo/",
-   "tickets": "https://central-cinema.com/checkout/showing/vertigo/3906307"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-13T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36436?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "forgotten-island",
-   "theater": "majestic-bay",
-   "start": "2026-10-13T16:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296642-forgotten-island/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36440?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "lady",
-   "theater": "siff-uptown",
-   "start": "2026-10-13T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/lady",
-   "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-pdqXFSpfxw"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-13T16:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36438?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "siff-downtown",
-   "start": "2026-10-13T16:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-eRa8V6gY48"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-13T16:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-MStKBDhCaf"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-13T16:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-GS7J98dDoG"
-  },
-  {
-   "film": "verity",
-   "theater": "admiral",
-   "start": "2026-10-13T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/verity",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16972/781",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "nwff",
-   "start": "2026-10-13T18:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/the-history-of-concrete/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6abe79909b68e6a9d185d08d"
-  },
-  {
-   "film": "digger",
-   "theater": "admiral",
-   "start": "2026-10-13T18:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/digger",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16970/780",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-13T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16968/770",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-13T18:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16966/717",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-13T18:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36441?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "vertigo",
-   "theater": "central-cinema",
-   "start": "2026-10-13T19:00:00-07:00",
-   "url": "https://central-cinema.com/movie/vertigo/",
-   "tickets": "https://central-cinema.com/checkout/showing/vertigo/3906308"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-13T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36437?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "an-autumn-afternoon",
-   "theater": "nwff",
-   "start": "2026-10-13T19:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/an-autumn-afternoon/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a91d7f67b2641beb16e2616"
-  },
-  {
-   "film": "lady",
-   "theater": "siff-uptown",
-   "start": "2026-10-13T19:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/lady",
-   "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-i16rjGUSdm"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-13T19:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36439?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-13T19:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-ZgHydqTjFq"
-  },
-  {
-   "film": "digger",
-   "theater": "siff-downtown",
-   "start": "2026-10-13T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/digger",
-   "tickets": "https://www.siff.net/cinema/in-theaters/digger#screening-g5VpK2iW9a"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-13T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-E95aV2slcO"
-  },
-  {
-   "film": "blade",
-   "theater": "central-cinema",
-   "start": "2026-10-13T21:50:00-07:00",
-   "url": "https://central-cinema.com/movie/blade/",
-   "tickets": "https://central-cinema.com/checkout/showing/blade/3906309"
-  },
   {
    "film": "verity",
    "theater": "admiral",
@@ -3376,6 +3220,13 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ab4800df371b56f28c8b1aa"
   },
   {
+   "film": "opening-night-gas-film-festival",
+   "theater": "siff-uptown",
+   "start": "2026-10-16T18:00:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/opening-night-gas-film-festival",
+   "tickets": "https://www.siff.net/cinema/in-theaters/opening-night-gas-film-festival#screening-FbnSq1oZ2E"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-10-16T18:45:00-07:00",
@@ -3479,6 +3330,13 @@
    "start": "2026-10-17T11:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-MHR1TJIUIh"
+  },
+  {
+   "film": "glass-art-society-x-refract-film-festival",
+   "theater": "siff-uptown",
+   "start": "2026-10-17T12:00:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/glass-art-society-x-refract-film-festival",
+   "tickets": "https://www.siff.net/cinema/in-theaters/glass-art-society-x-refract-film-festival#screening-BAjAdlhoSQ"
   },
   {
    "film": "singin-in-the-rain",
@@ -4272,10 +4130,7 @@
    "theater": "siff-uptown",
    "start": "2026-10-20T18:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-1ZV6hdCZpl",
-   "notes": [
-    "Sold out"
-   ]
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-1ZV6hdCZpl"
   },
   {
    "film": "hausu-house",
@@ -6724,6 +6579,13 @@
    ]
   },
   {
+   "film": "vagabond",
+   "theater": "nwff",
+   "start": "2026-11-08T15:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/vagabond/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6aceccd96842ad48330bcf08"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-08T15:00:00-08:00",
@@ -6787,6 +6649,13 @@
    ]
   },
   {
+   "film": "vagabond",
+   "theater": "nwff",
+   "start": "2026-11-09T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/vagabond/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6aceccf11d20719af447ffe9"
+  },
+  {
    "film": "la-bola-negra",
    "theater": "siff-uptown",
    "start": "2026-11-09T19:00:00-08:00",
@@ -6813,6 +6682,13 @@
    "start": "2026-11-10T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/la-bola-negra",
    "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-CsNd2cInOa"
+  },
+  {
+   "film": "vagabond",
+   "theater": "nwff",
+   "start": "2026-11-10T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/vagabond/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6aceccf11d20719af447ffee"
   },
   {
    "film": "la-bola-negra",
@@ -7083,6 +6959,30 @@
    "notes": [
     "Nouvelles Femmes"
    ]
+  },
+  {
+   "film": "star-trek-iii-the-search-for-spock",
+   "theater": "majestic-bay",
+   "start": "2026-11-18T19:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/39174-star-trek-iii-the-search-for-spock/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36384?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Special screening"
+   ]
+  },
+  {
+   "film": "kokomo-city",
+   "theater": "nwff",
+   "start": "2026-11-18T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/wtf-with-stuff-kokomo-city/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6a32c5ad11dbb2888ebeb669"
+  },
+  {
+   "film": "zi",
+   "theater": "nwff",
+   "start": "2026-11-18T19:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/zi/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ab171da02ce9929ad1ac3ce"
   }
  ]
 }
