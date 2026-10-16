@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T10:46:00-07:00",
+ "updated": "2026-10-16T10:23:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-15T10:46:00-07:00",
-    "lastSuccess": "2026-10-15T10:46:00-07:00",
-    "showings": 50,
+    "checked": "2026-10-16T10:23:00-07:00",
+    "lastSuccess": "2026-10-16T10:23:00-07:00",
+    "showings": 42,
     "through": "2026-11-15"
    }
   },
@@ -33,9 +33,9 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-15T10:46:00-07:00",
-    "lastSuccess": "2026-10-15T10:46:00-07:00",
-    "showings": 116,
+    "checked": "2026-10-16T10:23:00-07:00",
+    "lastSuccess": "2026-10-16T10:23:00-07:00",
+    "showings": 110,
     "through": "2026-11-17"
    }
   },
@@ -52,8 +52,8 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-15T10:46:00-07:00",
-    "lastSuccess": "2026-10-15T10:46:00-07:00",
+    "checked": "2026-10-16T10:23:00-07:00",
+    "lastSuccess": "2026-10-16T10:23:00-07:00",
     "showings": 28,
     "through": "2026-11-19"
    }
@@ -70,10 +70,10 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-15T10:46:00-07:00",
-    "lastSuccess": "2026-10-15T10:46:00-07:00",
-    "showings": 8,
-    "through": "2026-11-03"
+    "checked": "2026-10-16T10:23:00-07:00",
+    "lastSuccess": "2026-10-16T10:23:00-07:00",
+    "showings": 9,
+    "through": "2026-11-04"
    }
   },
   {
@@ -88,10 +88,10 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-15T10:46:00-07:00",
-    "lastSuccess": "2026-10-15T10:46:00-07:00",
-    "showings": 66,
-    "through": "2026-11-19"
+    "checked": "2026-10-16T10:23:00-07:00",
+    "lastSuccess": "2026-10-16T10:23:00-07:00",
+    "showings": 67,
+    "through": "2026-11-20"
    }
   },
   {
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-15T10:46:00-07:00",
-    "lastSuccess": "2026-10-15T10:46:00-07:00",
-    "showings": 53,
+    "checked": "2026-10-16T10:23:00-07:00",
+    "lastSuccess": "2026-10-16T10:23:00-07:00",
+    "showings": 51,
     "through": "2026-11-05"
    }
   },
@@ -126,8 +126,8 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-15T10:46:00-07:00",
-    "lastSuccess": "2026-10-15T10:46:00-07:00",
+    "checked": "2026-10-16T10:23:00-07:00",
+    "lastSuccess": "2026-10-16T10:23:00-07:00",
     "showings": 32,
     "through": "2026-11-02"
    }
@@ -145,8 +145,8 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-15T10:46:00-07:00",
-    "lastSuccess": "2026-10-15T10:46:00-07:00",
+    "checked": "2026-10-16T10:23:00-07:00",
+    "lastSuccess": "2026-10-16T10:23:00-07:00",
     "showings": 29,
     "through": "2026-10-29"
    }
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-15T10:46:00-07:00",
-    "lastSuccess": "2026-10-15T10:46:00-07:00",
-    "showings": 100,
+    "checked": "2026-10-16T10:23:00-07:00",
+    "lastSuccess": "2026-10-16T10:23:00-07:00",
+    "showings": 94,
     "through": "2026-11-18"
    }
   },
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-15T10:46:00-07:00",
-    "lastSuccess": "2026-10-15T10:46:00-07:00",
-    "showings": 81,
+    "checked": "2026-10-16T10:23:00-07:00",
+    "lastSuccess": "2026-10-16T10:23:00-07:00",
+    "showings": 73,
     "through": "2026-11-14"
    }
   },
@@ -201,8 +201,8 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-15T10:46:00-07:00",
-    "lastSuccess": "2026-10-15T10:46:00-07:00",
+    "checked": "2026-10-16T10:23:00-07:00",
+    "lastSuccess": "2026-10-16T10:23:00-07:00",
     "showings": 15,
     "through": "2026-11-01"
    }
@@ -220,8 +220,8 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-15T10:46:00-07:00",
-    "lastSuccess": "2026-10-15T10:46:00-07:00",
+    "checked": "2026-10-16T10:23:00-07:00",
+    "lastSuccess": "2026-10-16T10:23:00-07:00",
     "showings": 23,
     "through": "2026-11-08"
    }
@@ -594,26 +594,6 @@
    }
   },
   {
-   "id": "digger",
-   "title": "Digger",
-   "description": "Academy Award-winning filmmaker Alejandro G. Iñárritu returns with his original film Digger, starring Tom Cruise in the title role.\n\nThe most powerful man in the world embarks on a frantic mission to prove he is humanity’s savior before the disaster he’s unleashed destroys everything.\n\nCruise stars alongside Oscar winner Riz Ahmed, John Goodman, Oscar nominee Sandra Hüller, Michael Stuhlbarg, and Oscar nominee Jesse Plemons.",
-   "runtime": 128,
-   "year": 2026,
-   "director": "Alejandro G. Iñárritu",
-   "country": "USA, United Kingdom, Mexico",
-   "language": "English",
-   "rating": "R",
-   "genres": [
-    "Action",
-    "Comedy"
-   ],
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_Digger_1600x900.png",
-   "links": {
-    "siff-downtown": "https://www.siff.net/cinema/in-theaters/digger",
-    "majestic-bay": "https://www.majesticbay.com/movies/327174-digger/"
-   }
-  },
-  {
    "id": "dracula-of-exarcheia",
    "title": "Dracula of Exarcheia",
    "description": "A mad orthopedist arrives in Athens from the Carpathians, settles in the anarchist neighborhood of Exarcheia, and starts robbing graves for the body parts of dead musicians. His plan: stitch together the perfect rock band and make a fortune. Unfortunately, the dead have other ideas. Soon Athens’ militant zombies are organizing against the exploitation of their remains.\n\nPart Hammer horror spoof, part punk-rock musical, part political satire and part document of the Greek underground at the dawn of the ’80s, Nikos Zervos’ gloriously disreputable cult oddity throws Frankenstein, Dracula, John Waters, socialist zombies, sexual anarchy and the real-life rock band Mousikes Taxiarhies into a blender. Tzimis Panousis leads a who’s-who of Greek counterculture through 87 minutes of passionate politics and absolute nonsense, culminating in a concert for the living and the dead.\n\nA one-of-a-kind blast of Greek surrealism that has to be seen to be believed.",
@@ -849,22 +829,17 @@
    }
   },
   {
-   "id": "forgotten-island",
-   "title": "Forgotten Island",
-   "description": "While celebrating their last night together, Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali, packed with magical and mythological creatures they grew up hearing stories about from their Filipino families.\n\nSome of these figures will become friends, some foes. Joined by well-meaning-but- hapless weredog Raww (Dave Franco) and a small-but-mighty pack of pals, Jo and Raissa must face The Dreaded Manananggal (Tony winning icon Lea Salonga), the most feared creature on the island. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
-   "runtime": 108,
-   "year": 2026,
-   "director": "Joel Crawford, Januel P. Mercado",
-   "rating": "PG",
-   "genres": [
-    "Animation",
-    "Comedy",
-    "Adventure",
-    "Family"
-   ],
-   "image": "https://all.web.img.acsta.net/img/cb/35/cb3585468dbe56371bcc19bd2d994816.jpg",
+   "id": "foragers",
+   "title": "Foragers",
+   "description": "Foragers depicts the dramas around the practice of foraging for wild edible plants in Palestine with wry humor and a meditative pace. Shot in the Golan Heights, the Galilee and Jerusalem, it employs fiction, documentary and archival footage to portray the impact of Israeli nature protection laws on these customs. The restrictions prohibit the collection of the artichoke-like ’akkoub and za’atar (thyme), and have resulted in fines and trials for hundreds caught collecting these native plants. For Palestinians, these laws constitute an ecological veil for legislation that further disposses them from their land while the Occupation’s representatives insist on their scientific expertise and duty to protect. Following the plants from the wild to the kitchen, from the chases between the foragers and the nature patrol, to courtroom defenses, Foragers captures the joy and knowledge embodied in these traditions alongside their resilience to the prohibitive law. By reframing the terms and constraints of preservation, the film raises questions around the politics of extinction, namely who determines what is made extinct and what gets to live on.",
+   "runtime": 65,
+   "year": 2022,
+   "director": "Jumana Manna",
+   "country": "Palestine - State of",
+   "language": "Arabic, Hebrew",
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/foragers1600-1-1200x675.png",
    "links": {
-    "majestic-bay": "https://www.majesticbay.com/movies/296642-forgotten-island/"
+    "nwff": "https://nwfilmforum.org/films/palestine-cinema-days-2026-foragers/"
    }
   },
   {
@@ -964,20 +939,6 @@
    }
   },
   {
-   "id": "halloween-iii",
-   "title": "Halloween III",
-   "description": "It's time for the Baron's annual screening of what is perhaps the weirdest wildest sequels 80's horror has to offer.\n\nWhen a novelty-toy salesman is attacked by a deadly crew of men in suits, his doctor and his daughter hit the road to uncover a plot that goes massively over the top. Honestly, this film is never under the top. Only over. Just when you think no more weird things can happen...well, you get the idea.\n\nThis is the rogue 1982 sequel that does its own thing. Thankfully, Baron Von Terror will be there to unpack our journey together, and trust us, there is a LOT to unpack.",
-   "director": "Tommy Lee Wallace",
-   "rating": "R",
-   "genres": [
-    "Horror"
-   ],
-   "image": "https://indy-systems.imgix.net/csia79rpbjolbwdq5nibom6abbe9?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
-   "links": {
-    "central-cinema": "https://central-cinema.com/movie/halloween-iii-with-baron-von-terror/"
-   }
-  },
-  {
    "id": "haunted-destination-new-film-from-local-filmmaker-taylor-gut",
    "title": "HAUNTED DESTINATION New film from local filmmaker Taylor Guterson",
    "description": "The new film from local filmmaker Taylor Guterson screens one night only at the North Bend Theatre for free!\n\nWhen strange stories and unexplained incidents begin piling up around North Bend, the town sees an opportunity to reinvent itself as a haunted destination, launching a publicity stunt designed to put the little mountain town on the map. The mayor embraces the idea, while the sheriff remains convinced it is a terrible idea. To help sell the story, the city brings in a team of paranormal investigators to document the town's supposed activity, but what begins as a promotional stunt takes an unsettling turn when one of the investigators disappears. As the mystery unfolds, the story reaches back to Moncton, the settlement that once stood where the waters of Rattlesnake Lake are today, and the people who lost their homes, their community, and their lives when the town was flooded as part of Seattle's effort to secure its water supply. Years later, a young girl becomes fascinated by the legend and, for a school project, travels with her father to Seattle to meet one of the surviving investigators and uncover what really happened",
@@ -1074,7 +1035,7 @@
   {
    "id": "idle-hands",
    "title": "Idle Hands",
-   "description": "Anton is a teenage burnout whose daily agenda consists of smoking weed, watching TV and accomplishing absolutely nothing. Then his right hand gets possessed by the devil and murders his parents. Soon his two best friends are dead, Anton is trying to cut off his own arm, and the hottest girl in the neighborhood is somehow still interested in him. Luckily, death doesn’t prevent anybody from hanging out.\n\nIDLE HANDS could only have escaped from 1999: Devon Sawa in enormous pants, Seth Green and Elden Henson as undead couch potatoes, Jessica Alba in angel wings, The Offspring playing the school Halloween dance and Rob Zombie’s “Dragula” on MTV while everybody gets high on the couch. It captures teenage life in the last few minutes before everything went digital—a suburban wasteland of weed, music videos, convenience stores and endless hours with absolutely nothing to do. Then it dumps a homicidal severed hand into the middle of it and starts spraying glorious rubber gore. Some of it has aged badly, some of it has aged beautifully, and somehow this deeply stupid movie has only grown more lovable with tim",
+   "description": "Anton is a teenage burnout whose daily agenda consists of smoking weed, watching TV and accomplishing absolutely nothing. Then his right hand gets possessed by the devil and murders his parents. Soon his two best friends are dead, Anton is trying to cut off his own arm, and the hottest girl in the neighborhood is somehow still interested in him. Luckily, death doesn’t prevent anybody from hanging out.\n\nIDLE HANDS could only have escaped from 1999: Devon Sawa in enormous pants, Seth Green and Elden Henson as undead couch potatoes, Jessica Alba in angel wings, The Offspring playing the school Halloween dance and Rob Zombie’s “Dragula” on MTV while everybody gets high on the couch. It captures teenage life in the last few minutes before everything went digital—a suburban wasteland of weed, music videos, convenience stores and endless hours with absolutely nothing to do. Then it dumps a homicidal severed hand into the middle of it and starts spraying glorious rubber gore. Some of it has aged badly, some of it has aged beautifully, and somehow this deeply stupid movie has only grown more lovable with time.",
    "runtime": 92,
    "year": 1999,
    "director": "Rodman Flender",
@@ -1182,20 +1143,6 @@
    }
   },
   {
-   "id": "lady",
-   "title": "Lady",
-   "description": "“Those of us pining for Sian Clifford since the end of 'Fleabag' . . . have been rewarded with an outrageous barnstormer in this bizarre mockumentary comedy.” – Peter Bradshaw, The Guardian\n\nIn pursuit of his first big break (and, more importantly, the promise of a Netflix deal), young documentarian Sam agrees to meet with the aristocratic Lady Isabella at her imposing country estate, Ravenhyde Hall. However, even he is shocked by the immense scope of her patrician pompousness and eccentric behavior. Obscenely self-absorbed, she describes herself as \"the aristocracy's answer to the Kardashians\". Her envisioned vanity project, for which she wants Sam to film the making-of, entails an ill-conceived multimedia performance art showcase to debut at the Stately Stars, a local talent show competition for youth held annually at the Hall. Sam agrees to her proposition, sensing a ripe opportunity to skewer Lady Isabella's artistic pretensions, presenting her creative endeavor as nothing more than privileged self-entitlement. And then something unseen and quite strange begins to happen. Sian Clifford, who played Phoebe Waller-Bridge's sister in \"Fleabag\", gives a riotously unhinged performance as Lady Isabella, while director Sam Abrahams brilliantly utilizes the mockumentary format to fashion a comic narrative that plays out like an unholy communion of Grey Gardens, Sunset Boulevard, and \"Ab Fab\" at its most absurd.",
-   "runtime": 95,
-   "year": 2025,
-   "director": "Samuel Abrahams",
-   "country": "United Kingdom",
-   "language": "English",
-   "image": "https://www.siff.net/images/FESTIVAL/2026/Films/Film%20Detail%20Hero%20Images%20-%20Features/Lady.jpg",
-   "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/lady"
-   }
-  },
-  {
    "id": "land-of-the-dead-it-s-for-the-gays",
    "title": "Land of the Dead: it's for the gays",
    "description": "Presented by Scorpio Rising Productions. Land of the Dead: it’s for the gays is a dark, campy horror comedy that explores the intersections of gender identity, addiction, trauma, and Queerness. Through Mel’s confrontation with a literal demon from their past, the film examines the ways unresolved pain can shape identity, relationships, and self-acceptance. Blending supernatural horror with Queer humor and emotional depth, the story uses camp as a tool for both survival and reclamation, creating a space where confronting the past becomes a path toward healing and embracing one’s authentic self.",
@@ -1239,6 +1186,20 @@
    "image": "https://static.spotapps.co/spots/f0/49f9c62c924af5b8f7e61549f70e25/w926",
    "links": {
     "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
+   "id": "love-streams",
+   "title": "Love Streams",
+   "description": "Robert is in headlong flight from the stifling love of the lonely women he writes about in his novels. His sister, Sarah, has alienated their family with precisely that sort of stultifying love. As the streams of their lives, loves and dreams intertwine, these two lost souls begin to find each other and ultimately, themselves.",
+   "runtime": 141,
+   "year": 1984,
+   "director": "John Cassavetes",
+   "country": "United States",
+   "language": "English, French, Spanish",
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/04/lovestreams1600-1-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/unstreamable-love-streams/"
    }
   },
   {
@@ -1336,6 +1297,20 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/mutablearchive1600-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/stuff-2026-mutable-archive-shorts/"
+   }
+  },
+  {
+   "id": "my-brother-s-wedding",
+   "title": "My Brother's Wedding",
+   "description": "In this tragicomic work of realism, Pierce Mundy (Everett Silas) is employed at his parents’ South Central dry cleaners with no prospects for the future — his childhood buddies are all in prison or dead. Pierce’s best friend Soldier (Ronnie Bell) is just getting out of jail. Pierce’s brother Wendell (Monte Easter), an up-and-coming lawyer, is busy planning a wedding to a snooty upper-middle-class black woman named Sonia (Burnett’s wife, Gaye Shannon-Burnett, who co-produced the film). Pierce’s pious, Bible-touting mother (Jessie Holmes) provides occasional comic relief but also a heartfelt moral backbone to the film, as she urges Pierce to accept his responsibility to his family.\n\nWhen Soldier is killed in a car accident, Pierce’s conflicting obligations to family and friends becomes manifested in the choice between his brother’s wedding and his best friend’s funeral— both falling on the same day. The film’s climax has Pierce desperately trying to be two places at once and ending up nowhere.\n\n“The story focuses on a young man who hasn’t made much of his life as of yet, and at a crucial point in his life, he is unable to make the proper decision, a sober decision, a moral decision. This is a consequence of his not having developed beyond the embryonic stage, socially. He has a distinct romantic notion about life in the ghetto and yet, in spite of his naive sensitivity, he is given the task of being his brother’s keeper; he feels rather than sees, and as a consequence his capacity for judging things off in the distance is limited. This brings about circumstances that weave themselves into a set of complexities which Pierce desperately tries to avoid.”\n\n— Charles Burnett",
+   "runtime": 81,
+   "year": 1983,
+   "director": "Charles Burnett",
+   "country": "United States",
+   "language": "English",
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/mybrotherswedding1600-1-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/"
    }
   },
   {
@@ -1458,6 +1433,18 @@
    }
   },
   {
+   "id": "nosferatu",
+   "title": "Nosferatu",
+   "description": "The Halloween tradition is back!\n\nDanny Kolke will be accompanying the classic silent film, Nosferatu (1922), with his wonderfully spooky organ soundtrack!",
+   "runtime": 81,
+   "year": 1922,
+   "rating": "NR",
+   "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/NosferatuSquare.jpg",
+   "links": {
+    "north-bend": "https://tix.northbendtheatre.com/event/nosferatu-1922-with-live-organ-accompaniment-from-danny-kolke-saturday-oct-31st-7pm"
+   }
+  },
+  {
    "id": "once-upon-a-time-in-seattle",
    "title": "Once Upon a Time In Seattle",
    "description": "A perpetually living project, Once Upon a Time in Seattle returns to Northwest Film Forum in a revised, expanded (and shorter!?) edit for this special encore engagement. Comprised of moments from 50 films shot in Seattle (up from 47 in the previous iteration,) and a few irresistible facsimiles, Once Upon a Time in Seattle is part love letter, part loony action adventure, and part free-associative meditation on the transience of landscape in a city that has always had a complicated relationship with honoring its past while moving swiftly (recklessly?) into the future.\n\nThere is no linear narrative, and dialogue is kept to a minimum. The city itself is both location and protagonist, while the function of the human characters, or perhaps more accurately, ciphers, is that of a vessel to move us through the city and occasionally offer loose context or comic relief.\n\nNo single existing shot or sequence is sustained longer than a minute, with most individual shots lasting less than 20 seconds, and over half clocking in at 5 seconds or less. The result is a deceptively complex amalgamation of wholly unrelated material, and an impressively unique editorial/directorial achievement.\n\nSurprisingly weaving numerous throughlines from the many disparate existing narratives, while leaving much open to the viewer’s interpretation, scene chronology floats between seemingly non sequitur, to quietly poignant, depending on the viewer’s own history with the city.\n\nA hyper-local, one-of-a-kind film experience and an opportunity to examine Seattle’s ever-changing landscape as seen through the camera lens, Once Upon a Time in Seattle offers a unique portal to examine our city’s topography (and vibe!) of the past, both near and distant.\n\nIf you saw the premiere in September and loved it, come see how it’s changed!",
@@ -1544,21 +1531,6 @@
    }
   },
   {
-   "id": "primetime",
-   "title": "Primetime",
-   "description": "In 2006, \"To Catch a Predator\" host Chris Hansen sets out to make television history.",
-   "runtime": 110,
-   "year": 2026,
-   "director": "Lance Oppenheim",
-   "country": "USA",
-   "language": "English",
-   "rating": "R",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_Primetime_1600x900.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/primetime"
-   }
-  },
-  {
    "id": "resident-evil",
    "title": "Resident Evil",
    "description": "From the mind of visionary filmmaker Zach Cregger (Weapons, Barbarian) comes a thrilling - and terrifying - reinvention of the Resident Evil franchise. In an all-new story, Resident Evil follows Bryan (Austin Abrams), a medical courier who unwittingly finds himself in an action-packed, non-stop race for survival as one fateful, horrifying night collapses around him in chaos.",
@@ -1579,7 +1551,7 @@
   {
    "id": "rider-of-the-skulls",
    "title": "Rider of the Skulls",
-   "description": "RIDER OF THE SKULLS has 79 minutes and refuses to waste any of them. A werewolf! A vampire! A witch! Walking skeletons! The Headless Horseman! A corpse resurrected from its coffin to identify its own murderer! Alfredo Salazar’s glorious 1965 horror-western plays like an entire Saturday matinee serial crammed into a single feature, tearing through three supernatural adventures with barely enough time between monsters to reload.\n\nHolding this magnificent pile-up together is a masked charro dressed in black, decorated with skulls and apparently prepared to confront any supernatural menace in Mexico with the same basic equipment he’d use against cattle rustlers. The werewolf transforms from man to skeleton to wolf. The vampire turns into a wonderfully handmade flying bat. A cemetery witch summons the dead. The Headless Horseman brings skeleton henchmen. When bullets don’t work, our hero’s next strategy is generally to keep shooting, start punching or find something with a blade. Nobody questions any of this. Why would they?\n\nPart western, part monster movie, part masked-avenger serial, RIDER OF THE SKULLS has the handmade creatures, foggy graveyards and irresistible comic-book logic of a movie dreamed up without anyone around to say no. It has very little money, three monsters to fight and absolutely no time for restraint.\n\n\"A truly sublime artifact. A precious treasure that approaches embodying my platonic ideal of a certain special kind of movie. More than almost any other movie in recent memory, it felt like something that had crawled out of my monstercozy dreams into actual, factual reality. I was transfixed in a kind of awe.\" - Claire Diane",
+   "description": "RIDER OF THE SKULLS has 79 minutes and doesn't waste a single one of them. A werewolf! A vampire! A witch! Walking skeletons! The Headless Horseman! A corpse resurrected from its coffin to identify its own murderer! Alfredo Salazar’s glorious 1965 horror-western plays like an entire Saturday matinee serial crammed into a single feature, tearing through three supernatural adventures with barely enough time between monsters to reload.\n\nHolding this magnificent pile-up together is a masked charro dressed in black, decorated with skulls and prepared to confront any supernatural menace in Mexico. The werewolf transforms from man to skeleton to wolf. The vampire turns into a wonderfully handmade flying bat. A cemetery witch summons the dead. The Headless Horseman brings skeleton henchmen. Nobody questions any of this. Why would they?\n\nPart western, part monster movie, part masked-avenger serial, RIDER OF THE SKULLS has the handmade creatures, foggy graveyards and irresistible comic-book logic of a movie dreamed up without anyone around to say no.\n\n\"A truly sublime artifact. A precious treasure that approaches embodying my platonic ideal of a certain special kind of movie. More than almost any other movie in recent memory, it felt like something that had crawled out of my monstercozy dreams into actual, factual reality. I was transfixed in a kind of awe.\" - Claire Diane",
    "runtime": 79,
    "year": 1965,
    "director": "Alfredo Salazar",
@@ -1623,20 +1595,6 @@
    "image": "https://static.spotapps.co/spots/e0/59dbfbc1a2497a91dc1295507bf17a/w926",
    "links": {
     "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
-   "id": "seattle-film-society-in-focus-tyler-michael-james",
-   "title": "Seattle Film Society In Focus: Tyler Michael James",
-   "description": "The Seattle Film Society's IN FOCUS showcase series returns this October with a screening of Tyler Michael James’s 2022 thriller LOW LIFE!\n\nLOW LIFE follows Benny, a small-time YouTube star who catches predators online, experiences a night from hell when he lets one of them into his own home.\n\nLOW LIFE will be preceded by a screening of the film’s proof-of-concept short, and a conversation about James’s film & career will follow the screening. This event is presented in partnership with the Northwest Film Forum.\n\nThursday October 15th at the Northwest Film Forum. Doors at 6:30, Film at 7. See you at the movies!",
-   "runtime": 120,
-   "year": 2022,
-   "director": "Tyler Michael James",
-   "country": "United States",
-   "language": "English",
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/1600x900-Web-Header-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/seattle-film-society-in-focus-tyler-michael-james/"
    }
   },
   {
@@ -2060,20 +2018,6 @@
    }
   },
   {
-   "id": "hitcher",
-   "title": "The Hitcher",
-   "description": "“What do you want?”\n\"I want you to stop me.\"\n\nOn a dark and stormy night, a fatigued Jim Halsey (C. Thomas Howell), driving cross country from Chicago to deliver a luxury vehicle to its San Diego owner, decides to pick up a mysterious hitchhiker (Rutger Hauer) in West Texas. Hoping for light conversation to fend off drowsiness, Jim ends up with much more than he bargained for: a psychotic killer who whips out a switchblade and dares Jim to stop his killing spree. What follows is a relentlessly sadistic cat-and-mouse nightmare under the unforgiving sun of the American Southwest. Director Robert Harmon utilizes surreal, nightmarish dream logic within the genre framework to deranged ends, putting Jim and his companion Nash (Jennfier Jason Leigh) through the ringer in high gear. The wide open vistas of the desert have never felt so isolating.\n\n35mm print from a private collection.",
-   "runtime": 97,
-   "year": 1986,
-   "director": "Robert Harmon",
-   "country": "USA",
-   "language": "English",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/The%20Open%20Road/hitcher.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/programs-and-events/the-open-road/the-hitcher"
-   }
-  },
-  {
    "id": "joyless-economy",
    "title": "The Joyless Economy",
    "description": "Cinema can sometimes become the ground on which a person’s most intimate desires are built. Marjorie Conrad’s The Joyless Economy unfolds the inner landscape of a woman through an accumulation of film posters and images. Though it follows a woman whose relationship begins to fracture because of her film collection, the film is not ultimately about infidelity or obsession. Its deeper question concerns how two realms shape one another: a life formed under the influence of cinema, and cinema reshaped by the experience of life.\n\nA second-person narration addressed to herself functions both as confession and as a voice of self-analysis, turning the speaker into an object of her own scrutiny. The film was made for a single viewer, yet paradoxically this private letter summons each audience member’s own memories of cinema. The films she has collected no longer remain other people’s stories. Each image encounters life, becoming a new memory and generating a new narrative.\n\n\"Exploring the long relationship between human beings and cinema known as cinephilia, The Joyless Economy becomes a small anthropology of how we collect images and invent ourselves within them.\" — DMZ International Documentary Festival\n\n\"A bracingly, beautifully confessional film that’s as formally inventive as it is emotionally illuminating, Marjorie Conrad’s documentary … is a daring demonstration of all that independent cinema can be.\" – Chase Hutchinson, The Wrap",
@@ -2084,6 +2028,18 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/SFCS%202026/CIN_TheJoylessEconomy_1600x900.png",
    "links": {
     "siff-film-center": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/the-joyless-economy"
+   }
+  },
+  {
+   "id": "last-temptation-of-becky",
+   "title": "The Last Temptation of Becky",
+   "description": "Tickets on sale 10/21!\n\nNow a CIA field agent, Becky (Lulu Wilson) goes undercover in Poland to infiltrate a family running an inn at The Wolf’s Lair, one of Hitler’s WWII bunkers. When she learns the father, Wilhelm Reuss (Neil Patrick Harris), plans to spark the Fourth Reich, Becky must stop him.",
+   "runtime": 89,
+   "year": 2026,
+   "director": "Jenn Wexler",
+   "image": "https://grandillusioncinema.org/wp-content/uploads/2026/10/LastTemptationOfBeckyPoster-550x794.jpg",
+   "links": {
+    "grand-illusion": "https://grandillusioncinema.org/film/the-last-temptation-of-becky/"
    }
   },
   {
@@ -2133,7 +2089,7 @@
    "rating": "PG",
    "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/NightmareBeforeChristmasSquare8.jpg",
    "links": {
-    "north-bend": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-thursday-oct-15th-7pm"
+    "north-bend": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-friday-oct-16th-3pm"
    }
   },
   {
@@ -2405,20 +2361,6 @@
    }
   },
   {
-   "id": "understanding-myself-as-an-amphibian",
-   "title": "Understanding Myself as an Amphibian",
-   "description": "Understanding Myself as an Amphibian is a Queer ecology feature documentary exploring sexual diversity in wildlife, drawing connections between incredible species and the director’s own journey. The film is an enlightening reflection on wildlife and the influences affecting our understanding of animal and human behaviour.\n\nScreens with the short film Objectionable Fruit!\n\n(Hogan Seidel & Gabby Follett, United States, 15m)\n\nObjectionable Fruit is an experimental four channel 16mm documentary short examining the Ginkgo tree—a living fossil celebrated for its resilience and unique capacity to change sexes, defying human-imposed binaries.\n\nCW: Flashing lights",
-   "runtime": 63,
-   "year": 2026,
-   "director": "May Matchim",
-   "country": "United States",
-   "language": "English",
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/understandingamphibian1600-1-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/stuff-2026-understanding-myself-as-an-amphibian-objectionable-fruit/"
-   }
-  },
-  {
    "id": "universal-monster-mash-double-feature",
    "title": "Universal Monster Mash Double Feature",
    "description": "Featuring FRANKENSTEIN MEETS THE WOLF MAN and ABBOTT AND COSTELLO MEET FRANKENSTEIN!\n\nUniversal spent the 1930s turning Dracula, Frankenstein’s Monster and the Wolf Man into movie stars. Then somebody had the bright idea to start putting them in each other’s movies. This double feature catches the Universal monster rally at its beginning and its glorious peak: first the movie that brought two horror franchises crashing together, then the one that let Abbott and Costello hang out in the wreckage.\n\nIt starts with poor Larry Talbot. All the Wolf Man wants is to die. Instead, grave robbers dig him up, the full moon brings him back to life, and his search for a permanent cure leads him straight to the frozen body of Frankenstein’s Monster. FRANKENSTEIN MEETS THE WOLF MAN piles on foggy graveyards, ruined castles, terrified villagers, mad science, Bela Lugosi in neck bolts, Lon Chaney Jr. suffering beautifully and a cheerful musical number called “Life Is Short, but Death Is Long” before finally delivering on the promise of its title: two monsters beating the hell out of each other while the laboratory comes down around them.\n\nFive years later, Universal decided what this situation needed was Lou Costello. Dracula wants his brain for Frankenstein’s Monster. The Wolf Man wants to stop Dracula. Bud Abbott doesn’t believe any of this is happening. And Bela Lugosi, returning to Dracula for the first time since 1931, treats the whole ridiculous situation with the dignity of a bloodsucking aristocrat whose evil scheme does not involve two vaudeville comedians. ABBOTT AND COSTELLO MEET FRANKENSTEIN somehow lets the monsters remain scary, Abbott and Costello remain funny, and both movies occupy the same frame without anybody blinking. Dracula turns into a bat. The Wolf Man goes through a window. Frankenstein’s Monster throws a woman out another window. And when the dust settles, Universal has somehow made one of its funniest comedies and one of its greatest monster movies at the same time.\n\nTwo movies, five years apart, tracing one of the happiest developments in horror history: Universal turning its stable of monsters into the world’s ugliest repertory company.",
@@ -2664,211 +2606,6 @@
  ],
  "showings": [
   {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-15T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16973/794"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-15T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16957/717"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-15T15:50:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16975/795"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-15T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16959/770"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-15T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36460?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "forgotten-island",
-   "theater": "majestic-bay",
-   "start": "2026-10-15T16:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296642-forgotten-island/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36461?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "digger",
-   "theater": "siff-downtown",
-   "start": "2026-10-15T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/digger",
-   "tickets": "https://www.siff.net/cinema/in-theaters/digger#screening-UJRmbMBVc0"
-  },
-  {
-   "film": "lady",
-   "theater": "siff-uptown",
-   "start": "2026-10-15T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/lady",
-   "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-pdPLZEDC6d"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-15T16:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36462?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "primetime",
-   "theater": "siff-uptown",
-   "start": "2026-10-15T16:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/primetime",
-   "tickets": "https://www.siff.net/cinema/in-theaters/primetime#screening-ipFNHLCtYy"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-15T16:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-tHQJ7G6h53"
-  },
-  {
-   "film": "cartoon-happy-hour",
-   "theater": "central-cinema",
-   "start": "2026-10-15T17:00:00-07:00",
-   "url": "https://central-cinema.com/movie/cartoon-happy-hour/",
-   "tickets": "https://central-cinema.com/checkout/showing/cartoon-happy-hour/3906314",
-   "notes": [
-    "Free admission"
-   ]
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-15T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16974/794"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-15T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16976/795"
-  },
-  {
-   "film": "understanding-myself-as-an-amphibian",
-   "theater": "nwff",
-   "start": "2026-10-15T18:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/stuff-2026-understanding-myself-as-an-amphibian-objectionable-fruit/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6ab47a79e83f8185143f9444",
-   "notes": [
-    "With Objectionable Fruit"
-   ]
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-15T18:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16958/717"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-15T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16960/770"
-  },
-  {
-   "film": "digger",
-   "theater": "majestic-bay",
-   "start": "2026-10-15T18:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/327174-digger/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36463?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-15T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36464?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "nightmare-before-christmas",
-   "theater": "north-bend",
-   "start": "2026-10-15T19:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-thursday-oct-15th-7pm",
-   "tickets": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-thursday-oct-15th-7pm"
-  },
-  {
-   "film": "seattle-film-society-in-focus-tyler-michael-james",
-   "theater": "nwff",
-   "start": "2026-10-15T19:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/seattle-film-society-in-focus-tyler-michael-james/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6abd2b39f7426b0a8d871092",
-   "notes": [
-    "Visiting artist"
-   ]
-  },
-  {
-   "film": "hitcher",
-   "theater": "siff-uptown",
-   "start": "2026-10-15T19:00:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/the-open-road/the-hitcher",
-   "tickets": "https://www.siff.net/programs-and-events/the-open-road/the-hitcher#screening-PxCaq8rbON",
-   "notes": [
-    "The Open Road",
-    "35mm"
-   ]
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-15T19:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36465?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-15T19:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-p0jUQwQeCY"
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-15T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-vDDJCK8UMn"
-  },
-  {
-   "film": "lady",
-   "theater": "siff-uptown",
-   "start": "2026-10-15T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/lady",
-   "tickets": "https://www.siff.net/cinema/in-theaters/lady#screening-6QInJ3Wj9p"
-  },
-  {
-   "film": "halloween-iii",
-   "theater": "central-cinema",
-   "start": "2026-10-15T20:00:00-07:00",
-   "url": "https://central-cinema.com/movie/halloween-iii-with-baron-von-terror/",
-   "tickets": "https://central-cinema.com/checkout/showing/halloween-iii-with-baron-von-terror/3906315",
-   "notes": [
-    "With Baron Von Terror"
-   ]
-  },
-  {
    "film": "nightmare-before-christmas",
    "theater": "north-bend",
    "start": "2026-10-16T15:00:00-07:00",
@@ -2997,7 +2734,7 @@
    "theater": "admiral",
    "start": "2026-10-16T18:30:00-07:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16978/794"
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17081/794"
   },
   {
    "film": "whalefall",
@@ -3795,7 +3532,10 @@
    "theater": "siff-uptown",
    "start": "2026-10-18T18:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-kD3GFVZppP"
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-kD3GFVZppP",
+   "notes": [
+    "Sold out"
+   ]
   },
   {
    "film": "beetlejuice",
@@ -4272,7 +4012,10 @@
    "theater": "siff-uptown",
    "start": "2026-10-20T18:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-1ZV6hdCZpl"
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-1ZV6hdCZpl",
+   "notes": [
+    "Sold out"
+   ]
   },
   {
    "film": "loose-canon-films",
@@ -4863,13 +4606,6 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-EeEU13bZwt"
   },
   {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-23T16:40:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-2h0QRnWDrJ"
-  },
-  {
    "film": "begotten",
    "theater": "nwff",
    "start": "2026-10-23T17:00:00-07:00",
@@ -5084,13 +4820,6 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-fEsCKxaCuI"
   },
   {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-24T14:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-VuosqmQKZ8"
-  },
-  {
    "film": "seattle-polish-film-festival-brother",
    "theater": "siff-uptown",
    "start": "2026-10-24T14:00:00-07:00",
@@ -5205,13 +4934,6 @@
    ]
   },
   {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-24T17:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-eGqAkErlgd"
-  },
-  {
    "film": "tenzing",
    "theater": "tasveer",
    "start": "2026-10-24T17:00:00-07:00",
@@ -5314,13 +5036,6 @@
    "start": "2026-10-24T20:00:00-07:00",
    "url": "https://nwfilmforum.org/films/mourning-sickness-vol-5-elvira-mistress-of-the-dark/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/69aa5ef70f3538f0aa58bb68"
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-24T20:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-7vWqn3T8NY"
   },
   {
    "film": "rocky-horror-picture-show",
@@ -5431,13 +5146,6 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/wildwood/4003609"
   },
   {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-25T15:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-SqXkCIx8ak"
-  },
-  {
    "film": "you-can-see-everything",
    "theater": "tasveer",
    "start": "2026-10-25T15:00:00-07:00",
@@ -5526,13 +5234,6 @@
    "notes": [
     "4K restoration"
    ]
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-25T18:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-IQrR2cjPAc"
   },
   {
    "film": "nagarkirtan",
@@ -6360,6 +6061,16 @@
    ]
   },
   {
+   "film": "nosferatu",
+   "theater": "north-bend",
+   "start": "2026-10-31T19:00:00-07:00",
+   "url": "https://tix.northbendtheatre.com/event/nosferatu-1922-with-live-organ-accompaniment-from-danny-kolke-saturday-oct-31st-7pm",
+   "tickets": "https://tix.northbendtheatre.com/event/nosferatu-1922-with-live-organ-accompaniment-from-danny-kolke-saturday-oct-31st-7pm",
+   "notes": [
+    "Live Organ Accompaniment from Danny Kolke"
+   ]
+  },
+  {
    "film": "rocky-horror-picture-show",
    "theater": "tin-room",
    "start": "2026-10-31T19:00:00-07:00",
@@ -6501,6 +6212,13 @@
    ]
   },
   {
+   "film": "foragers",
+   "theater": "nwff",
+   "start": "2026-11-02T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/palestine-cinema-days-2026-foragers/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ad11b002d42323c6b6822b4"
+  },
+  {
    "film": "two-lane-blacktop",
    "theater": "siff-film-center",
    "start": "2026-11-02T19:00:00-08:00",
@@ -6595,6 +6313,12 @@
    "start": "2026-11-04T19:00:00-08:00",
    "url": "https://nwfilmforum.org/films/engauge-2026-tactility-and-memory/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ac54041dfd1d1dc8a50ca6c"
+  },
+  {
+   "film": "last-temptation-of-becky",
+   "theater": "grand-illusion",
+   "start": "2026-11-04T19:30:00-08:00",
+   "url": "https://grandillusioncinema.org/film/the-last-temptation-of-becky/"
   },
   {
    "film": "godzilla-minus-zero",
@@ -7261,6 +6985,23 @@
    "notes": [
     "The Open Road",
     "35mm"
+   ]
+  },
+  {
+   "film": "love-streams",
+   "theater": "nwff",
+   "start": "2026-11-20T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/unstreamable-love-streams/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6a20663ad0545ffbd6ee3de5"
+  },
+  {
+   "film": "my-brother-s-wedding",
+   "theater": "nwff",
+   "start": "2026-11-20T19:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac594b60f31c7fe3a8004ce",
+   "notes": [
+    "4K restoration"
    ]
   }
  ]
