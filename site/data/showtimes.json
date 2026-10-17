@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T10:23:00-07:00",
+ "updated": "2026-10-17T09:24:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-16T10:23:00-07:00",
-    "lastSuccess": "2026-10-16T10:23:00-07:00",
-    "showings": 42,
+    "checked": "2026-10-17T09:24:00-07:00",
+    "lastSuccess": "2026-10-17T09:24:00-07:00",
+    "showings": 40,
     "through": "2026-11-15"
    }
   },
@@ -33,9 +33,9 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-16T10:23:00-07:00",
-    "lastSuccess": "2026-10-16T10:23:00-07:00",
-    "showings": 110,
+    "checked": "2026-10-17T09:24:00-07:00",
+    "lastSuccess": "2026-10-17T09:24:00-07:00",
+    "showings": 104,
     "through": "2026-11-17"
    }
   },
@@ -52,8 +52,8 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-16T10:23:00-07:00",
-    "lastSuccess": "2026-10-16T10:23:00-07:00",
+    "checked": "2026-10-17T09:24:00-07:00",
+    "lastSuccess": "2026-10-17T09:24:00-07:00",
     "showings": 28,
     "through": "2026-11-19"
    }
@@ -70,8 +70,8 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-16T10:23:00-07:00",
-    "lastSuccess": "2026-10-16T10:23:00-07:00",
+    "checked": "2026-10-17T09:24:00-07:00",
+    "lastSuccess": "2026-10-17T09:24:00-07:00",
     "showings": 9,
     "through": "2026-11-04"
    }
@@ -88,10 +88,10 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-16T10:23:00-07:00",
-    "lastSuccess": "2026-10-16T10:23:00-07:00",
-    "showings": 67,
-    "through": "2026-11-20"
+    "checked": "2026-10-17T09:24:00-07:00",
+    "lastSuccess": "2026-10-17T09:24:00-07:00",
+    "showings": 77,
+    "through": "2026-11-21"
    }
   },
   {
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-16T10:23:00-07:00",
-    "lastSuccess": "2026-10-16T10:23:00-07:00",
-    "showings": 51,
+    "checked": "2026-10-17T09:24:00-07:00",
+    "lastSuccess": "2026-10-17T09:24:00-07:00",
+    "showings": 48,
     "through": "2026-11-05"
    }
   },
@@ -126,8 +126,8 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-16T10:23:00-07:00",
-    "lastSuccess": "2026-10-16T10:23:00-07:00",
+    "checked": "2026-10-17T09:24:00-07:00",
+    "lastSuccess": "2026-10-17T09:24:00-07:00",
     "showings": 32,
     "through": "2026-11-02"
    }
@@ -145,8 +145,8 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-16T10:23:00-07:00",
-    "lastSuccess": "2026-10-16T10:23:00-07:00",
+    "checked": "2026-10-17T09:24:00-07:00",
+    "lastSuccess": "2026-10-17T09:24:00-07:00",
     "showings": 29,
     "through": "2026-10-29"
    }
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-16T10:23:00-07:00",
-    "lastSuccess": "2026-10-16T10:23:00-07:00",
-    "showings": 94,
+    "checked": "2026-10-17T09:24:00-07:00",
+    "lastSuccess": "2026-10-17T09:24:00-07:00",
+    "showings": 88,
     "through": "2026-11-18"
    }
   },
@@ -182,10 +182,10 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-16T10:23:00-07:00",
-    "lastSuccess": "2026-10-16T10:23:00-07:00",
-    "showings": 73,
-    "through": "2026-11-14"
+    "checked": "2026-10-17T09:24:00-07:00",
+    "lastSuccess": "2026-10-17T09:24:00-07:00",
+    "showings": 62,
+    "through": "2026-11-21"
    }
   },
   {
@@ -201,10 +201,10 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-16T10:23:00-07:00",
-    "lastSuccess": "2026-10-16T10:23:00-07:00",
-    "showings": 15,
-    "through": "2026-11-01"
+    "checked": "2026-10-17T09:24:00-07:00",
+    "lastSuccess": "2026-10-17T09:24:00-07:00",
+    "showings": 13,
+    "through": "2026-10-31"
    }
   },
   {
@@ -220,9 +220,9 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-16T10:23:00-07:00",
-    "lastSuccess": "2026-10-16T10:23:00-07:00",
-    "showings": 23,
+    "checked": "2026-10-17T09:24:00-07:00",
+    "lastSuccess": "2026-10-17T09:24:00-07:00",
+    "showings": 20,
     "through": "2026-11-08"
    }
   }
@@ -563,7 +563,7 @@
    "id": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
    "title": "Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift; a fragmentary passage",
    "description": "Castration Movie is a multi-part postmodern epic by visionary auteur Louise Weard. In Chapter iii. Junior Ghosts—Premorphic Drift, Izzy (Avalon Fast) seeks out everything in her power to stop her partner (Henri Gillespi) from transitioning.",
-   "runtime": 150,
+   "runtime": 126,
    "year": 2026,
    "director": "Louise Weard",
    "country": "Canada",
@@ -582,15 +582,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jan-May/CIN_CatVidFest26_1600x900.png",
    "links": {
     "siff-uptown": "https://www.siff.net/cinema/in-theaters/cat-vid-fest-26"
-   }
-  },
-  {
-   "id": "clue",
-   "title": "Clue",
-   "description": "A group of strangers is invited to a remote mansion for a mysterious dinner party. When one of the guests turns up dead, the remaining attendees realize they're all suspects in a bizarre and comedic murder mystery. As they search for the killer, they uncover shocking secrets and unexpected twists, encountering familiar characters like Colonel Mustard, Miss Scarlet, and the astute butler, Wadsworth. The investigation is filled with laughter and suspense, keeping everyone guessing until the final, surprising reveal.",
-   "image": "https://static.spotapps.co/spots/50/757b1892eb41f0addb2f007d2947f6/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -1059,20 +1050,6 @@
    }
   },
   {
-   "id": "irreversible",
-   "title": "Irreversible",
-   "description": "This Halloween series is co-presented by Monday Mourning and Scarecrow Video, where every ticket directly benefits the world’s largest physical media archive, so no romance, no comedy, not even New French Extremity, is lost to time. Each Trauma Bond screening features a live Drag pre-show with Miss Monday.\n\nOne night. An unforgivable act. A tale told in reverse.\n\nAcclaimed filmmaker Gaspar Noé’s unflinching exploration of human savagery and the uncompromising nature of time, Irreversible was met with a groundswell of acclaim and uproar upon its premiere at Cannes in 2002. Stylish, sexually frank, and brutal, the film’s conceit of exploring the events of one terrible night on the streets of Paris in reverse chronological order was celebrated and derided in equal measure, helping to further cement Noé’s legacy as a cinematic enfant terrible.",
-   "runtime": 97,
-   "year": 2002,
-   "director": "Gaspar Noé",
-   "country": "France",
-   "language": "English, French, Italian, Spanish",
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/08/irreversible1600-1-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/trauma-bond-irreversible/"
-   }
-  },
-  {
    "id": "isle-of-the-dead",
    "title": "Isle of the Dead",
    "description": "War, plague, superstition, premature burial and Boris Karloff, all trapped together on a tiny Greek island. Inspired by Arnold Böcklin’s famously ominous painting, ISLE OF THE DEAD finds producer Val Lewton at his most morbid, surrounding a handful of characters with death and slowly closing off every possible escape.\n\nDuring the Balkan Wars of 1912, Karloff’s severe General Pherides travels to an island cemetery to visit his wife’s grave, only to discover that plague has arrived before him. The island is placed under quarantine, and as its inhabitants begin dying one by one, an elderly woman insists that disease isn’t the only thing preying upon them. She suspects a vorvolaka, a vampiric creature of Greek folklore. Pherides initially dismisses such beliefs as dangerous superstition, but as the deaths mount and isolation takes its toll, his certainty begins to crumble. Karloff gives one of his richest performances as a man accustomed to commanding soldiers who discovers that neither discipline nor reason can command death.\n\nLewton and director Mark Robson turn the island into a suffocating chamber of graves, shuttered rooms and mounting fear, where plague and superstition seem to spread together. Patient and dread-filled, ISLE OF THE DEAD saves its most terrible visions for the final stretch, when its restrained study of people under pressure gives way to one of the great nightmares of 1940s horror. Even James Agee, otherwise skeptical of the film, called its final half hour “as brutally frightening and gratifying a horror movie as I can remember.” Few films in Lewton’s extraordinary RKO cycle stare more directly into the grave.",
@@ -1462,20 +1439,6 @@
    }
   },
   {
-   "id": "opening-night-gas-film-festival",
-   "title": "Opening Night GAS Film Festival",
-   "description": "What if the rock could be a lens? And if it’s not a question of if, but when? Braided Sand engages the geologic materiality of imaging and communication technologies. There is no glass lens without ancient sand, itself the result of hundreds of millions of years of geologic activity. Filmed at a sand mine, a glass factory, and a nanotech laboratory, Braided Sand moves between observation and abstraction, juxtaposing human and geologic timescales, plunging viewers into churning industrial environments to lay bare the weighty earthly bases of seemingly invisible and immaterial infrastructures.",
-   "runtime": 120,
-   "year": 2026,
-   "director": "Tracy Szatan",
-   "country": "USA",
-   "language": "English",
-   "image": "https://www.siff.net/images/CINEMA/Rentals/REN_GASOpeningNight26_1600x900.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/opening-night-gas-film-festival"
-   }
-  },
-  {
    "id": "pierrot-le-fou",
    "title": "Pierrot le Fou",
    "description": "A poet experiences the world and expresses it in words, images, emotions. Pierrot is Jean-Luc Godard’s free-form ode to “an artist and his girl in love, the last romantic couple,” made poignant because his seven-film relationship with Anna Karina, and their marriage, would soon be over. In the film they are personified as Ferdinand (Jean-Paul Belmondo) and Marianne (Anna Karina). Ferdinand, fed up with his life of oppressive bourgeois conformity, leaves his marriage-with-child for spontaneous road adventures with babysitter Marianne. In a euphoric rule-breaking rush, the couple speeds to an idyllic secluded island on the French Riviera. Ferdinand is now free to contemplate quietly and work on his book, with Marianne as his affectionate, inspiring companion. But she loves to sing and dance: “I’ve had it with nature, eating from cans, that’s it!” So its back to “civilization,” and what Marianne calls “a police novel, revolvers, nightclubs.” Ferdinand discovers that there’s more to Marianne’s story than he realized, and he responds accordingly, moment-to-moment: existential choice made profoundly literal. As Godard says, “The world between two flickers of the eyelids, the sadness between two heart-beats.” When Karina boldly gazes into Godard’s camera, at us, we feel both their hearts beating. In Godard’s deeply personal cinema, love can be both lost and eternal, the horizon where sun unites with sea.",
@@ -1572,29 +1535,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Scarecrowber%202026/CIN_Ringu_1600x900.png",
    "links": {
     "siff-film-center": "https://www.siff.net/programs-and-events/scarecrowber-2026/ringu"
-   }
-  },
-  {
-   "id": "scare-package-shorts",
-   "title": "Scare Package (Shorts)",
-   "description": "Destiny and desire lead us to nightmarish worlds. A complete package of shorts that delve into body horror, camp, psychosexual fantasy, and the grotesque.\n\nCW: Blood / Gore\n\nFILMS IN THIS PROGRAM:\n\nBurning of a Family Tree (Alison Mattingly, United States, 12m)\n\nWhen Eden returns home to their estranged family after the death of their abusive father, they are forced to confront their traumatic past… and their father’s reanimated corpse.\n\nCW: Religious psychosis\n\nCHASER (Jesse Williams, United Kingdom, 10m)\n\nWhen Sophia, a trans woman on a night out crosses paths with the seemingly charming Callum, she realizes he may not have her best interest at heart…\n\nCW: Flashing lights\n\nThe Dysphoria (Kylie Aoibheann, Australia, 13m)\n\nA trans woman performs a satanic ritual to get a vagina, but unwittingly invites a demonic presence into her home who demands a terrible sacrifice.\n\nAutonecrophile: What It Is To Be An Exquisite Corpse (Maxine Sizemore, United States, 11m)\n\nBased on the filmmakers experience of OCD induced Cotard syndrome, Autonecrophile is an experimental horror short told from the perspective of a conscious dead body who gains the memories of the necrophiliac ex boyfriend who killed her, finding she died long before she wound up in her coffin.\n\nCW: Cancer, necrophilia\n\nDahlia Has a Phobia (Lenox Myette, United States, 14m)\n\nTwo women retreat for a quiet weekend to salvage their unraveling relationship. But when one’s crippling fear of scarecrows resurfaces, their fragile dynamic begins to fracture.\n\nCW: Relational abuse\n\nGod Hates a Coward (David Leo, United States, 11m)\n\nA young transgender man goes into a psychosexual spiral after meeting the object of his desires: an aging punk vocalist.\n\nCW: Flashing lights, sexual violence, transphobia\n\nResurrect Me as a Parasite (Lou Lou Sainsbury & Gabi Dao, Netherlands, 10m)\n\nA vampiric trio facilitates the transition of a new host across a former limestone quarry and the sacred mountain grotto of Mary Magdalene, troubling the binaries of life, death, gender and parasitism.",
-   "runtime": 82,
-   "year": 2026,
-   "genres": [
-    "Shorts"
-   ],
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/scarepackage1600-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/stuff-2026-scare-package-shorts/"
-   }
-  },
-  {
-   "id": "scary-movie",
-   "title": "Scary Movie",
-   "description": "This film fearlessly spoofs popular movies and trends, delivering a rapid-fire barrage of jokes inspired by Scream, The Sixth Sense, The Matrix, I Know What You Did Last Summer, and The Blair Witch Project. It lampoons familiar teen movie tropes and memorable moments from recent films, television shows, and commercials, pushing the boundaries of parody with a no-holds-barred approach.",
-   "image": "https://static.spotapps.co/spots/e0/59dbfbc1a2497a91dc1295507bf17a/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -2089,7 +2029,7 @@
    "rating": "PG",
    "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/NightmareBeforeChristmasSquare8.jpg",
    "links": {
-    "north-bend": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-friday-oct-16th-3pm"
+    "north-bend": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-saturday-oct-17th-3pm"
    }
   },
   {
@@ -2166,7 +2106,7 @@
    "id": "rocky-horror-picture-show",
    "title": "The Rocky Horror Picture Show",
    "description": "Rocky Horror is back at the North Bend Theatre!\n\nIn this cult classic, sweethearts Brad (Barry Bostwick) and Janet (Susan Sarandon), stuck with a flat tire during a storm, discover the eerie mansion of Dr. Frank-N-Furter (Tim Curry), a transvestite scientist. As their innocence is lost, Brad and Janet meet a houseful of wild characters, including a rocking biker (Meat Loaf) and a creepy butler (Richard O'Brien). Through elaborate dances and rock songs, Frank-N-Furter unveils his latest creation: a muscular man named \"Rocky.\"",
-   "runtime": 100,
+   "runtime": 128,
    "year": 1975,
    "director": "Jim Sharman",
    "rating": "R",
@@ -2307,20 +2247,6 @@
    "image": "https://indy-systems.imgix.net/lxkyi3qur2rbnpjlzyqdm9i2dgei?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
    "links": {
     "central-cinema": "https://central-cinema.com/movie/cinemancy-train-to-busan/"
-   }
-  },
-  {
-   "id": "trans-panic",
-   "title": "Trans Panic!",
-   "description": "A Christian trans hyperpop musician teams up with an intersex incel filmmaker on a mad plan involving performative terrorism, career-launching martyrdom, and a chaotic love triangle that might include JD Vance. This film asks: What if your intersectionality intersected with evil and made you suck a lot?\n\nCW: Flashing lights",
-   "runtime": 93,
-   "year": 2026,
-   "director": "Gren Bee",
-   "country": "United States",
-   "language": "English",
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/3-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/stuff-2026-trans-panic/"
    }
   },
   {
@@ -2605,276 +2531,6 @@
   }
  ],
  "showings": [
-  {
-   "film": "nightmare-before-christmas",
-   "theater": "north-bend",
-   "start": "2026-10-16T15:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-friday-oct-16th-3pm",
-   "tickets": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-friday-oct-16th-3pm"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-16T15:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-gxWycM0kD8"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-16T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16977/794"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-16T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16981/717"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-16T15:50:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16979/795"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-16T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16983/770"
-  },
-  {
-   "film": "hausu-house",
-   "theater": "central-cinema",
-   "start": "2026-10-16T16:00:00-07:00",
-   "url": "https://central-cinema.com/movie/hausu-house/",
-   "tickets": "https://central-cinema.com/checkout/showing/hausu-house/3918198"
-  },
-  {
-   "film": "singin-in-the-rain",
-   "theater": "majestic-bay",
-   "start": "2026-10-16T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36508?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
-   "notes": [
-    "Double Feature",
-    "Majestic Bay Doc",
-    "Free"
-   ]
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-16T16:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-nVw03qI3s3"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-16T16:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36470?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "devils",
-   "theater": "siff-uptown",
-   "start": "2026-10-16T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-vcSJmlnX6P"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-16T16:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36468?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-16T16:40:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-Vrh8EPkt6l"
-  },
-  {
-   "film": "nightmare-before-christmas",
-   "theater": "north-bend",
-   "start": "2026-10-16T17:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-friday-oct-16th-5pm",
-   "tickets": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-friday-oct-16th-5pm"
-  },
-  {
-   "film": "scare-package-shorts",
-   "theater": "nwff",
-   "start": "2026-10-16T17:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/stuff-2026-scare-package-shorts/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6ab47d7643e5ae151ea85af6"
-  },
-  {
-   "film": "trans-panic",
-   "theater": "nwff",
-   "start": "2026-10-16T18:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/stuff-2026-trans-panic/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6ab4800df371b56f28c8b1aa"
-  },
-  {
-   "film": "opening-night-gas-film-festival",
-   "theater": "siff-uptown",
-   "start": "2026-10-16T18:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/opening-night-gas-film-festival",
-   "tickets": "https://www.siff.net/cinema/in-theaters/opening-night-gas-film-festival#screening-FbnSq1oZ2E"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-16T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17081/794"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-16T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16980/795"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-16T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16984/770"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-16T18:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16982/717"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-16T18:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-IOtai67XCB",
-   "notes": [
-    "Sold out"
-   ]
-  },
-  {
-   "film": "grosse-pointe-blank",
-   "theater": "central-cinema",
-   "start": "2026-10-16T19:00:00-07:00",
-   "url": "https://central-cinema.com/movie/grosse-pointe-blank/",
-   "tickets": "https://central-cinema.com/checkout/showing/grosse-pointe-blank/3918200"
-  },
-  {
-   "film": "singin-in-the-rain",
-   "theater": "majestic-bay",
-   "start": "2026-10-16T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36466?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
-   "notes": [
-    "Double Feature",
-    "Majestic Bay Doc",
-    "Free"
-   ]
-  },
-  {
-   "film": "nightmare-before-christmas",
-   "theater": "north-bend",
-   "start": "2026-10-16T19:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-friday-oct-16th-7pm",
-   "tickets": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-friday-oct-16th-7pm"
-  },
-  {
-   "film": "clue",
-   "theater": "tin-room",
-   "start": "2026-10-16T19:00:00-07:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-16T19:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36471?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "devils",
-   "theater": "siff-uptown",
-   "start": "2026-10-16T19:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-ABjs9RVuW7"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-16T19:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36469?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-16T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-wGF29cZmJ1"
-  },
-  {
-   "film": "irreversible",
-   "theater": "nwff",
-   "start": "2026-10-16T20:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/trauma-bond-irreversible/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a91ca09361173dfc89450f6"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-16T21:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16993/794",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-16T21:05:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16991/717"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-16T21:10:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16994/795",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "hausu-house",
-   "theater": "central-cinema",
-   "start": "2026-10-16T21:30:00-07:00",
-   "url": "https://central-cinema.com/movie/hausu-house/",
-   "tickets": "https://central-cinema.com/checkout/showing/hausu-house/3918199"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-16T21:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16992/770"
-  },
   {
    "film": "met-opera-2026-2027-macbeth",
    "theater": "admiral",
@@ -3180,7 +2836,10 @@
    "theater": "siff-uptown",
    "start": "2026-10-17T19:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-yDPKKOcKGb"
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-yDPKKOcKGb",
+   "notes": [
+    "Sold out"
+   ]
   },
   {
    "film": "shining",
@@ -3399,7 +3058,10 @@
    "theater": "siff-uptown",
    "start": "2026-10-18T14:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-OZsw3dAqc0"
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-OZsw3dAqc0",
+   "notes": [
+    "Sold out"
+   ]
   },
   {
    "film": "shrek-the-musical",
@@ -3829,7 +3491,10 @@
    "theater": "siff-uptown",
    "start": "2026-10-19T19:15:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-G1TePUjGsc"
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-G1TePUjGsc",
+   "notes": [
+    "Sold out"
+   ]
   },
   {
    "film": "begotten",
@@ -4286,13 +3951,6 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-sM1te1EqLd"
   },
   {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-21T19:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36507?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
    "film": "universal-monster-mash-double-feature",
    "theater": "beacon",
    "start": "2026-10-21T19:30:00-07:00",
@@ -4305,6 +3963,13 @@
    "start": "2026-10-21T19:30:00-07:00",
    "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36506?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "social-reckoning",
+   "theater": "majestic-bay",
+   "start": "2026-10-21T19:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36507?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "case-of-the-three-sided-dream",
@@ -5123,6 +4788,12 @@
    "start": "2026-10-25T14:00:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/take-me-home",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/take-me-home/4003544"
+  },
+  {
+   "film": "sweeney-todd",
+   "theater": "tin-room",
+   "start": "2026-10-25T14:00:00-07:00",
+   "url": "https://tinroombar.com/events"
   },
   {
    "film": "bernstein-s-wall",
@@ -6111,17 +5782,17 @@
    ]
   },
   {
-   "film": "sweeney-todd",
-   "theater": "tin-room",
-   "start": "2026-11-01T14:00:00-08:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
    "film": "wildwood",
    "theater": "north-bend",
    "start": "2026-11-01T15:00:00-08:00",
    "url": "https://tix.northbendtheatre.com/event/wildwood-sunday-nov-1st-3pm",
    "tickets": "https://tix.northbendtheatre.com/event/wildwood-sunday-nov-1st-3pm"
+  },
+  {
+   "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
+   "theater": "nwff",
+   "start": "2026-11-01T15:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/"
   },
   {
    "film": "once-upon-a-time-in-seattle",
@@ -6141,10 +5812,10 @@
    ]
   },
   {
-   "film": "scary-movie",
-   "theater": "tin-room",
-   "start": "2026-11-01T18:00:00-08:00",
-   "url": "https://tinroombar.com/events"
+   "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
+   "theater": "nwff",
+   "start": "2026-11-01T18:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/"
   },
   {
    "film": "hocus-pocus",
@@ -6200,6 +5871,12 @@
    "start": "2026-11-02T16:30:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/the-leopard-man",
    "tickets": "https://thebeacon.film/calendar/movie/the-leopard-man?showtime=SB5NFQFPBBH3NYKYNYDJTN3X"
+  },
+  {
+   "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
+   "theater": "nwff",
+   "start": "2026-11-02T18:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/"
   },
   {
    "film": "hocus-pocus",
@@ -6286,6 +5963,12 @@
    "start": "2026-11-04T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-TnEy6voDr2"
+  },
+  {
+   "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
+   "theater": "nwff",
+   "start": "2026-11-04T18:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/"
   },
   {
    "film": "hocus-pocus",
@@ -6430,6 +6113,12 @@
    ]
   },
   {
+   "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
+   "theater": "nwff",
+   "start": "2026-11-06T18:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/"
+  },
+  {
    "film": "engauge-2026-expanded-cinema-performance-and-film",
    "theater": "nwff",
    "start": "2026-11-06T19:00:00-08:00",
@@ -6497,6 +6186,12 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-mCdibm8yym"
   },
   {
+   "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
+   "theater": "nwff",
+   "start": "2026-11-07T15:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-07T16:00:00-08:00",
@@ -6513,6 +6208,12 @@
     "On film",
     "Visiting artist"
    ]
+  },
+  {
+   "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
+   "theater": "nwff",
+   "start": "2026-11-07T18:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/"
   },
   {
    "film": "la-bola-negra",
@@ -6585,6 +6286,12 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/la-bola-negra#screening-f0X1aWCsyV"
   },
   {
+   "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
+   "theater": "nwff",
+   "start": "2026-11-08T15:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/"
+  },
+  {
    "film": "5point-film-fest-2026",
    "theater": "north-bend",
    "start": "2026-11-08T17:00:00-08:00",
@@ -6594,6 +6301,12 @@
     "Hosted by Pro Ski and Mountain Service",
     "Mountain Film Festival"
    ]
+  },
+  {
+   "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
+   "theater": "nwff",
+   "start": "2026-11-08T18:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/"
   },
   {
    "film": "godzilla-minus-zero",
@@ -7003,6 +6716,47 @@
    "notes": [
     "4K restoration"
    ]
+  },
+  {
+   "film": "love-streams",
+   "theater": "nwff",
+   "start": "2026-11-21T16:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/unstreamable-love-streams/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6abfe467f65307d70d1c2f84"
+  },
+  {
+   "film": "my-brother-s-wedding",
+   "theater": "nwff",
+   "start": "2026-11-21T16:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac594cfde6c4cd65eec778e",
+   "notes": [
+    "4K restoration"
+   ]
+  },
+  {
+   "film": "love-streams",
+   "theater": "nwff",
+   "start": "2026-11-21T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/unstreamable-love-streams/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6abfe467f65307d70d1c2f72"
+  },
+  {
+   "film": "my-brother-s-wedding",
+   "theater": "nwff",
+   "start": "2026-11-21T19:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac594cfde6c4cd65eec777a",
+   "notes": [
+    "4K restoration"
+   ]
+  },
+  {
+   "film": "rocky-horror-picture-show",
+   "theater": "admiral",
+   "start": "2026-11-21T21:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/14369/451"
   }
  ]
 }
