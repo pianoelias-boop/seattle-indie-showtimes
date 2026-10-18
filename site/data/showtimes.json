@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T09:24:00-07:00",
+ "updated": "2026-10-18T09:31:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-17T09:24:00-07:00",
-    "lastSuccess": "2026-10-17T09:24:00-07:00",
-    "showings": 40,
+    "checked": "2026-10-18T09:31:00-07:00",
+    "lastSuccess": "2026-10-18T09:31:00-07:00",
+    "showings": 36,
     "through": "2026-11-15"
    }
   },
@@ -33,9 +33,9 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-17T09:24:00-07:00",
-    "lastSuccess": "2026-10-17T09:24:00-07:00",
-    "showings": 104,
+    "checked": "2026-10-18T09:31:00-07:00",
+    "lastSuccess": "2026-10-18T09:31:00-07:00",
+    "showings": 94,
     "through": "2026-11-17"
    }
   },
@@ -52,10 +52,10 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-17T09:24:00-07:00",
-    "lastSuccess": "2026-10-17T09:24:00-07:00",
+    "checked": "2026-10-18T09:31:00-07:00",
+    "lastSuccess": "2026-10-18T09:31:00-07:00",
     "showings": 28,
-    "through": "2026-11-19"
+    "through": "2026-11-22"
    }
   },
   {
@@ -70,9 +70,9 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-17T09:24:00-07:00",
-    "lastSuccess": "2026-10-17T09:24:00-07:00",
-    "showings": 9,
+    "checked": "2026-10-18T09:31:00-07:00",
+    "lastSuccess": "2026-10-18T09:31:00-07:00",
+    "showings": 7,
     "through": "2026-11-04"
    }
   },
@@ -88,10 +88,10 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-17T09:24:00-07:00",
-    "lastSuccess": "2026-10-17T09:24:00-07:00",
+    "checked": "2026-10-18T09:31:00-07:00",
+    "lastSuccess": "2026-10-18T09:31:00-07:00",
     "showings": 77,
-    "through": "2026-11-21"
+    "through": "2026-11-22"
    }
   },
   {
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-17T09:24:00-07:00",
-    "lastSuccess": "2026-10-17T09:24:00-07:00",
-    "showings": 48,
+    "checked": "2026-10-18T09:31:00-07:00",
+    "lastSuccess": "2026-10-18T09:31:00-07:00",
+    "showings": 45,
     "through": "2026-11-05"
    }
   },
@@ -126,9 +126,9 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-17T09:24:00-07:00",
-    "lastSuccess": "2026-10-17T09:24:00-07:00",
-    "showings": 32,
+    "checked": "2026-10-18T09:31:00-07:00",
+    "lastSuccess": "2026-10-18T09:31:00-07:00",
+    "showings": 30,
     "through": "2026-11-02"
    }
   },
@@ -145,8 +145,8 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-17T09:24:00-07:00",
-    "lastSuccess": "2026-10-17T09:24:00-07:00",
+    "checked": "2026-10-18T09:31:00-07:00",
+    "lastSuccess": "2026-10-18T09:31:00-07:00",
     "showings": 29,
     "through": "2026-10-29"
    }
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-17T09:24:00-07:00",
-    "lastSuccess": "2026-10-17T09:24:00-07:00",
-    "showings": 88,
+    "checked": "2026-10-18T09:31:00-07:00",
+    "lastSuccess": "2026-10-18T09:31:00-07:00",
+    "showings": 79,
     "through": "2026-11-18"
    }
   },
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-17T09:24:00-07:00",
-    "lastSuccess": "2026-10-17T09:24:00-07:00",
-    "showings": 62,
+    "checked": "2026-10-18T09:31:00-07:00",
+    "lastSuccess": "2026-10-18T09:31:00-07:00",
+    "showings": 46,
     "through": "2026-11-21"
    }
   },
@@ -201,9 +201,9 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-17T09:24:00-07:00",
-    "lastSuccess": "2026-10-17T09:24:00-07:00",
-    "showings": 13,
+    "checked": "2026-10-18T09:31:00-07:00",
+    "lastSuccess": "2026-10-18T09:31:00-07:00",
+    "showings": 11,
     "through": "2026-10-31"
    }
   },
@@ -220,10 +220,10 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-17T09:24:00-07:00",
-    "lastSuccess": "2026-10-17T09:24:00-07:00",
-    "showings": 20,
-    "through": "2026-11-08"
+    "checked": "2026-10-18T09:31:00-07:00",
+    "lastSuccess": "2026-10-18T09:31:00-07:00",
+    "showings": 19,
+    "through": "2026-11-22"
    }
   }
  ],
@@ -341,12 +341,12 @@
    }
   },
   {
-   "id": "addams-family",
-   "title": "Addams Family",
-   "description": "The Addams Family is a fictional family and franchise created by American cartoonist Charles Addams. The Addams are an eccentric old-money clan who delight in the macabre and the grotesque and are seemingly unaware or unconcerned that other people find them bizarre or frightening. The family’s view in seeing their family life and interests as normal was a basis for the satire and comedy.",
-   "image": "https://static.spotapps.co/spots/a8/86d7b061584956b36ed8ae76c5f116/w926",
+   "id": "actually-it-is-rocket-science",
+   "title": "Actually, It Is Rocket Science",
+   "description": "Actually, It Is Rocket Science is the newest chapter in TGR’s ongoing study of the fall line, told through the world’s best skiers as they turn the mountain into a laboratory and every descent into an experiment.\n\nThe study spans Bute Inlet, British Columbia; Haines, Alaska; Japan; Finland; Andorra; Montana; Jay Peak, Vermont; and Jackson Hole, Wyoming. Different mountains, snowpacks, conditions, and approaches—but the same forces are always at work: speed, gravity, instinct, and consequence.\n\nActually, It Is Rocket Science is a tongue-in-cheek look at the seemingly reckless abandon that many of the world's best snow athletes display as they push the physics of what is possible. Athletes explore the intricacies of dissecting a big mountain line, the physics and amplitude of a massive gap, calculating transition, and the force of gravity.\n\nSo, is it rocket science—or is it not?\n\nWatch closely and decide for yourself.\n\nLocations: Jackson Hole, Wyoming, Haines Alaska, British Columbia, Japan, Finland, Andorra, Jay Peak, Vermont, Montana\n\nAthletes: Kelly Hilleke, Teal Harle, Colter Hinchliffe, Kai Jones, Maggie Voisin, Nick McNutt, Parkin Costain, Karl Fostvedt, Keegan Killbride, Tim Durtschi, Thibault Magnin, Anna Tedesco, Tucker Carr, Wyatt Gentry, Lalo Rambaud, Jasper Skidmore, Daniel Johnson, Jerermy Emmer, Rylan Messner, Andrew Bird, Dylan \"Dro\" Roide, Nicholas Johnson, Luke Price, Seamus O'niell, Andreya Zvonar, Jackson Lalla , Adrian Hayden, Bode Tracy\n\nPart of the MOUNTAIN FILM FESTIVAL 2026!",
+   "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/TGR2026Square.jpg",
    "links": {
-    "tin-room": "https://tinroombar.com/events"
+    "north-bend": "https://tix.northbendtheatre.com/event/teton-gravity-research-presents-actually-it-is-rocket-science-the-31st-annual-tgr-ski-film-sunday-nov-22nd-3pm"
    }
   },
   {
@@ -370,20 +370,6 @@
    "image": "https://static.spotapps.co/spots/93/2bcf50bb6a401fb6a034d587051c94/w926",
    "links": {
     "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
-   "id": "ashes-and-diamonds",
-   "title": "Ashes and Diamonds",
-   "description": "The final entry of Wajda’s celebrated WWII trilogy and a touchstone of Polish cinema, Ashes and Diamonds follows the militant Maciek (Zbigniew Cybulski) who finds himself tasked with the assassination of an incoming commissar. But when he falls for a local barmaid, he’s offered a glimpse of a world beyond war and destruction, leading him to question his commitment to a cause that risks his life. Wajda’s classic drama cemented his position as a world-class filmmaker and features an iconic central performance by Cybulski, the ‘Polish James Dean’ – who contributes legendary charisma to this probing look at the complex post-war future for a new nation and its people.",
-   "runtime": 100,
-   "year": 1958,
-   "director": "Andrzej Wajda",
-   "country": "Poland",
-   "language": "Polish",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Films%20of%20Andrej%20Wajda/Wajda%20Films%20Images/ashesdiamonds.png",
-   "links": {
-    "siff-film-center": "https://www.siff.net/programs-and-events/andrzej-wajda/ashes-and-diamonds"
    }
   },
   {
@@ -466,18 +452,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_BernsteinsWall_1600x900.png",
    "links": {
     "siff-film-center": "https://www.siff.net/cinema/in-theaters/bernsteins-wall"
-   }
-  },
-  {
-   "id": "black-zombie",
-   "title": "Black Zombie",
-   "description": "From the flickering screens of Hollywood horror to the haunted cane fields of colonial Haiti, BLACK ZOMBIE unearths the buried origins of the zombie, reclaiming it as a symbol of survival and spiritual resistance.\n\nLong before it became associated with flesh-eating ghouls, the zombie was a living metaphor for slavery: not a monster, but the ultimate victim of colonial power. A symbol of stolen agency was recast as an object of fear, while Black spiritual traditions were distorted, sensationalized, and erased.\n\nDirector Maya Annik Bedward traces the evolution of the zombie, reconsidering iconic films like I Walked with a Zombie, Night of the Living Dead, White Zombie, and The Serpent and the Rainbow, alongside archival footage, vérité scenes, and interviews with cultural historians, artists, and genre legends including Yves-Grégory Francois, Mambo Labelle Déesse, Slash, Tom Savini, and Zandashé Brown. Part cultural reckoning, part horror remix, BLACK ZOMBIE exposes how a figure born from enslavement, spiritual belief, and resistance was transformed into one of pop culture’s most profitable monsters.",
-   "runtime": 90,
-   "year": 2026,
-   "director": "Maya Annik Bedward",
-   "image": "https://grandillusioncinema.org/wp-content/uploads/2026/09/blackzombieposter-550x814.jpg",
-   "links": {
-    "grand-illusion": "https://grandillusioncinema.org/film/black-zombie/"
    }
   },
   {
@@ -594,31 +568,6 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789694463881-tb-draculaofexarcheia.jpg",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/dracula-of-exarcheia"
-   }
-  },
-  {
-   "id": "dracula-prisoner-of-frankenstein",
-   "title": "Dracula, Prisoner of Frankenstein",
-   "description": "Restoration by Severin Films\n\nJess Franco knows you know these monsters. He just wants to dream about them. So DRACULA, PRISONER OF FRANKENSTEIN wastes little time on introductions, explanations or even dialogue, and heads straight for the images that make monster movies irresistible. A castle looms through the fog. A coffin opens. Lightning flashes over a laboratory. Howard Vernon’s corpse-faced Dracula rises from the dead. Frankenstein’s Monster stalks the countryside. Beautiful women wander through the night. And just when the dream seems complete, the Wolf Man comes howling into it.\n\nDennis Price’s Dr. Frankenstein presides over this private Gothic universe, resurrecting and enslaving Dracula, commanding a homemade Monster of his own and sending everyone drifting through castles, crypts and desolate landscapes to Bruno Nicolai’s magnificent score. Franco lets plot dissolve into atmosphere and gives himself over to whatever image fascinates him next, his camera zooming compulsively toward faces, windows, animals and strange details in the landscape. Nothing needs to look realistic to feel uncanny here. A rubber bat is still a rubber bat, but when Franco sends it flapping across a real Gothic landscape, somehow the whole world gets stranger (and better).\n\nThis is Jess Franco in concentrated form: cheap and beautiful, crude and hypnotic, made in a hurry by a filmmaker who trusts his own obsessions more than the rules of conventional filmmaking. Part Universal monster rally, part comic book, part lost silent film in delirious color, DRACULA, PRISONER OF FRANKENSTEIN strips monster cinema down to the things Franco loves most and rearranges them according to the logic of a dream. Frankenstein looks handmade. The bat has a wire. The camera zooms like it’s possessed. The Wolf Man seems to have wandered in from another movie. And the whole thing is beautiful enough to bring tears to your eyes.\n\n“The movie F.W. Murnau might have made if Universal had hired him to direct HOUSE OF FRANKENSTEIN in color.\" - Tim Lucas",
-   "runtime": 85,
-   "year": 1972,
-   "director": "Jess Franco",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789695349519-tb-draculaprisoneroffrankenstein.jpg",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/dracula-prisoner-of-frankenstein"
-   }
-  },
-  {
-   "id": "drawn-to-life-shorts",
-   "title": "Drawn to Life (Shorts)",
-   "description": "Frame by frame, this vibrant and hand-crafted program features animated and energetic stories brought to life with care and vision. These films artfully showcase the power of telling a story your own way, exploring transformation and identity in beautiful motion.\n\nFILMS IN THIS PROGRAM:\n\nAhyoka (Schon ᎤᎶᎩᎳ Duncan, United States, 13m)\n\nA portrait of Ahyoka Youngdeer, Cherokee culture bearer, teacher, and two-spirit activist. Weaving her own life with a traditional Cherokee story about a crooked-face boy, Ahyoka traces how exclusion was never a Cherokee value and reminds us what it truly means to be a Keetoowah person.\n\nANADROMOUS (Ari Grubb, United States, 5m)\n\nWhen they find themselves evolving out of their aquarium home, two fish set off on a musical journey of self-acceptance and queer joy, and find community in a freaky fish gay bar in the deepest depths of the ocean.\n\nBright Eye (Rio Miller, Canada, 21m)\n\nCallie Jones is not your average IT tech. They’re a bio-hacker, living in the cracks of their dystopian society and illegally hacking bionic implants. Careful. Methodical. Invisible… until one wrong phone call exposes them.\n\nCW: Flashing lights\n\nEve (Jesse Kogita, United States, 13m)\n\n“Eve” is a short animated film based on the autobiographical stories of transitioning by Eve Palay, a trans woman living in the Pacific Northwest.\n\nEyeliner (Aisha Boudjillouli, United Kingdom, 8m)\n\nNina and her best friend Lily decide to steal an eyeliner, hoping that this will be their key to womanhood. When they’re given wildly different receptions, Nina discovers her journey as a trans girl might not be so easy.\n\nCW: Transphobia\n\nI HAVE BECOME (Lee J Holoubek, Canada, 1m)\n\nA paint-on-paint + risograph queer experimental animation about a transgender man’s relationship with his body, younger self, and future self to show the grotesque beauty of tearing oneself apart to live truthfully.\n\nCW: Flashing lights\n\nLas Cosas Que Brillan (Kristal Sotomayor, United States, 11m)\n\nUsing a combination of liveaction with handbuilt foamboard sets and puppetry, a curious trans mermaid defies her mother’s warnings to venture up to the surface, only to discover the world above is not what she dreamt.\n\nPromise Me (Gilda Panizza, Italy, 3m)\n\n“Promise me” is a spell, a call and response where the one who asks and the one who answers blur into each other, using ink to build cyborg bodies the subjects imagine for themselves\n\nSunKissed Sapphics (Jennifer Marie Cella, United States, 8m)\n\nThree transgender lesbians, all represented as endangered species, happen to meet in a hotel lobby. The trio embark on a passionate and psychedelic odyssey across the south Jersey boardwalk.",
-   "runtime": 85,
-   "genres": [
-    "Shorts"
-   ],
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/drawntolife1600-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/stuff-2026-drawn-to-life-shorts/"
    }
   },
   {
@@ -746,19 +695,6 @@
    }
   },
   {
-   "id": "entanglements-shorts",
-   "title": "Entanglements (Shorts)",
-   "description": "What’s in a label? This shorts program follows attractions and relationships through change and self-discovery. Beyond the meet-cute, connecting can be complicated- let’s do it anyway!\n\nSHORTS IN THIS PROGRAM:\n\nBuffalo 10 (Trisha Pickelhaupt, United States, 12m)\n\nA trans woman aching for the simplicity of her upbringing moves back to Buffalo from NYC, where she gets asked out at the local bowling alley.\n\nWall Udder (Alexandra Hayden, United States , 8m)\n\nA dissatisfied woman confronts repressed feelings of malaise after her partner comes home smelling like milk.\n\nDevils in The Bush (Juliet Belisario, Canada, 8m)\n\nFollowing the disappearance of her girlfriend, a trans filmmaker discovers EmileCam, a 24-hour livestream devoted to spying on her.\n\nLa Perla Victoria, Desde un Corazón Trans (Sol Jimenez Palacios, Devyn Galindo, Victoria Castro, United States, 9m)\n\nLa Perla Victoria resists narratives that reduce trans migrants to mere victims. Instead, it offers a portrait of trans life that is tender, political, and profoundly human, rooted in the belief that telling our stories is itself a form of liberation.\n\nCW: Descriptions of gun violence and assault, descriptions imprisonment at the US border\n\nSaved Me (TJ Gascho, United States, 3m)\n\nLove knows no bounds! A Seattle film screening comes to life as Cupid’s arrow flies off the screen and into the crowd!\n\nSword Over The Door (Alec Mazzoli, United States, 14m)\n\nFour friends playing a tabletop roleplaying game slowly realize that something is wrong.\n\nCW: Flashing lights, camera techniques that may affect those prone to dizziness or vertigo.\n\nZombie Butterflies (Pê Moreira, Thomas Argos, Brazil, 17m)\n\nIn this romcom stained with Brazilian queerness, João used to think the butterflies in his stomach were dead. When he falls in love with Lucas, his best friend, something weird starts happening in his belly. Maybe he has zombie butterflies.\n\nMotherhood (Ava Corder, United States, 12m)\n\nA pregnant trans woman in the heat of active labor battles strict medical protocols and her family’s doubts to have a natural birth.\n\nCW: Blood/gore",
-   "runtime": 85,
-   "genres": [
-    "Shorts"
-   ],
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/engtanglements1600-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/stuff-2026-entanglements-shorts/"
-   }
-  },
-  {
    "id": "everything-for-sale",
    "title": "Everything for Sale",
    "description": "The lead protagonist of a film disappears mid production, and his family and crew search for him before tragic news reaches them. Wajda’s first film where he received sole screenwriting credit, this deeply personal homage to his beloved actor Zbigniew Cybulski, the star of Ashes and Diamonds, is also a scathing portrait of the film industry. The film-within-a-film mirrors the real life tragedy, with actors channeling their real life experiences into their performances. Weaving together autobiography and fiction, Wajda questions what it means to be an artist and how we mourn by creating legends as a way to interpret the past.",
@@ -779,19 +715,6 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789698242210-tb-fiveminutestodie.jpg",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/five-minutes-to-die"
-   }
-  },
-  {
-   "id": "flesh-and-fluids-shorts",
-   "title": "Flesh & Fluids (Shorts)",
-   "description": "Let’s talk about sex, maybe…let’s talk about you and ‘we’. Let’s talk about all the touching, yearning, thinking, and wanting. This shorts program is about the the flesh, and for the flesh!\n\nFILMS IN THIS PROGRAM:\n\nDyson (Clac, Fara Renaud, Belgium, 14m)\n\nSome people seek diamonds, Roxane just wants a fancy vacuum cleaner. With Trinity and Julia’s help, she is set to make her wettest dream come true.\n\nCockroach (Justice Maya Singleton, Liliana Padilla, United States, 22m)\n\nA black transgender man plans to exchange sex for top surgery money with an older gay man until his night hook up turns into a hunt for a cockroach who inspires him to open his heart and conquer his fears.\n\nNot Exactly Strangers (Ryan Rox, United States, 15m)\n\nA tipsy hookup between a Latine trans woman and a rough-edged skater boy from her past becomes a comedic, yet intimate deep-dive into post-surgical sex, lingering history, and a body she’s still learning to celebrate.\n\npounded (Lis Walter, Germany, 10m)\n\nPounded explores what it means to be treated like a juicy piece of meat and why, for its protagonists, this does not equal objectification.\n\nThe Duties of a Lighthouse Keeper (Rory Midhani, Germany, 8m)\n\nThis film follows the daily life of an isolated seaman, all alone on a hard, hard rock, going about his duties whilst yearning for the touch of his fellow man. Is there more to this life than servicing the buoys?\n\nTouching Ugliness (Ultra, Brazil, 15m)\n\nWith an entirely trans cast, Ugliness is a film-poetry about faith, scars and the beauty of what cannot be saved.\n\nCW: Flashing lights, suspension play",
-   "runtime": 84,
-   "genres": [
-    "Shorts"
-   ],
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/fleshandfluids1600-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/stuff-2026-flesh-fluids-shorts/"
    }
   },
   {
@@ -879,19 +802,6 @@
    "image": "https://static.spotapps.co/spots/ae/54719f12a64a89b8e6d5ae2d0b9a0b/w926",
    "links": {
     "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
-   "id": "glass-art-society-x-refract-film-festival",
-   "title": "Glass Art Society x REFRACT Film Festival",
-   "description": "Presented by Glass Art Society and REFRACT. Enjoy the intersection of glass and film and watch the Glass Art Society Annual Film Festival (2026)! The following short films will be shown as follows:\n\nSpeculum Vogue, directed by Emma Mitchison\n\nTouching the Light, directed by Cary Rapaport\n\nChime: An Extended View, directed by Janetje Jeanine Verloop\n\nDead Horse Bay, directed by Zachary Finkelstein\n\nPlay with Materials, directed by Daichi Fuwa\n\nI, Phoenix, directed by Simone Fezer\n\nTouches as from Inside, directed by Ina Kristine Hove\n\nBlowing in a New Era, directed by Charlie Reid McGowan\n\nInvocation, directed by Caitlin Greenberg Elena Lee,\n\nPioneer Gallerist, directed by Danièle Bellemare Lee\n\nIn partnership with the Glass Art Society and REFRACT all ticket proceeds will go to support SIFF",
-   "runtime": 160,
-   "year": 2026,
-   "country": "USA",
-   "language": "English",
-   "image": "https://www.siff.net/images/CINEMA/Rentals/REN_GASOpeningNight26_1600x900.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/glass-art-society-x-refract-film-festival"
    }
   },
   {
@@ -1017,9 +927,8 @@
    "runtime": 69,
    "year": 1943,
    "director": "Jacques Tourneur",
-   "image": "https://grandillusioncinema.org/wp-content/uploads/2026/09/iwalkedwithazombieposter-550x825.jpg",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789695533779-tb-iwalkedwithazombie.jpg",
    "links": {
-    "grand-illusion": "https://grandillusioncinema.org/film/i-walked-with-a-zombie/",
     "beacon": "https://thebeacon.film/calendar/movie/i-walked-with-a-zombie"
    }
   },
@@ -1073,19 +982,6 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/jennifersbody1600-1-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/jennifers-body/"
-   }
-  },
-  {
-   "id": "jucks",
-   "title": "Jucks",
-   "description": "Set in Denver City, 2064 AD, JUCKS is an experimental sci-fi silent film. It follows a haunted protagonist who enters a dystopian landscape lorded by an omniscient radio frequency known as Jucks, and saturated with a hallucinogenic substance. Jules searches for one thing: Gold.\n\nCW: Flashing lights, blood/gore\n\nSCREENS WITH:\n\nIf I'm Here It Is By Mystery (Clari Ribeiro, Brazil, 20m)\n\nNew Rio, 2054. Renowned witch Dahlia arrives at the port with a mission: to found the most powerful Clan that has ever existed and thus defeat the Order of Truth. In the future, many people are trans — but only a few are witches.\n\nCW: Stabbing of a trans woman, blood/gore",
-   "runtime": 89,
-   "year": 2026,
-   "director": "Raef Van Putten",
-   "country": "United States",
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/jucks1600-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/stuff-2026-jucks-mystery/"
    }
   },
   {
@@ -1250,17 +1146,6 @@
    "image": "https://media.mobilemoviegoing.com/CustomOneSheets/1789507185_carmen.jpg",
    "links": {
     "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/met-opera-20262027-carmen-encore"
-   }
-  },
-  {
-   "id": "met-opera-2026-2027-macbeth",
-   "title": "Met Opera 2026/2027: Macbeth",
-   "description": "Two of opera’s most extraordinary artists return to The Met: Live in HD for Verdi’s thrilling take on the immortal Shakespearean tale of the scheming couple determined to seize power at any cost. Baritone Quinn Kelsey is the Scottish king haunted by the ghosts of his murderous ascent to the throne, opposite soprano Lise Davidsen as the power-mad Lady Macbeth, whose ruinous ambition damns them both. Met Music Director Yannick Nézet-Séguin takes the podium for a penetrating production by Louisa Proske. Rounding out the all-star cast are tenor Freddie De Tommaso as Macduff and bass-baritone Ryan Speedo Green as Banquo.",
-   "runtime": 200,
-   "rating": "G",
-   "image": "https://media.mobilemoviegoing.com/CustomOneSheets/1789506386_macbeth.jpg",
-   "links": {
-    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/met-opera-20262027-macbeth"
    }
   },
   {
@@ -1535,6 +1420,20 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Scarecrowber%202026/CIN_Ringu_1600x900.png",
    "links": {
     "siff-film-center": "https://www.siff.net/programs-and-events/scarecrowber-2026/ringu"
+   }
+  },
+  {
+   "id": "route-one-usa",
+   "title": "Route One/USA",
+   "description": "“A thin stretch of asphalt cutting through all the old dreams of a nation.”\n\nRenegade filmmaker of the New Left Robert Kramer (Ice, Milestones) returned to the US in 1988 following nearly a decade of living abroad. In an effort to grasp the realities his former country faces, Kramer documents his travels down the entirety of Route 1, from Fort Kent, Maine to Key West, Florida (America’s “end of the rainbow”), accompanied by his buddy Doc, a physician back from a distressing decade in Africa. Throughout, Doc searches for steady work while interviewing veterans, refugees, teachers, activists, and presidential candidates, with such pit stops along the way as a Native American reservation in Maine, foodbanks, Walden Pond, and evangelical churches that preach the “truth” about Disney. Except there’s a catch: Doc is not, in fact, a doctor, but a fictional character played by actor Paul McIsaac. The slippery nature of reality and fiction blur in this monumental portrait of ‘80s America, a wholly unique moviegoing experience shot in stunning Super 16mm.\n\nThis screening will include a 15 minute intermission.",
+   "runtime": 254,
+   "year": 1989,
+   "director": "Robert Kramer",
+   "country": "France, United Kingdom, Italy",
+   "language": "English, French, Portugese, Spanish",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/The%20Open%20Road/routeoneusa.png",
+   "links": {
+    "siff-film-center": "https://www.siff.net/programs-and-events/the-open-road/route-one/usa"
    }
   },
   {
@@ -2029,7 +1928,7 @@
    "rating": "PG",
    "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/NightmareBeforeChristmasSquare8.jpg",
    "links": {
-    "north-bend": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-saturday-oct-17th-3pm"
+    "north-bend": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-sunday-oct-18th-630pm"
    }
   },
   {
@@ -2106,7 +2005,7 @@
    "id": "rocky-horror-picture-show",
    "title": "The Rocky Horror Picture Show",
    "description": "Rocky Horror is back at the North Bend Theatre!\n\nIn this cult classic, sweethearts Brad (Barry Bostwick) and Janet (Susan Sarandon), stuck with a flat tire during a storm, discover the eerie mansion of Dr. Frank-N-Furter (Tim Curry), a transvestite scientist. As their innocence is lost, Brad and Janet meet a houseful of wild characters, including a rocking biker (Meat Loaf) and a creepy butler (Richard O'Brien). Through elaborate dances and rock songs, Frank-N-Furter unveils his latest creation: a muscular man named \"Rocky.\"",
-   "runtime": 128,
+   "runtime": 100,
    "year": 1975,
    "director": "Jim Sharman",
    "rating": "R",
@@ -2140,15 +2039,6 @@
    "image": "https://indy-systems.imgix.net/ft8rget6a5qd5o1td85n3f7xv6zm?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
    "links": {
     "central-cinema": "https://central-cinema.com/movie/the-room/"
-   }
-  },
-  {
-   "id": "shining",
-   "title": "The Shining",
-   "description": "A struggling writer, Jack Torrance, accepts a winter caretaker position at the isolated Overlook Hotel in the Colorado Rockies, hoping the solitude will overcome his writer's block. He brings his wife, Wendy, and their young son, Danny. However, the hotel harbors a dark history, and as Jack becomes increasingly isolated by the heavy snowfall, he slowly descends into madness, threatening his family and uncovering terrifying secrets within the Overlook's walls",
-   "image": "https://static.spotapps.co/spots/2a/b54239dc4545e288f6f29c97e068d9/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -2531,413 +2421,6 @@
   }
  ],
  "showings": [
-  {
-   "film": "met-opera-2026-2027-macbeth",
-   "theater": "admiral",
-   "start": "2026-10-17T09:50:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/met-opera-20262027-macbeth",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16445/751"
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-17T11:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-KxUNNIK3XG"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-17T11:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-MHR1TJIUIh"
-  },
-  {
-   "film": "glass-art-society-x-refract-film-festival",
-   "theater": "siff-uptown",
-   "start": "2026-10-17T12:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/glass-art-society-x-refract-film-festival",
-   "tickets": "https://www.siff.net/cinema/in-theaters/glass-art-society-x-refract-film-festival#screening-BAjAdlhoSQ"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-17T13:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17003/795"
-  },
-  {
-   "film": "singin-in-the-rain",
-   "theater": "majestic-bay",
-   "start": "2026-10-17T13:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36489?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
-   "notes": [
-    "Double Feature",
-    "Majestic Bay Doc",
-    "Free"
-   ]
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-17T13:10:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17000/770"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-17T13:10:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17007/794"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-17T13:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36515?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "devils",
-   "theater": "siff-uptown",
-   "start": "2026-10-17T13:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-vWsVgKNHNh"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-17T13:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36512?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-17T13:50:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-BHegAjh6lc"
-  },
-  {
-   "film": "ashes-and-diamonds",
-   "theater": "siff-film-center",
-   "start": "2026-10-17T14:00:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/andrzej-wajda/ashes-and-diamonds",
-   "tickets": "https://www.siff.net/programs-and-events/andrzej-wajda/ashes-and-diamonds#screening-nPa8nceJq4",
-   "notes": [
-    "The Films of Andrzej Wajda"
-   ]
-  },
-  {
-   "film": "addams-family",
-   "theater": "tin-room",
-   "start": "2026-10-17T14:00:00-07:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-17T14:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-ktTrP1i6uB"
-  },
-  {
-   "film": "nightmare-before-christmas",
-   "theater": "north-bend",
-   "start": "2026-10-17T15:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-saturday-oct-17th-3pm",
-   "tickets": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-saturday-oct-17th-3pm"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-17T15:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-AZShk6hYgM"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-17T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17009/794"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-17T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16998/717"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-17T15:50:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17005/795"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-17T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17002/770"
-  },
-  {
-   "film": "hausu-house",
-   "theater": "central-cinema",
-   "start": "2026-10-17T16:00:00-07:00",
-   "url": "https://central-cinema.com/movie/hausu-house/",
-   "tickets": "https://central-cinema.com/checkout/showing/hausu-house/3918201"
-  },
-  {
-   "film": "singin-in-the-rain",
-   "theater": "majestic-bay",
-   "start": "2026-10-17T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36490?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
-   "notes": [
-    "Double Feature",
-    "Majestic Bay Doc",
-    "Free"
-   ]
-  },
-  {
-   "film": "entanglements-shorts",
-   "theater": "nwff",
-   "start": "2026-10-17T16:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/stuff-2026-entanglements-shorts/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6ab482f3fb631a9487614a41"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-17T16:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36516?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "devils",
-   "theater": "siff-uptown",
-   "start": "2026-10-17T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-RlxbljyiHp"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-17T16:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36513?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "jucks",
-   "theater": "nwff",
-   "start": "2026-10-17T16:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/stuff-2026-jucks-mystery/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6ab484c23ee72f245c8fdf03",
-   "notes": [
-    "With If I'm Here It Is By Mystery"
-   ]
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-17T16:40:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-mKxJei5l0r"
-  },
-  {
-   "film": "nightmare-before-christmas",
-   "theater": "north-bend",
-   "start": "2026-10-17T17:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-saturday-oct-17th-5pm",
-   "tickets": "https://tix.northbendtheatre.com/event/the-nightmare-before-christmas-saturday-oct-17th-5pm"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "siff-uptown",
-   "start": "2026-10-17T17:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-2bABfAnCG3"
-  },
-  {
-   "film": "i-walked-with-a-zombie",
-   "theater": "grand-illusion",
-   "start": "2026-10-17T17:30:00-07:00",
-   "url": "https://grandillusioncinema.org/film/i-walked-with-a-zombie/",
-   "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=653899~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-17T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17008/794"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-17T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17004/795"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-17T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17001/770"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-17T18:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16997/717"
-  },
-  {
-   "film": "begotten",
-   "theater": "beacon",
-   "start": "2026-10-17T19:00:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/begotten",
-   "tickets": "https://thebeacon.film/calendar/movie/begotten?showtime=HDRZZQ2EUL73VFTLV3577C7J"
-  },
-  {
-   "film": "grosse-pointe-blank",
-   "theater": "central-cinema",
-   "start": "2026-10-17T19:00:00-07:00",
-   "url": "https://central-cinema.com/movie/grosse-pointe-blank/",
-   "tickets": "https://central-cinema.com/checkout/showing/grosse-pointe-blank/3918203"
-  },
-  {
-   "film": "singin-in-the-rain",
-   "theater": "majestic-bay",
-   "start": "2026-10-17T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36491?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
-   "notes": [
-    "Double Feature",
-    "Majestic Bay Doc",
-    "Free"
-   ]
-  },
-  {
-   "film": "drawn-to-life-shorts",
-   "theater": "nwff",
-   "start": "2026-10-17T19:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/stuff-2026-drawn-to-life-shorts/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6ab486d8f634586ab8b124fc"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-17T19:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-yDPKKOcKGb",
-   "notes": [
-    "Sold out"
-   ]
-  },
-  {
-   "film": "shining",
-   "theater": "tin-room",
-   "start": "2026-10-17T19:00:00-07:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-17T19:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36517?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "devils",
-   "theater": "siff-uptown",
-   "start": "2026-10-17T19:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-xpRNLYPP90"
-  },
-  {
-   "film": "black-zombie",
-   "theater": "grand-illusion",
-   "start": "2026-10-17T19:30:00-07:00",
-   "url": "https://grandillusioncinema.org/film/black-zombie/",
-   "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=653901~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-17T19:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36514?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "flesh-and-fluids-shorts",
-   "theater": "nwff",
-   "start": "2026-10-17T19:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/stuff-2026-flesh-fluids-shorts/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6ab48deb18d03394d0eefbab"
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-17T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-1G8KBdFfCf"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-17T19:40:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-l7U08UGOOn"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-17T21:05:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17028/794"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-17T21:10:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17027/795"
-  },
-  {
-   "film": "rocky-horror-picture-show",
-   "theater": "admiral",
-   "start": "2026-10-17T21:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/14368/451"
-  },
-  {
-   "film": "hausu-house",
-   "theater": "central-cinema",
-   "start": "2026-10-17T21:30:00-07:00",
-   "url": "https://central-cinema.com/movie/hausu-house/",
-   "tickets": "https://central-cinema.com/checkout/showing/hausu-house/3918202"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-17T21:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16999/770"
-  },
-  {
-   "film": "dracula-prisoner-of-frankenstein",
-   "theater": "beacon",
-   "start": "2026-10-17T22:00:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/dracula-prisoner-of-frankenstein",
-   "tickets": "https://thebeacon.film/calendar/movie/dracula-prisoner-of-frankenstein?showtime=5KNVGNRWGH3MZ5SSYYMJ7RHK"
-  },
   {
    "film": "casablanca",
    "theater": "siff-downtown",
@@ -3902,7 +3385,10 @@
    "theater": "siff-uptown",
    "start": "2026-10-21T18:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-Op5mu3Pcsw"
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-Op5mu3Pcsw",
+   "notes": [
+    "Sold out"
+   ]
   },
   {
    "film": "night-of-the-living-dead",
@@ -6757,6 +6243,62 @@
    "start": "2026-11-21T21:30:00-08:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/14369/451"
+  },
+  {
+   "film": "route-one-usa",
+   "theater": "siff-film-center",
+   "start": "2026-11-22T12:30:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/the-open-road/route-one/usa",
+   "tickets": "https://www.siff.net/programs-and-events/the-open-road/route-one/usa#screening-1nBEutAZS5",
+   "notes": [
+    "The Open Road"
+   ]
+  },
+  {
+   "film": "actually-it-is-rocket-science",
+   "theater": "north-bend",
+   "start": "2026-11-22T15:00:00-08:00",
+   "url": "https://tix.northbendtheatre.com/event/teton-gravity-research-presents-actually-it-is-rocket-science-the-31st-annual-tgr-ski-film-sunday-nov-22nd-3pm",
+   "tickets": "https://tix.northbendtheatre.com/event/teton-gravity-research-presents-actually-it-is-rocket-science-the-31st-annual-tgr-ski-film-sunday-nov-22nd-3pm",
+   "notes": [
+    "The 31st annual TGR ski film",
+    "Presented by Teton Gravity Research",
+    "Mountain Film Festival"
+   ]
+  },
+  {
+   "film": "love-streams",
+   "theater": "nwff",
+   "start": "2026-11-22T16:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/unstreamable-love-streams/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6abfe467f65307d70d1c2f8d"
+  },
+  {
+   "film": "my-brother-s-wedding",
+   "theater": "nwff",
+   "start": "2026-11-22T16:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac594cfde6c4cd65eec7793",
+   "notes": [
+    "4K restoration"
+   ]
+  },
+  {
+   "film": "love-streams",
+   "theater": "nwff",
+   "start": "2026-11-22T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/unstreamable-love-streams/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6abfe467f65307d70d1c2f7b"
+  },
+  {
+   "film": "my-brother-s-wedding",
+   "theater": "nwff",
+   "start": "2026-11-22T19:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac594cfde6c4cd65eec777f",
+   "notes": [
+    "4K restoration"
+   ]
   }
  ]
 }
