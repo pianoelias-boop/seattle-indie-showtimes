@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T10:57:00-07:00",
+ "updated": "2026-10-21T11:01:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-20T10:57:00-07:00",
-    "lastSuccess": "2026-10-20T10:57:00-07:00",
-    "showings": 48,
+    "checked": "2026-10-21T11:01:00-07:00",
+    "lastSuccess": "2026-10-21T11:01:00-07:00",
+    "showings": 53,
     "through": "2026-11-15"
    }
   },
@@ -33,10 +33,10 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-20T10:57:00-07:00",
-    "lastSuccess": "2026-10-20T10:57:00-07:00",
-    "showings": 69,
-    "through": "2026-11-17"
+    "checked": "2026-10-21T11:01:00-07:00",
+    "lastSuccess": "2026-10-21T11:01:00-07:00",
+    "showings": 77,
+    "through": "2026-11-22"
    }
   },
   {
@@ -52,10 +52,10 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-20T10:57:00-07:00",
-    "lastSuccess": "2026-10-20T10:57:00-07:00",
-    "showings": 28,
-    "through": "2026-11-24"
+    "checked": "2026-10-21T11:01:00-07:00",
+    "lastSuccess": "2026-10-21T11:01:00-07:00",
+    "showings": 29,
+    "through": "2026-11-25"
    }
   },
   {
@@ -70,9 +70,9 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-20T10:57:00-07:00",
-    "lastSuccess": "2026-10-20T10:57:00-07:00",
-    "showings": 6,
+    "checked": "2026-10-21T11:01:00-07:00",
+    "lastSuccess": "2026-10-21T11:01:00-07:00",
+    "showings": 5,
     "through": "2026-11-04"
    }
   },
@@ -88,9 +88,9 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-20T10:57:00-07:00",
-    "lastSuccess": "2026-10-20T10:57:00-07:00",
-    "showings": 74,
+    "checked": "2026-10-21T11:01:00-07:00",
+    "lastSuccess": "2026-10-21T11:01:00-07:00",
+    "showings": 72,
     "through": "2026-11-24"
    }
   },
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-20T10:57:00-07:00",
-    "lastSuccess": "2026-10-20T10:57:00-07:00",
-    "showings": 39,
+    "checked": "2026-10-21T11:01:00-07:00",
+    "lastSuccess": "2026-10-21T11:01:00-07:00",
+    "showings": 37,
     "through": "2026-11-05"
    }
   },
@@ -126,9 +126,9 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-20T10:57:00-07:00",
-    "lastSuccess": "2026-10-20T10:57:00-07:00",
-    "showings": 26,
+    "checked": "2026-10-21T11:01:00-07:00",
+    "lastSuccess": "2026-10-21T11:01:00-07:00",
+    "showings": 25,
     "through": "2026-11-02"
    }
   },
@@ -145,9 +145,9 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-20T10:57:00-07:00",
-    "lastSuccess": "2026-10-20T10:57:00-07:00",
-    "showings": 40,
+    "checked": "2026-10-21T11:01:00-07:00",
+    "lastSuccess": "2026-10-21T11:01:00-07:00",
+    "showings": 39,
     "through": "2026-10-29"
    }
   },
@@ -164,10 +164,10 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-20T10:57:00-07:00",
-    "lastSuccess": "2026-10-20T10:57:00-07:00",
-    "showings": 64,
-    "through": "2026-11-18"
+    "checked": "2026-10-21T11:01:00-07:00",
+    "lastSuccess": "2026-10-21T11:01:00-07:00",
+    "showings": 59,
+    "through": "2026-11-25"
    }
   },
   {
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-20T10:57:00-07:00",
-    "lastSuccess": "2026-10-20T10:57:00-07:00",
-    "showings": 25,
+    "checked": "2026-10-21T11:01:00-07:00",
+    "lastSuccess": "2026-10-21T11:01:00-07:00",
+    "showings": 36,
     "through": "2026-11-21"
    }
   },
@@ -201,8 +201,8 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-20T10:57:00-07:00",
-    "lastSuccess": "2026-10-20T10:57:00-07:00",
+    "checked": "2026-10-21T11:01:00-07:00",
+    "lastSuccess": "2026-10-21T11:01:00-07:00",
     "showings": 9,
     "through": "2026-10-31"
    }
@@ -220,8 +220,8 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-20T10:57:00-07:00",
-    "lastSuccess": "2026-10-20T10:57:00-07:00",
+    "checked": "2026-10-21T11:01:00-07:00",
+    "lastSuccess": "2026-10-21T11:01:00-07:00",
     "showings": 17,
     "through": "2026-11-22"
    }
@@ -248,19 +248,6 @@
    "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/5point2026Square02.jpg",
    "links": {
     "north-bend": "https://tix.northbendtheatre.com/event/5point-film-fest-2026-hosted-by-pro-ski-and-mountain-service-sunday-november-8th-5pm"
-   }
-  },
-  {
-   "id": "a-chinese-ghost-story",
-   "title": "A Chinese Ghost Story",
-   "description": "The beloved cult classic fantasy, recently restored!\n\nA traveling tax collector (Leslie Cheung) short on funds opts to take shelter in a seemingly abandoned temple. He is surprised to discover a young woman (Joey Wang) there and instantly falls for her beauty and grace. While every romance has its challenges, the tax collector gets more than he bargained for when he learns that the maiden is, in fact, a ghost... forced into servitude by a demon. With the help of a brave warrior, the tax collector must brave the perils of a supernatural world in order to free his newfound love.\n\nSpecial live intro from local Hong Kong genre film connoisseur and one of the programmers of the Seattle Film Society, Patrick McFarland.",
-   "runtime": 96,
-   "year": 1987,
-   "director": "Ching Siu-tung",
-   "language": "Cantonese",
-   "image": "https://grandillusioncinema.org/wp-content/uploads/2026/09/achineseghoststoryposter-550x790.jpg",
-   "links": {
-    "grand-illusion": "https://grandillusioncinema.org/film/a-chinese-ghost-story-new-4k-restoration/"
    }
   },
   {
@@ -324,20 +311,17 @@
    }
   },
   {
-   "id": "a-rimbaud",
-   "title": "A. Rimbaud",
-   "description": "** Director Patrick Wang in-attendance for post-film Q&A**\n\nThe improbable life of French poet Arthur Rimbaud unfolds with all the shock and playfulness of his poetry.",
-   "runtime": 175,
-   "year": 2026,
-   "director": "Patrick Wang",
-   "country": "United States, Canada",
-   "language": "English, French",
-   "genres": [
-    "Experimental"
-   ],
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/arimbaud1600-1200x675.png",
+   "id": "a-year-of-school",
+   "title": "A Year of School",
+   "description": "Set in 2007, the film follows Fred, an 18-year-old Swedish girl who moves to Trieste to complete her final year of high school and take her graduation exams. Upon arriving, she discovers she is the only girl in a class full of boys, immediately becoming the center of attention. Eager to make friends and find her place, Fred disrupts the established dynamics of a close-knit trio: Antero, Pasini, and Mitis, who all try to impress her. As she compromises to fit in, Fred realizes she is constantly being tested for acceptance. How much of ourselves are we willing to sacrifice to belong?",
+   "runtime": 102,
+   "year": 2025,
+   "director": "Laura Samani",
+   "country": "Italy",
+   "language": "Italian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_AYearofSchool_1600x900.png",
    "links": {
-    "nwff": "https://nwfilmforum.org/films/a-rimbaud/"
+    "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/a-year-of-school"
    }
   },
   {
@@ -420,15 +404,28 @@
   {
    "id": "begotten",
    "title": "Begotten",
-   "description": "Easily one of the most singular films in the history of experimental cinema, E. Elias Merhige’s BEGOTTEN is a deeply religious, allegorical nightmare carved onto celluloid, distanced from recognizable place or time and uncovering a visceral, primitivist brutality that may be unparalleled in the history of the moving image.\n\nDespite its near-total lack of cultural reference points, the churning, repetitive, symbolic actions of the entities depicted onscreen—all players from Merhige’s radical Theater of Material troupe—suggest a broad mythology drawn from sources as widespread as ancient Egyptian myth, disparate pagan traditions and Christian allegory. There is no dialogue or traditional narrative, yet BEGOTTEN’s hypnotic aesthetic and the ritualistic actions of its characters—named God Killing Himself, Mother Earth and Son of Earth, Flesh on Bone—are never anything but riveting.\n\nAnd then there are the images. Merhige’s violently degraded black-and-white photography barely seems photographed at all: figures boil out of fields of grain, bodies dissolve into landscapes, and every frame flickers somewhere between an ancient cave painting, a damaged silent film and a transmission from a civilization that disappeared before history began. Watching BEGOTTEN can feel less like seeing a movie than witnessing some forbidden creation myth that has been dug out of the earth and projected for the first time. Beautiful, repulsive, hypnotic and genuinely otherworldly, it remains one of cinema’s great visions of a world being born and dying before your eyes.\n\n“Evokes Alexander Sokurov and Francis Bacon as well as early David Lynch and a great many splatter films. If you’re looking to be freaked out you shouldn’t pass it up.” - Jonathan Rosenbaum\n\n“One of the ten most important films of modern times.” - Susan Sontag",
+   "description": "“Begotten” has no characters in the ordinary sense. Its final credits name three principal figures:\n\nGod Killing Himself.\n\nMother Earth.\n\nSon of Earth — Flesh on Bone\n\nThe entire film is what those names do to each other and to the earth. God Killing Himself tears open his body and dies. Mother Earth rises from what remains and takes his seed into herself. She gives birth to Son of Earth — Flesh on Bone. He is cast into a barren world, seized by the Nomads, tortured, killed, and briefly returned to life by his mother. The Nomads destroy her too. The Robed Figures gather what remains of mother and son, grind their bodies down, and return them to the soil. The ground flowers.",
    "runtime": 72,
    "year": 1989,
    "director": "E. Elias Merhige",
    "country": "United States",
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/begotten1600-3-1200x675.png",
    "links": {
-    "nwff": "https://nwfilmforum.org/films/begotten-4k-restoration/",
-    "beacon": "https://thebeacon.film/calendar/movie/begotten"
+    "nwff": "https://nwfilmforum.org/films/begotten-4k-restoration/"
+   }
+  },
+  {
+   "id": "beloved",
+   "title": "Beloved",
+   "description": "Presented by Cinema Italian Style. Two women face opposing fertility struggles: a young Nunzia grapples with an unplanned pregnancy while longing for carefree days, as Maddalena, at 40, desperately tries to conceive a child.",
+   "runtime": 100,
+   "year": 2025,
+   "director": "Elisa Amoruso",
+   "country": "Italy",
+   "language": "Italian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_Beloved_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/beloved"
    }
   },
   {
@@ -457,6 +454,20 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/REN_BewaretheDevilsWrath_1600x900.png",
    "links": {
     "siff-film-center": "https://www.siff.net/cinema/in-theaters/beware-the-devils-wrath-special-screening-qanda"
+   }
+  },
+  {
+   "id": "brunello-the-gracious-visionary",
+   "title": "Brunello: The Gracious Visionary",
+   "description": "In the documentary film Brunello: the Gracious Visionary, Giuseppe Tornatore imagines a symbolic card game between Brunello and a mysterious opponent—an allegory of Cucinelli’s life. As the unseen rival plays his hand, the film traces Brunello’s journey in a lyrical narrative, blending cinematic reconstructions, archival footage and intimate testimonies. Each chapter of his life is marked by affectionate nicknames: “little fox” from his grandfather, “young lord” from his father, “the German” from colleagues, and “the wolf” from his wife. A poetic, almost medieval canticle, the film bears Tornatore’s unique signature, elevated by Nicola Piovani’s score.",
+   "runtime": 120,
+   "year": 2026,
+   "director": "Giuseppe Tornatore",
+   "country": "Italy",
+   "language": "Italian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_Brunello_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/brunello-the-gracious-visionary"
    }
   },
   {
@@ -558,6 +569,20 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789696214716-tb-driller.jpg",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/secs-fest-presents-driller"
+   }
+  },
+  {
+   "id": "elisa",
+   "title": "Elisa",
+   "description": "Elisa, thirty-five, has been in prison for ten years, convicted of killing her older sister without apparent motive and burning her body. She claims to remember little to nothing of the crime, as if she had drawn a veil of silence between herself and the past. But when she decides to meet with criminologist Alaoui and take part in his research, in a tense and relentless dialogue memories begin to take shape, and in the pain of fully accepting her guilt, Elisa glimpses, perhaps, the first step toward a possible redemption.",
+   "runtime": 105,
+   "year": 2025,
+   "director": "Leonardo Di Constanzo",
+   "country": "Italy",
+   "language": "Italian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_Elisa_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/elisa"
    }
   },
   {
@@ -769,6 +794,34 @@
    }
   },
   {
+   "id": "gioia",
+   "title": "Gioia",
+   "description": "Gioia is a french literature teacher who has never known love, except for the suffocating kind from her parents, with whom she still lives. Among the students at her school is Alessio, who uses his body as a means to earn money and help his mother, a cashier in a supermarket. A forbidden, fragile, and inexplicably necessary bond grows between Alessio and Gioia. But Alessio's desire for social and personal redemption becomes a silent poison that keeps him from fully surrendering to Gioia's disarming sweetness. And so, he destroys everything and erases the only person who has ever loved him.",
+   "runtime": 108,
+   "year": 2025,
+   "director": "Nicolangelo Gelormini",
+   "country": "Italy",
+   "language": "Italian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_Gioia_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/gioia"
+   }
+  },
+  {
+   "id": "god-forgives-everyone",
+   "title": "God Forgives Everyone",
+   "description": "Thirty-five-year-old Palermo real estate agent Arturo lives a carefree life, with no lasting relationships and a passion for classic Sicilian pastries. His routine is disrupted when he meets Flora, the charming and determined daughter of a renowned local pastry shop owner and a fervent Catholic. To win her over, Arturo agrees to play Jesus in a Via Crucis procession, despite knowing almost nothing about religion. When Flora discovers the truth, Arturo makes an unusual commitment: for three weeks, he will follow the teachings of the Gospel to the letter, turning faith into action, with an unexpected spiritual mentor guiding him along the way: the Pope.",
+   "runtime": 113,
+   "year": 2026,
+   "director": "Pif",
+   "country": "Italy",
+   "language": "Italian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_GodForgivesEveryone_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/god-forgives-everyone"
+   }
+  },
+  {
    "id": "godzilla-minus-zero",
    "title": "Godzilla Minus Zero",
    "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life.\n\nJust as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant.\n\nThere is no third time. Everything ends here.",
@@ -780,27 +833,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_GodzillaMinusZero_1600x900.png",
    "links": {
     "siff-downtown": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero"
-   }
-  },
-  {
-   "id": "grosse-pointe-blank",
-   "title": "Grosse Pointe Blank",
-   "description": "After assassin Martin Blank has trouble focusing on his work, reulting in a failed assignment, he returns to his homestown of Grosse Point, Michigan, for his 10-year high school reunion. There he reconnects with Debi, his ex-girlfriend whom he jilted on prom night. Meanwhile, work gets in the way of his personal time when a Grosse Point local becomes a possible target, and a rival hitman rolls into town.\n\nSmart, funny, and sporting a fantastic soundtrack, Grosse Point Blank is among John Cusack's finest comedies and a great example oh how to make an upbeat rom-com with a twisted sense of humor.",
-   "runtime": 107,
-   "year": 1997,
-   "director": "George Armitage",
-   "country": "United States",
-   "language": "English",
-   "rating": "R",
-   "genres": [
-    "Action",
-    "Comedy",
-    "Thriller",
-    "Romance"
-   ],
-   "image": "https://indy-systems.imgix.net/gvmn6yszzoie3ongsqb40vnasapt?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
-   "links": {
-    "central-cinema": "https://central-cinema.com/movie/grosse-pointe-blank/"
    }
   },
   {
@@ -829,7 +861,7 @@
    ],
    "image": "https://indy-systems.imgix.net/vb7f4vqsvs5697okff62oz570tay?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
    "links": {
-    "central-cinema": "https://central-cinema.com/movie/seattle-scare-society-presents-hausu/"
+    "central-cinema": "https://central-cinema.com/movie/hausu-house/"
    }
   },
   {
@@ -949,6 +981,20 @@
    }
   },
   {
+   "id": "journey-to-italy",
+   "title": "Journey to Italy",
+   "description": "Married for eight years with no children, Brits Katherine and Alex Joyce are driving to Italy, their ultimate destination just outside of Naples to sell the villa they have just inherited from his uncle, the villa where they will be staying during their time there. On the drive, they come to the realization that this trip marks the first time that they have truly been alone together, and as such don't really know one another in the true sense. While in Italy, they end up mainly embarking on pursuits separate from each other - Katherine preferring the cultural, Alex preferring \"company\" including with some acquaintances they didn't know were in Naples until running into them on their first night in the city - and on the few occasions when they do spend time together, there is a tension and an underlying increasing want on both sides to hurt the other emotionally in their individual beliefs of what the other is thinking or has done in their time apart. As their marriage slowly falls apart, the question becomes if there is any way to salvage it if they truly do want to continue to be Mr. and Mrs. Joyce.",
+   "runtime": 97,
+   "year": 1954,
+   "director": "Roberto Rossellini",
+   "country": "Italy",
+   "language": "Italian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_JourneytoItaly_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/journey-to-italy"
+   }
+  },
+  {
    "id": "kokomo-city",
    "title": "Kokomo City",
    "description": "In the wildly entertaining and refreshingly unfiltered documentary Kokomo City, filmmaker D. Smith passes the mic to four Black transgender sex workers in Atlanta and New York City – Daniella Carter, Koko Da Doll, Liyah Mitchell, and Dominique Silver – who unapologetically break down the walls of their profession. Holding nothing back, the film vibrates with energy, sex, challenge, and hard-earned wisdom.\n\nThis vital portrait, edited and shot by Smith in bold black and white, is her feature directorial debut. A two-time Grammy-nominated producer, singer, and songwriter, Smith made history as the first trans woman cast on a primetime unscripted TV show. Executive produced by Lena Waithe, KOKOMO CITY won the Sundance Film Festival’s NEXT Innovator Award and NEXT Audience Award, as well as the Berlinale’s Audience Award in the Panorama Documentary section.",
@@ -963,6 +1009,20 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/06/kokomocity1600-1-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/wtf-with-stuff-kokomo-city/"
+   }
+  },
+  {
+   "id": "kwaidan",
+   "title": "Kwaidan",
+   "description": "This visually and aurally ravishing widescreen film, perhaps the greatest of Masaki Kobayashi, is adapted from the ghostly tales of Lafcadio Hearn, the Greek-Irish writer who made Japan his home in the 1890s. The level of stylization – in color, composition, music, sound, speech and movement – of these four tales is never less than breathtaking. Kwaidan bankrupted Kobayashi’s production company, but the effort was well worth it: there’s nothing else like it in all of cinema. Made in close collaboration with the great composer Toru Takemitsu.",
+   "runtime": 183,
+   "year": 1965,
+   "director": "Masaki Kobayashi",
+   "country": "Japan",
+   "language": "Japanese",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_Kwaidan_1600x900.png",
+   "links": {
+    "siff-downtown": "https://www.siff.net/cinema/in-theaters/kwaidan"
    }
   },
   {
@@ -998,6 +1058,20 @@
    "image": "https://static.spotapps.co/spots/f0/49f9c62c924af5b8f7e61549f70e25/w926",
    "links": {
     "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
+   "id": "love-fits-everything",
+   "title": "Love Fits Everything",
+   "description": "Stefano Rovelli is the author of a small book called \"How to Leave Your Partner in 7 Steps and Be Happy.\" Federica is a young woman currently on a break with the partner. She thinks it's Federico's fault, since he loved Rovelli's books, and won't back down until she and her ex are back together. Frank is a singer paired with a young rapper who only uses autotune. Manlio, Frank's manager, is called to the Vatican, and has to reunite Frank and his ex-partner, Milly, to sing for the Holy Father. Too bad Frank and Milly hate each other and have no plan to ever sing together again. Vittoria Casati is a unpopular politician. To boost her consensus, she decides to host a refugee from Africa. When she is faced with a Ghanan man instead of a boy, she welcomes him into her home, alongside her husband Giovanni and their two children.",
+   "runtime": 96,
+   "year": 2026,
+   "director": "Giampaolo Morelli",
+   "country": "Italy",
+   "language": "Italian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_LoveFitsEverything_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/love-fits-everything"
    }
   },
   {
@@ -1305,6 +1379,18 @@
    }
   },
   {
+   "id": "puerto-rican-short-film-night",
+   "title": "Puerto Rican Short Film Night",
+   "description": "A Fundraiser for the Diaspora of the Puerto Rican Independence Party.\n\nJoin us for a night of film, art, and Puerto Rican pastries with the DIASPORA OF THE PUERTO RICAN INDEPENDENCE PARTY and LA ANTILLANA. We will be showcasing three short films that highlight the effects of colonialism in different manifestations throughout Puerto Rico’s history and remind us why we fight for the independence of Puerto Rico.\n\nMATARON A PEDRO (2026, Kristian Mercado)\n\nIn 1930s Puerto Rico, Pedro Albizu Campos and his wife Laura Meneses navigate the island-wide sugar cane workers' strike, the brutal machinery of colonial repression, and the fierce, sustaining love between two people who refused to surrender their dignity or their dream of freedom.\n\nMELAO (2024, Val Vega)\n\nNando, a desperate worker on a sugarcane plantation in 1950s Puerto Rico who struggles to care for his pregnant wife, until he fixes on a plan that he hopes will secure their future and lead them out of poverty, no matter how crazy it may seem.\n\nMAREAS A LA DERIVA (2026, Camila Sofía Rodríguez López)\n\nMaite, a young graffiti writer in Puerto Rico, faces a life-altering choice: leave the island for a promising career opportunity abroad or stay and navigate the challenges of a nation in crisis. During her mother’s birthday weekend, with her sister visiting from New York, Maite sees two possible futures reflected in them, one rooted in resilience and staying, the other shaped by the opportunities of leaving. Grappling with these paths, she is forced to reckon with a paradise built for tourists and outsiders to enjoy but for locals to labor in and endure, shaped by systemic neglect, colonialism, and a broken power grid that keeps its bliss just out of reach for its own people.",
+   "runtime": 75,
+   "year": 2026,
+   "director": "Kristian Mercado, Val Vega, Camila Sofía Rodríguez López",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792539164282-dpip1.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/puerto-rican-short-film-night"
+   }
+  },
+  {
    "id": "resident-evil",
    "title": "Resident Evil",
    "description": "From the mind of visionary filmmaker Zach Cregger (Weapons, Barbarian) comes a thrilling - and terrifying - reinvention of the Resident Evil franchise. In an all-new story, Resident Evil follows Bryan (Austin Abrams), a medical courier who unwittingly finds himself in an action-packed, non-stop race for survival as one fateful, horrifying night collapses around him in chaos.",
@@ -1596,6 +1682,22 @@
    }
   },
   {
+   "id": "star-trek-iv-the-voyage-home",
+   "title": "Star Trek IV: The Voyage Home",
+   "description": "It's the 23rd century, and a mysterious alien power is threatening Earth by evaporating the oceans and destroying the atmosphere. In a frantic attempt to save mankind, Kirk and his crew must travel back in time to save the Earth and its people from total destruction.",
+   "runtime": 119,
+   "director": "Leonard Nimoy",
+   "genres": [
+    "Science fiction",
+    "Adventure",
+    "Comedy"
+   ],
+   "image": "https://all.web.img.acsta.net/img/3f/fc/3ffc57ae028bb936a170b2cbacc63eeb.jpg",
+   "links": {
+    "majestic-bay": "https://www.majesticbay.com/movies/79359-star-trek-iv-the-voyage-home/"
+   }
+  },
+  {
    "id": "star-trek-the-motion-picture",
    "title": "Star Trek: The Motion Picture",
    "description": "When a destructive space entity is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine, and hopefully stop it.",
@@ -1651,6 +1753,20 @@
    "image": "https://static.spotapps.co/spots/ec/751f2c965f49e2aa9883d1d39624cf/w926",
    "links": {
     "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
+   "id": "sweetheart-opening-night-film-party",
+   "title": "Sweetheart - Opening Night Film + Party",
+   "description": "Ten-year-old Nico is forced to spend the summer in Sicily with his elderly Aunt Gela, a woman deeply rooted in the traditions of her homeland and unfamiliar with the digital world. Accustomed to social media, online chats, and modern life, Nico struggles to adapt to his aunt's lifestyle, and their relationship begins with tension. Yet, as they share everyday moments and navigate their differences, an unexpected and genuine bond emerges. Gela learns to see the world through her nephew's eyes, while Nico discovers the value of friendship, family, and traditions from a disappearing era. Their lives will never be the same.",
+   "runtime": 92,
+   "year": 2025,
+   "director": "Margherita Spampinato",
+   "country": "Italy",
+   "language": "Italian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_Sweetheart_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/sweetheart"
    }
   },
   {
@@ -1821,13 +1937,41 @@
    }
   },
   {
+   "id": "kidnapping-of-arabella",
+   "title": "The Kidnapping of Arabella",
+   "description": "Presented by Cinema Italian Style. Holly, trapped in a dead-end job, believes meeting rebellious eight-year-old Arabella is a cosmic second chance: her younger self returned. Together they embark on an unconventional road trip, discovering that two lost souls may hold the answers each has been searching for.\n\nFollowing the screening: Q&A with the film's director, Carolina Cavalli, a guest of Cinema Italian Style.",
+   "runtime": 107,
+   "year": 2025,
+   "director": "Carolina Cavalli",
+   "country": "Italy",
+   "language": "Italian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_KidnappingofArabella_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/the-kidnapping-of-arabella"
+   }
+  },
+  {
+   "id": "last-one-for-the-road",
+   "title": "The Last One for the Road",
+   "description": "The film tells the story of Carlobianchi and Doriano, two down-on-their-luck fifty-somethings who enjoy drinking and are chasing the legend of a treasure hidden by their friend Eugenio, known as Genio, who fled to Argentina after committing fraud at the eyeglasses factory where they all worked.",
+   "runtime": 98,
+   "year": 2025,
+   "director": "Francesco Sossai",
+   "country": "Italy",
+   "language": "Italian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_Lastonefortheroad_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/the-last-one-for-the-road"
+   }
+  },
+  {
    "id": "last-temptation-of-becky",
    "title": "The Last Temptation of Becky",
-   "description": "Tickets on sale 10/21!\n\nNow a CIA field agent, Becky (Lulu Wilson) goes undercover in Poland to infiltrate a family running an inn at The Wolf’s Lair, one of Hitler’s WWII bunkers. When she learns the father, Wilhelm Reuss (Neil Patrick Harris), plans to spark the Fourth Reich, Becky must stop him.",
+   "description": "Now a CIA field agent, Becky (Lulu Wilson) goes undercover in Poland to infiltrate a family running an inn at The Wolf's Lair, one of Hitler's WWII bunkers. When she learns the father, Wilhelm Reuss (Neil Patrick Harris), plans to spark the Fourth Reich, Becky must stop him.",
    "runtime": 89,
    "year": 2026,
    "director": "Jenn Wexler",
-   "image": "https://grandillusioncinema.org/wp-content/uploads/2026/10/LastTemptationOfBeckyPoster-550x794.jpg",
+   "image": "https://grandillusioncinema.org/wp-content/uploads/2026/10/lasttemptationofbeckyposter-1.jpg",
    "links": {
     "grand-illusion": "https://grandillusioncinema.org/film/the-last-temptation-of-becky/"
    }
@@ -1861,7 +2005,7 @@
   {
    "id": "most-dangerous-game",
    "title": "The Most Dangerous Game",
-   "description": "The Sprocket Society presents: a yacht blithely strays into a deranged trap in this legendary pre-Code thriller, shown with spooky shorts — all on 16mm film!\n\nCastaway Joel McCrae washes ashore on a remote jungle island. In an incongruous gothic manor, wealthy Russian exile Count Zaroff (a gloriously villainous Leslie Banks) blithely hosts survivors of other such “accidents.” But Zaroff’s hospitality comes with a terrible price: the satisfaction of his psychopathic kink for hunting…humans. The manhunt is on! With comely Fay Wray at his side, armed only with a knife and his frayed wits, McCrae must somehow survive the cunning bloodlust of Zaroff and his ravening hounds.\n\nAs short and hard hitting as a crossbow bolt, this low budget studio throw-away has been copied countless times, yet never bested. Helmed by the director of KING KONG and shot on the same jungle sets, the tension and fog-choked visuals linger in the mind long after the credits roll.\n\nAll aboard: your berth awaits!\n\nPresented with selected short subjects.",
+   "description": "The Sprocket Society presents: a yacht blithely strays into a deranged trap in this legendary pre-Code thriller, shown with spooky shorts — all on 16mm film!\n\nCastaway Joel McCrea washes ashore on a remote jungle island. In an incongruous gothic manor, wealthy Russian exile Count Zaroff (a gloriously villainous Leslie Banks) blithely hosts survivors of other such “accidents.” But Zaroff’s hospitality comes with a terrible price: the satisfaction of his psychopathic kink for hunting…humans. The manhunt is on! With comely Fay Wray at his side, armed only with a knife and his frayed wits, McCrea must somehow survive the cunning bloodlust of Zaroff and his ravening hounds.\n\nAs short and hard hitting as a crossbow bolt, this low budget studio throw-away has been copied countless times, yet never bested. Helmed by the director of KING KONG and shot on the same jungle sets, the tension and fog-choked visuals linger in the mind long after the credits roll.\n\nAll aboard: your berth awaits!\n\nPresented with selected short subjects.",
    "runtime": 95,
    "year": 1932,
    "director": "Ernest B. Schoedsack & Irving Pichel",
@@ -1969,6 +2113,19 @@
    }
   },
   {
+   "id": "shining",
+   "title": "The Shining",
+   "description": "When writer Jack Torrance (Nicholson)—who has a history of alcoholism and child abuse—takes a job as winter caretaker for a hotel high in the Rocky Mountains, he, his wife (Duvall) and their psychic young son will be isolated until spring. But once the first blizzard closes the road out, the accumulated power of evil deeds committed at the hotel begins to drive Jack mad. Now there may be no escape for his wife and son in this haunting madness, memory and family violence.",
+   "runtime": 144,
+   "year": 1980,
+   "director": "Stanley Kubrick",
+   "country": "USA, United Kingdom",
+   "image": "https://www.siff.net/images/CINEMA/2024/Films%20June-Dec/CIN_TheShining_1600x900.jpg",
+   "links": {
+    "siff-downtown": "https://www.siff.net/cinema/in-theaters/the-shining"
+   }
+  },
+  {
    "id": "social-reckoning",
    "title": "The Social Reckoning",
    "description": "Inspired by true events and the whistleblower who started the social media reckoning we’re seeing play out today, this Aaron Sorkin original screenplay is a companion piece to the hit film The Social Network and a true David and Goliath story. Frances Haugen (Madison), a young Facebook engineer, enlists the help ofJeff Horwitz (White), a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network’s most guarded secrets.",
@@ -1982,6 +2139,20 @@
    "image": "https://all.web.img.acsta.net/img/f1/84/f184b462dd52161f7bda4c3f51017212.jpg",
    "links": {
     "majestic-bay": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/"
+   }
+  },
+  {
+   "id": "spiral",
+   "title": "The Spiral",
+   "description": "During a storm, Anna unexpectedly arrives at her daughter Alice’s apartment with a devastating confession: for twenty years, she has hidden the truth about a mysterious pact she made to save Alice’s life after a childhood accident. The pact set off a dark chain of painful events that has shaped their entire family. Anna’s revelation shatters their relationship and forces Alice to confront the unsettling truth about her own existence. To break the cycle created by her mother, Alice must face a terrible choice and a price that may be impossible to pay.",
+   "runtime": 115,
+   "year": 2026,
+   "director": "Paolo Strippoli",
+   "country": "Italy",
+   "language": "Italian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_TheSpiral_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/the-spiral"
    }
   },
   {
@@ -2006,15 +2177,15 @@
    }
   },
   {
-   "id": "way-out",
-   "title": "The Way Out",
-   "description": "The Way Out drops you right into the action across the globe, from heavy Alaskan spine lines to local backyard laps in Whistler. The Way Out represents a path toward total freedom. Whether tracking Hoji, Chris Rubens, and Mark Abma across the iconic Swiss Alps or capturing breakout skier Lucy Leishman storming through Japan’s deep powder with three legendary freeskiers, the verdict is simple: the soul of skiing isn’t dead; it's alive and well wherever the snow is falling.",
-   "runtime": 60,
-   "year": 2026,
-   "country": "USA",
-   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/REN_TheWayOut_1600x900.png",
+   "id": "velocipastor-and-the-velocipastor-2-double-feature",
+   "title": "The VelociPastor and The VelociPastor 2 (double feature)",
+   "description": "A double feature of dino-namic proportions!\n\nThe epic saga of Doug Jones (Gregory James Cohan), a priest who travels to China after losing his parents and inherits a mysterious ability that allows him to turn into a dinosaur. In the first VELOCIPASTOR, Doug—with the help of a Lady of the Night, Carol (Alyssa Kempinski)—harnesses his newfound power to fight crime. And ninjas.\n\nThen, in the brand new follow-up, THE VELOCIPASTOR 2, Doug and Carol travel to the port city of Milan, where they have to solve a series of murders committed by a sex-maniac killer at an Italian Fertility Festival. And Soviet Spies. Oh, and INTERPOL’s there, too.\n\nPlease note: There will be a 10-minute intermission between features.",
+   "runtime": 162,
+   "year": 2018,
+   "director": "Brendan Steere, Jesse Gouldsbury",
+   "image": "https://grandillusioncinema.org/wp-content/uploads/2026/10/thevelocipastor2_poster.png",
    "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/matchstick-productions-presents-the-way-out-2026-ski-film"
+    "siff-uptown": "https://grandillusioncinema.org/film/velocipastor/"
    }
   },
   {
@@ -2173,23 +2344,6 @@
    }
   },
   {
-   "id": "who-moves-america",
-   "title": "Who Moves America",
-   "description": "As the world’s largest package delivery company, UPS moves millions of packages across more than 200 countries and territories each day – and its workforce holds the power to bring that machine to a halt. Who Moves America follows a UPS driver in California casting his first strike vote, a Teamster in New York who walked the picket line during the historic 1997 strike, and a warehouse worker in Kentucky balancing night shifts with community college, weighing whether she can afford to say no, as well as access to the General President of the International Brotherhood of Teamsters, Sean O’Brien. As they and their co-workers organize, argue, and campaign across the country, the film builds toward a single, high-stakes vote: accept the deal, or risk everything for a strike that could reshape the American economy. Through intimate access and on-the-ground storytelling, Who Moves America reveals the human stories behind the single largest collective bargaining agreement in North America and explores the power and complexity of collective action in modern America.",
-   "runtime": 87,
-   "year": 2026,
-   "director": "Yael Bridge",
-   "country": "United States",
-   "language": "English",
-   "genres": [
-    "Documentary"
-   ],
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/08/whomovesamerica1600-7-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/who-moves-america/"
-   }
-  },
-  {
    "id": "wicker",
    "title": "Wicker",
    "description": "An audacious comedic fable about sex, marriage, and the absurdities of social convention, Wicker tells the wholly original love story of an ostracized fisherwoman (Olivia Colman) who commissions a husband to be made by the local basketmaker (Peter Dinklage). When her wicker husband (Alexander Skarsgård) proves more spectacular than she ever imagined, his soulful spirit and unique prowess awaken something inside her, setting off a wave of jealousy, fascination, and upheaval that threatens the very fabric of village life.",
@@ -2277,7 +2431,8 @@
    "links": {
     "siff-uptown": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
     "tasveer": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
-    "majestic-bay": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/"
+    "majestic-bay": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything"
    }
   },
   {
@@ -2343,247 +2498,6 @@
  ],
  "showings": [
   {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-20T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17070/794",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-20T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17069/717",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-20T15:50:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17072/795",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-20T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17074/770",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "grosse-pointe-blank",
-   "theater": "central-cinema",
-   "start": "2026-10-20T16:00:00-07:00",
-   "url": "https://central-cinema.com/movie/grosse-pointe-blank/",
-   "tickets": "https://central-cinema.com/checkout/showing/grosse-pointe-blank/3918210"
-  },
-  {
-   "film": "singin-in-the-rain",
-   "theater": "majestic-bay",
-   "start": "2026-10-20T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36501?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
-   "notes": [
-    "Double Feature",
-    "Majestic Bay Doc",
-    "Free"
-   ]
-  },
-  {
-   "film": "devils",
-   "theater": "siff-uptown",
-   "start": "2026-10-20T16:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-8DN08VIMWX"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-20T16:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36526?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-20T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-hk2iDV3Hux"
-  },
-  {
-   "film": "begotten",
-   "theater": "beacon",
-   "start": "2026-10-20T16:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/begotten",
-   "tickets": "https://thebeacon.film/calendar/movie/begotten?showtime=3UUWOXHOA7U7OIIPDG4RTUXN"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-20T16:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36524?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-20T16:40:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-ab6SkDrqIp"
-  },
-  {
-   "film": "a-rimbaud",
-   "theater": "nwff",
-   "start": "2026-10-20T18:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/a-rimbaud/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a971bb8d768c7451ae101ae",
-   "notes": [
-    "Visiting artist"
-   ]
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-20T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17071/794",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-20T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17073/795",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-20T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17075/770",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-20T18:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-1ZV6hdCZpl",
-   "notes": [
-    "Sold out"
-   ]
-  },
-  {
-   "film": "hausu-house",
-   "theater": "central-cinema",
-   "start": "2026-10-20T19:00:00-07:00",
-   "url": "https://central-cinema.com/movie/seattle-scare-society-presents-hausu/",
-   "tickets": "https://central-cinema.com/checkout/showing/seattle-scare-society-presents-hausu/4011309",
-   "notes": [
-    "Presented by Seattle Scare Society"
-   ]
-  },
-  {
-   "film": "singin-in-the-rain",
-   "theater": "majestic-bay",
-   "start": "2026-10-20T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36502?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
-   "notes": [
-    "Double Feature",
-    "Majestic Bay Doc",
-    "Free"
-   ]
-  },
-  {
-   "film": "who-moves-america",
-   "theater": "nwff",
-   "start": "2026-10-20T19:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/who-moves-america/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a7ce55008b441fb2da01e92",
-   "notes": [
-    "Visiting artist"
-   ]
-  },
-  {
-   "film": "devils",
-   "theater": "siff-uptown",
-   "start": "2026-10-20T19:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-xHZZmWZPYv",
-   "notes": [
-    "Sold out"
-   ]
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-20T19:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36527?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "flying-embers-and-a-fortress",
-   "theater": "beacon",
-   "start": "2026-10-20T19:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/flying-embers-and-a-fortress",
-   "tickets": "https://thebeacon.film/calendar/movie/flying-embers-and-a-fortress?showtime=XM5BZFTABAUEVPVGANX3WLP3"
-  },
-  {
-   "film": "a-chinese-ghost-story",
-   "theater": "grand-illusion",
-   "start": "2026-10-20T19:30:00-07:00",
-   "url": "https://grandillusioncinema.org/film/a-chinese-ghost-story-new-4k-restoration/",
-   "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=654935~db6ae971-a7a0-4ce7-8336-1f487b58723c&",
-   "notes": [
-    "New 4K restoration"
-   ]
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-20T19:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36525?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-20T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-YW97DRaR2e"
-  },
-  {
-   "film": "way-out",
-   "theater": "siff-uptown",
-   "start": "2026-10-20T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/matchstick-productions-presents-the-way-out-2026-ski-film",
-   "tickets": "https://www.siff.net/cinema/in-theaters/matchstick-productions-presents-the-way-out-2026-ski-film#screening-VT4Y8B8EuK",
-   "notes": [
-    "Sold out"
-   ]
-  },
-  {
    "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-10-21T15:30:00-07:00",
@@ -2598,18 +2512,18 @@
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17058/794"
   },
   {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-21T15:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17056/795"
+  },
+  {
    "film": "practical-magic-2",
    "theater": "admiral",
    "start": "2026-10-21T15:45:00-07:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17052/717"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-21T15:50:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17056/795"
   },
   {
    "film": "heart-of-the-beast",
@@ -2685,13 +2599,6 @@
    "start": "2026-10-21T18:30:00-07:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17059/794"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-21T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17057/795"
   },
   {
    "film": "heart-of-the-beast",
@@ -2991,7 +2898,10 @@
    "theater": "siff-uptown",
    "start": "2026-10-22T19:15:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-xnlFM4csRC"
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-xnlFM4csRC",
+   "notes": [
+    "Sold out"
+   ]
   },
   {
    "film": "rider-of-the-skulls",
@@ -3027,6 +2937,13 @@
    "start": "2026-10-22T20:00:00-07:00",
    "url": "https://central-cinema.com/movie/the-totally-halloween-sing-along/",
    "tickets": "https://central-cinema.com/checkout/showing/the-totally-halloween-sing-along/3918213"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-23T14:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17083/793"
   },
   {
    "film": "you-can-see-everything",
@@ -3128,6 +3045,13 @@
    "start": "2026-10-23T18:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/the-altar-boys",
    "tickets": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/the-altar-boys#screening-DWx1sK9X4p"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-23T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17082/793"
   },
   {
    "film": "you-can-see-everything",
@@ -3240,6 +3164,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/erupcja#screening-fdtTpxwyFK"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-23T21:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17103/793"
+  },
+  {
    "film": "rocky-horror-picture-show",
    "theater": "north-bend",
    "start": "2026-10-23T21:00:00-07:00",
@@ -3272,6 +3203,13 @@
    "start": "2026-10-24T11:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/whalefall",
    "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-AYaaPnTe8G"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-24T12:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17104/793"
   },
   {
    "film": "you-can-see-everything",
@@ -3347,11 +3285,11 @@
    "url": "https://tinroombar.com/events"
   },
   {
-   "film": "your-mother-your-mother-your-mother",
-   "theater": "tasveer",
-   "start": "2026-10-24T14:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/your-mother-your-mother-your-mother",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/your-mother-your-mother-your-mother/4136298"
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-24T14:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17086/793"
   },
   {
    "film": "you-can-see-everything",
@@ -3490,6 +3428,13 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-24T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17087/793"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-10-24T18:30:00-07:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
@@ -3579,6 +3524,13 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/69aa5ef70f3538f0aa58bb68"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-24T21:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17085/793"
+  },
+  {
    "film": "rocky-horror-picture-show",
    "theater": "north-bend",
    "start": "2026-10-24T21:00:00-07:00",
@@ -3601,6 +3553,13 @@
    "start": "2026-10-25T11:35:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/your-mother-your-mother-your-mother",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/your-mother-your-mother-your-mother/4136358"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-25T12:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17105/793"
   },
   {
    "film": "you-can-see-everything",
@@ -3691,6 +3650,13 @@
    "start": "2026-10-25T14:30:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/bernsteins-wall",
    "tickets": "https://www.siff.net/cinema/in-theaters/bernsteins-wall#screening-sm7DFWqgdd"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-25T14:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17089/793"
   },
   {
    "film": "you-can-see-everything",
@@ -3819,6 +3785,13 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-25T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17090/793"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-10-25T18:30:00-07:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
@@ -3885,6 +3858,20 @@
    "start": "2026-10-25T19:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/wicker",
    "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-o0ABloDqTs"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-25T21:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17088/793"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-26T14:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17092/793"
   },
   {
    "film": "you-can-see-everything",
@@ -3955,6 +3942,13 @@
    "start": "2026-10-26T17:30:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/take-me-home",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/take-me-home/4003545"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-26T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17093/793"
   },
   {
    "film": "you-can-see-everything",
@@ -4084,6 +4078,13 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-27T14:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17106/793"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-10-27T15:00:00-07:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
@@ -4154,6 +4155,13 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-27T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17107/793"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-10-27T18:30:00-07:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
@@ -4209,10 +4217,7 @@
    "theater": "siff-uptown",
    "start": "2026-10-27T19:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-u7G2ic3Wir",
-   "notes": [
-    "Sold out"
-   ]
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-u7G2ic3Wir"
   },
   {
    "film": "tv-party-doomed-occult-detectives",
@@ -4266,6 +4271,13 @@
    "start": "2026-10-27T21:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/seattle-48-hour-horror-film-project-2026",
    "tickets": "https://www.siff.net/cinema/in-theaters/seattle-48-hour-horror-film-project-2026#screening-VYE2T37FDb"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-28T14:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17098/793"
   },
   {
    "film": "you-can-see-everything",
@@ -4336,6 +4348,13 @@
    "start": "2026-10-28T17:30:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/take-me-home",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/take-me-home/4003549"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-28T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17099/793"
   },
   {
    "film": "you-can-see-everything",
@@ -4451,9 +4470,16 @@
    "tickets": "https://central-cinema.com/checkout/showing/fright-night/3999059"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-29T14:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17101/793"
+  },
+  {
    "film": "wildwood",
    "theater": "majestic-bay",
-   "start": "2026-10-29T15:30:00-07:00",
+   "start": "2026-10-29T15:15:00-07:00",
    "url": "https://www.majesticbay.com/movies/296439-wildwood/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36378?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
@@ -4515,6 +4541,13 @@
    "start": "2026-10-29T17:30:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/take-me-home",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/take-me-home/4003552"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-29T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17102/793"
   },
   {
    "film": "you-can-see-everything",
@@ -4681,6 +4714,13 @@
    "url": "https://tinroombar.com/events"
   },
   {
+   "film": "shining",
+   "theater": "siff-downtown",
+   "start": "2026-10-30T19:30:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/the-shining",
+   "tickets": "https://www.siff.net/cinema/in-theaters/the-shining#screening-n2tk6GpZRX"
+  },
+  {
    "film": "2026-collide-o-scope-halloween-show",
    "theater": "nwff",
    "start": "2026-10-30T20:00:00-07:00",
@@ -4710,6 +4750,13 @@
    "start": "2026-10-31T11:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-QDN3kmvZEV"
+  },
+  {
+   "film": "kwaidan",
+   "theater": "siff-downtown",
+   "start": "2026-10-31T14:00:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/kwaidan",
+   "tickets": "https://www.siff.net/cinema/in-theaters/kwaidan#screening-urolpNeLdv"
   },
   {
    "film": "wedding",
@@ -4760,6 +4807,13 @@
    "notes": [
     "Visiting artist"
    ]
+  },
+  {
+   "film": "shining",
+   "theater": "siff-downtown",
+   "start": "2026-10-31T18:15:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/the-shining",
+   "tickets": "https://www.siff.net/cinema/in-theaters/the-shining#screening-9NppB0KIQY"
   },
   {
    "film": "five-minutes-to-die",
@@ -4843,6 +4897,13 @@
    "tickets": "https://tix.northbendtheatre.com/event/wildwood-sunday-nov-1st-3pm"
   },
   {
+   "film": "shining",
+   "theater": "siff-downtown",
+   "start": "2026-11-01T15:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/the-shining",
+   "tickets": "https://www.siff.net/cinema/in-theaters/the-shining#screening-Pkfl9wNfDf"
+  },
+  {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
    "theater": "nwff",
    "start": "2026-11-01T15:30:00-08:00",
@@ -4867,11 +4928,25 @@
    ]
   },
   {
+   "film": "puerto-rican-short-film-night",
+   "theater": "beacon",
+   "start": "2026-11-01T17:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/puerto-rican-short-film-night",
+   "tickets": "https://thebeacon.film/calendar/movie/puerto-rican-short-film-night?showtime=OXTS6XU3O54GZTYWVUZA2Y6I"
+  },
+  {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
    "theater": "nwff",
    "start": "2026-11-01T18:30:00-08:00",
    "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ad50da1b3e7c982205157be"
+  },
+  {
+   "film": "kwaidan",
+   "theater": "siff-downtown",
+   "start": "2026-11-01T18:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/kwaidan",
+   "tickets": "https://www.siff.net/cinema/in-theaters/kwaidan#screening-kmj4paHMhU"
   },
   {
    "film": "hocus-pocus",
@@ -4927,6 +5002,13 @@
    "start": "2026-11-02T16:30:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/the-leopard-man",
    "tickets": "https://thebeacon.film/calendar/movie/the-leopard-man?showtime=SB5NFQFPBBH3NYKYNYDJTN3X"
+  },
+  {
+   "film": "kwaidan",
+   "theater": "siff-downtown",
+   "start": "2026-11-02T18:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/kwaidan",
+   "tickets": "https://www.siff.net/cinema/in-theaters/kwaidan#screening-BUWteyTJHM"
   },
   {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
@@ -5070,10 +5152,18 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ac54041dfd1d1dc8a50ca6c"
   },
   {
+   "film": "shining",
+   "theater": "siff-downtown",
+   "start": "2026-11-04T19:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/the-shining",
+   "tickets": "https://www.siff.net/cinema/in-theaters/the-shining#screening-oNTKFd6uPx"
+  },
+  {
    "film": "last-temptation-of-becky",
    "theater": "grand-illusion",
    "start": "2026-11-04T19:30:00-08:00",
-   "url": "https://grandillusioncinema.org/film/the-last-temptation-of-becky/"
+   "url": "https://grandillusioncinema.org/film/the-last-temptation-of-becky/",
+   "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=664926~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
   },
   {
    "film": "a-man-and-a-woman",
@@ -5130,6 +5220,16 @@
    "notes": [
     "The Open Road",
     "35mm"
+   ]
+  },
+  {
+   "film": "velocipastor-and-the-velocipastor-2-double-feature",
+   "theater": "siff-uptown",
+   "start": "2026-11-05T19:00:00-08:00",
+   "url": "https://grandillusioncinema.org/film/velocipastor/",
+   "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=664923~db6ae971-a7a0-4ce7-8336-1f487b58723c&",
+   "notes": [
+    "Presented by the Grand Illusion Cinema"
    ]
   },
   {
@@ -5617,6 +5717,16 @@
    ]
   },
   {
+   "film": "sweetheart-opening-night-film-party",
+   "theater": "siff-uptown",
+   "start": "2026-11-18T18:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/sweetheart",
+   "tickets": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/sweetheart#screening-4iMLMovXCB",
+   "notes": [
+    "Cinema Italian Style"
+   ]
+  },
+  {
    "film": "star-trek-iii-the-search-for-spock",
    "theater": "majestic-bay",
    "start": "2026-11-18T19:00:00-08:00",
@@ -5641,6 +5751,16 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ab171da02ce9929ad1ac3ce"
   },
   {
+   "film": "elisa",
+   "theater": "siff-uptown",
+   "start": "2026-11-19T17:30:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/elisa",
+   "tickets": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/elisa#screening-gwfMY6Yknd",
+   "notes": [
+    "Cinema Italian Style"
+   ]
+  },
+  {
    "film": "witch",
    "theater": "nwff",
    "start": "2026-11-19T18:30:00-08:00",
@@ -5656,6 +5776,36 @@
    "notes": [
     "The Open Road",
     "35mm"
+   ]
+  },
+  {
+   "film": "a-year-of-school",
+   "theater": "siff-uptown",
+   "start": "2026-11-19T20:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/a-year-of-school",
+   "tickets": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/a-year-of-school#screening-XgQSeHodg7",
+   "notes": [
+    "Cinema Italian Style 2026"
+   ]
+  },
+  {
+   "film": "brunello-the-gracious-visionary",
+   "theater": "siff-uptown",
+   "start": "2026-11-20T15:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/brunello-the-gracious-visionary",
+   "tickets": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/brunello-the-gracious-visionary#screening-dYEbnHBt3V",
+   "notes": [
+    "Cinema Italian Style 2026"
+   ]
+  },
+  {
+   "film": "gioia",
+   "theater": "siff-uptown",
+   "start": "2026-11-20T17:30:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/gioia",
+   "tickets": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/gioia#screening-VR49FCf4Qj",
+   "notes": [
+    "Cinema Italian Style 2026"
    ]
   },
   {
@@ -5676,6 +5826,26 @@
    ]
   },
   {
+   "film": "last-one-for-the-road",
+   "theater": "siff-uptown",
+   "start": "2026-11-20T20:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/the-last-one-for-the-road",
+   "tickets": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/the-last-one-for-the-road#screening-IKBagISjeL",
+   "notes": [
+    "Cinema Italian Style 2026"
+   ]
+  },
+  {
+   "film": "spiral",
+   "theater": "siff-uptown",
+   "start": "2026-11-21T15:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/the-spiral",
+   "tickets": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/the-spiral#screening-RDtXB9Ah9M",
+   "notes": [
+    "Cinema Italian Style 2026"
+   ]
+  },
+  {
    "film": "love-streams",
    "theater": "nwff",
    "start": "2026-11-21T16:00:00-08:00",
@@ -5690,6 +5860,16 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ac594cfde6c4cd65eec778e",
    "notes": [
     "4K restoration"
+   ]
+  },
+  {
+   "film": "kidnapping-of-arabella",
+   "theater": "siff-uptown",
+   "start": "2026-11-21T17:30:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/the-kidnapping-of-arabella",
+   "tickets": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/the-kidnapping-of-arabella#screening-41w1rFpoUr",
+   "notes": [
+    "Cinema Italian Style"
    ]
   },
   {
@@ -5710,6 +5890,16 @@
    ]
   },
   {
+   "film": "love-fits-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-21T20:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/love-fits-everything",
+   "tickets": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/love-fits-everything#screening-U9SempbKtQ",
+   "notes": [
+    "Cinema Italian Style 2026"
+   ]
+  },
+  {
    "film": "rocky-horror-picture-show",
    "theater": "admiral",
    "start": "2026-11-21T21:30:00-08:00",
@@ -5727,6 +5917,16 @@
    ]
   },
   {
+   "film": "journey-to-italy",
+   "theater": "siff-uptown",
+   "start": "2026-11-22T13:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/journey-to-italy",
+   "tickets": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/journey-to-italy#screening-2ivsXPXSlv",
+   "notes": [
+    "Cinema Italian Style 2026"
+   ]
+  },
+  {
    "film": "actually-it-is-rocket-science",
    "theater": "north-bend",
    "start": "2026-11-22T15:00:00-08:00",
@@ -5736,6 +5936,16 @@
     "The 31st annual TGR ski film",
     "Presented by Teton Gravity Research",
     "Mountain Film Festival"
+   ]
+  },
+  {
+   "film": "beloved",
+   "theater": "siff-uptown",
+   "start": "2026-11-22T15:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/beloved",
+   "tickets": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/beloved#screening-1iFM9msgG8",
+   "notes": [
+    "Cinema Italian Style 2026"
    ]
   },
   {
@@ -5753,6 +5963,16 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ac594cfde6c4cd65eec7793",
    "notes": [
     "4K restoration"
+   ]
+  },
+  {
+   "film": "god-forgives-everyone",
+   "theater": "siff-uptown",
+   "start": "2026-11-22T17:30:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/god-forgives-everyone",
+   "tickets": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/god-forgives-everyone#screening-bY3MpZVrhM",
+   "notes": [
+    "Cinema Italian Style 2026"
    ]
   },
   {
@@ -5810,6 +6030,26 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/beware-the-devils-wrath-special-screening-qanda#screening-Cs3d3My3LQ",
    "notes": [
     "Q&A"
+   ]
+  },
+  {
+   "film": "star-trek-iv-the-voyage-home",
+   "theater": "majestic-bay",
+   "start": "2026-11-25T19:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/79359-star-trek-iv-the-voyage-home/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36385?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Special screening"
+   ]
+  },
+  {
+   "film": "taste-of-cherry",
+   "theater": "siff-film-center",
+   "start": "2026-11-25T19:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/the-open-road/taste-of-cherry",
+   "tickets": "https://www.siff.net/programs-and-events/the-open-road/taste-of-cherry#screening-LkEWyxvEgN",
+   "notes": [
+    "The Open Road"
    ]
   }
  ]
