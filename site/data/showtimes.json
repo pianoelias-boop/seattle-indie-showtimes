@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:01:00-07:00",
+ "updated": "2026-10-22T10:58:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-21T11:01:00-07:00",
-    "lastSuccess": "2026-10-21T11:01:00-07:00",
-    "showings": 53,
+    "checked": "2026-10-22T10:58:00-07:00",
+    "lastSuccess": "2026-10-22T10:58:00-07:00",
+    "showings": 51,
     "through": "2026-11-15"
    }
   },
@@ -33,9 +33,9 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-21T11:01:00-07:00",
-    "lastSuccess": "2026-10-21T11:01:00-07:00",
-    "showings": 77,
+    "checked": "2026-10-22T10:58:00-07:00",
+    "lastSuccess": "2026-10-22T10:58:00-07:00",
+    "showings": 82,
     "through": "2026-11-22"
    }
   },
@@ -52,9 +52,9 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-21T11:01:00-07:00",
-    "lastSuccess": "2026-10-21T11:01:00-07:00",
-    "showings": 29,
+    "checked": "2026-10-22T10:58:00-07:00",
+    "lastSuccess": "2026-10-22T10:58:00-07:00",
+    "showings": 28,
     "through": "2026-11-25"
    }
   },
@@ -70,8 +70,8 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-21T11:01:00-07:00",
-    "lastSuccess": "2026-10-21T11:01:00-07:00",
+    "checked": "2026-10-22T10:58:00-07:00",
+    "lastSuccess": "2026-10-22T10:58:00-07:00",
     "showings": 5,
     "through": "2026-11-04"
    }
@@ -88,9 +88,9 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-21T11:01:00-07:00",
-    "lastSuccess": "2026-10-21T11:01:00-07:00",
-    "showings": 72,
+    "checked": "2026-10-22T10:58:00-07:00",
+    "lastSuccess": "2026-10-22T10:58:00-07:00",
+    "showings": 70,
     "through": "2026-11-24"
    }
   },
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-21T11:01:00-07:00",
-    "lastSuccess": "2026-10-21T11:01:00-07:00",
-    "showings": 37,
+    "checked": "2026-10-22T10:58:00-07:00",
+    "lastSuccess": "2026-10-22T10:58:00-07:00",
+    "showings": 36,
     "through": "2026-11-05"
    }
   },
@@ -126,10 +126,10 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-21T11:01:00-07:00",
-    "lastSuccess": "2026-10-21T11:01:00-07:00",
-    "showings": 25,
-    "through": "2026-11-02"
+    "checked": "2026-10-22T10:58:00-07:00",
+    "lastSuccess": "2026-10-22T10:58:00-07:00",
+    "showings": 40,
+    "through": "2026-11-25"
    }
   },
   {
@@ -145,10 +145,10 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-21T11:01:00-07:00",
-    "lastSuccess": "2026-10-21T11:01:00-07:00",
-    "showings": 39,
-    "through": "2026-10-29"
+    "checked": "2026-10-22T10:58:00-07:00",
+    "lastSuccess": "2026-10-22T10:58:00-07:00",
+    "showings": 47,
+    "through": "2026-11-05"
    }
   },
   {
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-21T11:01:00-07:00",
-    "lastSuccess": "2026-10-21T11:01:00-07:00",
-    "showings": 59,
+    "checked": "2026-10-22T10:58:00-07:00",
+    "lastSuccess": "2026-10-22T10:58:00-07:00",
+    "showings": 115,
     "through": "2026-11-25"
    }
   },
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-21T11:01:00-07:00",
-    "lastSuccess": "2026-10-21T11:01:00-07:00",
-    "showings": 36,
+    "checked": "2026-10-22T10:58:00-07:00",
+    "lastSuccess": "2026-10-22T10:58:00-07:00",
+    "showings": 82,
     "through": "2026-11-21"
    }
   },
@@ -201,8 +201,8 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-21T11:01:00-07:00",
-    "lastSuccess": "2026-10-21T11:01:00-07:00",
+    "checked": "2026-10-22T10:58:00-07:00",
+    "lastSuccess": "2026-10-22T10:58:00-07:00",
     "showings": 9,
     "through": "2026-10-31"
    }
@@ -220,14 +220,23 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-21T11:01:00-07:00",
-    "lastSuccess": "2026-10-21T11:01:00-07:00",
-    "showings": 17,
+    "checked": "2026-10-22T10:58:00-07:00",
+    "lastSuccess": "2026-10-22T10:58:00-07:00",
+    "showings": 16,
     "through": "2026-11-22"
    }
   }
  ],
  "films": [
+  {
+   "id": "cinema",
+   "title": "?????? Cinema",
+   "description": "Totally FREE. No RSVP. First come, first admitted! Doors open 30 minutes before showtime.\n\nWelcome to Seattle's premiere \"blindfolded\" screening series! The film title will not be announced until the seats are filled and the movieshow is about to commence.\n\nTake the gamble of a chance encounter and discover the movie you didn't know you needed. We aim to provide an enjoyably disorienting experience in which you can indulge your curiosities without any intimidating barriers to entry. And besides, we just think it's sneaky and fun to keep sexy secrets. Don't you?\n\nMovies from all o'er the globe, spanning from the dawn of cinema to its far-flung future. The only criterion is that the Beacon is going to bring out that private stock stuff every single time. We're giving you films that haven't been played to death, proffering an alternative history of cinema, a celebration of the breadth and depth of film history, a pulsating motion picture party.",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/beacon/common/TB_SECRET.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/blindfold"
+   }
+  },
   {
    "id": "2026-collide-o-scope-halloween-show",
    "title": "2026 Collide-O-Scope Halloween Show",
@@ -357,6 +366,18 @@
    }
   },
   {
+   "id": "artists-and-models",
+   "title": "Artists and Models",
+   "description": "In the 1950s, America became convinced that comic books were corrupting the minds of its young people, filling their heads with violence, perversion, and dangerous fantasies. Director Frank Tashlin took one look at this national emergency and decided to make a movie about how great all that sounded. Jerry Lewis plays a comic book addict whose feverish dreams of the voluptuous Bat Lady keep his roommate Dean Martin awake at night—until those same nocturnal ravings become the inspiration for a bestselling comic strip. Add Shirley MacLaine and Dorothy Malone as a pair of suspiciously gorgeous upstairs neighbors, a few Communist spies, and a government investigation, and you've got a movie that makes a pretty convincing case for the pleasures of having your brain permanently destroyed by pop culture.\n\nA former cartoonist himself, Tashlin transforms Cold War paranoia, sexual repression, and the American publishing industry into a delirious explosion of Technicolor lunacy, with enough outrageous sight gags, shameless innuendo, and exposed thighs to warrant an investigation by the Senate. Admired by Jean-Luc Godard and celebrated as a precursor of Pop Art, Tashlin makes the whole world look like a Looney Tunes cartoon that has recently gone through puberty. But beneath all the hysteria, ARTISTS AND MODELS is also one of the great movies about goofing off with your roommate, making art with your friends, and finding happiness in a country that would very much prefer you stop doing all three.",
+   "runtime": 102,
+   "year": 1955,
+   "director": "Frank Tashlin",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792627086422-tb-artistsandmodels.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/artists-and-models"
+   }
+  },
+  {
    "id": "auntie-mame",
    "title": "Auntie Mame",
    "description": "\"Life is a banquet--and some poor suckers are starving to death.\" Mame Dennis\n\nWhen young, impressionable Patrick Dennis' millionaire father dies, the boy is left in the care of his only living relative--his flamboyant, extravagant, devil-may-care ... and never, never dull Auntie Mame. New York during the Jazz Age--Despite the best efforts of estate executive Dwight Babcock (Fred Clark) to rear Patrick (Jan Handzlik and Roger Smith) as a boring, stuffy aristocrat, the boy is swept into Mame Dennis' (Rosalind Russell) world of parties, flappers and the most eccentric, entertaining, intelligent set of friends anywhere. Through the stock market crash, a marriage to a rich Southerner and his death while scaling the Alps, Mame's whirlwind approach to life opens Patrick's eyes to endless possibilities. Based on the hit Broadway play and the novel by Patrick Dennis. Golden Globe Award winner for Actress in a Leading Role - Musical or Comedy (Rosalind Russell), Picture - Comedy Six Academy Award nominations: Best Picture Best Actress in a Leading Role (Rosalind Russell) Best Actress in a Supporting Role (Peggy Cass) Best Cinematography, Color Best Art Direction-Set Decoration, Black-and-White or Color Best Film Editing",
@@ -367,20 +388,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Community%20Screenings/Auntiemame.png",
    "links": {
     "siff-downtown": "https://www.siff.net/programs-and-events/community-screenings/auntie-mame"
-   }
-  },
-  {
-   "id": "band-of-outsiders",
-   "title": "Band of Outsiders",
-   "description": "Jean-Luc Godard returns from Contempt’s sun-splashed Mediterranean to Parisian black-and-white and the passion of his heart, his actress wife Anna Karina, the foremost icon of New Wave women. As in Breathless, Godard puts his appreciative-playful spin on Hollywood-style Noir. Two guys (Arthur: Claude Brasseur, Franz: Sami Frey), who perform pretend shoot-outs in the street, meet lovely, naive, doe-eyed Odile (Karina) at their English language class, where they break rules and pass notes to each other. There’s a stack of money hidden in the house where Odile lives, so why don’t they figure out how to steal it? Odile is less worldly than the men, but Karina conveys a woman growing into her exuberant selfhood. In a delightful sequence the three line dance the Madison for minutes of screen time. The men eventually tire and drop out, but smiling Odile keeps going, bouncing and snapping her fingers. Can these three pull off their robbery? They endearingly don’t seem up to it. There will be loaded guns, a dog’s breath cloud, the tallest ladder—and maybe a Hollywood ending. Godard and his master cinematographer Raoul Coutard make winter light and working class suburbs as richly flavorful as \"Emily in Paris’s\" picture postcard glamour. Going into Band of Outsiders, Anna Karina was at a personal low point; she says, “That film saved my life.” Quentin Tarantino loves this movie so much that he named his production company A Band Apart.",
-   "runtime": 95,
-   "year": 1964,
-   "director": "Jean-Luc Godard",
-   "country": "France",
-   "language": "French",
-   "image": "https://www.siff.net/images/CINEMA/2026/Nouvelles%20Femmes/bandofoutsiders.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/programs-and-events/nouvelles-femmes/band-of-outsiders"
    }
   },
   {
@@ -454,6 +461,18 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/REN_BewaretheDevilsWrath_1600x900.png",
    "links": {
     "siff-film-center": "https://www.siff.net/cinema/in-theaters/beware-the-devils-wrath-special-screening-qanda"
+   }
+  },
+  {
+   "id": "blood-rage",
+   "title": "Blood Rage",
+   "description": "\"Thanksgiving isn’t Thanksgiving without a viewing of BLOOD RAGE.\" - Joseph A. Ziemba, BLEEDING SKULL!\n\nTodd and Terry are twin bros with twin problems -- namely, one of them is an axe-wielding maniac! After a literal drive-in massacre, Todd is blamed for the carnage and institutionalized, while Terry goes free. Ten years later, Todd escapes from an asylum on Thanksgiving aka it’s time for blood to raaaaage!!\n\nProduced by whip-smart filmmaker Maryanne Kantor, directed by John Grissmer (SCALPEL), and shot in Florida, BLOOD RAGE is what happens when you combine Thanksgiving, 1970s TV star Louise Lasser, a killer synth score, and the most unbelievable gore effects in all of slasherdom, courtesy Ed French (TERMINATOR 2). Just remember, “It’s not cranberry sauce!”",
+   "runtime": 82,
+   "year": 1987,
+   "director": "John Grissmer",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/beacon/common/TB_BLOODRAGE.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/blood-rage"
    }
   },
   {
@@ -545,6 +564,24 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jan-May/CIN_CatVidFest26_1600x900.png",
    "links": {
     "siff-uptown": "https://www.siff.net/cinema/in-theaters/cat-vid-fest-26"
+   }
+  },
+  {
+   "id": "clayface",
+   "title": "Clayface",
+   "description": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+   "runtime": 108,
+   "year": 2026,
+   "director": "James Watkins",
+   "rating": "R",
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Science Fiction"
+   ],
+   "image": "https://image.tmdb.org/t/p/w300/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+   "links": {
+    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface"
    }
   },
   {
@@ -698,6 +735,20 @@
    }
   },
   {
+   "id": "fatherland",
+   "title": "Fatherland",
+   "description": "Fatherland centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hnrns Zischler) and his daughter Erika (Sandra Hüller) - actress, writer and rally driver. In the summer of 1949, at the height of the Cold War, father and daughter embark on a challenging and emotional road trip in a black Buick taking them across a Germany in ruins - from US dominated Frankfurt to Soviet controlled Weimar. Returning home after sixteen years of exile in the US, Thomas Mann has to face not only a divided fatherland, but also a deep fracture within his own family.\n\nWith Fatherland, Pawlikowski picks up where he left off with his award-winning Ida and Cold War, exploring – in his elliptic, distilled style - the themes of identity, family, love and guilt amid the turmoil and confusion of post-war Europe.",
+   "runtime": 82,
+   "year": 2026,
+   "director": "Pawel Pawlikowski",
+   "country": "Poland",
+   "language": "German, English, French, Russian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_Fatherland_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/fatherland"
+   }
+  },
+  {
    "id": "five-minutes-to-die",
    "title": "Five Minutes to Die!",
    "description": "It's FIVE MINUTES TO LIVE... HALLOWEEN EDITION!\n\nHere's the deal. You buy a ticket. We show you the first five minutes of five different mystery movies. Then everybody votes on which one to watch in its entirety!\n\nYou've got FIVE MINUTES TO DIE! Come have an encounter with the unexpected free from the burden of preconceptions. Choose your own adventure in the unimaginably vast world of strange and interesting cinema. Experience the delight of pure surprise. We'll promise a wild time if you promise to be open to anything.",
@@ -716,19 +767,6 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789696073591-tb-flyingembers.jpg",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/flying-embers-and-a-fortress"
-   }
-  },
-  {
-   "id": "food-of-the-gods-part-ii",
-   "title": "Food of the Gods Part II",
-   "description": "Neil Hamilton (Paul Coufos, CHOPPING MALL) is a brilliant scientist on the verge of a breakthrough with a growth hormone that could enlarge food supply and end world hunger. However, when the test subjects - a group of lab rats - escape, they begin to wreak havoc all across the streets of Mississauga, Ontario New York City! Directed by Damian Lee (MST3K favorite ABRAXAS, GUARDIAN OF THE UNIVERSE), co-written by Mike Werb (THE MASK, FACE/OFF), and co-starring Lisa Schrage (HELLO MARY LOU: PROM NIGHT 2), FOOD OF THE GODS PART 2 - alternately titled GNAW - is a name-only sequel to the 1976 adaptation of the H.G. Wells novel that is relentless in its gruesomeness and bafflingly entertaining in its storytelling in equal measure. Not to mention a scene that is so jaw-dropping that it has become an out-of-context meme for years (you’ll know it when you see it). Analog Anomalies is proud to bring you this gore-fest the way it was meant to be seen: on glorious VHS!\n\nFOOD OF THE GODS PART 2 is presented as part of Analog Anomalies, a monthly series that features the weirdest and wildest genre films that are not available for rent, purchase, or streaming on a digital platform.",
-   "runtime": 91,
-   "year": 1989,
-   "director": "Damian Lee",
-   "rating": "R",
-   "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/FoodoftheGods2Square10.jpg",
-   "links": {
-    "north-bend": "https://tix.northbendtheatre.com/event/food-of-the-gods-part-ii-wednesday-oct-21st-7pm"
    }
   },
   {
@@ -830,9 +868,14 @@
    "director": "Takashi Yamazaki",
    "country": "Japan",
    "language": "Japanese",
+   "rating": "R",
+   "genres": [
+    "Science fiction"
+   ],
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_GodzillaMinusZero_1600x900.png",
    "links": {
-    "siff-downtown": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero"
+    "siff-downtown": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+    "majestic-bay": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/"
    }
   },
   {
@@ -842,43 +885,6 @@
    "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/HauntedDestinationSquare.jpg",
    "links": {
     "north-bend": "https://tix.northbendtheatre.com/event/haunted-destination-new-film-from-local-filmmaker-taylor-guterson-thursday-oct-22nd-7pm"
-   }
-  },
-  {
-   "id": "hausu-house",
-   "title": "Hausu (House)",
-   "description": "The Japanese fantasy horror is an annual must see at Central Cinema.\nCome visit the house with your friends Gorgeous, Prof, Fantasy, Melody, and Kung Fu. Just don't touch the piano without permission.",
-   "runtime": 88,
-   "year": 1977,
-   "director": "Nobuhiko Obayashi",
-   "country": "Japan",
-   "language": "Japanese",
-   "rating": "NR",
-   "genres": [
-    "Comedy",
-    "Fantasy",
-    "Horror"
-   ],
-   "image": "https://indy-systems.imgix.net/vb7f4vqsvs5697okff62oz570tay?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
-   "links": {
-    "central-cinema": "https://central-cinema.com/movie/hausu-house/"
-   }
-  },
-  {
-   "id": "heart-of-the-beast",
-   "title": "Heart of the Beast",
-   "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-   "runtime": 111,
-   "year": 2026,
-   "director": "David Ayer",
-   "rating": "PG-13",
-   "genres": [
-    "Adventure",
-    "Thriller"
-   ],
-   "image": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-   "links": {
-    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast"
    }
   },
   {
@@ -900,20 +906,6 @@
    "links": {
     "central-cinema": "https://central-cinema.com/movie/hocus-pocus/",
     "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
-   "id": "holy-trinity",
-   "title": "Holy Trinity",
-   "description": "After an incident huffing her drug of choice—a mysterious aerosol can from the ubiquitous Glamhag brand—Trinity finds herself with a newfound gift for speaking to the dead. Confused and more than a little curious about this strange turn of events, she seeks the counsel of a colorful cast of characters, from priests and drag queens to a witch and more, all of whom teach her their unique spiritual practices.\n\nAs she navigates life with this unexpected talent (and continues to huff that mysterious drug), Trinity is tossed between hallucination and reality more and more frequently, developing a growing confidence in her strange new ability and learning to harness it in surprising ways. But with any great power comes great responsibility, and soon Trinity has to decide what’s more important: her community and personal relationships or the allure of influence and fame\n\nBoasting an inclusive cast (including Theo Germaine from Netflix’s The Politician) and crew comprised of diverse communities often neglected in mainstream cinema and approaching typically taboo subjects with verve and acceptance, Holy Trinity is a sometimes raunchy, always entertaining celebration of all that makes us different. In their feature film debut, writer, director and star Glamhag presents a vibrant and vivid portrait of friendship, spirituality and community, with more than a little glam sprinkled in along the way.",
-   "runtime": 91,
-   "year": 2019,
-   "director": "Molly Hewitt",
-   "country": "United States",
-   "language": "English, Portuguese",
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/07/holytrinity1600-5-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/wtf-with-stuff-holy-trinity/"
    }
   },
   {
@@ -952,18 +944,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Scarecrowber%202026/CIN_InvasionoftheBodySnatchersS_1600x900.png",
    "links": {
     "siff-film-center": "https://www.siff.net/programs-and-events/scarecrowber-2026/invasion-of-the-body-snatchers"
-   }
-  },
-  {
-   "id": "isle-of-the-dead",
-   "title": "Isle of the Dead",
-   "description": "War, plague, superstition, premature burial and Boris Karloff, all trapped together on a tiny Greek island. Inspired by Arnold Böcklin’s famously ominous painting, ISLE OF THE DEAD finds producer Val Lewton at his most morbid, surrounding a handful of characters with death and slowly closing off every possible escape.\n\nDuring the Balkan Wars of 1912, Karloff’s severe General Pherides travels to an island cemetery to visit his wife’s grave, only to discover that plague has arrived before him. The island is placed under quarantine, and as its inhabitants begin dying one by one, an elderly woman insists that disease isn’t the only thing preying upon them. She suspects a vorvolaka, a vampiric creature of Greek folklore. Pherides initially dismisses such beliefs as dangerous superstition, but as the deaths mount and isolation takes its toll, his certainty begins to crumble. Karloff gives one of his richest performances as a man accustomed to commanding soldiers who discovers that neither discipline nor reason can command death.\n\nLewton and director Mark Robson turn the island into a suffocating chamber of graves, shuttered rooms and mounting fear, where plague and superstition seem to spread together. Patient and dread-filled, ISLE OF THE DEAD saves its most terrible visions for the final stretch, when its restrained study of people under pressure gives way to one of the great nightmares of 1940s horror. Even James Agee, otherwise skeptical of the film, called its final half hour “as brutally frightening and gratifying a horror movie as I can remember.” Few films in Lewton’s extraordinary RKO cycle stare more directly into the grave.",
-   "runtime": 72,
-   "year": 1945,
-   "director": "Mark Robson",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789695643101-tb-isleofthedead.jpg",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/isle-of-the-dead"
    }
   },
   {
@@ -1198,6 +1178,7 @@
    "director": "Kaushik Ganguly",
    "country": "India",
    "language": "Bengali",
+   "rating": "NR",
    "genres": [
     "Drama"
    ],
@@ -1245,21 +1226,6 @@
    }
   },
   {
-   "id": "night-of-the-living-dead",
-   "title": "Night of the Living Dead",
-   "description": "The dead come back to life and eat the living. Several people barricade themselves inside a rural house in an attempt to survive the night. Outside are hordes of relentless, shambling zombies who can only be killed by a blow to the head.",
-   "runtime": 96,
-   "year": 1968,
-   "director": "George A. Romero",
-   "genres": [
-    "Horror"
-   ],
-   "image": "https://all.web.img.acsta.net/img/f9/82/f9822e77118e432252281171d67f1665.jpg",
-   "links": {
-    "majestic-bay": "https://www.majesticbay.com/movies/1133-night-of-the-living-dead-1968/"
-   }
-  },
-  {
    "id": "night-of-the-vamp-friars",
    "title": "Night of the Vamp-Friars",
    "description": "The first feature film wholly produced by Vinegar Syndrome Pictures; directed by Kurtis M. Spieler (Re-Director of New York Ninja).\n\nA group of friends in a punk rock band discover a hidden cemetery in the woods, where they accidentally raise a horde of undead friars.\n\nShot entirely on 16mm film, Night of the Vamp-Friars is a loving tribute to the homegrown horror films made during the height of the video store era.\n\nPresented with The Grand Illusion.",
@@ -1274,24 +1240,6 @@
    "image": "https://grandillusioncinema.org/wp-content/uploads/2026/09/vamp_onesheet_Final-550x812.jpg",
    "links": {
     "central-cinema": "https://grandillusioncinema.org/film/night-of-the-vamp-friars/"
-   }
-  },
-  {
-   "id": "no-country-for-mothers",
-   "title": "No Country for Mothers",
-   "description": "No Country for Mothers explores the culture wars surrounding American motherhood and why both the “girl boss” and “trad wife” labels ultimately distract us from the real issue: the lack of support for American families. Following activist Reshma Saujani, the film charts a growing national movement to reunite moms across divisions and win the kind of historic support families actually need.\n\nJoin us for this family-friendly screening and community event with an age appropriate Q&A, games and activities for kids, and free Molly Moon's Homemade Ice Cream. This isn't just about watching a film; it's about being in a room where we can say things out loud that we've been carrying quietly, and realize we are not alone. We would love for you to join us.",
-   "runtime": 78,
-   "year": 2026,
-   "director": "Raeshem Nijhon",
-   "country": "United States",
-   "language": "English",
-   "rating": "NR",
-   "genres": [
-    "Documentary"
-   ],
-   "image": "https://indy-systems.imgix.net/8od68dp7rm170y8m6yqcb7exbfof?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress&cs=origin",
-   "links": {
-    "tasveer": "https://filmcenter.tasveer.org/movie/no-country-for-mothers1"
    }
   },
   {
@@ -1361,24 +1309,6 @@
    }
   },
   {
-   "id": "practical-magic-2",
-   "title": "Practical Magic 2",
-   "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-   "runtime": 140,
-   "year": 2026,
-   "director": "Susanne Bier",
-   "rating": "PG-13",
-   "genres": [
-    "Fantasy",
-    "Drama",
-    "Comedy"
-   ],
-   "image": "https://image.tmdb.org/t/p/w300/uA8ytJv17alSiREcUthbYAdiPCX.jpg",
-   "links": {
-    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2"
-   }
-  },
-  {
    "id": "puerto-rican-short-film-night",
    "title": "Puerto Rican Short Film Night",
    "description": "A Fundraiser for the Diaspora of the Puerto Rican Independence Party.\n\nJoin us for a night of film, art, and Puerto Rican pastries with the DIASPORA OF THE PUERTO RICAN INDEPENDENCE PARTY and LA ANTILLANA. We will be showcasing three short films that highlight the effects of colonialism in different manifestations throughout Puerto Rico’s history and remind us why we fight for the independence of Puerto Rico.\n\nMATARON A PEDRO (2026, Kristian Mercado)\n\nIn 1930s Puerto Rico, Pedro Albizu Campos and his wife Laura Meneses navigate the island-wide sugar cane workers' strike, the brutal machinery of colonial repression, and the fierce, sustaining love between two people who refused to surrender their dignity or their dream of freedom.\n\nMELAO (2024, Val Vega)\n\nNando, a desperate worker on a sugarcane plantation in 1950s Puerto Rico who struggles to care for his pregnant wife, until he fixes on a plan that he hopes will secure their future and lead them out of poverty, no matter how crazy it may seem.\n\nMAREAS A LA DERIVA (2026, Camila Sofía Rodríguez López)\n\nMaite, a young graffiti writer in Puerto Rico, faces a life-altering choice: leave the island for a promising career opportunity abroad or stay and navigate the challenges of a nation in crisis. During her mother’s birthday weekend, with her sister visiting from New York, Maite sees two possible futures reflected in them, one rooted in resilience and staying, the other shaped by the opportunities of leaving. Grappling with these paths, she is forced to reckon with a paradise built for tourists and outsiders to enjoy but for locals to labor in and endure, shaped by systemic neglect, colonialism, and a broken power grid that keeps its bliss just out of reach for its own people.",
@@ -1388,24 +1318,6 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792539164282-dpip1.png",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/puerto-rican-short-film-night"
-   }
-  },
-  {
-   "id": "resident-evil",
-   "title": "Resident Evil",
-   "description": "From the mind of visionary filmmaker Zach Cregger (Weapons, Barbarian) comes a thrilling - and terrifying - reinvention of the Resident Evil franchise. In an all-new story, Resident Evil follows Bryan (Austin Abrams), a medical courier who unwittingly finds himself in an action-packed, non-stop race for survival as one fateful, horrifying night collapses around him in chaos.",
-   "runtime": 97,
-   "year": 2026,
-   "director": "Zach Cregger",
-   "rating": "R",
-   "genres": [
-    "Science fiction",
-    "Horror",
-    "Thriller"
-   ],
-   "image": "https://all.web.img.acsta.net/img/b0/7f/b07f1a86af7e4ecae25804fff493f9a0.jpg",
-   "links": {
-    "majestic-bay": "https://www.majesticbay.com/movies/1000018854-resident-evil/"
    }
   },
   {
@@ -1421,17 +1333,120 @@
    }
   },
   {
-   "id": "ringu",
-   "title": "Ringu",
-   "description": "When Hideo Nakata’s Ringu first appeared in 1998, it somehow broke containment into the West and spread like a virus, kicking off what would become the J-Horror boom. It’s fitting then that this, the proverbial OG, is about the distribution of a deadly videotape that brings about the wrath of a ghostly little girl who kills anyone who watches it (note to horror movie protagonists: don’t go looking for stuff! You’ll find it). Ringu’s themes of social disconnection and technology in conflict with the resentful past still resonate, but today the VHS vector plays differently, almost as analog’s final assault, angry for being discarded just like the film’s spectral killer.",
-   "runtime": 96,
-   "year": 1998,
-   "director": "Hideo Nakata",
-   "country": "Japan",
-   "language": "Japanese",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Scarecrowber%202026/CIN_Ringu_1600x900.png",
+   "id": "romanian-film-festival-seattle-3-days-in-september",
+   "title": "Romanian Film Festival Seattle: 3 Days in September",
+   "description": "Bianca’s world shatters when her fiancé’s mistress crashes their wedding. Reeling from shock, she flees on a tourist train, launching a real-time odyssey of chaotic escape and surreal encounters through the off-season seaside resort. Rejecting her old life, she transforms her humiliation into a liberating night of rebellion, ultimately embracing a new path as the sun rises.",
+   "runtime": 75,
+   "year": 2026,
+   "country": "Romania",
+   "language": "Romanian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Romanian%20FF%20Seattle%202026/REN_Romanian26_3DaysinSeptember_1600x900.jpg",
    "links": {
-    "siff-film-center": "https://www.siff.net/programs-and-events/scarecrowber-2026/ringu"
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/3-days-in-september"
+   }
+  },
+  {
+   "id": "romanian-film-festival-seattle-atlas-of-the-universe",
+   "title": "Romanian Film Festival Seattle: Atlas of the Universe",
+   "description": "Ten-year-old Filip travels with his father to the nearest town to buy new shoes for school. When his father gets side-tracked by an old friend, Filip is left to continue the journey alone. A simple mistake at the shoe shop—buying two right-foot shoes—sets him on an unexpected adventure through an unfamiliar world. Too ashamed to return home empty-handed, Filip decides to fix the problem himself. Along the way, he befriends a stray dog, names him after his favorite football player, and finds an unlikely companion. Through small choices, moments of fear, and quiet courage, Filip takes his first steps toward independence and growing-up.",
+   "runtime": 85,
+   "year": 2026,
+   "country": "Romania",
+   "language": "Romanian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Romanian%20FF%20Seattle%202026/REN_Romanian26_AtlasoftheUniverse_1600x900.jpg",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/atlas-of-the-universe"
+   }
+  },
+  {
+   "id": "romanian-film-festival-seattle-blindsight",
+   "title": "Romanian Film Festival Seattle: Blindsight",
+   "description": "Laura suffers from severe amnesia and depression following an accident, so she can’t\nremember who the people around her are. She is reluctantly persuaded by her family to go\non a boat trip to Türkiye, but the closer she gets to her destination, the more unclear the\nreality and the purpose of the trip becomes. They are caught up in a series of situations in\nwhich they change their minds depending on the context, their own principles are called into question.",
+   "runtime": 91,
+   "year": 2025,
+   "country": "Romania",
+   "language": "Romanian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Romanian%20FF%20Seattle%202026/REN_Romanian26_Blindsight_1600x900.jpg",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/blindsight"
+   }
+  },
+  {
+   "id": "romanian-film-festival-seattle-kontinental-25",
+   "title": "Romanian Film Festival Seattle: Kontinental '25",
+   "description": "When Orsolya oversees the eviction of a local elderly man in Cluj, Transylvania, the unintended consequences come to shatter her and her understanding of her place in society. Spiraling into an existential crisis, she traverses the city, meeting with various people in her life — her husband, an old friend, a former student, a priest — to consider and reconcile her place in an increasingly maddening modern world in this furious and hysterical, moral parable.",
+   "runtime": 109,
+   "year": 2025,
+   "country": "Romania",
+   "language": "Romanian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Romanian%20FF%20Seattle%202026/REN_Romanian26_Kontinental25_1600x900.jpg",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/kontinental-25"
+   }
+  },
+  {
+   "id": "romanian-film-festival-seattle-r-m-n",
+   "title": "Romanian Film Festival Seattle: R.M.N.",
+   "description": "A few days before Christmas, having quit his job in Germany, Matthias returns to his multi-ethnic Transylvanian village. He wishes to involve himself more in the education of his son, Rudi, left for too long in the care of his mother, Ana, and to rid the boy of the unresolved fears that have taken hold of him. He’s preoccupied with his old father, Otto, and also eager to see his ex-lover, Csilla. When a few new workers are hired at the small factory that Csilla manages, the peace of the community is disturbed, underlying fears grip the adults, and frustrations, conflicts and passions erupt through the thin veneer of apparent understanding and calm.",
+   "runtime": 128,
+   "year": 2022,
+   "country": "Romania",
+   "language": "Romanian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Romanian%20FF%20Seattle%202026/REN_Romanian26_RMN_1600x900.jpg",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/rmn"
+   }
+  },
+  {
+   "id": "romanian-film-festival-seattle-the-last-transhumance",
+   "title": "Romanian Film Festival Seattle: The Last Transhumance",
+   "description": "Some 10,000 years ago, in the Middle East, man first domesticated sheep, and took them “on the road.” That's what shepherds call transhumance. Their journey measures time and space with tools we have forgotten. People and herds swing between plains and mountains, setting in motion a mechanism that has ticked for thousands of years yet is about to stand still. The transhumance clock stops each time a family of shepherds choose to no longer take to the road. Nevertheless, it keeps ticking through the stubbornness of those who continue to sleep among their sheep under the clear sky – the remaining few who still live under the stars. The Last Transhumance film is their story.",
+   "runtime": 90,
+   "year": 2026,
+   "country": "Romania",
+   "language": "Romanian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Romanian%20FF%20Seattle%202026/REN_Romanian26_LastTranshumance_1600x900.jpg",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/the-last-transhumance"
+   }
+  },
+  {
+   "id": "romanian-film-festival-seattle-the-wall",
+   "title": "Romanian Film Festival Seattle: The Wall",
+   "description": "In a village where everyone knows everything and nothing is forgiven, two families with a truly comical history find themselves at loggerheads over a piece of land. Both are convinced the truth is on their side, and things spiral completely out of control just as wedding bells should be ringing. Between unyielding boundaries, inflamed egos, and utterly eccentric relatives, a happy ending to the marriage seems increasingly unlikely.",
+   "runtime": 96,
+   "year": 2026,
+   "country": "Romania",
+   "language": "Romanian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Romanian%20FF%20Seattle%202026/REN_Romanian26_TheWall_1600x900.jpg",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/the-wall"
+   }
+  },
+  {
+   "id": "romanian-film-festival-seattle-the-yellow-tie",
+   "title": "Romanian Film Festival Seattle: The Yellow Tie",
+   "description": "The epic true story of Sergiu Celibidache, following the legendary composer from a childhood spent under his father’s draconian authority, through to adulthood as he masters his craft in Berlin. However, his greatest struggle emerges at the outbreak of war. With the world collapsing around him, Sergiu must evade death and starvation to cement his place in the world of classical music, as he risks being torn apart by a relentless pursuit for perfection that could overshadow his legacy forever.",
+   "runtime": 145,
+   "year": 2025,
+   "country": "Romania",
+   "language": "Romanian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Romanian%20FF%20Seattle%202026/REN_Romanian26_TheYellowTie_1600x900.jpg",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/the-yellow-tie"
+   }
+  },
+  {
+   "id": "romanian-film-festival-seattle-traffic",
+   "title": "Romanian Film Festival Seattle: Traffic",
+   "description": "Natalia and Ginel leave their small Romanian Danube village to work abroad in a big Flemish city. One evening, when she is assaulted after meeting a local, Natalia asks Ita, a friend from home turned into a crook, to help her. Ita uses their frustration against the values of a world they consider to be arrogant, decadent, and historically guilty for their misery as second-rate citizens – invisible migrants. The result is a tragi-comical, ideological heist only revealing the complete lack of communication between East and West, between rich and poor, between masters and slaves.",
+   "runtime": 119,
+   "year": 2024,
+   "country": "Romania",
+   "language": "Romanian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Romanian%20FF%20Seattle%202026/REN_Romanian26_Traffic_1600x900.jpg",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/traffic"
    }
   },
   {
@@ -1446,6 +1461,20 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/The%20Open%20Road/routeoneusa.png",
    "links": {
     "siff-film-center": "https://www.siff.net/programs-and-events/the-open-road/route-one/usa"
+   }
+  },
+  {
+   "id": "salvation",
+   "title": "Salvation",
+   "description": "“A provocative allegorical powder keg.”– David Rooney, The Hollywood Reporter\n\nIn a remote village in eastern Turkey, a village has been divided in two by a decades-old land feud. The Hazerans inhabit the upper village; the Bezaris lived in the lower village, before being driven into exile. Upon their return, a rumor arises that the Bezaris intend to steal the Hazerans' land. While the Hazerans' leader, Sheikh Ferit, advocates for calm, compromise, and coexistence, his troubled brother, Mesut, takes a different approach.\n\nBeset by nightmares that he interprets as visions, Mesut convinces the Hazerans that salvation for one side can only be achieved through the eradication of the other. The people respond with enthusiasm, fueled by a sense of grievance and righteous indignation, and keen to see themselves as principled defenders of their own land, rather than the usurpers of their neighbors'.\n\nWhile the story of the film is based on actual events, director Emin Alper blurs dream sequences and reality and combines realism with a highly stylized aesthetic to conjure a timeless tale with no shortage of resonance today.\n\nWinner of the Silver Bear Grand Jury Prize at the Berlin International Film Festival.",
+   "runtime": 120,
+   "year": 2026,
+   "director": "Emin Alper",
+   "country": "Turkey, France, Netherlands, Greece, Sweden, Saudi Arabia",
+   "language": "Turkish, Kurdish",
+   "image": "https://www.siff.net/images/FESTIVAL/2026/Films/Film%20Detail%20Hero%20Images%20-%20Features/Salvation.jpg",
+   "links": {
+    "siff-uptown": "https://www.siff.net/festival/salvation"
    }
   },
   {
@@ -1613,19 +1642,13 @@
    }
   },
   {
-   "id": "singin-in-the-rain",
-   "title": "Singin' in the Rain",
-   "description": "Join us for a very special celebration of the Majestic Bay Theatres 25th year! The first public film we ever showed was a matinee of Singin' in the Rain on October 13, 2000, so to celebrate we've scheduled a full week of this film, with every showtime at matinee price!\n\nOur General Manager Jesse spent our 25th year creating a documentary about our theater, so for a special treat we are including a free screening of this documentary directly after every showtime of Singin' in the Rain.\n\nOur official celebration is taking place on the last day of our 25th year, October 12th, with a complimentary event that is now 100% booked.\n\nGene Kelly, Debbie Reynolds and Donald O'Connor star in one of the greatest musicals ever filmed. Musician Don Lockwood (Kelly) rises to stardom during Hollywood's silent-movie era--paired with the beautiful, jealous and dumb Lina Lamont (Jean Hagen). When Lockwood becomes attracted to young studio singer Kathy Selden (Reynolds), Lamont has her fired. But with the introduction of talking pictures, audiences laugh when they hear Lockwood speak for the first time--and the studio uses Selden to dub her voice. Set during the advent of \"talkies,\" this film classic song-and-dance numbers celebrate the beginning of movie musicals.",
-   "runtime": 103,
-   "year": 1952,
-   "director": "Stanley Donen, Gene Kelly",
-   "rating": "G",
-   "genres": [
-    "Musical"
-   ],
-   "image": "https://all.web.img.acsta.net/img/88/96/88960a06f6a3c80b9779fe8a6e1b8429.jpg",
+   "id": "secs-fest-2026",
+   "title": "SECS Fest 2026",
+   "description": "FULL SCHEDULE AND TICKETS ARE AVAILABLE AT:\n\nhttps://secsfest.org/secs-fest-2026-festival-schedule/\n\nSECS FEST is a sex-positive international film festival celebrating the artistry of erotic cinema while inspiring diverse communities to engage in adult conversations about sex.\n\nTHE FESTIVAL\n\nSECS Fest is held in November at the Beacon Cinema, Seattle. Once involved with providing a small selection of short films as part of the Seattle Erotic Art Festival, SECS Fest became an independent, non-profit film festival in 2016, to better serve filmmakers and fans of erotic film. Due to theater closures in Seattle, WA due to the COVID-19 pandemic, SECS Fest 2020 was a virtual festival, hosted by PinkLabel.tv. SECS Fest has returned as an annual, in-person, film festival.\n\nThe festival will include films that reflect the diversity of human sexuality and thus, a broad range of sexual practices and orientations will be on display. We will curate a selection of short films (to be presented in 90 minute programs) and feature length films (60 -120 minutes). The films may be narrative fiction, experimental, animation, and even documentary and will include a broad range of genre (drama, comedy, romance). And the programming will include works from all over the globe. Special attention will be given to films that defy audience expectations for sexually explicit films, that some believe are inherently sexist and hetero-centric, so festival programming will attempt to include films from female and non-binary creators and films that depict underrepresented populations, and thus will challenge heteronormativity, ableism, racism, sexism, etc.\n\nAdditionally, SECS Fest will include archival programs to explore the long history of sex in the cinema. SECS Fest programmers will curate archival programs included in the festival.\n\nSECS FEST 2026 will mark 10 years of SECS FEST.",
+   "year": 2026,
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792629031517-tb-secs26.png",
    "links": {
-    "majestic-bay": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/"
+    "beacon": "https://thebeacon.film/calendar/movie/secs-fest-2026"
    }
   },
   {
@@ -1893,6 +1916,18 @@
    }
   },
   {
+   "id": "girl-can-t-help-it",
+   "title": "The Girl Can't Help It",
+   "description": "In 1956, rock and roll was threatening to destroy American civilization, and Jayne Mansfield was threatening to destroy the structural integrity of the buildings around her. Naturally, Frank Tashlin decided to put them both in the same movie. Mansfield plays Jerri Jordan, a spectacularly proportioned blonde whose gangster boyfriend (Edmond O’Brien) is determined to make her a singing sensation, despite the minor complication that she may not actually be able to sing. Enter a washed-up talent agent (Tom Ewell), who discovers that behind Jerri’s world-famous figure is a sweet, ordinary girl whose greatest ambition is to stay home and cook dinner. Unfortunately, the rest of America has other plans for her.\n\nA former Looney Tunes animator with a genius for turning the human body into a public safety hazard, Tashlin unleashes a CinemaScope carnival of exploding milk bottles, melting ice, screaming teenagers, colors that practically glow in the dark. Between the gags comes an astonishing parade of rock and roll royalty, including Little Richard, Fats Domino, Gene Vincent, Eddie Cochran, and the Platters, captured at the precise moment their music was driving parents out of their minds.\n\nPart jukebox musical, part sex comedy, part deranged investigation into the American entertainment industry, THE GIRL CAN'T HELP IT is a movie that understands two fundamental truths about show business: sex sells, and nobody in charge has the slightest idea what young people actually want. Tashlin makes a glorious spectacle of the whole ridiculous enterprise, somehow managing to celebrate American popular culture and accuse it of crimes against humanity at the same time.",
+   "runtime": 99,
+   "year": 1956,
+   "director": "Frank Tashlin",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792627172721-tb-thegirlcanthelpit.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/the-girl-can-t-help-it"
+   }
+  },
+  {
    "id": "gymnasts-of-fisherman-colony",
    "title": "The Gymnasts of Fisherman Colony",
    "description": "The birth of a gymnastics team in Pakistan provides an inspiring spark of light for a small group of girls on the margins.",
@@ -1901,6 +1936,7 @@
    "director": "Habiba Nosheen",
    "country": "Canada",
    "language": "English",
+   "rating": "PG-13",
    "genres": [
     "Documentary"
    ],
@@ -2126,22 +2162,6 @@
    }
   },
   {
-   "id": "social-reckoning",
-   "title": "The Social Reckoning",
-   "description": "Inspired by true events and the whistleblower who started the social media reckoning we’re seeing play out today, this Aaron Sorkin original screenplay is a companion piece to the hit film The Social Network and a true David and Goliath story. Frances Haugen (Madison), a young Facebook engineer, enlists the help ofJeff Horwitz (White), a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network’s most guarded secrets.",
-   "runtime": 112,
-   "year": 2026,
-   "director": "Aaron Sorkin",
-   "rating": "R",
-   "genres": [
-    "Drama"
-   ],
-   "image": "https://all.web.img.acsta.net/img/f1/84/f184b462dd52161f7bda4c3f51017212.jpg",
-   "links": {
-    "majestic-bay": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/"
-   }
-  },
-  {
    "id": "spiral",
    "title": "The Spiral",
    "description": "During a storm, Anna unexpectedly arrives at her daughter Alice’s apartment with a devastating confession: for twenty years, she has hidden the truth about a mysterious pact she made to save Alice’s life after a childhood accident. The pact set off a dark chain of painful events that has shaped their entire family. Anna’s revelation shatters their relationship and forces Alice to confront the unsettling truth about her own existence. To break the cycle created by her mother, Alice must face a terrible choice and a price that may be impossible to pay.",
@@ -2262,17 +2282,6 @@
    }
   },
   {
-   "id": "universal-monster-mash-double-feature",
-   "title": "Universal Monster Mash Double Feature",
-   "description": "Featuring FRANKENSTEIN MEETS THE WOLF MAN and ABBOTT AND COSTELLO MEET FRANKENSTEIN!\n\nUniversal spent the 1930s turning Dracula, Frankenstein’s Monster and the Wolf Man into movie stars. Then somebody had the bright idea to start putting them in each other’s movies. This double feature catches the Universal monster rally at its beginning and its glorious peak: first the movie that brought two horror franchises crashing together, then the one that let Abbott and Costello hang out in the wreckage.\n\nIt starts with poor Larry Talbot. All the Wolf Man wants is to die. Instead, grave robbers dig him up, the full moon brings him back to life, and his search for a permanent cure leads him straight to the frozen body of Frankenstein’s Monster. FRANKENSTEIN MEETS THE WOLF MAN piles on foggy graveyards, ruined castles, terrified villagers, mad science, Bela Lugosi in neck bolts, Lon Chaney Jr. suffering beautifully and a cheerful musical number called “Life Is Short, but Death Is Long” before finally delivering on the promise of its title: two monsters beating the hell out of each other while the laboratory comes down around them.\n\nFive years later, Universal decided what this situation needed was Lou Costello. Dracula wants his brain for Frankenstein’s Monster. The Wolf Man wants to stop Dracula. Bud Abbott doesn’t believe any of this is happening. And Bela Lugosi, returning to Dracula for the first time since 1931, treats the whole ridiculous situation with the dignity of a bloodsucking aristocrat whose evil scheme does not involve two vaudeville comedians. ABBOTT AND COSTELLO MEET FRANKENSTEIN somehow lets the monsters remain scary, Abbott and Costello remain funny, and both movies occupy the same frame without anybody blinking. Dracula turns into a bat. The Wolf Man goes through a window. Frankenstein’s Monster throws a woman out another window. And when the dust settles, Universal has somehow made one of its funniest comedies and one of its greatest monster movies at the same time.\n\nTwo movies, five years apart, tracing one of the happiest developments in horror history: Universal turning its stable of monsters into the world’s ugliest repertory company.",
-   "runtime": 154,
-   "director": "Roy William Neill, Charles Barton",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789694968693-tb-universalmonstermash.jpg",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/universal-monster-mash-double-feature"
-   }
-  },
-  {
    "id": "vagabond",
    "title": "Vagabond",
    "description": "Sandrine Bonnaire won the Best Actress César for her portrayal of the defiant young drifter Mona, found frozen to death in a ditch at the beginning of Vagabond. Agnès Varda pieces together Mona’s story through flashbacks told by those who encountered her (played by a largely nonprofessional cast), producing a splintered portrait of an enigmatic woman. With its sparse, poetic imagery, Vagabond is a stunner, and won Varda the top prize at the Venice Film Festival.",
@@ -2315,7 +2324,7 @@
    "id": "whalefall",
    "title": "Whalefall",
    "description": "Following the death of his father (Josh Brolin), Jay Gardiner (Austin Abrams) goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
-   "runtime": 106,
+   "runtime": 116,
    "year": 2026,
    "director": "Brian Duffield",
    "country": "USA",
@@ -2399,7 +2408,20 @@
    "links": {
     "tasveer": "https://filmcenter.tasveer.org/movie/wildwood",
     "majestic-bay": "https://www.majesticbay.com/movies/296439-wildwood/",
+    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
     "north-bend": "https://tix.northbendtheatre.com/event/wildwood-friday-oct-23rd-3pm"
+   }
+  },
+  {
+   "id": "will-success-spoil-rock-hunter",
+   "title": "Will Success Spoil Rock Hunter?",
+   "description": "What if everything wrong with America could be traced back to advertising? And what if the only way to save yourself was to become the most famous man in the country? Frank Tashlin tackles these important questions in WILL SUCCESS SPOIL ROCK HUNTER?, a candy-colored nervous breakdown about sex, celebrity, capitalism, and the terrible things people will do to get a key to the executive bathroom. Tony Randall plays Rock Hunter, a lowly advertising executive whose career depends on convincing Hollywood bombshell Rita Marlowe (Jayne Mansfield) to endorse a brand of lipstick. When Rita recruits him to pose as her boyfriend, Rock becomes an overnight national sex symbol, an achievement that comes as a considerable surprise to everyone who has ever met him.\n\nHaving already exposed the dangers of comic books and rock and roll, Tashlin now turns his attention to the people responsible for selling them to us. The result is a merciless CinemaScope assault on Madison Avenue, Hollywood, television, celebrity worship, and the American conviction that happiness can be achieved with the correct combination of consumer products. Mansfield brilliantly parodies her own bombshell persona, Randall gradually loses his mind, and an entire nation seems willing to surrender its dignity in exchange for a little publicity. Along the way, Tashlin interrupts his own movie to make fun of television, stages a series of commercials for products that might actually kill you, and reveals the executive bathroom as the spiritual center of American capitalism. It's one of the funniest movies ever made about selling your soul and discovering that nobody's particularly interested in buying it.",
+   "runtime": 93,
+   "year": 1957,
+   "director": "Frank Tashlin",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792627322150-tb-willsuccessspoil.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter"
    }
   },
   {
@@ -2499,222 +2521,10 @@
  "showings": [
   {
    "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-21T15:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-Uw9lbOc6RO"
-  },
-  {
-   "film": "street-fighter",
    "theater": "admiral",
-   "start": "2026-10-21T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17058/794"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-21T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17056/795"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-21T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17052/717"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-21T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17054/770"
-  },
-  {
-   "film": "hausu-house",
-   "theater": "central-cinema",
-   "start": "2026-10-21T16:00:00-07:00",
-   "url": "https://central-cinema.com/movie/hausu-house/",
-   "tickets": "https://central-cinema.com/checkout/showing/hausu-house/3918211"
-  },
-  {
-   "film": "singin-in-the-rain",
-   "theater": "majestic-bay",
-   "start": "2026-10-21T16:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/5120-double-feature-singin-in-the-rain-and-majestic-bay-doc/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36503?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
-   "notes": [
-    "Double Feature",
-    "Majestic Bay Doc",
-    "Free"
-   ]
-  },
-  {
-   "film": "devils",
-   "theater": "siff-uptown",
-   "start": "2026-10-21T16:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-SSkVwe0YFn"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-21T16:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36505?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-21T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-mor5jahQ9r"
-  },
-  {
-   "film": "isle-of-the-dead",
-   "theater": "beacon",
-   "start": "2026-10-21T16:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/isle-of-the-dead",
-   "tickets": "https://thebeacon.film/calendar/movie/isle-of-the-dead?showtime=OWJRU4VHFH62VZ2OHJU3JLG7"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-21T16:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36504?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-21T16:40:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-eBo7M3fgXZ"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-21T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17059/794"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-21T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17055/770"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-21T18:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17053/717"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-21T18:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-Op5mu3Pcsw",
-   "notes": [
-    "Sold out"
-   ]
-  },
-  {
-   "film": "night-of-the-living-dead",
-   "theater": "majestic-bay",
-   "start": "2026-10-21T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1133-night-of-the-living-dead-1968/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36211?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
-   "notes": [
-    "Retro Night"
-   ]
-  },
-  {
-   "film": "food-of-the-gods-part-ii",
-   "theater": "north-bend",
-   "start": "2026-10-21T19:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/food-of-the-gods-part-ii-wednesday-oct-21st-7pm",
-   "tickets": "https://tix.northbendtheatre.com/event/food-of-the-gods-part-ii-wednesday-oct-21st-7pm",
-   "notes": [
-    "Analog Anomalies",
-    "VHS",
-    "Free"
-   ]
-  },
-  {
-   "film": "holy-trinity",
-   "theater": "nwff",
-   "start": "2026-10-21T19:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/wtf-with-stuff-holy-trinity/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a4698658903ad344a06e644"
-  },
-  {
-   "film": "ringu",
-   "theater": "siff-film-center",
-   "start": "2026-10-21T19:00:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/scarecrowber-2026/ringu",
-   "tickets": "https://www.siff.net/programs-and-events/scarecrowber-2026/ringu#screening-YjQQbUh29l",
-   "notes": [
-    "Scarecrowber",
-    "Sold out"
-   ]
-  },
-  {
-   "film": "devils",
-   "theater": "siff-uptown",
-   "start": "2026-10-21T19:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-sM1te1EqLd"
-  },
-  {
-   "film": "universal-monster-mash-double-feature",
-   "theater": "beacon",
-   "start": "2026-10-21T19:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/universal-monster-mash-double-feature",
-   "tickets": "https://thebeacon.film/calendar/movie/universal-monster-mash-double-feature?showtime=VMRAT33ETP27GFFNGWU3EJSX"
-  },
-  {
-   "film": "resident-evil",
-   "theater": "majestic-bay",
-   "start": "2026-10-21T19:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000018854-resident-evil/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36506?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "social-reckoning",
-   "theater": "majestic-bay",
-   "start": "2026-10-21T19:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000026649-the-social-reckoning/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36507?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "case-of-the-three-sided-dream",
-   "theater": "nwff",
-   "start": "2026-10-21T19:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/the-case-of-the-three-sided-dream/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6abd1aca27700f24450bf618"
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-21T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-upG47sSHwC"
-  },
-  {
-   "film": "band-of-outsiders",
-   "theater": "siff-uptown",
-   "start": "2026-10-21T19:30:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/nouvelles-femmes/band-of-outsiders",
-   "tickets": "https://www.siff.net/programs-and-events/nouvelles-femmes/band-of-outsiders#screening-PSELB15nrV",
-   "notes": [
-    "Nouvelles Femmes"
-   ]
+   "start": "2026-10-22T15:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17112/793"
   },
   {
    "film": "you-can-see-everything",
@@ -2752,11 +2562,11 @@
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17066/794"
   },
   {
-   "film": "practical-magic-2",
+   "film": "clayface",
    "theater": "admiral",
-   "start": "2026-10-22T15:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17060/717"
+   "start": "2026-10-22T15:50:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17110/800"
   },
   {
    "film": "whalefall",
@@ -2764,13 +2574,6 @@
    "start": "2026-10-22T15:50:00-07:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17064/795"
-  },
-  {
-   "film": "heart-of-the-beast",
-   "theater": "admiral",
-   "start": "2026-10-22T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17062/770"
   },
   {
    "film": "naza",
@@ -2818,11 +2621,11 @@
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17067/794"
   },
   {
-   "film": "whalefall",
+   "film": "you-can-see-everything",
    "theater": "admiral",
    "start": "2026-10-22T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17065/795"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17113/793"
   },
   {
    "film": "you-can-see-everything",
@@ -2832,18 +2635,11 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36447?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
-   "film": "heart-of-the-beast",
+   "film": "wildwood",
    "theater": "admiral",
    "start": "2026-10-22T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/heart-of-the-beast",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17063/770"
-  },
-  {
-   "film": "practical-magic-2",
-   "theater": "admiral",
-   "start": "2026-10-22T18:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/practical-magic-2",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17061/717"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17109/797"
   },
   {
    "film": "wicker",
@@ -2851,6 +2647,13 @@
    "start": "2026-10-22T18:45:00-07:00",
    "url": "https://www.majesticbay.com/movies/322884-wicker/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36449?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-22T18:50:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17111/800"
   },
   {
    "film": "wildwood",
@@ -2898,10 +2701,7 @@
    "theater": "siff-uptown",
    "start": "2026-10-22T19:15:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-xnlFM4csRC",
-   "notes": [
-    "Sold out"
-   ]
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-xnlFM4csRC"
   },
   {
    "film": "rider-of-the-skulls",
@@ -2940,13 +2740,6 @@
   },
   {
    "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-10-23T14:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17083/793"
-  },
-  {
-   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-10-23T15:00:00-07:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
@@ -2979,6 +2772,34 @@
    "start": "2026-10-23T15:30:00-07:00",
    "url": "https://www.majesticbay.com/movies/296439-wildwood/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36292?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-10-23T15:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17193/797"
+  },
+  {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-23T15:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17114/794"
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-23T15:50:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17195/795"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-23T16:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17164/800"
   },
   {
    "film": "frankenstein",
@@ -3047,6 +2868,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/the-altar-boys#screening-DWx1sK9X4p"
   },
   {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-23T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17116/794"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "admiral",
    "start": "2026-10-23T18:30:00-07:00",
@@ -3068,6 +2896,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/bernsteins-wall#screening-gHSmgOueGk"
   },
   {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-23T18:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17119/800"
+  },
+  {
    "film": "wildwood",
    "theater": "majestic-bay",
    "start": "2026-10-23T18:45:00-07:00",
@@ -3080,6 +2915,13 @@
    "start": "2026-10-23T18:45:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4003595"
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-23T18:50:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17194/795"
   },
   {
    "film": "vanishing",
@@ -3168,7 +3010,10 @@
    "theater": "admiral",
    "start": "2026-10-23T21:00:00-07:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17103/793"
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17103/793",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "rocky-horror-picture-show",
@@ -3181,11 +3026,31 @@
    ]
   },
   {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-23T21:15:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17167/794",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "fright-night",
    "theater": "central-cinema",
    "start": "2026-10-23T21:30:00-07:00",
    "url": "https://central-cinema.com/movie/fright-night/",
    "tickets": "https://central-cinema.com/checkout/showing/fright-night/3999051"
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-23T21:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17166/795",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "driller",
@@ -3198,6 +3063,16 @@
    ]
   },
   {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-23T22:05:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17165/800",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "whalefall",
    "theater": "siff-downtown",
    "start": "2026-10-24T11:00:00-07:00",
@@ -3206,17 +3081,17 @@
   },
   {
    "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-10-24T12:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17104/793"
-  },
-  {
-   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-10-24T12:00:00-07:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36450?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-24T12:15:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17183/800"
   },
   {
    "film": "wicker",
@@ -3240,6 +3115,13 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36296?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-10-24T12:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17180/797"
+  },
+  {
    "film": "bernstein-s-wall",
    "theater": "siff-film-center",
    "start": "2026-10-24T12:45:00-07:00",
@@ -3247,11 +3129,25 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/bernsteins-wall#screening-RB1dmgQRnb"
   },
   {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-24T12:55:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17182/794"
+  },
+  {
    "film": "wicker",
    "theater": "siff-uptown",
    "start": "2026-10-24T13:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/wicker",
    "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-fEsCKxaCuI"
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-24T13:15:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17181/795"
   },
   {
    "film": "devils",
@@ -3266,17 +3162,6 @@
    "start": "2026-10-24T14:00:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/brother",
    "tickets": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/brother#screening-yx4n4o7Ggs"
-  },
-  {
-   "film": "no-country-for-mothers",
-   "theater": "tasveer",
-   "start": "2026-10-24T14:00:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/no-country-for-mothers1",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/no-country-for-mothers1/3917495",
-   "notes": [
-    "Family Friendly Screening",
-    "Community Conversation"
-   ]
   },
   {
    "film": "ghost-squad",
@@ -3297,6 +3182,13 @@
    "start": "2026-10-24T14:45:00-07:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36452?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "your-mother-your-mother-your-mother",
+   "theater": "tasveer",
+   "start": "2026-10-24T14:45:00-07:00",
+   "url": "https://filmcenter.tasveer.org/movie/your-mother-your-mother-your-mother",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/your-mother-your-mother-your-mother/4136298"
   },
   {
    "film": "wildwood",
@@ -3344,6 +3236,13 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6a91d3a9a328434b4647b0cc"
   },
   {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-24T15:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17120/794"
+  },
+  {
    "film": "wicker",
    "theater": "majestic-bay",
    "start": "2026-10-24T15:45:00-07:00",
@@ -3355,7 +3254,10 @@
    "theater": "siff-uptown",
    "start": "2026-10-24T15:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-xPYyicOnQF"
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-xPYyicOnQF",
+   "notes": [
+    "Sold out"
+   ]
   },
   {
    "film": "seattle-polish-film-festival-heel",
@@ -3363,6 +3265,20 @@
    "start": "2026-10-24T15:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/heel",
    "tickets": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/heel#screening-K3R0I9ZCOJ"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-24T16:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17170/800"
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-24T16:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17196/795"
   },
   {
    "film": "frankenstein",
@@ -3427,6 +3343,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/picassos-mermaid#screening-XEjrqUKJo5"
   },
   {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-24T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17122/794"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "admiral",
    "start": "2026-10-24T18:30:00-07:00",
@@ -3441,6 +3364,13 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36451?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-24T18:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17125/800"
+  },
+  {
    "film": "wicker",
    "theater": "majestic-bay",
    "start": "2026-10-24T18:45:00-07:00",
@@ -3453,6 +3383,13 @@
    "start": "2026-10-24T18:45:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4003598"
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-24T18:50:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17121/795"
   },
   {
    "film": "vanishing",
@@ -3541,11 +3478,32 @@
    ]
   },
   {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-24T21:15:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17168/794"
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-24T21:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17169/795"
+  },
+  {
    "film": "vhs-uber-alles-presents",
    "theater": "beacon",
    "start": "2026-10-24T22:00:00-07:00",
    "url": "https://thebeacon.film/calendar/movie/vhs-uber-alles-presents",
    "tickets": "https://thebeacon.film/calendar/movie/vhs-uber-alles-presents?showtime=DWTMSQMHFRLAMPP7GHK5IZXG"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-24T22:05:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17171/800"
   },
   {
    "film": "your-mother-your-mother-your-mother",
@@ -3559,7 +3517,10 @@
    "theater": "admiral",
    "start": "2026-10-25T12:00:00-07:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17105/793"
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17105/793",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "you-can-see-everything",
@@ -3590,6 +3551,16 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/tenzing/4003543"
   },
   {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-25T12:15:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17179/795",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "wicker",
    "theater": "majestic-bay",
    "start": "2026-10-25T12:15:00-07:00",
@@ -3604,11 +3575,31 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-6Nhrcg9e1E"
   },
   {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-25T12:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17199/800",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "wildwood",
    "theater": "majestic-bay",
    "start": "2026-10-25T12:30:00-07:00",
    "url": "https://www.majesticbay.com/movies/296439-wildwood/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36299?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-10-25T12:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17177/797",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "wicker",
@@ -3704,6 +3695,13 @@
    ]
   },
   {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-25T15:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17126/794"
+  },
+  {
    "film": "wicker",
    "theater": "majestic-bay",
    "start": "2026-10-25T15:45:00-07:00",
@@ -3716,6 +3714,20 @@
    "start": "2026-10-25T15:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-asKpAD2XUp"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-25T16:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17172/800"
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-25T16:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17127/795"
   },
   {
    "film": "frankenstein",
@@ -3784,6 +3796,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/seattle-polish-film-festival-2026/wild-wild-east#screening-sbTSJJyWEw"
   },
   {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-25T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17128/794"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "admiral",
    "start": "2026-10-25T18:30:00-07:00",
@@ -3798,11 +3817,25 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36474?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-25T18:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17130/800"
+  },
+  {
    "film": "wicker",
    "theater": "majestic-bay",
    "start": "2026-10-25T18:45:00-07:00",
    "url": "https://www.majesticbay.com/movies/322884-wicker/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36477?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-25T18:50:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17198/795"
   },
   {
    "film": "basic-instinct",
@@ -3862,16 +3895,9 @@
   {
    "film": "you-can-see-everything",
    "theater": "admiral",
-   "start": "2026-10-25T21:00:00-07:00",
+   "start": "2026-10-26T15:00:00-07:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17088/793"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-10-26T14:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17092/793"
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17135/793"
   },
   {
    "film": "you-can-see-everything",
@@ -3895,11 +3921,32 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36294?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-10-26T15:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17134/797"
+  },
+  {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-26T15:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17131/794"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-10-26T15:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-SQN64HdAEC"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-26T16:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17184/800"
   },
   {
    "film": "frankenstein",
@@ -3944,6 +3991,13 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/take-me-home/4003545"
   },
   {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-26T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17133/794"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "admiral",
    "start": "2026-10-26T18:30:00-07:00",
@@ -3956,6 +4010,13 @@
    "start": "2026-10-26T18:30:00-07:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36479?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-26T18:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17132/795"
   },
   {
    "film": "wicker",
@@ -3977,6 +4038,13 @@
    "start": "2026-10-26T18:45:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4003611"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-26T18:50:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17136/800"
   },
   {
    "film": "frankenstein",
@@ -4079,9 +4147,12 @@
   {
    "film": "you-can-see-everything",
    "theater": "admiral",
-   "start": "2026-10-27T14:45:00-07:00",
+   "start": "2026-10-27T15:00:00-07:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17106/793"
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17106/793",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "you-can-see-everything",
@@ -4105,11 +4176,41 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36302?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-10-27T15:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17187/797",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-27T15:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17188/794",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-10-27T15:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-27e2GpODm9"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-27T16:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17185/800",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "frankenstein",
@@ -4154,11 +4255,24 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/take-me-home/4003548"
   },
   {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-27T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17189/794",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "admiral",
    "start": "2026-10-27T18:30:00-07:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17107/793"
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17107/793",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "you-can-see-everything",
@@ -4166,6 +4280,26 @@
    "start": "2026-10-27T18:30:00-07:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36483?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-27T18:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17186/800",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-27T18:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17190/795",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "wicker",
@@ -4275,9 +4409,9 @@
   {
    "film": "you-can-see-everything",
    "theater": "admiral",
-   "start": "2026-10-28T14:45:00-07:00",
+   "start": "2026-10-28T15:00:00-07:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17098/793"
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17148/793"
   },
   {
    "film": "you-can-see-everything",
@@ -4301,11 +4435,32 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36304?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-10-28T15:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17147/797"
+  },
+  {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-28T15:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17144/794"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-10-28T15:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-IVMgQn2By1"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-28T16:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17191/800"
   },
   {
    "film": "frankenstein",
@@ -4350,6 +4505,13 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/take-me-home/4003549"
   },
   {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-28T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17146/794"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "admiral",
    "start": "2026-10-28T18:30:00-07:00",
@@ -4364,6 +4526,13 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36305?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-28T18:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17145/795"
+  },
+  {
    "film": "wildwood",
    "theater": "majestic-bay",
    "start": "2026-10-28T18:45:00-07:00",
@@ -4376,6 +4545,13 @@
    "start": "2026-10-28T18:45:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4003613"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-28T18:50:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17149/800"
   },
   {
    "film": "ring",
@@ -4472,9 +4648,16 @@
   {
    "film": "you-can-see-everything",
    "theater": "admiral",
-   "start": "2026-10-29T14:45:00-07:00",
+   "start": "2026-10-29T15:00:00-07:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17101/793"
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17154/793"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-29T15:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36533?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "wildwood",
@@ -4484,6 +4667,27 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36378?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-29T15:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36534?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-10-29T15:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17153/797"
+  },
+  {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-29T15:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17150/794"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-10-29T15:45:00-07:00",
@@ -4491,9 +4695,16 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-rLVk78r0e8"
   },
   {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-29T16:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17192/800"
+  },
+  {
    "film": "wicker",
    "theater": "siff-uptown",
-   "start": "2026-10-29T16:00:00-07:00",
+   "start": "2026-10-29T16:15:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/wicker",
    "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-bqkKndj1mx"
   },
@@ -4503,6 +4714,13 @@
    "start": "2026-10-29T16:30:00-07:00",
    "url": "https://thebeacon.film/calendar/movie/dracula-of-exarcheia",
    "tickets": "https://thebeacon.film/calendar/movie/dracula-of-exarcheia?showtime=J7UR547QEOE4HKQCZ73RF2AN"
+  },
+  {
+   "film": "fatherland",
+   "theater": "siff-uptown",
+   "start": "2026-10-29T16:30:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-QHwfwwcxD6"
   },
   {
    "film": "whalefall",
@@ -4543,11 +4761,39 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/take-me-home/4003552"
   },
   {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-29T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17152/794"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "admiral",
    "start": "2026-10-29T18:30:00-07:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17102/793"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-29T18:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36535?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-29T18:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17151/795"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-10-29T18:45:00-07:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36536?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "you-can-see-everything",
@@ -4557,11 +4803,25 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-4kWOoYmfS7"
   },
   {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-29T18:50:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17155/800"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "tasveer",
    "start": "2026-10-29T18:55:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4003586"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-29T19:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36528?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "wildwood",
@@ -4653,11 +4913,32 @@
    ]
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-30T15:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36537?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "wildwood",
    "theater": "north-bend",
    "start": "2026-10-30T15:00:00-07:00",
    "url": "https://tix.northbendtheatre.com/event/wildwood-friday-oct-30th-3pm",
    "tickets": "https://tix.northbendtheatre.com/event/wildwood-friday-oct-30th-3pm"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-10-30T15:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36539?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-30T15:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36541?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "hocus-pocus",
@@ -4677,11 +4958,32 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-yAgjUAmYYc"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-30T18:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36538?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-10-30T18:45:00-07:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36540?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "land-of-the-dead-it-s-for-the-gays",
    "theater": "siff-film-center",
    "start": "2026-10-30T18:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/land-of-the-dead-its-for-the-gays",
    "tickets": "https://www.siff.net/cinema/in-theaters/land-of-the-dead-its-for-the-gays#screening-9Sifmjwjyg"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "tasveer",
+   "start": "2026-10-30T18:45:00-07:00",
+   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178062"
   },
   {
    "film": "next-of-kin",
@@ -4699,6 +5001,13 @@
    "notes": [
     "Family"
    ]
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-30T19:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36542?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "wildwood",
@@ -4752,6 +5061,27 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-QDN3kmvZEV"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-31T11:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36572?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-10-31T11:45:00-07:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36575?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-31T12:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36576?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "kwaidan",
    "theater": "siff-downtown",
    "start": "2026-10-31T14:00:00-07:00",
@@ -4775,11 +5105,32 @@
    "url": "https://tinroombar.com/events"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-31T15:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36561?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "wildwood",
    "theater": "north-bend",
    "start": "2026-10-31T15:00:00-07:00",
    "url": "https://tix.northbendtheatre.com/event/wildwood-saturday-oct-31st-3pm",
    "tickets": "https://tix.northbendtheatre.com/event/wildwood-saturday-oct-31st-3pm"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-10-31T15:15:00-07:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36573?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-31T15:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36577?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "mad-monster-party",
@@ -4816,6 +5167,20 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/the-shining#screening-9NppB0KIQY"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-10-31T18:30:00-07:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36562?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-10-31T18:45:00-07:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36574?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "five-minutes-to-die",
    "theater": "beacon",
    "start": "2026-10-31T19:00:00-07:00",
@@ -4831,6 +5196,13 @@
    "notes": [
     "Family"
    ]
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-10-31T19:00:00-07:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36578?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "nosferatu",
@@ -4859,11 +5231,39 @@
    ]
   },
   {
+   "film": "gymnasts-of-fisherman-colony",
+   "theater": "tasveer",
+   "start": "2026-10-31T20:10:00-07:00",
+   "url": "https://filmcenter.tasveer.org/movie/the-gymnasts-of-fisherman-colony",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-gymnasts-of-fisherman-colony/4178060"
+  },
+  {
    "film": "a-nightmare-on-elm-street",
    "theater": "central-cinema",
    "start": "2026-10-31T21:30:00-07:00",
    "url": "https://central-cinema.com/movie/a-nightmare-on-elm-street/",
    "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080565"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-01T11:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36580?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-01T11:45:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36583?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-11-01T12:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36586?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "devils",
@@ -4890,6 +5290,20 @@
    ]
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "tasveer",
+   "start": "2026-11-01T14:30:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178074"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-01T15:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36581?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "wildwood",
    "theater": "north-bend",
    "start": "2026-11-01T15:00:00-08:00",
@@ -4902,6 +5316,20 @@
    "start": "2026-11-01T15:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/the-shining",
    "tickets": "https://www.siff.net/cinema/in-theaters/the-shining#screening-Pkfl9wNfDf"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-01T15:15:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36584?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-11-01T15:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36587?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
@@ -4918,6 +5346,13 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ac3c9064041f3c99cc5a56d"
   },
   {
+   "film": "gymnasts-of-fisherman-colony",
+   "theater": "tasveer",
+   "start": "2026-11-01T16:15:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/the-gymnasts-of-fisherman-colony",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-gymnasts-of-fisherman-colony/4178066"
+  },
+  {
    "film": "marie-antoinette",
    "theater": "grand-illusion",
    "start": "2026-11-01T16:30:00-08:00",
@@ -4930,9 +5365,16 @@
   {
    "film": "puerto-rican-short-film-night",
    "theater": "beacon",
-   "start": "2026-11-01T17:00:00-08:00",
+   "start": "2026-11-01T17:01:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/puerto-rican-short-film-night",
-   "tickets": "https://thebeacon.film/calendar/movie/puerto-rican-short-film-night?showtime=OXTS6XU3O54GZTYWVUZA2Y6I"
+   "tickets": "https://thebeacon.film/calendar/movie/puerto-rican-short-film-night?showtime=KN6FAE3XYTOZYJIU6DTWIPOA"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-01T18:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36582?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
@@ -4949,6 +5391,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/kwaidan#screening-kmj4paHMhU"
   },
   {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-01T18:45:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36585?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "hocus-pocus",
    "theater": "central-cinema",
    "start": "2026-11-01T19:00:00-08:00",
@@ -4957,6 +5406,13 @@
    "notes": [
     "Family"
    ]
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-11-01T19:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36588?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "wildwood",
@@ -4987,6 +5443,27 @@
    "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080566"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-02T15:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36589?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-02T15:15:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36590?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-11-02T15:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36591?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "hocus-pocus",
    "theater": "central-cinema",
    "start": "2026-11-02T16:00:00-08:00",
@@ -5011,11 +5488,32 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/kwaidan#screening-BUWteyTJHM"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-02T18:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36592?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
    "theater": "nwff",
    "start": "2026-11-02T18:30:00-08:00",
    "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ad50da1b3e7c982205157c3"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-02T18:45:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36593?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "tasveer",
+   "start": "2026-11-02T18:45:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178075"
   },
   {
    "film": "hocus-pocus",
@@ -5026,6 +5524,13 @@
    "notes": [
     "Family"
    ]
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-11-02T19:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36594?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "foragers",
@@ -5046,11 +5551,39 @@
    ]
   },
   {
+   "film": "artists-and-models",
+   "theater": "beacon",
+   "start": "2026-11-02T19:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/artists-and-models",
+   "tickets": "https://thebeacon.film/calendar/movie/artists-and-models?showtime=I2MVKEOXLP5F5TUPBIWD2ZSH"
+  },
+  {
    "film": "a-nightmare-on-elm-street",
    "theater": "central-cinema",
    "start": "2026-11-02T21:30:00-08:00",
    "url": "https://central-cinema.com/movie/a-nightmare-on-elm-street/",
    "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080567"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-03T15:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36595?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-03T15:15:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36597?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-11-03T15:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36599?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "hocus-pocus",
@@ -5070,6 +5603,34 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-kqnkAbe6ni"
   },
   {
+   "film": "artists-and-models",
+   "theater": "beacon",
+   "start": "2026-11-03T16:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/artists-and-models",
+   "tickets": "https://thebeacon.film/calendar/movie/artists-and-models?showtime=WQDVW6TXQPVGLN3KUW5LLINR"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-03T18:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36596?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-03T18:45:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36598?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "tasveer",
+   "start": "2026-11-03T18:45:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178080"
+  },
+  {
    "film": "hocus-pocus",
    "theater": "central-cinema",
    "start": "2026-11-03T19:00:00-08:00",
@@ -5080,11 +5641,25 @@
    ]
   },
   {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-11-03T19:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36600?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "withdrawal",
    "theater": "grand-illusion",
    "start": "2026-11-03T19:15:00-08:00",
    "url": "https://grandillusioncinema.org/film/withdrawal/",
    "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=658861~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
+  },
+  {
+   "film": "girl-can-t-help-it",
+   "theater": "beacon",
+   "start": "2026-11-03T19:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/the-girl-can-t-help-it",
+   "tickets": "https://thebeacon.film/calendar/movie/the-girl-can-t-help-it?showtime=K5IEA67QGJTLIUUCGMQIJXSX"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5099,6 +5674,34 @@
    "start": "2026-11-03T21:30:00-08:00",
    "url": "https://central-cinema.com/movie/a-nightmare-on-elm-street/",
    "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080568"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-04T15:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36601?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-04T15:15:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36602?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-11-04T15:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36603?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "girl-can-t-help-it",
+   "theater": "beacon",
+   "start": "2026-11-04T16:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/the-girl-can-t-help-it",
+   "tickets": "https://thebeacon.film/calendar/movie/the-girl-can-t-help-it?showtime=ZTUXL3EZ6CVE4CB3YSFSLOYL"
   },
   {
    "film": "hocus-pocus",
@@ -5118,11 +5721,32 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-WyUWQH8X0i"
   },
   {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-11-04T18:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36605?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-04T18:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36604?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
    "theater": "nwff",
    "start": "2026-11-04T18:30:00-08:00",
    "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ad50da1b3e7c982205157c8"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "tasveer",
+   "start": "2026-11-04T18:45:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178083"
   },
   {
    "film": "hocus-pocus",
@@ -5191,6 +5815,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-Z90R95VVcM"
   },
   {
+   "film": "artists-and-models",
+   "theater": "beacon",
+   "start": "2026-11-05T16:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/artists-and-models",
+   "tickets": "https://thebeacon.film/calendar/movie/artists-and-models?showtime=MCTFFSBJDGSWSX6GX5XW4E57"
+  },
+  {
    "film": "cartoon-happy-hour",
    "theater": "central-cinema",
    "start": "2026-11-05T17:00:00-08:00",
@@ -5199,6 +5830,20 @@
    "notes": [
     "Free admission"
    ]
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "majestic-bay",
+   "start": "2026-11-05T18:45:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36531?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "tasveer",
+   "start": "2026-11-05T18:45:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178088"
   },
   {
    "film": "engauge-2026-beyond-borders",
@@ -5233,6 +5878,12 @@
    ]
   },
   {
+   "film": "cinema",
+   "theater": "beacon",
+   "start": "2026-11-05T19:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/blindfold"
+  },
+  {
    "film": "cameraperson",
    "theater": "nwff",
    "start": "2026-11-05T19:30:00-08:00",
@@ -5252,6 +5903,13 @@
    "start": "2026-11-05T20:00:00-08:00",
    "url": "https://central-cinema.com/movie/the-room/",
    "tickets": "https://central-cinema.com/checkout/showing/the-room/4080473"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "majestic-bay",
+   "start": "2026-11-06T15:15:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36568?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5278,6 +5936,19 @@
    "tickets": "https://nwfilmforum.eventive.org/films/6ab497317f3d15c987f06693"
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "majestic-bay",
+   "start": "2026-11-06T18:45:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36570?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "secs-fest-2026",
+   "theater": "beacon",
+   "start": "2026-11-06T19:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/secs-fest-2026"
+  },
+  {
    "film": "engauge-2026-expanded-cinema-performance-and-film",
    "theater": "nwff",
    "start": "2026-11-06T19:00:00-08:00",
@@ -5294,6 +5965,19 @@
    "start": "2026-11-06T19:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-qlSEYb7EAU"
+  },
+  {
+   "film": "secs-fest-2026",
+   "theater": "beacon",
+   "start": "2026-11-06T22:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/secs-fest-2026"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "majestic-bay",
+   "start": "2026-11-07T12:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36607?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5313,6 +5997,12 @@
    ]
   },
   {
+   "film": "secs-fest-2026",
+   "theater": "beacon",
+   "start": "2026-11-07T15:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/secs-fest-2026"
+  },
+  {
    "film": "engauge-2026-pattern-and-place",
    "theater": "nwff",
    "start": "2026-11-07T15:00:00-08:00",
@@ -5322,6 +6012,13 @@
     "On film",
     "Visiting artist"
    ]
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "majestic-bay",
+   "start": "2026-11-07T15:15:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36606?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
@@ -5356,6 +6053,13 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ad50da1b3e7c982205157d2"
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "majestic-bay",
+   "start": "2026-11-07T18:45:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36529?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "engauge-2026-rankin-renwick-solo-show",
    "theater": "nwff",
    "start": "2026-11-07T19:30:00-08:00",
@@ -5374,11 +6078,36 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-hm3IDIMrpG"
   },
   {
+   "film": "secs-fest-2026",
+   "theater": "beacon",
+   "start": "2026-11-07T20:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/secs-fest-2026"
+  },
+  {
+   "film": "secs-fest-2026",
+   "theater": "beacon",
+   "start": "2026-11-07T22:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/secs-fest-2026"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-08T11:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-Ww7cJ7t3EZ"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "majestic-bay",
+   "start": "2026-11-08T12:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36615?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "secs-fest-2026",
+   "theater": "beacon",
+   "start": "2026-11-08T14:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/secs-fest-2026"
   },
   {
    "film": "man-of-marble",
@@ -5405,11 +6134,24 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-oD8TYUkcQK"
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "majestic-bay",
+   "start": "2026-11-08T15:15:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36616?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
    "theater": "nwff",
    "start": "2026-11-08T15:30:00-08:00",
    "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ad50da1b3e7c982205157b9"
+  },
+  {
+   "film": "secs-fest-2026",
+   "theater": "beacon",
+   "start": "2026-11-08T16:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/secs-fest-2026"
   },
   {
    "film": "5point-film-fest-2026",
@@ -5421,6 +6163,13 @@
     "Hosted by Pro Ski and Mountain Service",
     "Mountain Film Festival"
    ]
+  },
+  {
+   "film": "salvation",
+   "theater": "siff-uptown",
+   "start": "2026-11-08T18:00:00-08:00",
+   "url": "https://www.siff.net/festival/salvation",
+   "tickets": "https://www.siff.net/festival/salvation#screening-C6r9m7olTc"
   },
   {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
@@ -5435,6 +6184,20 @@
    "start": "2026-11-08T18:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-MqjUGxJqCC"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "majestic-bay",
+   "start": "2026-11-08T18:45:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36617?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "majestic-bay",
+   "start": "2026-11-09T15:15:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36625?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5454,6 +6217,13 @@
    ]
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "majestic-bay",
+   "start": "2026-11-09T18:45:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36628?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "vagabond",
    "theater": "nwff",
    "start": "2026-11-09T19:00:00-08:00",
@@ -5469,10 +6239,24 @@
   },
   {
    "film": "godzilla-minus-zero",
+   "theater": "majestic-bay",
+   "start": "2026-11-10T15:15:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36630?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-10T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-k3QLIJUDXp"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "majestic-bay",
+   "start": "2026-11-10T18:45:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36631?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "vagabond",
@@ -5501,10 +6285,31 @@
   },
   {
    "film": "godzilla-minus-zero",
+   "theater": "majestic-bay",
+   "start": "2026-11-11T12:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36559?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "majestic-bay",
+   "start": "2026-11-11T15:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36552?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-11T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-GPDNyAkQas"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "majestic-bay",
+   "start": "2026-11-11T18:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36555?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "star-trek-ii-the-wrath-of-khan",
@@ -5587,6 +6392,27 @@
    ]
   },
   {
+   "film": "will-success-spoil-rock-hunter",
+   "theater": "beacon",
+   "start": "2026-11-13T19:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter",
+   "tickets": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter?showtime=R7EMWNR4FCLO5JLZOGILHMGX"
+  },
+  {
+   "film": "romanian-film-festival-seattle-3-days-in-september",
+   "theater": "siff-uptown",
+   "start": "2026-11-13T19:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/3-days-in-september",
+   "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/3-days-in-september#screening-6waCfIUvnw"
+  },
+  {
+   "film": "romanian-film-festival-seattle-the-last-transhumance",
+   "theater": "siff-uptown",
+   "start": "2026-11-14T12:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/the-last-transhumance",
+   "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/the-last-transhumance#screening-LBqMYJpCB4"
+  },
+  {
    "film": "met-opera-2026-2027-carmen",
    "theater": "admiral",
    "start": "2026-11-14T12:50:00-08:00",
@@ -5595,6 +6421,13 @@
    "notes": [
     "Encore"
    ]
+  },
+  {
+   "film": "romanian-film-festival-seattle-kontinental-25",
+   "theater": "siff-uptown",
+   "start": "2026-11-14T13:50:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/kontinental-25",
+   "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/kontinental-25#screening-mNIKu9HDPg"
   },
   {
    "film": "powwow-people",
@@ -5607,6 +6440,13 @@
    ]
   },
   {
+   "film": "romanian-film-festival-seattle-traffic",
+   "theater": "siff-uptown",
+   "start": "2026-11-14T16:10:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/traffic",
+   "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/traffic#screening-2G5oQPEH6C"
+  },
+  {
    "film": "again-again",
    "theater": "siff-film-center",
    "start": "2026-11-14T18:30:00-08:00",
@@ -5615,6 +6455,13 @@
    "notes": [
     "PNW Awards"
    ]
+  },
+  {
+   "film": "romanian-film-festival-seattle-r-m-n",
+   "theater": "siff-uptown",
+   "start": "2026-11-14T19:05:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/rmn",
+   "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/rmn#screening-xXdK9xZgvT"
   },
   {
    "film": "auntie-mame",
@@ -5627,6 +6474,20 @@
    ]
   },
   {
+   "film": "romanian-film-festival-seattle-atlas-of-the-universe",
+   "theater": "siff-uptown",
+   "start": "2026-11-15T11:05:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/atlas-of-the-universe",
+   "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/atlas-of-the-universe#screening-Ht0rWZSAGo"
+  },
+  {
+   "film": "romanian-film-festival-seattle-the-yellow-tie",
+   "theater": "siff-uptown",
+   "start": "2026-11-15T12:50:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/the-yellow-tie",
+   "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/the-yellow-tie#screening-OWv7ividw0"
+  },
+  {
    "film": "joyless-economy",
    "theater": "siff-film-center",
    "start": "2026-11-15T15:00:00-08:00",
@@ -5635,6 +6496,13 @@
    "notes": [
     "PNW Awards"
    ]
+  },
+  {
+   "film": "romanian-film-festival-seattle-blindsight",
+   "theater": "siff-uptown",
+   "start": "2026-11-15T15:40:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/blindsight",
+   "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/blindsight#screening-VKB5VGSO4y"
   },
   {
    "film": "zi",
@@ -5666,6 +6534,13 @@
    "notes": [
     "PNW Awards"
    ]
+  },
+  {
+   "film": "romanian-film-festival-seattle-the-wall",
+   "theater": "siff-uptown",
+   "start": "2026-11-15T18:05:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/the-wall",
+   "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/the-wall#screening-1VfhI8xVBf"
   },
   {
    "film": "zi",
@@ -5705,6 +6580,13 @@
    "start": "2026-11-16T19:30:00-08:00",
    "url": "https://nwfilmforum.org/films/you-sorta-know-its-gonna-end/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ac6b00009c0a7948b2a12c5"
+  },
+  {
+   "film": "will-success-spoil-rock-hunter",
+   "theater": "beacon",
+   "start": "2026-11-17T16:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter",
+   "tickets": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter?showtime=W3GOF7BA3ERTC5V4EQOZSNYV"
   },
   {
    "film": "my-night-at-maud-s",
@@ -5749,6 +6631,13 @@
    "start": "2026-11-18T19:30:00-08:00",
    "url": "https://nwfilmforum.org/films/zi/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ab171da02ce9929ad1ac3ce"
+  },
+  {
+   "film": "will-success-spoil-rock-hunter",
+   "theater": "beacon",
+   "start": "2026-11-19T16:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter",
+   "tickets": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter?showtime=B2BDYP63YVPTJ64CMBR7UREM"
   },
   {
    "film": "elisa",
@@ -6051,6 +6940,13 @@
    "notes": [
     "The Open Road"
    ]
+  },
+  {
+   "film": "blood-rage",
+   "theater": "beacon",
+   "start": "2026-11-25T19:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/blood-rage",
+   "tickets": "https://thebeacon.film/calendar/movie/blood-rage?showtime=T3FSJOVXESFKLUDCIC3ZCXTX"
   }
  ]
 }
