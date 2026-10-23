@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T10:58:00-07:00",
+ "updated": "2026-10-23T10:52:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-22T10:58:00-07:00",
-    "lastSuccess": "2026-10-22T10:58:00-07:00",
-    "showings": 51,
+    "checked": "2026-10-23T10:52:00-07:00",
+    "lastSuccess": "2026-10-23T10:52:00-07:00",
+    "showings": 49,
     "through": "2026-11-15"
    }
   },
@@ -33,9 +33,9 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-22T10:58:00-07:00",
-    "lastSuccess": "2026-10-22T10:58:00-07:00",
-    "showings": 82,
+    "checked": "2026-10-23T10:52:00-07:00",
+    "lastSuccess": "2026-10-23T10:52:00-07:00",
+    "showings": 83,
     "through": "2026-11-22"
    }
   },
@@ -52,8 +52,8 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-22T10:58:00-07:00",
-    "lastSuccess": "2026-10-22T10:58:00-07:00",
+    "checked": "2026-10-23T10:52:00-07:00",
+    "lastSuccess": "2026-10-23T10:52:00-07:00",
     "showings": 28,
     "through": "2026-11-25"
    }
@@ -70,8 +70,8 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-22T10:58:00-07:00",
-    "lastSuccess": "2026-10-22T10:58:00-07:00",
+    "checked": "2026-10-23T10:52:00-07:00",
+    "lastSuccess": "2026-10-23T10:52:00-07:00",
     "showings": 5,
     "through": "2026-11-04"
    }
@@ -88,8 +88,8 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-22T10:58:00-07:00",
-    "lastSuccess": "2026-10-22T10:58:00-07:00",
+    "checked": "2026-10-23T10:52:00-07:00",
+    "lastSuccess": "2026-10-23T10:52:00-07:00",
     "showings": 70,
     "through": "2026-11-24"
    }
@@ -107,10 +107,10 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-22T10:58:00-07:00",
-    "lastSuccess": "2026-10-22T10:58:00-07:00",
-    "showings": 36,
-    "through": "2026-11-05"
+    "checked": "2026-10-23T10:52:00-07:00",
+    "lastSuccess": "2026-10-23T10:52:00-07:00",
+    "showings": 71,
+    "through": "2026-11-19"
    }
   },
   {
@@ -126,10 +126,10 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-22T10:58:00-07:00",
-    "lastSuccess": "2026-10-22T10:58:00-07:00",
-    "showings": 40,
-    "through": "2026-11-25"
+    "checked": "2026-10-23T10:52:00-07:00",
+    "lastSuccess": "2026-10-23T10:52:00-07:00",
+    "showings": 48,
+    "through": "2026-11-27"
    }
   },
   {
@@ -145,9 +145,9 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-22T10:58:00-07:00",
-    "lastSuccess": "2026-10-22T10:58:00-07:00",
-    "showings": 47,
+    "checked": "2026-10-23T10:52:00-07:00",
+    "lastSuccess": "2026-10-23T10:52:00-07:00",
+    "showings": 48,
     "through": "2026-11-05"
    }
   },
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-22T10:58:00-07:00",
-    "lastSuccess": "2026-10-22T10:58:00-07:00",
-    "showings": 115,
+    "checked": "2026-10-23T10:52:00-07:00",
+    "lastSuccess": "2026-10-23T10:52:00-07:00",
+    "showings": 109,
     "through": "2026-11-25"
    }
   },
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-22T10:58:00-07:00",
-    "lastSuccess": "2026-10-22T10:58:00-07:00",
-    "showings": 82,
+    "checked": "2026-10-23T10:52:00-07:00",
+    "lastSuccess": "2026-10-23T10:52:00-07:00",
+    "showings": 74,
     "through": "2026-11-21"
    }
   },
@@ -201,10 +201,10 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-22T10:58:00-07:00",
-    "lastSuccess": "2026-10-22T10:58:00-07:00",
-    "showings": 9,
-    "through": "2026-10-31"
+    "checked": "2026-10-23T10:52:00-07:00",
+    "lastSuccess": "2026-10-23T10:52:00-07:00",
+    "showings": 21,
+    "through": "2026-11-27"
    }
   },
   {
@@ -220,9 +220,9 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-22T10:58:00-07:00",
-    "lastSuccess": "2026-10-22T10:58:00-07:00",
-    "showings": 16,
+    "checked": "2026-10-23T10:52:00-07:00",
+    "lastSuccess": "2026-10-23T10:52:00-07:00",
+    "showings": 15,
     "through": "2026-11-22"
    }
   }
@@ -302,7 +302,7 @@
    "language": "Serbian",
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/08/serbianfilm1600-2-1200x675.png",
    "links": {
-    "nwff": "https://nwfilmforum.org/films/trauma-bond-a-serbian-film-2026-extended-cut/"
+    "nwff": "https://nwfilmforum.org/films/trauma-bond-a-serbian-film/"
    }
   },
   {
@@ -331,6 +331,15 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_AYearofSchool_1600x900.png",
    "links": {
     "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/a-year-of-school"
+   }
+  },
+  {
+   "id": "a-i",
+   "title": "A.I.",
+   "description": "CELEBRATING\n\n25TH ANNIVERSARY\n\nA highly advanced robotic boy longs to become \"real\" so that he can regain the love of his human mother.",
+   "image": "https://static.spotapps.co/spots/33/fa7b601ae9480cbac838f5c16154b6/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -476,6 +485,18 @@
    }
   },
   {
+   "id": "breathless",
+   "title": "Breathless",
+   "description": "“Cinema repeats itself; first as tragedy, then as farce.” - theriverjordan\n\nWidely dismissed upon release for daring to remake Jean-Luc Godard's sacred New Wave classic, Jim McBride's BREATHLESS takes the original's fascination with American popular culture and pushes it into a state of complete delirium. Where Godard found romance in the cool detachment of Parisian gangsters, McBride plunges headfirst into the overheated fantasies of rock and roll, comic books, American machismo, and the terrible decisions people make in the name of love.\n\nRichard Gere plays Jesse Lujack, a car thief, cop killer, Jerry Lee Lewis fanatic, and quite possibly the most obnoxiously romantic man in Los Angeles. His idea of true love involves convincing a beautiful French student (Valérie Kaprisky) to abandon her entire life and run away with him to Mexico. Gere throws himself into the role with such reckless enthusiasm that it's sometimes difficult to tell whether Jesse is the coolest man alive or the biggest idiot in the world. Beneath all the swagger is a genuinely strange portrait of a man who has absorbed so much American popular culture that he can no longer distinguish between romantic devotion and performing the part of a romantic hero.\n\n“It’s not just one of the great remakes but one of the great, largely unsung, American films of the 80s.” - Justin LaLiberty",
+   "runtime": 97,
+   "year": 1983,
+   "director": "Jim McBride",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792697471639-tb-breathless.jpg",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/breathless"
+   }
+  },
+  {
    "id": "brunello-the-gracious-visionary",
    "title": "Brunello: The Gracious Visionary",
    "description": "In the documentary film Brunello: the Gracious Visionary, Giuseppe Tornatore imagines a symbolic card game between Brunello and a mysterious opponent—an allegory of Cucinelli’s life. As the unseen rival plays his hand, the film traces Brunello’s journey in a lyrical narrative, blending cinematic reconstructions, archival footage and intimate testimonies. Each chapter of his life is marked by affectionate nicknames: “little fox” from his grandfather, “young lord” from his father, “the German” from colleagues, and “the wolf” from his wife. A poetic, almost medieval canticle, the film bears Tornatore’s unique signature, elevated by Nicola Piovani’s score.",
@@ -487,6 +508,18 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_Brunello_1600x900.png",
    "links": {
     "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/brunello-the-gracious-visionary"
+   }
+  },
+  {
+   "id": "buffalo-66",
+   "title": "Buffalo '66",
+   "description": "Few movies look or feel quite like Vincent Gallo's BUFFALO ’66, a beautifully deranged romantic fantasy in which the dreary landscape of upstate New York becomes the setting for one man's elaborate exercise in self-pity. Shot on gorgeously faded 35mm, the film is full of extraordinary visual inventions: flashbacks that invade the present, musical numbers that materialize out of nowhere, and Christina Ricci performing an exquisite tap dance to King Crimson in a deserted bowling alley. It's a movie of almost embarrassing personal obsession, with a visual imagination capable of making even its ugliest impulses look irresistible.\n\nGallo plays Billy Brown, a recently released convict who kidnaps a young woman (Ricci) and forces her to impersonate his wife during a visit to his spectacularly unpleasant parents (Anjelica Huston and Ben Gazzara). Billy is controlling, verbally abusive, and almost impossibly self-absorbed, while Ricci's Layla responds to his increasingly appalling behavior with a devotion that seems to defy all reasonable explanation. Their relationship has all the makings of a hostage situation because, of course, that's exactly what it is. Yet Gallo films this grotesque arrangement with the tenderness of a great love story, inviting us to fall in love with a fantasy that ought to make us deeply uncomfortable. The result is a film whose beauty and cruelty are so thoroughly entangled that it's difficult to separate what makes it moving from what makes it disturbing.",
+   "runtime": 110,
+   "year": 1998,
+   "director": "Vincent Gallo",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792697980077-tb-buffalo66.jpg",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/buffalo-66"
    }
   },
   {
@@ -567,6 +600,18 @@
    }
   },
   {
+   "id": "clash-by-night",
+   "title": "Clash by Night",
+   "description": "After ten years of disappointment, Barbara Stanwyck's Mae Doyle returns to her California fishing hometown looking for something resembling a decent life. In Fritz Lang's CLASH BY NIGHT, she marries a good-hearted fisherman (Paul Douglas) who offers her the security she's never had, only to find herself dangerously attracted to his best friend (Robert Ryan), a married movie projectionist who appears to hate his wife, his job, and just about everyone he's ever met. Stanwyck knows perfectly well what kind of man he is, which only seems to make matters worse. Marilyn Monroe nearly steals the picture as a tough, outspoken cannery worker with a much less accommodating attitude toward the men in her life.\n\nAdapted from a play by left-wing dramatist Clifford Odets, CLASH BY NIGHT is a bitter, bruising examination of marriage, sexual desire, and the limited choices available to women in working-class America. Lang opens with extraordinary documentary footage of Monterey's fishing industry, establishing a world of hard physical labor before turning his attention to the equally exhausting business of living with other people. What follows is a remarkably unsentimental melodrama in which everyone wants something they can't quite name, nobody seems capable of leaving well enough alone, and even the most ordinary conversations threaten to become acts of mutual destruction. Stanwyck and Ryan are magnificent together, their attraction fueled as much by contempt as desire. Few films are quite so attentive to the ways people turn their most intimate relationships into instruments of self-punishment, or so understanding of why they keep doing it.",
+   "runtime": 105,
+   "year": 1952,
+   "director": "Fritz Lang",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792696439966-tb-clashbynight.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/clash-by-ight"
+   }
+  },
+  {
    "id": "clayface",
    "title": "Clayface",
    "description": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
@@ -582,6 +627,35 @@
    "image": "https://image.tmdb.org/t/p/w300/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
    "links": {
     "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface"
+   }
+  },
+  {
+   "id": "delicatessen",
+   "title": "Delicatessen",
+   "description": "A delicious French love story. The perfect film for a late night date!\n\nA butcher hires a handyman to take care of the apartment building he owns, as all the previous ones have disappeared not-so-mysteriously. But the butcher's meaty plot hits a snag when his daughter and the new handyman develop tender feelings for each other.\n\nPart of Central Cinema's Food'n'Family month!\n\nIn French with English subtitles.",
+   "runtime": 99,
+   "year": 1991,
+   "director": "Jean-Pierre Jeunet, Marc Caro",
+   "country": "France",
+   "language": "French",
+   "rating": "R",
+   "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Fantasy"
+   ],
+   "image": "https://indy-systems.imgix.net/701friiwyvdwqrw9gbqirnurqd7g?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
+   "links": {
+    "central-cinema": "https://central-cinema.com/movie/delicatessen/"
+   }
+  },
+  {
+   "id": "don-t-tell-mom-the-babysitter-is-dead",
+   "title": "Don't Tell Mom the Babysitter Is Dead",
+   "description": "CELEBRATING\n\n35th ANNIVERSARY\n\nWhen a single mother (Concetta Tomei) goes away for the summer, the kids are at first delighted, but then they find out that Mom has hired the sitter from hell (Eda Reiss Merin) to stay with them. When the sitter dies of a sudden coronary they deposit the body at a mortuary, only to discover that all their summer-expense money was in her purse. The kids must find a way to survive the summer without mom or her money. This means actual work.",
+   "image": "https://static.spotapps.co/spots/6f/b6448daa8d467c9be4aa3f0a58845d/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -735,6 +809,15 @@
    }
   },
   {
+   "id": "fargo",
+   "title": "Fargo",
+   "description": "CELEBRATING\n\n20th ANNIVERSARY\n\nA car salesman in Minneapolis, MN, Jerry Lundegard hires two criminals to kidnap his wife. Her father is wealthy and Jerry needs the money. However, things don't go according to plan and soon three people are dead outside of Brainerd, MN. The 7-month pregnant Sheriff of Brainerd, Marge Gunderson is soon on the case, and she is very intuitive and resourceful.",
+   "image": "https://static.spotapps.co/spots/98/3d2d17a31141a58e9d82917bd377ac/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
    "id": "fatherland",
    "title": "Fatherland",
    "description": "Fatherland centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hnrns Zischler) and his daughter Erika (Sandra Hüller) - actress, writer and rally driver. In the summer of 1949, at the height of the Cold War, father and daughter embark on a challenging and emotional road trip in a black Buick taking them across a Germany in ruins - from US dominated Frankfurt to Soviet controlled Weimar. Returning home after sixteen years of exile in the US, Thomas Mann has to face not only a divided fatherland, but also a deep fracture within his own family.\n\nWith Fatherland, Pawlikowski picks up where he left off with his award-winning Ida and Cold War, exploring – in his elliptic, distilled style - the themes of identity, family, love and guilt amid the turmoil and confusion of post-war Europe.",
@@ -758,15 +841,13 @@
    }
   },
   {
-   "id": "flying-embers-and-a-fortress",
-   "title": "Flying Embers and a Fortress",
-   "description": "PRESENTED BY TANOD LUPA & ICHRP-WA\n\nFarmer-activist Jonas Burgos, son of the late press freedom icon and anti-Marcos publisher Jose Burgos Jr., had just finished a training program on organic farming for members of the Philippine peasant organization Kilusang Magbubukid ng Pilipinas (KMP), when he was abducted on April 28, 2007. The abduction was brazen—carried out at noon in a crowded mall. As his family launched their search, a car plate brought them face-to-face with powerful forces. Thus began their fight for justice.\n\nDespite insurmountable barriers, anonymous informants have provided leads and even the last known photo of Jonas in captivity. At the forefront of this battle is Edita, his 80-year-old mother, and her other son, filmmaker JL Burgos.\n\nPresented through testimonials from their lawyer, a reporter, a former Justice Secretary and Human Rights Commission Chair, and witnesses who agreed to appear on condition of anonymity, combined with animation and never-before-seen footage of the family’s relentless search, JL pieces the stories together to uncover the painful truths about his brother’s disappearance.\n\nThis 2024 documentary is a timely examination of the rights abuses that activists and organizers continue to face today in the Philippines under the Marcos Jr. administration, especially as KMP still carries out a national day of action in the Philippines for landless farmers annually on October 21st. Join Tanod Lupa at the Beacon for these screenings and discussion on how this relates to our current community, as we carry out demands of Justice for the Negros 19 massacre and justice for the rights and welfare of peasant farmers throughout the Philippines.\n\nTanod Lupa (Tagalog for “Earth Guardian”) is an organization based in South Seattle building solidarity with land defenders as they struggle against environmental destruction and degradation. TL is a member of the Friends of the Filipino People in Struggle (FFPS) network and the International Coalition for Human Rights in the Philippines (ICHRP).",
-   "runtime": 96,
-   "year": 2024,
-   "director": "JL Burgos",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789696073591-tb-flyingembers.jpg",
+   "id": "five-minutes-to-live",
+   "title": "Five Minutes to Live!",
+   "description": "Here's the deal. You buy a ticket. We show you the first five minutes of five different mystery movies. Then everybody votes on which one to watch in its entirety!\n\nYou've got FIVE MINUTES TO LIVE! Come have an encounter with the unexpected free from the burden of preconceptions. Choose your own adventure in the unimaginably vast world of strange and interesting cinema. Experience the delight of pure surprise. We'll promise a wild time if you promise to be open to anything.",
+   "runtime": 120,
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/beacon/common/TB_5MINTOLIVE.png",
    "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/flying-embers-and-a-fortress"
+    "beacon": "https://thebeacon.film/calendar/movie/five-minutes-to-live"
    }
   },
   {
@@ -879,12 +960,26 @@
    }
   },
   {
-   "id": "haunted-destination-new-film-from-local-filmmaker-taylor-gut",
-   "title": "HAUNTED DESTINATION New film from local filmmaker Taylor Guterson",
-   "description": "The new film from local filmmaker Taylor Guterson screens one night only at the North Bend Theatre for free!\n\nWhen strange stories and unexplained incidents begin piling up around North Bend, the town sees an opportunity to reinvent itself as a haunted destination, launching a publicity stunt designed to put the little mountain town on the map. The mayor embraces the idea, while the sheriff remains convinced it is a terrible idea. To help sell the story, the city brings in a team of paranormal investigators to document the town's supposed activity, but what begins as a promotional stunt takes an unsettling turn when one of the investigators disappears. As the mystery unfolds, the story reaches back to Moncton, the settlement that once stood where the waters of Rattlesnake Lake are today, and the people who lost their homes, their community, and their lives when the town was flooded as part of Seattle's effort to secure its water supply. Years later, a young girl becomes fascinated by the legend and, for a school project, travels with her father to Seattle to meet one of the surviving investigators and uncover what really happened",
-   "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/HauntedDestinationSquare.jpg",
+   "id": "harry-potter",
+   "title": "Harry Potter",
+   "description": "CELEBRATING\n\n25th ANNIVERSARY\n\nHarry Potter learns on his 11th birthday that he is the orphaned first son of two powerful wizards and possesses magical powers of his own. At Hogwarts School of Witchcraft and Wizardry, Harry embarks on the adventure of a lifetime. He learns the high-flying sport Quidditch and plays a thrilling game with living chess pieces on his way to face a Dark Wizard bent on destroying him. For the most extraordinary adventure, see you on platform nine and three-quarters.",
+   "image": "https://static.spotapps.co/spots/ee/ca7404ff184303830fb494e0c557c0/w926",
    "links": {
-    "north-bend": "https://tix.northbendtheatre.com/event/haunted-destination-new-film-from-local-filmmaker-taylor-guterson-thursday-oct-22nd-7pm"
+    "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
+   "id": "her-song",
+   "title": "Her Song",
+   "description": "Olivia, a Franco-American writer, returns to her ancestral village in the south of France to write the story of her grandmother, who fled Paris during the Nazi invasion during World War II. There, she meets Madeline, a talented local artist, who quickly replaces her grandmother as the face of the novel. As a number of strange coincidences ensue, fiction and reality intermingle uncannily, and Olivia starts to ask whether she's part of history's unfolding story, or vice-versa.",
+   "runtime": 105,
+   "year": 2026,
+   "director": "John M. Keller",
+   "country": "USA",
+   "language": "French and English",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/REN_HerSong_1600x900.png",
+   "links": {
+    "siff-film-center": "https://www.siff.net/cinema/in-theaters/her-song"
    }
   },
   {
@@ -905,6 +1000,15 @@
    "image": "https://indy-systems.imgix.net/upvblpb06vn9w3ql0mjqpdtqiuuf?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
    "links": {
     "central-cinema": "https://central-cinema.com/movie/hocus-pocus/",
+    "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
+   "id": "home-for-the-holidays",
+   "title": "Home for the Holidays",
+   "description": "After being fired, making out with her soon-to-be ex-boss, and discovering that her daughter plans to spend Thanksgiving with her boyfriend, Claudia Larson faces the unenviable task of spending the holiday with her exceedingly dull family.",
+   "image": "https://static.spotapps.co/spots/39/030a6ce5954918868211c9134d495a/w926",
+   "links": {
     "tin-room": "https://tinroombar.com/events"
    }
   },
@@ -1032,15 +1136,6 @@
    }
   },
   {
-   "id": "lost-boys",
-   "title": "Lost Boys",
-   "description": "Following their parents' divorce, Micheal and his younger brother Sam relocate to the trendy beach town of Santa Carla, California with their mother. Moving in with Lucy's eccentric father, they quickly discover that Santa Carla, often referred to as the murder capital of the world, is home to a lively boardwalk frequented by a group of intriguing young men led by the enigmatic David.",
-   "image": "https://static.spotapps.co/spots/f0/49f9c62c924af5b8f7e61549f70e25/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
    "id": "love-fits-everything",
    "title": "Love Fits Everything",
    "description": "Stefano Rovelli is the author of a small book called \"How to Leave Your Partner in 7 Steps and Be Happy.\" Federica is a young woman currently on a break with the partner. She thinks it's Federico's fault, since he loved Rovelli's books, and won't back down until she and her ex are back together. Frank is a singer paired with a young rapper who only uses autotune. Manlio, Frank's manager, is called to the Vatican, and has to reunite Frank and his ex-partner, Milly, to sing for the Holy Father. Too bad Frank and Milly hate each other and have no plan to ever sing together again. Vittoria Casati is a unpopular politician. To boost her consensus, she decides to host a refugee from Africa. When she is faced with a Ghanan man instead of a boy, she welcomes him into her home, alongside her husband Giovanni and their two children.",
@@ -1090,6 +1185,15 @@
    "image": "https://grandillusioncinema.org/wp-content/uploads/2026/10/mma_keyart_en-us_digi_os_get-tickets-now-1.jpg",
    "links": {
     "grand-illusion": "https://grandillusioncinema.org/film/making-marie-antoinette/"
+   }
+  },
+  {
+   "id": "maltese-falcon",
+   "title": "Maltese Falcon",
+   "description": "CELEBRATING\n\n85th ANNIVERSARY\n\nA cynical San Francisco private detective must clear his name after his partner is murdered, but a web of dangerous liars threatens his freedom, all while they hunt for a priceless black bird.",
+   "image": "https://static.spotapps.co/spots/8d/378f51ef1e4da69467cf7019be78e3/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -1156,6 +1260,26 @@
    }
   },
   {
+   "id": "my-neighbor-totoro",
+   "title": "My Neighbor Totoro",
+   "description": "The 4pm shows are dubbed in English.\nThe 7pm shows are in the original Japanese with English subtitles.\n\nHayao Miyazaki's celebrated family favorite reminds us to appreciate nature and our bond with the world around us.\n\nAfter moving with their father to be closer to their hospitalized mother, Satsuki and Mei soon discover the friendly spirits of the nearby forest, who help the girls deal with their feelings in a difficult time.\nCo-starring Catbus.",
+   "runtime": 95,
+   "year": 1993,
+   "director": "Hayao Miyazaki",
+   "country": "Japan",
+   "language": "Japanese",
+   "rating": "G",
+   "genres": [
+    "Fantasy",
+    "Animation",
+    "Family"
+   ],
+   "image": "https://indy-systems.imgix.net/p6luw2wuf4vluobknqkqa98lepti?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
+   "links": {
+    "central-cinema": "https://central-cinema.com/movie/my-neighbor-totoro/"
+   }
+  },
+  {
    "id": "my-night-at-maud-s",
    "title": "My Night at Maud's",
    "description": "I exist. What is my essence? What do I choose? Éric Rohmer, one of the founding New Wave figures, liked to stroll the streets of Paris. Even if he had a planned destination, he was open to the music of chance. Rohmer’s characters are solidly self-directed, but they can be surprised by life. In a provincial town, Jean Louis (Jean-Louis Trintignant) believes he’ll meet his dream woman and marry her, and he spots college student Françoise (Marie-Christine Barrault) in church. He’s determined that she will be the one, but he hasn’t even met her. Unplanned things happen: Jean-Louis runs into his old friend Vidal (Antoine Vitez), who suggests that they visit his friend Maud (Françoise Fabian), one of the most liberated New Wave heroines, who has broken many traditional barriers (she’s an accomplished physician, highly cultured, and a loving single parent). The three stay up late, drinking and discussing freedom of choice. Vidal leaves, it’s snowing heavily, why not have Jean-Louis stay the night? There’s one bed; Maud sleeps naked. Rohmer’s cinema explores forward motion and hesitation, the nature of things, and cosmic grace. New Wave women show the way.",
@@ -1185,20 +1309,6 @@
    "image": "https://indy-systems.imgix.net/lr67xyy9kdkwi1onyclmdr508jco?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress&cs=origin",
    "links": {
     "tasveer": "https://filmcenter.tasveer.org/movie/nagarkirtan-bengali-2017"
-   }
-  },
-  {
-   "id": "naza",
-   "title": "NAZA",
-   "description": "Shot at night on the rooftops of Tel Aviv, NAZA reveals the systems behind Israel’s bombing of Gaza and its mass killing of Palestinian civilians. The film is directed by Yuval Abraham and Rachel Szor, two of the four co-directors of the 2024 Oscar-winning documentary No Other Land, and produced by the Guardian and James Wilson, and executive produced by Jonathan Glazer, the Oscar-winning team behind The Zone of Interest. NAZA is titled for a military acronym euphemistically used by Israeli intelligence to indicate the number of civilians that it expects will be killed in an airstrike. The film builds on revelations first published by the Israeli-Palestinian publication +972 Magazine, Hebrew-language outlet Local Call, and The Guardian between 2023 and 2025.",
-   "runtime": 80,
-   "year": 2026,
-   "director": "Yuval Abraham, Rachel Szor",
-   "country": "United Kingdom",
-   "language": "Hebrew and English",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_NAZA_1600x900.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/naza"
    }
   },
   {
@@ -1272,6 +1382,15 @@
    }
   },
   {
+   "id": "open-arthouse-meet-the-staff",
+   "title": "Open Arthouse: Meet the Staff!",
+   "description": "It's been a while! The last few years, there have been a lot of changes at the Forum, most notably the makeup of our staff!\n\nTo kick off our new series of events, Open Arthouse, we invite you to come by the Forum from 5:30-7:30 to mix, mingle, and meet the staff. Get to know the people who are keeping the lights on and making sure you're given some of the best films the city has to offer, and meet your other fellow film lovers!\n\nAttendance is free, drinks will be at happy hour prices all night, and maybe we have another event to announce in-person ;)",
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/102126_MeettheStaffORANGE-02-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/events/open-arthouse-meet-the-nwff-staff/"
+   }
+  },
+  {
    "id": "pierrot-le-fou",
    "title": "Pierrot le Fou",
    "description": "A poet experiences the world and expresses it in words, images, emotions. Pierrot is Jean-Luc Godard’s free-form ode to “an artist and his girl in love, the last romantic couple,” made poignant because his seven-film relationship with Anna Karina, and their marriage, would soon be over. In the film they are personified as Ferdinand (Jean-Paul Belmondo) and Marianne (Anna Karina). Ferdinand, fed up with his life of oppressive bourgeois conformity, leaves his marriage-with-child for spontaneous road adventures with babysitter Marianne. In a euphoric rule-breaking rush, the couple speeds to an idyllic secluded island on the French Riviera. Ferdinand is now free to contemplate quietly and work on his book, with Marianne as his affectionate, inspiring companion. But she loves to sing and dance: “I’ve had it with nature, eating from cans, that’s it!” So its back to “civilization,” and what Marianne calls “a police novel, revolvers, nightclubs.” Ferdinand discovers that there’s more to Marianne’s story than he realized, and he responds accordingly, moment-to-moment: existential choice made profoundly literal. As Godard says, “The world between two flickers of the eyelids, the sadness between two heart-beats.” When Karina boldly gazes into Godard’s camera, at us, we feel both their hearts beating. In Godard’s deeply personal cinema, love can be both lost and eternal, the horizon where sun unites with sea.",
@@ -1283,6 +1402,15 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Nouvelles%20Femmes/CIN_PierrotLeFou_1600x900.png",
    "links": {
     "siff-uptown": "https://www.siff.net/programs-and-events/nouvelles-femmes/pierrot-le-fou"
+   }
+  },
+  {
+   "id": "planes-trains-and-automobiles",
+   "title": "Planes, Trains, and Automobiles",
+   "description": "All that Neal Page wants to do is to get home for Thanksgiving. When bad weather cancels his flight, he decides on other means of transportation. As well as bad luck, Neal is blessed with the presence of Del Griffith, shower-curtain-ring salesman and all-around blabbermouth who is never short of advice, conversation, bad jokes, or company. And when he decides that he is going the same direction as Neal..",
+   "image": "https://static.spotapps.co/spots/db/2f6dcc5bee4168a7be483c7291b468/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -1309,6 +1437,18 @@
    }
   },
   {
+   "id": "pretty-poison",
+   "title": "Pretty Poison",
+   "description": "There's something deeply wrong with the American girl next door, and Noel Black's PRETTY POISON is delighted to investigate. A spectacularly twisted combination of teenage romance, black comedy, and small-town psychosis, this neglected cult classic stars Anthony Perkins and Tuesday Weld as two young lovers whose shared enthusiasm for make-believe takes them into increasingly unpleasant territory. Perkins plays a recently institutionalized fantasist who convinces a beautiful high school majorette (Weld) that he's a secret agent investigating a Communist conspiracy. She proves an enthusiastic recruit, although her ideas about what constitutes an appropriate response to enemy activity turn out to be considerably more extreme than his.\n\nComing a few years after Psycho, PRETTY POISON finds Perkins playing another socially maladjusted young man with serious psychological problems, only this time he may be the most reasonable person in the movie. Weld is astonishing as a wholesome American teenager whose cheerful disposition remains entirely undisturbed by the increasingly appalling things she's willing to do. Black directs with a wonderfully straight face, but it's the warped chemistry between Perkins and Weld that makes the film irresistible. He's thrilled to have found someone who believes his fantasies; she's thrilled to have found someone who gives her an excuse to act on hers.\n\n“If PSYCHO was the seed of a new kind of mainstream Hollywood movie ... then this is the brightly colored fruit.” - Joe Gibson",
+   "runtime": 89,
+   "year": 1968,
+   "director": "Noel Black",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792697573751-tb-prettypoison.jpg",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/pretty-poison"
+   }
+  },
+  {
    "id": "puerto-rican-short-film-night",
    "title": "Puerto Rican Short Film Night",
    "description": "A Fundraiser for the Diaspora of the Puerto Rican Independence Party.\n\nJoin us for a night of film, art, and Puerto Rican pastries with the DIASPORA OF THE PUERTO RICAN INDEPENDENCE PARTY and LA ANTILLANA. We will be showcasing three short films that highlight the effects of colonialism in different manifestations throughout Puerto Rico’s history and remind us why we fight for the independence of Puerto Rico.\n\nMATARON A PEDRO (2026, Kristian Mercado)\n\nIn 1930s Puerto Rico, Pedro Albizu Campos and his wife Laura Meneses navigate the island-wide sugar cane workers' strike, the brutal machinery of colonial repression, and the fierce, sustaining love between two people who refused to surrender their dignity or their dream of freedom.\n\nMELAO (2024, Val Vega)\n\nNando, a desperate worker on a sugarcane plantation in 1950s Puerto Rico who struggles to care for his pregnant wife, until he fixes on a plan that he hopes will secure their future and lead them out of poverty, no matter how crazy it may seem.\n\nMAREAS A LA DERIVA (2026, Camila Sofía Rodríguez López)\n\nMaite, a young graffiti writer in Puerto Rico, faces a life-altering choice: leave the island for a promising career opportunity abroad or stay and navigate the challenges of a nation in crisis. During her mother’s birthday weekend, with her sister visiting from New York, Maite sees two possible futures reflected in them, one rooted in resilience and staying, the other shaped by the opportunities of leaving. Grappling with these paths, she is forced to reckon with a paradise built for tourists and outsiders to enjoy but for locals to labor in and endure, shaped by systemic neglect, colonialism, and a broken power grid that keeps its bliss just out of reach for its own people.",
@@ -1321,15 +1461,21 @@
    }
   },
   {
-   "id": "rider-of-the-skulls",
-   "title": "Rider of the Skulls",
-   "description": "RIDER OF THE SKULLS has 79 minutes and doesn't waste a single one of them. A werewolf! A vampire! A witch! Walking skeletons! The Headless Horseman! A corpse resurrected from its coffin to identify its own murderer! Alfredo Salazar’s glorious 1965 horror-western plays like an entire Saturday matinee serial crammed into a single feature, tearing through three supernatural adventures with barely enough time between monsters to reload.\n\nHolding this magnificent pile-up together is a masked charro dressed in black, decorated with skulls and prepared to confront any supernatural menace in Mexico. The werewolf transforms from man to skeleton to wolf. The vampire turns into a wonderfully handmade flying bat. A cemetery witch summons the dead. The Headless Horseman brings skeleton henchmen. Nobody questions any of this. Why would they?\n\nPart western, part monster movie, part masked-avenger serial, RIDER OF THE SKULLS has the handmade creatures, foggy graveyards and irresistible comic-book logic of a movie dreamed up without anyone around to say no.\n\n\"A truly sublime artifact. A precious treasure that approaches embodying my platonic ideal of a certain special kind of movie. More than almost any other movie in recent memory, it felt like something that had crawled out of my monstercozy dreams into actual, factual reality. I was transfixed in a kind of awe.\" - Claire Diane",
-   "runtime": 79,
-   "year": 1965,
-   "director": "Alfredo Salazar",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789695116859-tb-rideroftheskulls.jpg",
+   "id": "rent-live-on-broadway",
+   "title": "Rent Live on Broadway",
+   "description": "CELEBRATING\n\n30th ANNIVERSARY\n\nSet in New York City's gritty East Village, the revolutionary rock opera RENT tells the story of a group of bohemians struggling to live and pay their rent. \"Measuring their lives in love,\" these starving artists strive for success and acceptance while enduring the obstacles of poverty, illness and the AIDS epidemic.",
+   "image": "https://static.spotapps.co/spots/92/3bc438b2114fde8e5ae782403ab28b/w926",
    "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/rider-of-the-skulls"
+    "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
+   "id": "rocky",
+   "title": "Rocky",
+   "description": "CELEBRATING\n\n50th ANNIVERSARY\n\nRocky Balboa is a struggling boxer trying to make the big time, working as a debt collector for a pittance. When heavyweight champion Apollo Creed visits Philadelphia, his managers want to set up an exhibition match between Creed and a struggling boxer, touting the fight as a chance for a \"nobody\" to become a \"somebody\". The match is supposed to be easily won by Creed, but someone forgot to tell Rocky, who sees this as his only shot at the big time.",
+   "image": "https://static.spotapps.co/spots/97/612fd9b7c445ea86abcb434ea2f1c6/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -1642,6 +1788,62 @@
    }
   },
   {
+   "id": "seattle-turkish-film-festival-dump-of-untitled-pieces",
+   "title": "Seattle Turkish Film Festival: Dump of Untitled Pieces",
+   "description": "Ambitious photographer Asli candidly takes photos of people’s hands to reveal the stories they may tell. Her best friend, computer savvy Murat cooks simple dishes full of love, but sometimes with already spoiling vegetables. They live together nearly like a married couple, who never sleeps together. Barely able to afford anything, they are treated as nothing and face eviction due to unpaid bills. 20 months ago rebellious Asli took up a camera to reclaim her broken heart. She wears a mask of confidence to pursue the luxury of being an artist in the pretentious art world. Asli dreams of showcasing her photos and escaping uncertainty, despair and loneliness with the hapless introverted Murat as her manager.\n\nFilmmaker Melik Kuru comes from an editing background, including his editing work for SIFF 2024 official selection Hesitation Wound.",
+   "runtime": 105,
+   "year": 2025,
+   "director": "Melik Kuru",
+   "country": "Turkey",
+   "language": "Turkish",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Seattle%20Turkish%20FF%202026/REN_STFF26_DumpofUntitledPieces_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/seattle-turkish-film-festival-dump-of-untitled-pieces"
+   }
+  },
+  {
+   "id": "seattle-turkish-film-festival-sevda",
+   "title": "Seattle Turkish Film Festival: Sevda",
+   "description": "Tülin Özen, from SIFF 2024 favorite Hesitation Wound (2023), stars as Sevda, a real estate developer in Istanbul, is about to complete the project of her career. But construction hits an obstacle: the elderly caretaker of an Ottoman cemetery refuses to leave his home among the graves. This face-off stirs up buried memories. Then a call from Elif, a Turkish immigrant in Switzerland, upsets her: the father who abandoned her is dying and asking to see her. The call reveals an unsuspected link between her family's past and the city's transformation. Sevda premiered at the Zurich Film Festival.",
+   "runtime": 100,
+   "year": 2026,
+   "director": "Ufuk Emiroğlu",
+   "country": "Turkey",
+   "language": "Turkish",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Seattle%20Turkish%20FF%202026/REN_STFF26_Sevda_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/sevda"
+   }
+  },
+  {
+   "id": "seattle-turkish-film-festival-those-who-whistle-after-dark",
+   "title": "Seattle Turkish Film Festival: Those Who Whistle After Dark",
+   "description": "Mr Melih, the retiring manager of the Natural History Museum, clumsily tries to adapt to civilian life. After a supernatural encounter, his innocent middle age depression spirals into a major existential crisis. He seeks solace from his family, but they are busy with their own crises. His wife Suzan, an ambitious nurse that is stuck in a life she's disappointed with, has fallen victim to a scam she cannot tell to anyone. In the meantime, their video-game addict daughter Toprak, a young unemployed aspiring writer, plots a doomed escape to the U.S. to run away from the increasingly bleak future in Turkey. With Melih searching for the meaning of his life, Suzan secretly trying to find a way out, and Toprak going nowhere fast; soon they are all haunted by the ghosts of the past - literally.",
+   "runtime": 107,
+   "year": 2025,
+   "director": "Pınar Yorgancıoğlu",
+   "country": "Turkey",
+   "language": "Turkish",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Seattle%20Turkish%20FF%202026/REN_STFF26_ThoseWhoWhistle_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/seattle-turkish-film-festival-those-who-whistle-after-dark"
+   }
+  },
+  {
+   "id": "seattle-turkish-film-festival-yellow-letters-gala-film-party",
+   "title": "Seattle Turkish Film Festival: Yellow Letters Gala Film + Party",
+   "description": "Winner of several awards including the Golden Bear (Berlin International Film Festival), Yellow Letters is directed by İlker Çatak, who previously won accolades for his film The Teacher's Lounge (2023). Derya and Aziz, a celebrated artist couple from Ankara, lead a fulfilling life with their 13-year-old daughter Ezgi – until an incident at the premiere of their new play changes everything. Overnight, they find themselves targeted by the state and lose their jobs and their home. They move to Istanbul to temporarily stay with Aziz’s mother. While Aziz ekes out a living with odd jobs and holds on to his convictions, Derya searches for a way to become financially independent. An increasing distance grows between them and their daughter until they are forced to choose between their values and their shared future as a family. The film stars Özgü Namal (from Turkish TV series such as Ezel, Merhamet, Kizil Goncalar), and former STFF guest Tansu Biçer (from STFF 2024 gala film Dormitory, and Netflix series Midnight At The Pera Palace).\n\nThis is the Gala Film + Party Event. Gala film at SIFF Uptown, followed by Party at KEXP.\nPlease note: Not included in STFF Full Series Pass.",
+   "runtime": 127,
+   "year": 2026,
+   "director": "İlker Çatak",
+   "country": "Turkey",
+   "language": "Turkish",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Seattle%20Turkish%20FF%202026/REN_STFF26_YellowLetters_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/seattle-turkish-film-festival-gala-film-party"
+   }
+  },
+  {
    "id": "secs-fest-2026",
    "title": "SECS Fest 2026",
    "description": "FULL SCHEDULE AND TICKETS ARE AVAILABLE AT:\n\nhttps://secsfest.org/secs-fest-2026-festival-schedule/\n\nSECS FEST is a sex-positive international film festival celebrating the artistry of erotic cinema while inspiring diverse communities to engage in adult conversations about sex.\n\nTHE FESTIVAL\n\nSECS Fest is held in November at the Beacon Cinema, Seattle. Once involved with providing a small selection of short films as part of the Seattle Erotic Art Festival, SECS Fest became an independent, non-profit film festival in 2016, to better serve filmmakers and fans of erotic film. Due to theater closures in Seattle, WA due to the COVID-19 pandemic, SECS Fest 2020 was a virtual festival, hosted by PinkLabel.tv. SECS Fest has returned as an annual, in-person, film festival.\n\nThe festival will include films that reflect the diversity of human sexuality and thus, a broad range of sexual practices and orientations will be on display. We will curate a selection of short films (to be presented in 90 minute programs) and feature length films (60 -120 minutes). The films may be narrative fiction, experimental, animation, and even documentary and will include a broad range of genre (drama, comedy, romance). And the programming will include works from all over the globe. Special attention will be given to films that defy audience expectations for sexually explicit films, that some believe are inherently sexist and hetero-centric, so festival programming will attempt to include films from female and non-binary creators and films that depict underrepresented populations, and thus will challenge heteronormativity, ableism, racism, sexism, etc.\n\nAdditionally, SECS Fest will include archival programs to explore the long history of sex in the cinema. SECS Fest programmers will curate archival programs included in the festival.\n\nSECS FEST 2026 will mark 10 years of SECS FEST.",
@@ -1739,6 +1941,45 @@
    }
   },
   {
+   "id": "stffshorts-documentary-selection",
+   "title": "STFFShorts - Documentary Selection",
+   "description": "Anemoia: A Letter From Future\nZeynep Ceren Özden | TURKEY | 2026 | 21 min\nAfter discovering her passion for cinema in a small building called the Film Center at her university, a student decides to explore the memories of the place and the people who once shared the same passion.\n\nColor of the Stone\nTugba Yasar | TURKEY | 2025 | 8 min\nBased on a family album, the film traces how the Kurdish villages burned in the 90s are transformed in the collective memory passed down from generation to generation, at the intersection of the personal and the social.\n\nEveryone is Don Quixote Here\nEkrem Çanak | TURKEY | 2025 | 26 min\nFirst comers blame the next comers for the deterioration of the neighborhood. This film traces the marks and effects of the gentrification process in the historic Yeldegirmeni neighborhood of Kadıköy.\n\nI Am 12.000 Years Old\nBatuhan Karadagoglu | TURKEY | 2026 | 32 min\nA quiet yet profound story that questions the significance of individual effort in sustaining collective memory. Set in a remote village in Turkey, it brings to light the humble resistance of a hero overlooked by the modern world.",
+   "runtime": 95,
+   "year": 2026,
+   "country": "Turkey",
+   "language": "Turkish",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Seattle%20Turkish%20FF%202026/REN_STFF26_DocShorts_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/stffshorts-documentary-selection"
+   }
+  },
+  {
+   "id": "stffshorts-narrative-selection-1",
+   "title": "STFFShorts - Narrative Selection 1",
+   "description": "Close\nBuse Halacoglu | TURKEY | 2026 | 15 min\nTwo women from different social classes cross paths in front of a supermarket about to close, finding themselves having to shop together under the shadow of the economic crisis.\n\nGravity\nDalya Keles | TURKEY | 2026 | 16 min\nDeniz (12) plays freely with her best friend at their secret hideout. At school, while playing with boys, she’s pushed aside for who she is and fails to fit in with the girl group.\n\nLove and the Others\nBerna Sitera Degirmen | TURKEY | 2026 | 19 min\nZeynep and Can are new lovers. What starts as a joyful night turns into an unsettling confrontation under the authoritarian gaze - revealing love’s fragile yet resilient nature.\n\nThe Impasto\nAlperen Icmez | TURKEY | 2026 | 2 min\nThe story follows a couple and their dog on a caravan journey, completely surrendering to the melancholic flow of the moment with no idea what tomorrow will bring.\n\nThe Night Shift\nSalih Ortaçay | TURKEY | 2025 | 19 min\nEmrah, who works as a receptionist in the night shift of a boutique hotel, is constantly monitored by his boss Adem through security cameras and this surveillance becomes increasingly irritating.\n\nTill Death Do Us Part\nDeniz Kolos | TURKEY | 2025 | 19 min\nAfter finding out that her soon-to-be-ex-husband will be stopping by to pick up his belongings, ER nurse Songul decides to go home late. To pass the time, she starts helping an elderly man search for his missing granddaughter.",
+   "runtime": 100,
+   "year": 2026,
+   "country": "Turkey",
+   "language": "Turkish",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Seattle%20Turkish%20FF%202026/REN_STFF26_ShortsN1_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/stffshorts-narrative-selection-1"
+   }
+  },
+  {
+   "id": "stffshorts-narrative-selection-2",
+   "title": "STFFShorts - Narrative Selection 2",
+   "description": "Alis\nBeril Tan | TURKEY, ARMENIA, GERMANY, US | 2025 | 17 min\nAlis, an Armenian woman in Turkey, returns to her summerhouse to find her surroundings gone. Urban change threatens her home.\n\nAnkara 1979\nCan Karayalcin | TURKEY | 2025 | 19 min\nIn the late 1970s, as political turmoil gripped Ankara, Turkey, Faruk returns home wounded after posting illegal flyers. As political unrest seeps into daily life, he struggles between his ideals and his family duties.\n\nFeridun\nUtku Ali Güler | TURKEY | 2025 | 13 min\nFeridun, a reclusive man crippled by a fear of the outside world, lives a quiet, isolated life - until one day, he discovers a mysterious note inside his washing machine.\n\nNot Built to Last\nDeniz Arikan | NETHERLANDS | 2026 | 20 min\nTwo architects meet for a single day in Rotterdam. What begins as a professional tour gradually reveals their differences in freedom, identity and the idea of home.\n\nRetreat\nSaim Güveloglu | TURKEY | 2025 | 15 min\nBerna rents all the rooms of a boutique hotel, 'a meeting point for people longing for nature', in order to rest her head for a while. Things do not go as she expects because she overlooked something while making all these plans.\n\nThe Hotel\nHalil Tanısan | TURKEY | 2025 | 11 min\nA man finds himself alone in an eerie hotel, at the center of a dark plan. Everything in the hotel seems to operate according to a rule he does not know",
+   "runtime": 105,
+   "year": 2026,
+   "country": "Turkey",
+   "language": "Turkish",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Seattle%20Turkish%20FF%202026/REN_STFF26Narrative2_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/stffshorts-narrative-selection-2"
+   }
+  },
+  {
    "id": "stolen-kisses",
    "title": "Stolen Kisses",
    "description": "As one of his film titles says, François Truffaut is The Man Who Loved Women. He reveres female beauty, intelligence, spirit, wit, and “superior understanding of emotions.” In his films, “Are women magic?” is a recurrent theme. In Truffaut’s Jules and Jim, two men initially see Jeanne Moreau’s Catherine as a statue come to life, but they soon experience her full human complexity. In Stolen Kisses, Truffaut’s cinematic alter-ego, Antoine Doinel (Jean-Pierre Léaud), a romantic who’s endearingly hapless, gains access to the hearts of Paris by taking a detective job. His touching and comic personal private investigations are the most revealing. He’s had a fluctuating romance with violinist Christine (Claude Jade): they never want each other at the same time, but both are still in the game. Antoine is hired by businessman Tabard (Michel Lonsdale) to discover why no one likes him, and is instantly smitten by the man’s elegant wife Fabienne (Delphine Seyrig, a classic New Wave woman). Following the French tradition of an older women giving a younger man his emotional education, she tells the starry-eyed Antoine, “I am not an apparition. I am a woman, unique and irreplaceable.” Meanwhile, young Christine learns that in order to get what you want in life, sometimes you have to give a push.",
@@ -1810,6 +2051,24 @@
    }
   },
   {
+   "id": "tampopo",
+   "title": "Tampopo",
+   "description": "The tale of an enigmatic ramen ronin who guides the widow of a noodle shop owner in her quest for the perfect recipe. Tampopo serves up a savory broth of culinary adventure, seasoned with offbeat comedy and the erotic exploits of a gastronome gangster.\n\nSweet, sexy, surreal, and mouthwatering, Tampopo remains one of the most delevtable examples of food on film. It's been remastered in 4K, making this an extra delicious big screen treat.",
+   "runtime": 115,
+   "year": 1985,
+   "director": "Jūzō Itami",
+   "country": "Japan",
+   "language": "Japanese",
+   "rating": "NR",
+   "genres": [
+    "Comedy"
+   ],
+   "image": "https://indy-systems.imgix.net/ujer9z727jpmelilbfu57mb5gjmo?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
+   "links": {
+    "central-cinema": "https://central-cinema.com/movie/tampopo/"
+   }
+  },
+  {
    "id": "taste-of-cherry",
    "title": "Taste of Cherry",
    "description": "The austere, middle aged Mr. Baadi drives around the dusty hills on the outskirts of Tehran with a somber goal: searching for someone who will bury him after he commits suicide, a taboo under Islamic law. As he winds his way through the warm, autumnal landscape, Baadi picks up various passengers (a soldier, a seminarian, and a taxidermist) to engage in reflexive conversations on mortality and individual choice. Despite the grimness of its end of the road subject matter and the weight of the decision with which Baadi grapples, Taste of Cherry remains a life affirming and euphoric film experience. Along with being the first Iranian film to win the Palme d’Or, it subsequently brought Abbas Kiarostami’s masterful body of work to full international prominence.\n\n“Kiarostami, one of the great filmmakers of our time, is a master at filming landscapes and constructing parablelike narratives whose missing pieces solicit the viewer’s active imagination.” — Jonathan Rosenbaum, Chicago Reader",
@@ -1821,6 +2080,15 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/The%20Open%20Road/tasteofcherry.png",
    "links": {
     "siff-film-center": "https://www.siff.net/programs-and-events/the-open-road/taste-of-cherry"
+   }
+  },
+  {
+   "id": "taxi-driver",
+   "title": "Taxi Driver",
+   "description": "CELEBRATING\n\n50th ANNIVERSARY\n\nTravis Bickle is an ex-Marine and Vietnam War veteran living in New York City. As he suffers from insomnia, he spends his time working as a taxi driver at night, watching porn movies at seedy cinemas during the day, or thinking about how the world, New York in particular, has deteriorated into a cesspool. He's a loner who has strong opinions about what is right and wrong with mankind. For him, the one bright spot in humanity is Betsy, a worker on the presidential nomination campaign of Senator Charles Palantine. After an incident, he believes he has to do whatever he needs to make the world a better place.",
+   "image": "https://static.spotapps.co/spots/ec/0524b9aeab43a3b9eb6fa26c895691/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -1856,23 +2124,6 @@
    }
   },
   {
-   "id": "case-of-the-three-sided-dream",
-   "title": "The Case of the Three Sided Dream",
-   "description": "The documentary film on the life and legacy of Rahsaan Roland Kirk – a one of a kind musician, personality, activist and windmill slayer who despite being blind, becoming paralyzed, and facing America’s racial injustices – did not relent.\n\nCo-Presented with Earshot Jazz Festival!",
-   "runtime": 88,
-   "year": 2014,
-   "director": "Adam Kahan",
-   "country": "United States",
-   "language": "English",
-   "genres": [
-    "Documentary"
-   ],
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/threesideddream1600-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/the-case-of-the-three-sided-dream/"
-   }
-  },
-  {
    "id": "daytrippers",
    "title": "The Daytrippers",
    "description": "With its droll humor and bittersweet emotional heft, the feature debut of writer-director Greg Mottola announced the arrival of an unassumingly sharp-witted new talent on the 1990s indie film scene. When she discovers a love letter written to her husband (Stanley Tucci) by an unknown paramour, the distraught Eliza (Hope Davis) turns to her tight-knit Long Island family for advice. Soon the entire clan—strong-willed mom (Anne Meara), taciturn dad (Pat McNamara), and jaded sister (Parker Posey) with pretentious boyfriend (Liev Schreiber) in tow—has squeezed into a station wagon and headed into Manhattan to find out the truth, kicking off a one-crazy-day odyssey full of unexpected detours and life-changing revelations. Performed with deadpan virtuosity by a top-flight ensemble cast, The Daytrippers is a wry and piercing look at family bonds stretched to the breaking point.\n\nScreening as a part of our quarterly Staff Selects series! This film was chosen and presented by Camille Hermida-Fuentes, our Director of Operations!",
@@ -1897,7 +2148,6 @@
    "rating": "NC-17",
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_TheDevils_1600x900.png",
    "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
     "siff-downtown": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils"
    }
   },
@@ -2162,26 +2412,34 @@
    }
   },
   {
-   "id": "spiral",
-   "title": "The Spiral",
-   "description": "During a storm, Anna unexpectedly arrives at her daughter Alice’s apartment with a devastating confession: for twenty years, she has hidden the truth about a mysterious pact she made to save Alice’s life after a childhood accident. The pact set off a dark chain of painful events that has shaped their entire family. Anna’s revelation shatters their relationship and forces Alice to confront the unsettling truth about her own existence. To break the cycle created by her mother, Alice must face a terrible choice and a price that may be impossible to pay.",
-   "runtime": 115,
-   "year": 2026,
-   "director": "Paolo Strippoli",
-   "country": "Italy",
-   "language": "Italian",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_TheSpiral_1600x900.png",
+   "id": "strange-love-of-martha-ivers",
+   "title": "The Strange Love of Martha Ivers",
+   "description": "Barbara Stanwyck has everything a woman could want: a business empire, a powerful husband, and a murder nobody knows she committed. In THE STRANGE LOVE OF MARTHA IVERS, she rules a Pennsylvania factory town alongside her husband (Kirk Douglas, in his debut), an alcoholic district attorney whose political authority is inversely proportional to his authority at home. Seventeen years after a childhood crime brought them together, the unexpected return of an old sweetheart (Van Heflin) sends their miserable marriage into a fresh crisis. Meanwhile, Lizabeth Scott plays an ex-con who has the bad luck to wander into a town where the respectable citizens are considerably more dangerous than the criminals.\n\nDirected by Lewis Milestone from a screenplay by Robert Rossen, this wonderfully bitter combination of film noir and Gothic melodrama is as much about the corruptions of wealth and power as it is about the terrible things people do for love. Stanwyck is magnificent as a woman who has acquired everything except the ability to enjoy it, while Douglas plays a man who can intimidate an entire town but can't stand up to his own wife. Neither seems quite sure whether they hate each other more than they hate themselves. With its magnificent shadows, feverish performances, and almost operatic emotional cruelty, this is Hollywood melodrama at its most gloriously unhappy.",
+   "runtime": 116,
+   "year": 1946,
+   "director": "Lewis Milestone",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792696327543-tb-strangeloveofmartha.png",
    "links": {
-    "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/the-spiral"
+    "beacon": "https://thebeacon.film/calendar/movie/the-strange-love-of-martha-ivers"
    }
   },
   {
-   "id": "totally-halloween-sing-along",
-   "title": "The Totally Halloween Sing Along",
-   "description": "This is Halloween; everybody make a scene.\n\nIt's a night of your favorite spooky songs and deathly dance hits, all with the lyrics on the big scream screen. Come in costume or come as you are for a monsterously good time, for no mere mortal can resist an evening of the Sing Along...",
-   "image": "https://indy-systems.imgix.net/75u0theqexa31nfkez2bkak9viod?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
+   "id": "texas-chainsaw-massacre-part-2",
+   "title": "The Texas Chainsaw Massacre Part 2",
+   "description": "This movie serves up everything one could want from a Thanksgiving movie, including a climatic family dinner scene, and Baron von Terror looks forward to sharing this fright-feast with you!\n\nLeatherface meats a nice radio DJ and invites her to family dinner. Dennis Hopper shows up, too. Good times!\n\nYou do not need to see the first one to follw the plot.\n\nFor real, though, Texas 2 has earned a solid reputation over the years for taking a much more comedic tone to the mayhem, with a truly unique script that still feels fresh and twisted to this day. The Baron can't wait to unpack it with you. plus he's giving away prizes! Woooooooo!",
+   "runtime": 100,
+   "year": 1986,
+   "director": "Tobe Hooper",
+   "country": "United States",
+   "language": "English",
+   "rating": "R",
+   "genres": [
+    "Horror",
+    "Comedy"
+   ],
+   "image": "https://indy-systems.imgix.net/sds4p5xs0ey1ejuswgn0m279hy2f?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
    "links": {
-    "central-cinema": "https://central-cinema.com/movie/the-totally-halloween-sing-along/"
+    "central-cinema": "https://central-cinema.com/movie/the-texas-chainsaw-massacre-part-2/"
    }
   },
   {
@@ -2237,6 +2495,24 @@
    }
   },
   {
+   "id": "top-gun",
+   "title": "Top Gun",
+   "description": "CELEBRATING\n\n40th ANNIVERSARY\n\nThe Top Gun Naval Fighter Weapons School is where the best of the best train to refine their elite flying skills. When hotshot fighter pilot Maverick is sent to the school, his reckless attitude and cocky demeanor put him at odds with the other pilots, especially the cool and collected Iceman.",
+   "image": "https://static.spotapps.co/spots/64/7e70ec70e44092b717099bbbbbd9f6/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
+   }
+  },
+  {
+   "id": "totally-80-s-sing-along",
+   "title": "Totally 80's Sing Along",
+   "description": "Bust out your leg warmers and skinny ties! The TOTALLY 80'S SING ALONG returns to Central Cinema featuring favorite videos from the dawn of MTV and beyond. Prince, Madonna, Wham, Cyndi Lauper and tons more await! All subtitled for your sing along enjoyment. RADICOOL!",
+   "image": "https://indy-systems.imgix.net/s1mwiws0w32wg7d3p8e8pod451pk?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
+   "links": {
+    "central-cinema": "https://central-cinema.com/movie/totally-80s-sing-along/"
+   }
+  },
+  {
    "id": "train-to-busan",
    "title": "Train to Busan",
    "description": "Seok-woo is a workaholic dad who has trouble bonding with his young daughter Su-an. For her birthday, she wants to visit her mother in Busan. After seeing how he's been neglecting her feelings, he agrees and accompanies her on the train ride across the country.\n\nThen, the world falls apart.\n\nAnd Seok-woo transforms from an absent father to a devoted dad with one mission: to make sure his daughter survives.\n\nMet with worldwide acclaim, Train To Busan balances a cast of well-rounded characters with suspense and bursts of visceral action, all while weaving in social commentary for a refreshing take on the zombie genre.\n\nPresented in the original Korean language with English subtitles.",
@@ -2255,6 +2531,24 @@
    "image": "https://indy-systems.imgix.net/lxkyi3qur2rbnpjlzyqdm9i2dgei?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
    "links": {
     "central-cinema": "https://central-cinema.com/movie/cinemancy-train-to-busan/"
+   }
+  },
+  {
+   "id": "true-stories",
+   "title": "True Stories",
+   "description": "Music maestro David Byrne took inspiration from tabloid headlines to create the only film he's directed, an ode to the extraordinariness of ordinary American life. Byrne is also our on screen host, a visitor to the town of Virgil, Texas, who introduces us to the locals as they prepare for the town's 150th anniversary and the Celebration of Specialness. We meet a local singer who just wants to find his true love, a woman who can't seem to ever get out of bed, and a community leader who really enjoys veggies.\n\nUsing Talking Heads music to stich together the town's happenings, Byrne creates a loving tapestry of stories, showing his audience that everyday life always has interesting tales beneath the simple surface.",
+   "runtime": 89,
+   "year": 1986,
+   "director": "David Byrne",
+   "country": "United States",
+   "language": "English",
+   "genres": [
+    "Comedy",
+    "Music"
+   ],
+   "image": "https://indy-systems.imgix.net/agj2l8uat7t9k78rkmp37wkccorn?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
+   "links": {
+    "central-cinema": "https://central-cinema.com/movie/true-stories/"
    }
   },
   {
@@ -2307,20 +2601,6 @@
    }
   },
   {
-   "id": "wagon-master",
-   "title": "Wagon Master",
-   "description": "A picaresque road poem, Wagon Master remained a personal favorite of John Ford’s amongst his own pictures and one of three that “came closest to being what I wanted to achieve.” Nearly plotless with an emphasis on grace notes, this relaxed film charts the journey of two horse traders with a shared yen for adventure who are hired by Elder Wiggs (Ward Bond) to lead a Mormon wagon train through southeastern Utah. Along the way they encounter a theater troupe, sex workers, lawmen, Indigenous peoples, and ornery outlaws on the run, all of whom find themselves brought in as members of the traveling community through what Harvard Film Archive calls an “almost musical combination, separation and recombination.” Deceptively simple and elegant in construction, Ford shot this lyrical and visually rapturous film away from his usual commanding landscapes of Monument Valley, instead emphasizing the beauty of a multicultural motley crew of outcasts on the dusty trail.\n\n“Seldom has the western landscape seemed such a tangible emblem of hope and freedom. A masterpiece beyond question — but a masterpiece that never degenerates into pomposity or self-consciousness. It's American filmmaking at its finest and most eloquent.\" — Dave Kehr, Chicago Reader\n\n“Wagon Master is more poetry than drama…less interested in where it is going (plot), than in where it is (the moment). Still, obviously, it is a movie about passage, a ‘parade’ West. Only briefly is ‘home,’ the antithesis of passage, suggested.” — Tag Gallagher\n\n35mm print courtesy of Park Circus",
-   "runtime": 86,
-   "year": 1950,
-   "director": "John Ford",
-   "country": "USA",
-   "language": "English",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/The%20Open%20Road/wagonmaster.png",
-   "links": {
-    "siff-film-center": "https://www.siff.net/programs-and-events/the-open-road/wagon-master"
-   }
-  },
-  {
    "id": "whalefall",
    "title": "Whalefall",
    "description": "Following the death of his father (Josh Brolin), Jay Gardiner (Austin Abrams) goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
@@ -2339,17 +2619,26 @@
    }
   },
   {
-   "id": "what-the-river-knows",
-   "title": "What the River Knows",
-   "description": "Today, a lost Eden emerges from beneath Lake Powell, revealing both the consequences of past mistakes and the potential for a new path forward for the Colorado River. What The River Knows explores this pivotal moment, where the urgent need to rethink water management in the West aligns with an opportunity to restore a stunning landscape and flooded ancestral homeland. Amidst the grim discussions surrounding climate change and the Colorado River crisis, the film tells a powerful story of nature’s resilience: Glen Canyon is coming back to life.",
-   "runtime": 34,
-   "year": 2025,
-   "director": "Will Buckley and Diego Riley",
-   "country": "USA",
-   "language": "English",
-   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/REN_GlenCanyon_1600x900.png",
+   "id": "where-is-the-fiesta",
+   "title": "Where Is the Fiesta?",
+   "description": "Set in contemporary Rome, Where Is the Fiesta? follows Leo and Irene, a couple in their mid-thirties who, after three and a half months together, still have no idea where their relationship is heading. With New Year’s Eve just ten days away, they must decide whether to spend it together and take the next step toward making their relationship official. Leo is an aspiring actor from Fucecchio who juggles a string of odd jobs to make ends meet, while Irene is a screenwriter and screenwriting teacher torn between her feelings and her doubts about their future.",
+   "runtime": 102,
+   "year": 2026,
+   "director": "Niccolò Gentili",
+   "country": "Italy",
+   "language": "Italian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_Fiesta_1600x900.png",
    "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/glen-canyon-institutes-what-the-river-knows"
+    "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/where-is-the-fiesta"
+   }
+  },
+  {
+   "id": "white-fang",
+   "title": "White Fang",
+   "description": "CELEBRATING\n\n25th ANNIVERSARY\n\nEthan Hawke stars as a young man trying to fulfill his father's dying wish to find gold in the treacherous Yukon valley. His incredible Journey begins when he meets a veteran gold miner who guides young Jack to his father's claim. Along the way, Jack discovers a kindred spirit who will change his life forever a magnificent wolf-dog named White Fang. From the taming of a wolf, to the taming of the wild, he must find the courage to conquer his fears and become a man in this outdoor adventure.",
+   "image": "https://static.spotapps.co/spots/1f/cec952b951466d91e9652df1c5104f/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -2392,7 +2681,7 @@
    "id": "wildwood",
    "title": "Wildwood",
    "description": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel (Peyton Elizabeth Lee) launches a desperate rescue mission into the Impassable Wilderness—an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg (Jacob Tremblay), Prue navigates a world of talking animals, bandits, and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover the strength and belief she never knew she possessed. If she hopes to save her brother and protect Wildwood’s fragile future, she will have to risk everything. From Oscar®-nominated and BAFTA®-winning LAIKA, Wildwood is a sweeping adventure about love, sacrifice, and the magic that reveals itself when we dare to look beyond the familiar.",
-   "runtime": 132,
+   "runtime": 130,
    "year": 2026,
    "director": "Travis Knight",
    "country": "United States",
@@ -2422,6 +2711,15 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792627322150-tb-willsuccessspoil.png",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter"
+   }
+  },
+  {
+   "id": "willy-wonka-and-the-chocolate-factory",
+   "title": "Willy Wonka and the Chocolate Factory",
+   "description": "CELEBRATING\n\n55th ANNIVERSARY\n\nA poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory.",
+   "image": "https://static.spotapps.co/spots/a6/a725482b394b09b9faa9a9a8e6c431/w926",
+   "links": {
+    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -2519,225 +2817,6 @@
   }
  ],
  "showings": [
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-10-22T15:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17112/793"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-10-22T15:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36445?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-10-22T15:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36446?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-10-22T15:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36290?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-22T15:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-WYv85e0RT9"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-22T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17066/794"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-10-22T15:50:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17110/800"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-22T15:50:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17064/795"
-  },
-  {
-   "film": "naza",
-   "theater": "siff-uptown",
-   "start": "2026-10-22T16:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/naza",
-   "tickets": "https://www.siff.net/cinema/in-theaters/naza#screening-vZqvLmf8qs"
-  },
-  {
-   "film": "flying-embers-and-a-fortress",
-   "theater": "beacon",
-   "start": "2026-10-22T16:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/flying-embers-and-a-fortress",
-   "tickets": "https://thebeacon.film/calendar/movie/flying-embers-and-a-fortress?showtime=FHAHPVWFSBDYVK7DYKIOINMY"
-  },
-  {
-   "film": "devils",
-   "theater": "siff-uptown",
-   "start": "2026-10-22T16:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-Kgcjx2YI5y"
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-22T16:40:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-nfIGLiC025"
-  },
-  {
-   "film": "cartoon-happy-hour",
-   "theater": "central-cinema",
-   "start": "2026-10-22T17:00:00-07:00",
-   "url": "https://central-cinema.com/movie/cartoon-happy-hour/",
-   "tickets": "https://central-cinema.com/checkout/showing/cartoon-happy-hour/3918214",
-   "notes": [
-    "Free admission"
-   ]
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-22T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17067/794"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-10-22T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17113/793"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-10-22T18:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36447?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wildwood",
-   "theater": "admiral",
-   "start": "2026-10-22T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17109/797"
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-10-22T18:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36449?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-10-22T18:50:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17111/800"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-10-22T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36291?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "haunted-destination-new-film-from-local-filmmaker-taylor-gut",
-   "theater": "north-bend",
-   "start": "2026-10-22T19:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/haunted-destination-new-film-from-local-filmmaker-taylor-guterson-thursday-oct-22nd-7pm",
-   "tickets": "https://tix.northbendtheatre.com/event/haunted-destination-new-film-from-local-filmmaker-taylor-guterson-thursday-oct-22nd-7pm",
-   "notes": [
-    "Free"
-   ]
-  },
-  {
-   "film": "wagon-master",
-   "theater": "siff-film-center",
-   "start": "2026-10-22T19:00:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/the-open-road/wagon-master",
-   "tickets": "https://www.siff.net/programs-and-events/the-open-road/wagon-master#screening-eiuUYacfjY",
-   "notes": [
-    "The Open Road",
-    "35mm"
-   ]
-  },
-  {
-   "film": "what-the-river-knows",
-   "theater": "siff-uptown",
-   "start": "2026-10-22T19:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/glen-canyon-institutes-what-the-river-knows",
-   "tickets": "https://www.siff.net/cinema/in-theaters/glen-canyon-institutes-what-the-river-knows#screening-Ax9t1stHXm"
-  },
-  {
-   "film": "lost-boys",
-   "theater": "tin-room",
-   "start": "2026-10-22T19:00:00-07:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-22T19:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-xnlFM4csRC"
-  },
-  {
-   "film": "rider-of-the-skulls",
-   "theater": "beacon",
-   "start": "2026-10-22T19:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/rider-of-the-skulls",
-   "tickets": "https://thebeacon.film/calendar/movie/rider-of-the-skulls?showtime=X65LA63HTP6WDSZHGV7VBJSE"
-  },
-  {
-   "film": "case-of-the-three-sided-dream",
-   "theater": "nwff",
-   "start": "2026-10-22T19:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/the-case-of-the-three-sided-dream/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6abd1adb6ea537a71218d499"
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-22T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-h8awAPD6B9"
-  },
-  {
-   "film": "devils",
-   "theater": "siff-uptown",
-   "start": "2026-10-22T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-FbYL00q0ZO"
-  },
-  {
-   "film": "totally-halloween-sing-along",
-   "theater": "central-cinema",
-   "start": "2026-10-22T20:00:00-07:00",
-   "url": "https://central-cinema.com/movie/the-totally-halloween-sing-along/",
-   "tickets": "https://central-cinema.com/checkout/showing/the-totally-halloween-sing-along/3918213"
-  },
   {
    "film": "you-can-see-everything",
    "theater": "majestic-bay",
@@ -2992,11 +3071,8 @@
    "film": "a-serbian-film",
    "theater": "nwff",
    "start": "2026-10-23T20:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/trauma-bond-a-serbian-film-2026-extended-cut/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a91cced243059126b8bd418",
-   "notes": [
-    "2026 extended cut"
-   ]
+   "url": "https://nwfilmforum.org/films/trauma-bond-a-serbian-film/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6a91cced243059126b8bd418"
   },
   {
    "film": "seattle-polish-film-festival-erupcja",
@@ -3504,6 +3580,13 @@
    "start": "2026-10-24T22:05:00-07:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17171/800"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "tasveer",
+   "start": "2026-10-25T11:35:00-07:00",
+   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178091"
   },
   {
    "film": "your-mother-your-mother-your-mother",
@@ -5610,6 +5693,13 @@
    "tickets": "https://thebeacon.film/calendar/movie/artists-and-models?showtime=WQDVW6TXQPVGLN3KUW5LLINR"
   },
   {
+   "film": "open-arthouse-meet-the-staff",
+   "theater": "nwff",
+   "start": "2026-11-03T17:30:00-08:00",
+   "url": "https://nwfilmforum.org/events/open-arthouse-meet-the-nwff-staff/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ada622b409ca70932fe4c51"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-11-03T18:30:00-08:00",
@@ -5878,6 +5968,12 @@
    ]
   },
   {
+   "film": "a-i",
+   "theater": "tin-room",
+   "start": "2026-11-05T19:00:00-08:00",
+   "url": "https://tinroombar.com/events"
+  },
+  {
    "film": "cinema",
    "theater": "beacon",
    "start": "2026-11-05T19:30:00-08:00",
@@ -5910,6 +6006,13 @@
    "start": "2026-11-06T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36568?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "true-stories",
+   "theater": "central-cinema",
+   "start": "2026-11-06T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/true-stories/",
+   "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180374"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5949,6 +6052,13 @@
    "url": "https://thebeacon.film/calendar/movie/secs-fest-2026"
   },
   {
+   "film": "tampopo",
+   "theater": "central-cinema",
+   "start": "2026-11-06T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/tampopo/",
+   "tickets": "https://central-cinema.com/checkout/showing/tampopo/4180376"
+  },
+  {
    "film": "engauge-2026-expanded-cinema-performance-and-film",
    "theater": "nwff",
    "start": "2026-11-06T19:00:00-08:00",
@@ -5960,6 +6070,12 @@
    ]
   },
   {
+   "film": "rocky",
+   "theater": "tin-room",
+   "start": "2026-11-06T19:00:00-08:00",
+   "url": "https://tinroombar.com/events"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-06T19:30:00-08:00",
@@ -5967,10 +6083,24 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-qlSEYb7EAU"
   },
   {
+   "film": "true-stories",
+   "theater": "central-cinema",
+   "start": "2026-11-06T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/true-stories/",
+   "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180375"
+  },
+  {
    "film": "secs-fest-2026",
    "theater": "beacon",
    "start": "2026-11-06T22:00:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/secs-fest-2026"
+  },
+  {
+   "film": "stffshorts-narrative-selection-1",
+   "theater": "siff-uptown",
+   "start": "2026-11-07T11:45:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/stffshorts-narrative-selection-1",
+   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/stffshorts-narrative-selection-1#screening-Ov7j9te4jU"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5987,6 +6117,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-HHrlhNC0HR"
   },
   {
+   "film": "stffshorts-narrative-selection-2",
+   "theater": "siff-uptown",
+   "start": "2026-11-07T13:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/stffshorts-narrative-selection-2",
+   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/stffshorts-narrative-selection-2#screening-54M4NqgWDK"
+  },
+  {
    "film": "promised-land",
    "theater": "siff-film-center",
    "start": "2026-11-07T14:00:00-08:00",
@@ -5995,6 +6132,12 @@
    "notes": [
     "The Films of Andrzej Wajda"
    ]
+  },
+  {
+   "film": "harry-potter",
+   "theater": "tin-room",
+   "start": "2026-11-07T14:00:00-08:00",
+   "url": "https://tinroombar.com/events"
   },
   {
    "film": "secs-fest-2026",
@@ -6028,6 +6171,20 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ad50da1b3e7c982205157b4"
   },
   {
+   "film": "seattle-turkish-film-festival-sevda",
+   "theater": "siff-uptown",
+   "start": "2026-11-07T15:45:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/sevda",
+   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/sevda#screening-XsT0S2O6g6"
+  },
+  {
+   "film": "true-stories",
+   "theater": "central-cinema",
+   "start": "2026-11-07T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/true-stories/",
+   "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180377"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-07T16:00:00-08:00",
@@ -6046,6 +6203,13 @@
    ]
   },
   {
+   "film": "seattle-turkish-film-festival-yellow-letters-gala-film-party",
+   "theater": "siff-uptown",
+   "start": "2026-11-07T18:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/seattle-turkish-film-festival-gala-film-party",
+   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/seattle-turkish-film-festival-gala-film-party#screening-NKCpg9ySJF"
+  },
+  {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
    "theater": "nwff",
    "start": "2026-11-07T18:30:00-08:00",
@@ -6058,6 +6222,19 @@
    "start": "2026-11-07T18:45:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36529?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "tampopo",
+   "theater": "central-cinema",
+   "start": "2026-11-07T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/tampopo/",
+   "tickets": "https://central-cinema.com/checkout/showing/tampopo/4180379"
+  },
+  {
+   "film": "top-gun",
+   "theater": "tin-room",
+   "start": "2026-11-07T19:00:00-08:00",
+   "url": "https://tinroombar.com/events"
   },
   {
    "film": "engauge-2026-rankin-renwick-solo-show",
@@ -6084,6 +6261,13 @@
    "url": "https://thebeacon.film/calendar/movie/secs-fest-2026"
   },
   {
+   "film": "true-stories",
+   "theater": "central-cinema",
+   "start": "2026-11-07T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/true-stories/",
+   "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180378"
+  },
+  {
    "film": "secs-fest-2026",
    "theater": "beacon",
    "start": "2026-11-07T22:00:00-08:00",
@@ -6097,11 +6281,25 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-Ww7cJ7t3EZ"
   },
   {
+   "film": "stffshorts-documentary-selection",
+   "theater": "siff-uptown",
+   "start": "2026-11-08T11:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/stffshorts-documentary-selection",
+   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/stffshorts-documentary-selection#screening-LVAGRetvf4"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "majestic-bay",
    "start": "2026-11-08T12:00:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36615?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "seattle-turkish-film-festival-dump-of-untitled-pieces",
+   "theater": "siff-uptown",
+   "start": "2026-11-08T13:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/seattle-turkish-film-festival-dump-of-untitled-pieces",
+   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/seattle-turkish-film-festival-dump-of-untitled-pieces#screening-rYqysTWG5I"
   },
   {
    "film": "secs-fest-2026",
@@ -6148,10 +6346,24 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ad50da1b3e7c982205157b9"
   },
   {
+   "film": "seattle-turkish-film-festival-those-who-whistle-after-dark",
+   "theater": "siff-uptown",
+   "start": "2026-11-08T15:45:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/seattle-turkish-film-festival-those-who-whistle-after-dark",
+   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/seattle-turkish-film-festival-those-who-whistle-after-dark#screening-SdfTbvHldu"
+  },
+  {
    "film": "secs-fest-2026",
    "theater": "beacon",
    "start": "2026-11-08T16:00:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/secs-fest-2026"
+  },
+  {
+   "film": "true-stories",
+   "theater": "central-cinema",
+   "start": "2026-11-08T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/true-stories/",
+   "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180380"
   },
   {
    "film": "5point-film-fest-2026",
@@ -6170,6 +6382,12 @@
    "start": "2026-11-08T18:00:00-08:00",
    "url": "https://www.siff.net/festival/salvation",
    "tickets": "https://www.siff.net/festival/salvation#screening-C6r9m7olTc"
+  },
+  {
+   "film": "white-fang",
+   "theater": "tin-room",
+   "start": "2026-11-08T18:00:00-08:00",
+   "url": "https://tinroombar.com/events"
   },
   {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
@@ -6193,11 +6411,32 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36617?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "tampopo",
+   "theater": "central-cinema",
+   "start": "2026-11-08T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/tampopo/",
+   "tickets": "https://central-cinema.com/checkout/showing/tampopo/4180382"
+  },
+  {
+   "film": "true-stories",
+   "theater": "central-cinema",
+   "start": "2026-11-08T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/true-stories/",
+   "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180381"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "majestic-bay",
    "start": "2026-11-09T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36625?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "true-stories",
+   "theater": "central-cinema",
+   "start": "2026-11-09T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/true-stories/",
+   "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180383"
   },
   {
    "film": "godzilla-minus-zero",
@@ -6238,11 +6477,25 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-H0ZjEk1mmm"
   },
   {
+   "film": "true-stories",
+   "theater": "central-cinema",
+   "start": "2026-11-09T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/true-stories/",
+   "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180384"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "majestic-bay",
    "start": "2026-11-10T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36630?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "true-stories",
+   "theater": "central-cinema",
+   "start": "2026-11-10T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/true-stories/",
+   "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180385"
   },
   {
    "film": "godzilla-minus-zero",
@@ -6257,6 +6510,13 @@
    "start": "2026-11-10T18:45:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36631?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "tampopo",
+   "theater": "central-cinema",
+   "start": "2026-11-10T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/tampopo/",
+   "tickets": "https://central-cinema.com/checkout/showing/tampopo/4180387"
   },
   {
    "film": "vagabond",
@@ -6284,6 +6544,13 @@
    ]
   },
   {
+   "film": "true-stories",
+   "theater": "central-cinema",
+   "start": "2026-11-10T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/true-stories/",
+   "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180386"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "majestic-bay",
    "start": "2026-11-11T12:00:00-08:00",
@@ -6298,6 +6565,13 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36552?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "true-stories",
+   "theater": "central-cinema",
+   "start": "2026-11-11T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/true-stories/",
+   "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180388"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-11T16:00:00-08:00",
@@ -6310,6 +6584,13 @@
    "start": "2026-11-11T18:30:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36555?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "tampopo",
+   "theater": "central-cinema",
+   "start": "2026-11-11T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/tampopo/",
+   "tickets": "https://central-cinema.com/checkout/showing/tampopo/4180390"
   },
   {
    "film": "star-trek-ii-the-wrath-of-khan",
@@ -6336,11 +6617,28 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-bqL9IPieS1"
   },
   {
+   "film": "true-stories",
+   "theater": "central-cinema",
+   "start": "2026-11-11T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/true-stories/",
+   "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180389"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-12T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-x1b25pJySe"
+  },
+  {
+   "film": "cartoon-happy-hour",
+   "theater": "central-cinema",
+   "start": "2026-11-12T17:00:00-08:00",
+   "url": "https://central-cinema.com/movie/cartoon-happy-hour/",
+   "tickets": "https://central-cinema.com/checkout/showing/cartoon-happy-hour/4180391",
+   "notes": [
+    "Free admission"
+   ]
   },
   {
    "film": "parallax-view",
@@ -6361,6 +6659,12 @@
    ]
   },
   {
+   "film": "don-t-tell-mom-the-babysitter-is-dead",
+   "theater": "tin-room",
+   "start": "2026-11-12T19:00:00-08:00",
+   "url": "https://tinroombar.com/events"
+  },
+  {
    "film": "zi",
    "theater": "nwff",
    "start": "2026-11-12T19:30:00-08:00",
@@ -6373,6 +6677,24 @@
    "start": "2026-11-12T19:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-dNVNyIrVkI"
+  },
+  {
+   "film": "texas-chainsaw-massacre-part-2",
+   "theater": "central-cinema",
+   "start": "2026-11-12T20:00:00-08:00",
+   "url": "https://central-cinema.com/movie/the-texas-chainsaw-massacre-part-2/",
+   "tickets": "https://central-cinema.com/checkout/showing/the-texas-chainsaw-massacre-part-2/4180706"
+  },
+  {
+   "film": "my-neighbor-totoro",
+   "theater": "central-cinema",
+   "start": "2026-11-13T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/my-neighbor-totoro/",
+   "tickets": "https://central-cinema.com/checkout/showing/my-neighbor-totoro/4180745",
+   "notes": [
+    "Family",
+    "Dubbed"
+   ]
   },
   {
    "film": "zi",
@@ -6399,11 +6721,35 @@
    "tickets": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter?showtime=R7EMWNR4FCLO5JLZOGILHMGX"
   },
   {
+   "film": "my-neighbor-totoro",
+   "theater": "central-cinema",
+   "start": "2026-11-13T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/my-neighbor-totoro/",
+   "tickets": "https://central-cinema.com/checkout/showing/my-neighbor-totoro/4180746",
+   "notes": [
+    "Family",
+    "Dubbed"
+   ]
+  },
+  {
    "film": "romanian-film-festival-seattle-3-days-in-september",
    "theater": "siff-uptown",
    "start": "2026-11-13T19:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/3-days-in-september",
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/3-days-in-september#screening-6waCfIUvnw"
+  },
+  {
+   "film": "taxi-driver",
+   "theater": "tin-room",
+   "start": "2026-11-13T19:00:00-08:00",
+   "url": "https://tinroombar.com/events"
+  },
+  {
+   "film": "delicatessen",
+   "theater": "central-cinema",
+   "start": "2026-11-13T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/delicatessen/",
+   "tickets": "https://central-cinema.com/checkout/showing/delicatessen/4180747"
   },
   {
    "film": "romanian-film-festival-seattle-the-last-transhumance",
@@ -6430,6 +6776,12 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/kontinental-25#screening-mNIKu9HDPg"
   },
   {
+   "film": "willy-wonka-and-the-chocolate-factory",
+   "theater": "tin-room",
+   "start": "2026-11-14T14:00:00-08:00",
+   "url": "https://tinroombar.com/events"
+  },
+  {
    "film": "powwow-people",
    "theater": "siff-film-center",
    "start": "2026-11-14T15:00:00-08:00",
@@ -6437,6 +6789,17 @@
    "tickets": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/powwow-people#screening-9VQiPenW3C",
    "notes": [
     "PNW Awards"
+   ]
+  },
+  {
+   "film": "my-neighbor-totoro",
+   "theater": "central-cinema",
+   "start": "2026-11-14T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/my-neighbor-totoro/",
+   "tickets": "https://central-cinema.com/checkout/showing/my-neighbor-totoro/4180748",
+   "notes": [
+    "Family",
+    "Dubbed"
    ]
   },
   {
@@ -6457,11 +6820,35 @@
    ]
   },
   {
+   "film": "my-neighbor-totoro",
+   "theater": "central-cinema",
+   "start": "2026-11-14T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/my-neighbor-totoro/",
+   "tickets": "https://central-cinema.com/checkout/showing/my-neighbor-totoro/4180749",
+   "notes": [
+    "Family",
+    "Dubbed"
+   ]
+  },
+  {
+   "film": "fargo",
+   "theater": "tin-room",
+   "start": "2026-11-14T19:00:00-08:00",
+   "url": "https://tinroombar.com/events"
+  },
+  {
    "film": "romanian-film-festival-seattle-r-m-n",
    "theater": "siff-uptown",
    "start": "2026-11-14T19:05:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/rmn",
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/rmn#screening-xXdK9xZgvT"
+  },
+  {
+   "film": "delicatessen",
+   "theater": "central-cinema",
+   "start": "2026-11-14T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/delicatessen/",
+   "tickets": "https://central-cinema.com/checkout/showing/delicatessen/4180750"
   },
   {
    "film": "auntie-mame",
@@ -6488,6 +6875,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/the-yellow-tie#screening-OWv7ividw0"
   },
   {
+   "film": "strange-love-of-martha-ivers",
+   "theater": "beacon",
+   "start": "2026-11-15T14:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/the-strange-love-of-martha-ivers",
+   "tickets": "https://thebeacon.film/calendar/movie/the-strange-love-of-martha-ivers?showtime=25THBWWJ3JBGSLHT2WBYKMUX"
+  },
+  {
    "film": "joyless-economy",
    "theater": "siff-film-center",
    "start": "2026-11-15T15:00:00-08:00",
@@ -6503,6 +6897,17 @@
    "start": "2026-11-15T15:40:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/blindsight",
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/blindsight#screening-VKB5VGSO4y"
+  },
+  {
+   "film": "my-neighbor-totoro",
+   "theater": "central-cinema",
+   "start": "2026-11-15T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/my-neighbor-totoro/",
+   "tickets": "https://central-cinema.com/checkout/showing/my-neighbor-totoro/4180751",
+   "notes": [
+    "Family",
+    "Dubbed"
+   ]
   },
   {
    "film": "zi",
@@ -6536,11 +6941,28 @@
    ]
   },
   {
+   "film": "maltese-falcon",
+   "theater": "tin-room",
+   "start": "2026-11-15T18:00:00-08:00",
+   "url": "https://tinroombar.com/events"
+  },
+  {
    "film": "romanian-film-festival-seattle-the-wall",
    "theater": "siff-uptown",
    "start": "2026-11-15T18:05:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/the-wall",
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/the-wall#screening-1VfhI8xVBf"
+  },
+  {
+   "film": "my-neighbor-totoro",
+   "theater": "central-cinema",
+   "start": "2026-11-15T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/my-neighbor-totoro/",
+   "tickets": "https://central-cinema.com/checkout/showing/my-neighbor-totoro/4180752",
+   "notes": [
+    "Family",
+    "Dubbed"
+   ]
   },
   {
    "film": "zi",
@@ -6555,6 +6977,42 @@
    "start": "2026-11-15T19:30:00-08:00",
    "url": "https://nwfilmforum.org/films/you-sorta-know-its-gonna-end/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ac6b00009c0a7948b2a12c0"
+  },
+  {
+   "film": "delicatessen",
+   "theater": "central-cinema",
+   "start": "2026-11-15T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/delicatessen/",
+   "tickets": "https://central-cinema.com/checkout/showing/delicatessen/4180753"
+  },
+  {
+   "film": "my-neighbor-totoro",
+   "theater": "central-cinema",
+   "start": "2026-11-16T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/my-neighbor-totoro/",
+   "tickets": "https://central-cinema.com/checkout/showing/my-neighbor-totoro/4180754",
+   "notes": [
+    "Family",
+    "Dubbed"
+   ]
+  },
+  {
+   "film": "strange-love-of-martha-ivers",
+   "theater": "beacon",
+   "start": "2026-11-16T17:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/the-strange-love-of-martha-ivers",
+   "tickets": "https://thebeacon.film/calendar/movie/the-strange-love-of-martha-ivers?showtime=HBPUUN5HQYB7UNOJRHXRMBGX"
+  },
+  {
+   "film": "my-neighbor-totoro",
+   "theater": "central-cinema",
+   "start": "2026-11-16T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/my-neighbor-totoro/",
+   "tickets": "https://central-cinema.com/checkout/showing/my-neighbor-totoro/4180755",
+   "notes": [
+    "Family",
+    "Dubbed"
+   ]
   },
   {
    "film": "zi",
@@ -6582,11 +7040,47 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ac6b00009c0a7948b2a12c5"
   },
   {
+   "film": "delicatessen",
+   "theater": "central-cinema",
+   "start": "2026-11-16T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/delicatessen/",
+   "tickets": "https://central-cinema.com/checkout/showing/delicatessen/4180756"
+  },
+  {
+   "film": "my-neighbor-totoro",
+   "theater": "central-cinema",
+   "start": "2026-11-17T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/my-neighbor-totoro/",
+   "tickets": "https://central-cinema.com/checkout/showing/my-neighbor-totoro/4180757",
+   "notes": [
+    "Family",
+    "Dubbed"
+   ]
+  },
+  {
    "film": "will-success-spoil-rock-hunter",
    "theater": "beacon",
    "start": "2026-11-17T16:30:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter",
    "tickets": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter?showtime=W3GOF7BA3ERTC5V4EQOZSNYV"
+  },
+  {
+   "film": "my-neighbor-totoro",
+   "theater": "central-cinema",
+   "start": "2026-11-17T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/my-neighbor-totoro/",
+   "tickets": "https://central-cinema.com/checkout/showing/my-neighbor-totoro/4180758",
+   "notes": [
+    "Family",
+    "Dubbed"
+   ]
+  },
+  {
+   "film": "her-song",
+   "theater": "siff-film-center",
+   "start": "2026-11-17T19:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/her-song",
+   "tickets": "https://www.siff.net/cinema/in-theaters/her-song#screening-qo7oW3dLqN"
   },
   {
    "film": "my-night-at-maud-s",
@@ -6596,6 +7090,24 @@
    "tickets": "https://www.siff.net/programs-and-events/nouvelles-femmes/my-night-at-mauds#screening-iFjuR2vZHl",
    "notes": [
     "Nouvelles Femmes"
+   ]
+  },
+  {
+   "film": "delicatessen",
+   "theater": "central-cinema",
+   "start": "2026-11-17T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/delicatessen/",
+   "tickets": "https://central-cinema.com/checkout/showing/delicatessen/4180759"
+  },
+  {
+   "film": "my-neighbor-totoro",
+   "theater": "central-cinema",
+   "start": "2026-11-18T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/my-neighbor-totoro/",
+   "tickets": "https://central-cinema.com/checkout/showing/my-neighbor-totoro/4180760",
+   "notes": [
+    "Family",
+    "Dubbed"
    ]
   },
   {
@@ -6626,6 +7138,13 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6a32c5ad11dbb2888ebeb669"
   },
   {
+   "film": "breathless",
+   "theater": "beacon",
+   "start": "2026-11-18T19:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/breathless",
+   "tickets": "https://thebeacon.film/calendar/movie/breathless?showtime=PUN3TJ3QFT23Z7KUG44JFWGJ"
+  },
+  {
    "film": "zi",
    "theater": "nwff",
    "start": "2026-11-18T19:30:00-08:00",
@@ -6638,6 +7157,16 @@
    "start": "2026-11-19T16:30:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter",
    "tickets": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter?showtime=B2BDYP63YVPTJ64CMBR7UREM"
+  },
+  {
+   "film": "cartoon-happy-hour",
+   "theater": "central-cinema",
+   "start": "2026-11-19T17:00:00-08:00",
+   "url": "https://central-cinema.com/movie/cartoon-happy-hour/",
+   "tickets": "https://central-cinema.com/checkout/showing/cartoon-happy-hour/4180280",
+   "notes": [
+    "Free admission"
+   ]
   },
   {
    "film": "elisa",
@@ -6666,6 +7195,20 @@
     "The Open Road",
     "35mm"
    ]
+  },
+  {
+   "film": "breathless",
+   "theater": "beacon",
+   "start": "2026-11-19T19:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/breathless",
+   "tickets": "https://thebeacon.film/calendar/movie/breathless?showtime=XRDLUAOPGGGKXQ7NRBTKB2P5"
+  },
+  {
+   "film": "totally-80-s-sing-along",
+   "theater": "central-cinema",
+   "start": "2026-11-19T20:00:00-08:00",
+   "url": "https://central-cinema.com/movie/totally-80s-sing-along/",
+   "tickets": "https://central-cinema.com/checkout/showing/totally-80s-sing-along/4180281"
   },
   {
    "film": "a-year-of-school",
@@ -6725,11 +7268,11 @@
    ]
   },
   {
-   "film": "spiral",
+   "film": "where-is-the-fiesta",
    "theater": "siff-uptown",
    "start": "2026-11-21T15:00:00-08:00",
-   "url": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/the-spiral",
-   "tickets": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/the-spiral#screening-RDtXB9Ah9M",
+   "url": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/where-is-the-fiesta",
+   "tickets": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/where-is-the-fiesta#screening-LFLn76LNh7",
    "notes": [
     "Cinema Italian Style 2026"
    ]
@@ -6796,6 +7339,13 @@
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/14369/451"
   },
   {
+   "film": "pretty-poison",
+   "theater": "beacon",
+   "start": "2026-11-21T22:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/pretty-poison",
+   "tickets": "https://thebeacon.film/calendar/movie/pretty-poison?showtime=IL4XBKYIQBRFWITVN3FPC35N"
+  },
+  {
    "film": "route-one-usa",
    "theater": "siff-film-center",
    "start": "2026-11-22T12:30:00-08:00",
@@ -6814,6 +7364,19 @@
    "notes": [
     "Cinema Italian Style 2026"
    ]
+  },
+  {
+   "film": "clash-by-night",
+   "theater": "beacon",
+   "start": "2026-11-22T14:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/clash-by-ight",
+   "tickets": "https://thebeacon.film/calendar/movie/clash-by-ight?showtime=4KQCCD3NY5TKSMXLWAMIPB2D"
+  },
+  {
+   "film": "rent-live-on-broadway",
+   "theater": "tin-room",
+   "start": "2026-11-22T14:00:00-08:00",
+   "url": "https://tinroombar.com/events"
   },
   {
    "film": "actually-it-is-rocket-science",
@@ -6882,6 +7445,13 @@
    ]
   },
   {
+   "film": "clash-by-night",
+   "theater": "beacon",
+   "start": "2026-11-23T16:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/clash-by-ight",
+   "tickets": "https://thebeacon.film/calendar/movie/clash-by-ight?showtime=LMP5D6AIYW7XI55EUIJMUFUH"
+  },
+  {
    "film": "my-brother-s-wedding",
    "theater": "nwff",
    "start": "2026-11-23T19:00:00-08:00",
@@ -6912,6 +7482,13 @@
    ]
   },
   {
+   "film": "buffalo-66",
+   "theater": "beacon",
+   "start": "2026-11-24T19:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/buffalo-66",
+   "tickets": "https://thebeacon.film/calendar/movie/buffalo-66?showtime=6H2EQBEXZNS7XZLAF6G3E5NH"
+  },
+  {
    "film": "beware-the-devil-s-wrath-special-screening",
    "theater": "siff-film-center",
    "start": "2026-11-24T19:30:00-08:00",
@@ -6920,6 +7497,19 @@
    "notes": [
     "Q&A"
    ]
+  },
+  {
+   "film": "buffalo-66",
+   "theater": "beacon",
+   "start": "2026-11-25T16:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/buffalo-66",
+   "tickets": "https://thebeacon.film/calendar/movie/buffalo-66?showtime=UC6ARO5YSQHSOCWDDQMITKDR"
+  },
+  {
+   "film": "planes-trains-and-automobiles",
+   "theater": "tin-room",
+   "start": "2026-11-25T18:00:00-08:00",
+   "url": "https://tinroombar.com/events"
   },
   {
    "film": "star-trek-iv-the-voyage-home",
@@ -6947,6 +7537,19 @@
    "start": "2026-11-25T19:30:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/blood-rage",
    "tickets": "https://thebeacon.film/calendar/movie/blood-rage?showtime=T3FSJOVXESFKLUDCIC3ZCXTX"
+  },
+  {
+   "film": "five-minutes-to-live",
+   "theater": "beacon",
+   "start": "2026-11-27T19:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/five-minutes-to-live",
+   "tickets": "https://thebeacon.film/calendar/movie/five-minutes-to-live?showtime=BIZZ2DWFWQCWSZC2RMIXIZCS"
+  },
+  {
+   "film": "home-for-the-holidays",
+   "theater": "tin-room",
+   "start": "2026-11-27T19:00:00-08:00",
+   "url": "https://tinroombar.com/events"
   }
  ]
 }
