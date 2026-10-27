@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T12:17:00-07:00",
+ "updated": "2026-10-27T11:41:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-26T12:17:00-07:00",
-    "lastSuccess": "2026-10-26T12:17:00-07:00",
-    "showings": 40,
+    "checked": "2026-10-27T11:41:00-07:00",
+    "lastSuccess": "2026-10-27T11:41:00-07:00",
+    "showings": 38,
     "through": "2026-11-15"
    }
   },
@@ -33,9 +33,9 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-26T12:17:00-07:00",
-    "lastSuccess": "2026-10-26T12:17:00-07:00",
-    "showings": 99,
+    "checked": "2026-10-27T11:41:00-07:00",
+    "lastSuccess": "2026-10-27T11:41:00-07:00",
+    "showings": 124,
     "through": "2026-11-22"
    }
   },
@@ -52,8 +52,8 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-26T12:17:00-07:00",
-    "lastSuccess": "2026-10-26T12:17:00-07:00",
+    "checked": "2026-10-27T11:41:00-07:00",
+    "lastSuccess": "2026-10-27T11:41:00-07:00",
     "showings": 24,
     "through": "2026-11-29"
    }
@@ -70,10 +70,10 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-26T12:17:00-07:00",
-    "lastSuccess": "2026-10-26T12:17:00-07:00",
-    "showings": 5,
-    "through": "2026-11-04"
+    "checked": "2026-10-27T11:41:00-07:00",
+    "lastSuccess": "2026-10-27T11:41:00-07:00",
+    "showings": 6,
+    "through": "2026-11-15"
    }
   },
   {
@@ -88,10 +88,10 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-26T12:17:00-07:00",
-    "lastSuccess": "2026-10-26T12:17:00-07:00",
+    "checked": "2026-10-27T11:41:00-07:00",
+    "lastSuccess": "2026-10-27T11:41:00-07:00",
     "showings": 68,
-    "through": "2026-11-30"
+    "through": "2026-12-01"
    }
   },
   {
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-26T12:17:00-07:00",
-    "lastSuccess": "2026-10-26T12:17:00-07:00",
-    "showings": 65,
+    "checked": "2026-10-27T11:41:00-07:00",
+    "lastSuccess": "2026-10-27T11:41:00-07:00",
+    "showings": 62,
     "through": "2026-11-19"
    }
   },
@@ -126,10 +126,10 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-26T12:17:00-07:00",
-    "lastSuccess": "2026-10-26T12:17:00-07:00",
-    "showings": 47,
-    "through": "2026-11-30"
+    "checked": "2026-10-27T11:41:00-07:00",
+    "lastSuccess": "2026-10-27T11:41:00-07:00",
+    "showings": 46,
+    "through": "2026-12-01"
    }
   },
   {
@@ -145,9 +145,9 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-26T12:17:00-07:00",
-    "lastSuccess": "2026-10-26T12:17:00-07:00",
-    "showings": 30,
+    "checked": "2026-10-27T11:41:00-07:00",
+    "lastSuccess": "2026-10-27T11:41:00-07:00",
+    "showings": 25,
     "through": "2026-11-05"
    }
   },
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-26T12:17:00-07:00",
-    "lastSuccess": "2026-10-26T12:17:00-07:00",
-    "showings": 85,
+    "checked": "2026-10-27T11:41:00-07:00",
+    "lastSuccess": "2026-10-27T11:41:00-07:00",
+    "showings": 79,
     "through": "2026-11-25"
    }
   },
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-26T12:17:00-07:00",
-    "lastSuccess": "2026-10-26T12:17:00-07:00",
-    "showings": 34,
+    "checked": "2026-10-27T11:41:00-07:00",
+    "lastSuccess": "2026-10-27T11:41:00-07:00",
+    "showings": 26,
     "through": "2026-11-21"
    }
   },
@@ -201,8 +201,8 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-26T12:17:00-07:00",
-    "lastSuccess": "2026-10-26T12:17:00-07:00",
+    "checked": "2026-10-27T11:41:00-07:00",
+    "lastSuccess": "2026-10-27T11:41:00-07:00",
     "showings": 17,
     "through": "2026-11-27"
    }
@@ -220,8 +220,8 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-26T12:17:00-07:00",
-    "lastSuccess": "2026-10-26T12:17:00-07:00",
+    "checked": "2026-10-27T11:41:00-07:00",
+    "lastSuccess": "2026-10-27T11:41:00-07:00",
     "showings": 11,
     "through": "2026-11-29"
    }
@@ -802,6 +802,22 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/foragers1600-1-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/palestine-cinema-days-2026-foragers/"
+   }
+  },
+  {
+   "id": "four-by-jean-vigo",
+   "title": "Four by Jean Vigo",
+   "description": "Veronica Project Space is pleased to present the complete filmography of the inimitable Jean Vigo.\n\nIn his brief 29 years, Vigo established a cinema of poetic realism fusing humanistic stories with surreal sequences that ooze of craft. While divisive in his time, Vigo’s work gained a resurgence of interest through posthumous praise from critics, including his daughter Luce, that deeply influenced the French New Wave movement.\n\nThe four films in this presentation (a mix of documentary and narrative) are warm and surprisingly innovative offerings to the art of cinema that remain timelessly impactful to audiences and filmmakers nearly a century onward.\n\nFriday, November 13, 2026, 7pm\n\n165 min.\n\nFree admission for this program.\n\nImages, films, and individual synopses provided by Janus Films.",
+   "runtime": 165,
+   "director": "Jean Vigo",
+   "country": "France",
+   "language": "French",
+   "genres": [
+    "Shorts"
+   ],
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/jeanvigo1600-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/veronica-project-space-presents-four-by-jean-vigo/"
    }
   },
   {
@@ -1642,6 +1658,33 @@
    }
   },
   {
+   "id": "shaolin-soccer",
+   "title": "Shaolin Soccer",
+   "description": "25th anniversary screening of Stephen Chow's wildly entertaining martial arts sports action comedy!\n\nHong Kong screen legend Stephen Chow directs and co-stars in this high-octane, cult-favorite genre mashup, in which a down-and-out footballer joins forces with an idealistic kung fu master in hopes of leading their ragtag team of Shaolin monks to victory on the pitch.\n\nSpecial live intro from local Hong Kong genre film connoisseur and one of the programmers of the Seattle Film Society, Patrick McFarland.",
+   "runtime": 112,
+   "year": 2001,
+   "director": "Stephen Chow",
+   "language": "Cantonese",
+   "image": "https://grandillusioncinema.org/wp-content/uploads/2026/10/shaolinsoccerposter.jpg",
+   "links": {
+    "grand-illusion": "https://grandillusioncinema.org/film/shaolin-soccer/"
+   }
+  },
+  {
+   "id": "short-film-nominee-showcase",
+   "title": "Short Film Nominee Showcase",
+   "description": "Each year, the Seattle Film Critics Society (SFCS) honors Pacific Northwest filmmaking as part of their annual awards. A selection committee carefully considered dozens of short films released this year whose primary production took place in the Pacific Northwest and selected five as initial nominees for this year’s Best Pacific Northwest Short Film award.",
+   "runtime": 86,
+   "year": 2026,
+   "director": "Various",
+   "country": "USA",
+   "language": "English",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/SFCS%202026/CIN_SFCS26_Shorts_1600x900.png",
+   "links": {
+    "siff-film-center": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/short-film-nominee-showcase"
+   }
+  },
+  {
    "id": "spookies",
    "title": "Spookies",
    "description": "“A surreal blitz of ooze, slime, hoboes, failed birthday parties, Grim Reapers, explosions, zombies, people jumping through walls, and a guy with his own face silkscreened on his shirt.” — Joseph A. Ziemba, BLEEDING SKULL!\n\nAfter taking shelter in a spooky old mansion, a group of travelers discover a ouija board and decide to spend the night. But they soon learn that playing with the forces of black magic isn't fun and games, and it's not long before they're battling demonic creatures, shape shifters, and other forms of evil! Of all of the bizarre horror films made in the 1980s, SPOOKIES easily ranks among the weirdest. The film became a fan favorite thanks to its expertly rendered creature effects and notorious for its bizarre production history in which its original creators were fired and replaced by Eugenie Joseph, who added new scenes and re-edited the previously shot footage. Newly restored in 4K from its long lost original negative, SPOOKIES has never looked better.",
@@ -1920,20 +1963,6 @@
    }
   },
   {
-   "id": "daytrippers",
-   "title": "The Daytrippers",
-   "description": "With its droll humor and bittersweet emotional heft, the feature debut of writer-director Greg Mottola announced the arrival of an unassumingly sharp-witted new talent on the 1990s indie film scene. When she discovers a love letter written to her husband (Stanley Tucci) by an unknown paramour, the distraught Eliza (Hope Davis) turns to her tight-knit Long Island family for advice. Soon the entire clan—strong-willed mom (Anne Meara), taciturn dad (Pat McNamara), and jaded sister (Parker Posey) with pretentious boyfriend (Liev Schreiber) in tow—has squeezed into a station wagon and headed into Manhattan to find out the truth, kicking off a one-crazy-day odyssey full of unexpected detours and life-changing revelations. Performed with deadpan virtuosity by a top-flight ensemble cast, The Daytrippers is a wry and piercing look at family bonds stretched to the breaking point.\n\nScreening as a part of our quarterly Staff Selects series! This film was chosen and presented by Camille Hermida-Fuentes, our Director of Operations!",
-   "runtime": 87,
-   "year": 1996,
-   "director": "Greg Mottola",
-   "country": "Canada",
-   "language": "English",
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/08/daytrippers1600-3-1200x675.jpg",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/staff-selects-the-daytrippers/"
-   }
-  },
-  {
    "id": "devils",
    "title": "The Devils",
    "description": "An enduring masterpiece of cinema starring Oliver Reed and Vanessa Redgrave, KEN RUSSELL’S THE DEVILS is a prescient epic of obsession and corruption –and a defining work of art from seminal filmmaker Ken Russell. KEN RUSSELL’S THE DEVILS is the uncut and unfiltered theatrical experience that Russell always envisioned – and the first time the film will be presented restored and in 4K.",
@@ -1989,6 +2018,20 @@
    "image": "https://indy-systems.imgix.net/12bu7l426m9mrdgdt2ilnfhg9pu5?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress&cs=origin",
    "links": {
     "tasveer": "https://filmcenter.tasveer.org/movie/the-gymnasts-of-fisherman-colony"
+   }
+  },
+  {
+   "id": "heart-of-the-game",
+   "title": "The Heart of the Game",
+   "description": "“Sink your teeth in their necks! Draw blood!” is the rallying cry of a Seattle girls' basketball team. Imagining themselves as a pack of wolves, the girls tear into opposing teams and stand together as warriors both on and off the court. Eccentric tax professor turned high school basketball coach, Bill Resler, and star player Darnellia Russell, team up to fight the powers that would hold young women back. Narrated by Ludacris.\n\n“Serrill's disciplined, beautifully constructed film is so propulsive, so spiritually triumphant, it's absolutely one of the best sports docs ever.” —Mike Russell, Oregonian\n\n“There's no denying the exuberant energy and emotional force of this movie. It gets to you.” —Peter Travers, Rolling Stone\n\n“This film should be required viewing for all teachers, coaches, and school-age kids.”\n—Claudia Puig, USA Today\n\n“An Oscar level piece of work.\" —Ebert & Roper",
+   "runtime": 97,
+   "year": 2005,
+   "director": "Ward Serrill",
+   "country": "USA",
+   "language": "English",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_TheHeartoftheGame_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/the-heart-of-the-game"
    }
   },
   {
@@ -2475,6 +2518,19 @@
    }
   },
   {
+   "id": "wild-horse-nine",
+   "title": "Wild Horse Nine",
+   "description": "Two CIA agents (John Malkovich and Sam Rockwell) are sent on a mission to Easter Island, where one faces an existential crisis over his past actions, in Martin McDonagh’s latest dark comedy.",
+   "runtime": 118,
+   "year": 2026,
+   "director": "Martin McDonagh",
+   "country": "USA, Chile",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_WildHorseNine_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/wild-horse-nine"
+   }
+  },
+  {
    "id": "wildwood",
    "title": "Wildwood",
    "description": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel (Peyton Elizabeth Lee) launches a desperate rescue mission into the Impassable Wilderness—an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg (Jacob Tremblay), Prue navigates a world of talking animals, bandits, and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover the strength and belief she never knew she possessed. If she hopes to save her brother and protect Wildwood’s fragile future, she will have to risk everything. From Oscar®-nominated and BAFTA®-winning LAIKA, Wildwood is a sweeping adventure about love, sacrifice, and the magic that reveals itself when we dare to look beyond the familiar.",
@@ -2634,258 +2690,6 @@
   {
    "film": "you-can-see-everything",
    "theater": "admiral",
-   "start": "2026-10-26T15:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17135/793"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-10-26T15:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36478?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-10-26T15:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36480?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-10-26T15:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36294?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wildwood",
-   "theater": "admiral",
-   "start": "2026-10-26T15:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17134/797"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-26T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17131/794"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-26T15:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-SQN64HdAEC"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-10-26T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17184/800"
-  },
-  {
-   "film": "frankenstein",
-   "theater": "central-cinema",
-   "start": "2026-10-26T16:00:00-07:00",
-   "url": "https://central-cinema.com/movie/frankenstein-1931/",
-   "tickets": "https://central-cinema.com/checkout/showing/frankenstein-1931/3999054"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-10-26T16:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-rFytIAls6e"
-  },
-  {
-   "film": "i-walked-with-a-zombie",
-   "theater": "beacon",
-   "start": "2026-10-26T16:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/i-walked-with-a-zombie",
-   "tickets": "https://thebeacon.film/calendar/movie/i-walked-with-a-zombie?showtime=2EYQJRVNMV6DD4WYYQ7R4ZIK"
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-26T16:40:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-ZSoY2EYKf2"
-  },
-  {
-   "film": "tenzing",
-   "theater": "tasveer",
-   "start": "2026-10-26T17:10:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/tenzing",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/tenzing/4003546"
-  },
-  {
-   "film": "take-me-home",
-   "theater": "tasveer",
-   "start": "2026-10-26T17:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/take-me-home",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/take-me-home/4003545"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-26T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17133/794"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-10-26T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17093/793"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-10-26T18:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36479?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-26T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17132/795"
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-10-26T18:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36481?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "seattle-48-hour-horror-film-project",
-   "theater": "siff-uptown",
-   "start": "2026-10-26T18:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/seattle-48-hour-horror-film-project-2026",
-   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-48-hour-horror-film-project-2026#screening-jsORBuqaM6"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "tasveer",
-   "start": "2026-10-26T18:45:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4003611"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-10-26T18:50:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17136/800"
-  },
-  {
-   "film": "frankenstein",
-   "theater": "central-cinema",
-   "start": "2026-10-26T19:00:00-07:00",
-   "url": "https://central-cinema.com/movie/frankenstein-1931/",
-   "tickets": "https://central-cinema.com/checkout/showing/frankenstein-1931/3999055"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-10-26T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36295?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "begotten",
-   "theater": "nwff",
-   "start": "2026-10-26T19:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/begotten-4k-restoration/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a99f6bb5cb9fb2651f719f0",
-   "notes": [
-    "4K restoration"
-   ]
-  },
-  {
-   "film": "passenger",
-   "theater": "siff-film-center",
-   "start": "2026-10-26T19:00:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/the-open-road/the-passenger",
-   "tickets": "https://www.siff.net/programs-and-events/the-open-road/the-passenger#screening-ekbxeaHxPg",
-   "notes": [
-    "The Open Road",
-    "35mm"
-   ]
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-26T19:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-l13MOFLeUZ"
-  },
-  {
-   "film": "devils",
-   "theater": "siff-downtown",
-   "start": "2026-10-26T19:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-ASeClUFTrP"
-  },
-  {
-   "film": "necropolis",
-   "theater": "beacon",
-   "start": "2026-10-26T19:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/necropolis",
-   "tickets": "https://thebeacon.film/calendar/movie/necropolis?showtime=RIIKUW35YMRXKVZJYDN7Q4J4"
-  },
-  {
-   "film": "daytrippers",
-   "theater": "nwff",
-   "start": "2026-10-26T19:30:00-07:00",
-   "url": "https://nwfilmforum.org/films/staff-selects-the-daytrippers/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a91d3a9a328434b4647b0db"
-  },
-  {
-   "film": "wildwood",
-   "theater": "tasveer",
-   "start": "2026-10-26T19:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/wildwood",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wildwood/4003610"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-10-26T19:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-RbPPNNq6Ht"
-  },
-  {
-   "film": "your-mother-your-mother-your-mother",
-   "theater": "tasveer",
-   "start": "2026-10-26T19:45:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/your-mother-your-mother-your-mother",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/your-mother-your-mother-your-mother/4136299"
-  },
-  {
-   "film": "seattle-48-hour-horror-film-project",
-   "theater": "siff-uptown",
-   "start": "2026-10-26T21:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/seattle-48-hour-horror-film-project-2026",
-   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-48-hour-horror-film-project-2026#screening-qqZuSGn0Jf"
-  },
-  {
-   "film": "fright-night",
-   "theater": "central-cinema",
-   "start": "2026-10-26T21:30:00-07:00",
-   "url": "https://central-cinema.com/movie/fright-night/",
-   "tickets": "https://central-cinema.com/checkout/showing/fright-night/3999056"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
    "start": "2026-10-27T15:00:00-07:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17106/793",
@@ -2939,7 +2743,10 @@
    "theater": "siff-uptown",
    "start": "2026-10-27T15:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-27e2GpODm9"
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-27e2GpODm9",
+   "notes": [
+    "Sold out"
+   ]
   },
   {
    "film": "clayface",
@@ -4987,6 +4794,13 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36568?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-06T15:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-NsGW9vAOxb"
+  },
+  {
    "film": "true-stories",
    "theater": "central-cinema",
    "start": "2026-11-06T16:00:00-08:00",
@@ -5009,6 +4823,13 @@
    "notes": [
     "On film"
    ]
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-06T16:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-MiIjOgp3A1"
   },
   {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
@@ -5055,11 +4876,25 @@
    "url": "https://tinroombar.com/events"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-06T19:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-768tIPd0Xq"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-06T19:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-qlSEYb7EAU"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-06T19:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-x5W5Rdop6y"
   },
   {
    "film": "true-stories",
@@ -5089,11 +4924,25 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36607?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-07T12:10:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-ZsFm5kdCCc"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-07T12:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-HHrlhNC0HR"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-07T12:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-5Jew3Kc6Y7"
   },
   {
    "film": "stffshorts-narrative-selection-2",
@@ -5143,6 +4992,13 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36606?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-07T15:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-abTU5yZ6Cd"
+  },
+  {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
    "theater": "nwff",
    "start": "2026-11-07T15:30:00-08:00",
@@ -5169,6 +5025,13 @@
    "start": "2026-11-07T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-8qurTrnJ2H"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-07T16:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-cDHh9QHCrn"
   },
   {
    "film": "engauge-2026-we-are-all-together",
@@ -5210,6 +5073,13 @@
    "tickets": "https://central-cinema.com/checkout/showing/tampopo/4180379"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-07T19:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-QGHWc8VBQk"
+  },
+  {
    "film": "top-gun",
    "theater": "tin-room",
    "start": "2026-11-07T19:00:00-08:00",
@@ -5232,6 +5102,13 @@
    "start": "2026-11-07T19:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-hm3IDIMrpG"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-07T19:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-3qN0aiTEIN"
   },
   {
    "film": "secs-fest-2026",
@@ -5272,6 +5149,20 @@
    "start": "2026-11-08T12:00:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36615?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-08T12:10:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-7N9T8QFP66"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-08T12:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-OJ2OrvjvZN"
   },
   {
    "film": "seattle-turkish-film-festival-dump-of-untitled-pieces",
@@ -5318,6 +5209,13 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36616?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-08T15:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-tcEr9rwUyY"
+  },
+  {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
    "theater": "nwff",
    "start": "2026-11-08T15:30:00-08:00",
@@ -5343,6 +5241,13 @@
    "start": "2026-11-08T16:00:00-08:00",
    "url": "https://central-cinema.com/movie/true-stories/",
    "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180380"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-08T16:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-t0bcYXUOqr"
   },
   {
    "film": "5point-film-fest-2026",
@@ -5397,6 +5302,20 @@
    "tickets": "https://central-cinema.com/checkout/showing/tampopo/4180382"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-08T19:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-aTFeySHpxx"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-08T19:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-oCAG1tsRuM"
+  },
+  {
    "film": "true-stories",
    "theater": "central-cinema",
    "start": "2026-11-08T21:30:00-08:00",
@@ -5409,6 +5328,20 @@
    "start": "2026-11-09T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36625?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-09T15:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-4YT2MFOogw"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-09T15:45:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-Bcca182c7A"
   },
   {
    "film": "true-stories",
@@ -5456,6 +5389,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-H0ZjEk1mmm"
   },
   {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-09T19:45:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-fabFQIyEF4"
+  },
+  {
    "film": "true-stories",
    "theater": "central-cinema",
    "start": "2026-11-09T21:30:00-08:00",
@@ -5470,6 +5410,13 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36630?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-10T15:45:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-grh5Jqfuuc"
+  },
+  {
    "film": "true-stories",
    "theater": "central-cinema",
    "start": "2026-11-10T16:00:00-08:00",
@@ -5482,6 +5429,13 @@
    "start": "2026-11-10T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-k3QLIJUDXp"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-10T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-3ITeKaT9Vs"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5523,6 +5477,13 @@
    ]
   },
   {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-10T19:45:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-6Mh5972fkp"
+  },
+  {
    "film": "true-stories",
    "theater": "central-cinema",
    "start": "2026-11-10T21:30:00-08:00",
@@ -5544,6 +5505,13 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36552?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-11T15:45:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-pml9gNbF8X"
+  },
+  {
    "film": "true-stories",
    "theater": "central-cinema",
    "start": "2026-11-11T16:00:00-08:00",
@@ -5556,6 +5524,13 @@
    "start": "2026-11-11T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-GPDNyAkQas"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-11T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-3lXklh1ZEi"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5582,6 +5557,13 @@
    ]
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-11T19:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-AkJTstL1bA"
+  },
+  {
    "film": "members-only-mystery-movie-november-2026",
    "theater": "nwff",
    "start": "2026-11-11T19:30:00-08:00",
@@ -5596,6 +5578,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-bqL9IPieS1"
   },
   {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-11T19:45:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-6RNfsDmN0X"
+  },
+  {
    "film": "true-stories",
    "theater": "central-cinema",
    "start": "2026-11-11T21:30:00-08:00",
@@ -5603,11 +5592,25 @@
    "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180389"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-12T15:45:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-xMu5NiY36D"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-12T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-x1b25pJySe"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-12T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-6jpO6MQYD8"
   },
   {
    "film": "cartoon-happy-hour",
@@ -5638,6 +5641,13 @@
    ]
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-12T19:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-lnCVcWI7Fx"
+  },
+  {
    "film": "don-t-tell-mom-the-babysitter-is-dead",
    "theater": "tin-room",
    "start": "2026-11-12T19:00:00-08:00",
@@ -5656,6 +5666,13 @@
    "start": "2026-11-12T19:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-dNVNyIrVkI"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-12T19:45:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-mModK2dcfA"
   },
   {
    "film": "texas-chainsaw-massacre-part-2",
@@ -5712,6 +5729,13 @@
    ]
   },
   {
+   "film": "four-by-jean-vigo",
+   "theater": "nwff",
+   "start": "2026-11-13T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/veronica-project-space-presents-four-by-jean-vigo/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6adfd622e5d08f62f7c68a9a"
+  },
+  {
    "film": "romanian-film-festival-seattle-3-days-in-september",
    "theater": "siff-uptown",
    "start": "2026-11-13T19:00:00-08:00",
@@ -5730,6 +5754,16 @@
    "start": "2026-11-13T21:30:00-08:00",
    "url": "https://central-cinema.com/movie/delicatessen/",
    "tickets": "https://central-cinema.com/checkout/showing/delicatessen/4180747"
+  },
+  {
+   "film": "short-film-nominee-showcase",
+   "theater": "siff-film-center",
+   "start": "2026-11-14T12:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/short-film-nominee-showcase",
+   "tickets": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/short-film-nominee-showcase#screening-1nd8YhOKD9",
+   "notes": [
+    "PNW Awards"
+   ]
   },
   {
    "film": "romanian-film-festival-seattle-the-last-transhumance",
@@ -5848,6 +5882,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/atlas-of-the-universe#screening-Ht0rWZSAGo"
   },
   {
+   "film": "shaolin-soccer",
+   "theater": "grand-illusion",
+   "start": "2026-11-15T12:00:00-08:00",
+   "url": "https://grandillusioncinema.org/film/shaolin-soccer/",
+   "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=665896~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
+  },
+  {
    "film": "romanian-film-festival-seattle-the-yellow-tie",
    "theater": "siff-uptown",
    "start": "2026-11-15T12:50:00-08:00",
@@ -5860,6 +5901,16 @@
    "start": "2026-11-15T14:00:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/the-strange-love-of-martha-ivers",
    "tickets": "https://thebeacon.film/calendar/movie/the-strange-love-of-martha-ivers?showtime=25THBWWJ3JBGSLHT2WBYKMUX"
+  },
+  {
+   "film": "heart-of-the-game",
+   "theater": "siff-uptown",
+   "start": "2026-11-15T14:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/the-heart-of-the-game",
+   "tickets": "https://www.siff.net/cinema/in-theaters/the-heart-of-the-game#screening-i0XKh7Aujf",
+   "notes": [
+    "20th anniversary"
+   ]
   },
   {
    "film": "joyless-economy",
@@ -6649,6 +6700,20 @@
    "start": "2026-11-30T19:30:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/the-honeymoon-killers",
    "tickets": "https://thebeacon.film/calendar/movie/the-honeymoon-killers?showtime=YWCKAVRL5V5JD5SSMPRTI7AC"
+  },
+  {
+   "film": "honeymoon-killers",
+   "theater": "beacon",
+   "start": "2026-12-01T16:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/the-honeymoon-killers",
+   "tickets": "https://thebeacon.film/calendar/movie/the-honeymoon-killers?showtime=AYQWHXIHQ6UTUVDIITIFG565"
+  },
+  {
+   "film": "wto-99",
+   "theater": "nwff",
+   "start": "2026-12-01T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/wto-99/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6a7e4fdd4276bba6259020ee"
   }
  ]
 }
