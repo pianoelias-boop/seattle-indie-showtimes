@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T11:51:00-07:00",
+ "updated": "2026-10-29T11:56:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-28T11:51:00-07:00",
-    "lastSuccess": "2026-10-28T11:51:00-07:00",
-    "showings": 36,
+    "checked": "2026-10-29T11:56:00-07:00",
+    "lastSuccess": "2026-10-29T11:56:00-07:00",
+    "showings": 34,
     "through": "2026-11-15"
    }
   },
@@ -33,10 +33,10 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-28T11:51:00-07:00",
-    "lastSuccess": "2026-10-28T11:51:00-07:00",
-    "showings": 107,
-    "through": "2026-11-22"
+    "checked": "2026-10-29T11:56:00-07:00",
+    "lastSuccess": "2026-10-29T11:56:00-07:00",
+    "showings": 126,
+    "through": "2026-12-03"
    }
   },
   {
@@ -52,9 +52,9 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-28T11:51:00-07:00",
-    "lastSuccess": "2026-10-28T11:51:00-07:00",
-    "showings": 24,
+    "checked": "2026-10-29T11:56:00-07:00",
+    "lastSuccess": "2026-10-29T11:56:00-07:00",
+    "showings": 23,
     "through": "2026-11-29"
    }
   },
@@ -70,8 +70,8 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-28T11:51:00-07:00",
-    "lastSuccess": "2026-10-28T11:51:00-07:00",
+    "checked": "2026-10-29T11:56:00-07:00",
+    "lastSuccess": "2026-10-29T11:56:00-07:00",
     "showings": 5,
     "through": "2026-11-15"
    }
@@ -88,10 +88,10 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-28T11:51:00-07:00",
-    "lastSuccess": "2026-10-28T11:51:00-07:00",
-    "showings": 68,
-    "through": "2026-12-02"
+    "checked": "2026-10-29T11:56:00-07:00",
+    "lastSuccess": "2026-10-29T11:56:00-07:00",
+    "showings": 69,
+    "through": "2026-12-03"
    }
   },
   {
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-28T11:51:00-07:00",
-    "lastSuccess": "2026-10-28T11:51:00-07:00",
-    "showings": 60,
+    "checked": "2026-10-29T11:56:00-07:00",
+    "lastSuccess": "2026-10-29T11:56:00-07:00",
+    "showings": 58,
     "through": "2026-11-19"
    }
   },
@@ -126,10 +126,10 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-28T11:51:00-07:00",
-    "lastSuccess": "2026-10-28T11:51:00-07:00",
-    "showings": 46,
-    "through": "2026-12-02"
+    "checked": "2026-10-29T11:56:00-07:00",
+    "lastSuccess": "2026-10-29T11:56:00-07:00",
+    "showings": 56,
+    "through": "2026-12-03"
    }
   },
   {
@@ -145,9 +145,9 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-28T11:51:00-07:00",
-    "lastSuccess": "2026-10-28T11:51:00-07:00",
-    "showings": 46,
+    "checked": "2026-10-29T11:56:00-07:00",
+    "lastSuccess": "2026-10-29T11:56:00-07:00",
+    "showings": 41,
     "through": "2026-11-05"
    }
   },
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-28T11:51:00-07:00",
-    "lastSuccess": "2026-10-28T11:51:00-07:00",
-    "showings": 73,
+    "checked": "2026-10-29T11:56:00-07:00",
+    "lastSuccess": "2026-10-29T11:56:00-07:00",
+    "showings": 67,
     "through": "2026-11-25"
    }
   },
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-28T11:51:00-07:00",
-    "lastSuccess": "2026-10-28T11:51:00-07:00",
-    "showings": 18,
+    "checked": "2026-10-29T11:56:00-07:00",
+    "lastSuccess": "2026-10-29T11:56:00-07:00",
+    "showings": 10,
     "through": "2026-11-21"
    }
   },
@@ -201,10 +201,10 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-28T11:51:00-07:00",
-    "lastSuccess": "2026-10-28T11:51:00-07:00",
-    "showings": 17,
-    "through": "2026-11-27"
+    "checked": "2026-10-29T11:56:00-07:00",
+    "lastSuccess": "2026-10-29T11:56:00-07:00",
+    "showings": 4,
+    "through": "2026-10-31"
    }
   },
   {
@@ -220,9 +220,9 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-28T11:51:00-07:00",
-    "lastSuccess": "2026-10-28T11:51:00-07:00",
-    "showings": 21,
+    "checked": "2026-10-29T11:56:00-07:00",
+    "lastSuccess": "2026-10-29T11:56:00-07:00",
+    "showings": 20,
     "through": "2026-11-29"
    }
   }
@@ -320,15 +320,6 @@
    }
   },
   {
-   "id": "a-i",
-   "title": "A.I.",
-   "description": "CELEBRATING\n\n25TH ANNIVERSARY\n\nA highly advanced robotic boy longs to become \"real\" so that he can regain the love of his human mother.",
-   "image": "https://static.spotapps.co/spots/33/fa7b601ae9480cbac838f5c16154b6/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
    "id": "actually-it-is-rocket-science",
    "title": "Actually, It Is Rocket Science",
    "description": "Actually, It Is Rocket Science is the newest chapter in TGR’s ongoing study of the fall line, told through the world’s best skiers as they turn the mountain into a laboratory and every descent into an experiment.\n\nThe study spans Bute Inlet, British Columbia; Haines, Alaska; Japan; Finland; Andorra; Montana; Jay Peak, Vermont; and Jackson Hole, Wyoming. Different mountains, snowpacks, conditions, and approaches—but the same forces are always at work: speed, gravity, instinct, and consequence.\n\nActually, It Is Rocket Science is a tongue-in-cheek look at the seemingly reckless abandon that many of the world's best snow athletes display as they push the physics of what is possible. Athletes explore the intricacies of dissecting a big mountain line, the physics and amplitude of a massive gap, calculating transition, and the force of gravity.\n\nSo, is it rocket science—or is it not?\n\nWatch closely and decide for yourself.\n\nLocations: Jackson Hole, Wyoming, Haines Alaska, British Columbia, Japan, Finland, Andorra, Jay Peak, Vermont, Montana\n\nAthletes: Kelly Hilleke, Teal Harle, Colter Hinchliffe, Kai Jones, Maggie Voisin, Nick McNutt, Parkin Costain, Karl Fostvedt, Keegan Killbride, Tim Durtschi, Thibault Magnin, Anna Tedesco, Tucker Carr, Wyatt Gentry, Lalo Rambaud, Jasper Skidmore, Daniel Johnson, Jerermy Emmer, Rylan Messner, Andrew Bird, Dylan \"Dro\" Roide, Nicholas Johnson, Luke Price, Seamus O'niell, Andreya Zvonar, Jackson Lalla , Adrian Hayden, Bode Tracy\n\nPart of the MOUNTAIN FILM FESTIVAL 2026!",
@@ -398,16 +389,17 @@
    }
   },
   {
-   "id": "begotten",
-   "title": "Begotten",
-   "description": "“Begotten” has no characters in the ordinary sense. Its final credits name three principal figures:\n\nGod Killing Himself.\n\nMother Earth.\n\nSon of Earth — Flesh on Bone\n\nThe entire film is what those names do to each other and to the earth. God Killing Himself tears open his body and dies. Mother Earth rises from what remains and takes his seed into herself. She gives birth to Son of Earth — Flesh on Bone. He is cast into a barren world, seized by the Nomads, tortured, killed, and briefly returned to life by his mother. The Nomads destroy her too. The Robed Figures gather what remains of mother and son, grind their bodies down, and return them to the soil. The ground flowers.",
-   "runtime": 72,
-   "year": 1989,
-   "director": "E. Elias Merhige",
-   "country": "United States",
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/09/begotten1600-3-1200x675.png",
+   "id": "beavis-and-butt-head-do-america",
+   "title": "Beavis and Butt-Head Do America",
+   "description": "Shaken awake by a typically anxiety-addled Beavis with the terrible news that their beloved television set has been stolen, fellow slacker Butt-Head slowly pieces together a horrifying new reality: this sucks. No longer able to coast on the waves of MTV, the dimwitted delinquents exit their squalid dwellings in a desperate search that quickly entangles them in a plot to “do” a seedy criminal’s wife for a sizable sum. Hoping to finally score, the couch potatoes embark on a national quest from Las Vegas to Washington, DC. From underground animation to Hollywood extravaganza to further revivals, Mike Judge’s giggling mouth breathers remain an unshakable presence in the cultural milieu of America with their evergreen image of slackerdom and distinctly ‘90s charm. All roads lead to the Great Cornholio.\n\n35mm print courtesy of Paramount.",
+   "runtime": 81,
+   "year": 1996,
+   "director": "Mike Judge",
+   "country": "USA",
+   "language": "English",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/The%20Open%20Road/CIN_BeavisButthead2_1600x900.png",
    "links": {
-    "nwff": "https://nwfilmforum.org/films/begotten-4k-restoration/"
+    "siff-uptown": "https://www.siff.net/programs-and-events/the-open-road/beavis-and-butt-head-do-america"
    }
   },
   {
@@ -486,18 +478,6 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792697980077-tb-buffalo66.jpg",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/buffalo-66"
-   }
-  },
-  {
-   "id": "call-me-by-your-name",
-   "title": "Call Me By Your Name",
-   "description": "It's the summer of 1983, and precocious 17-year-old Elio Perlman is spending the days with his family at their 17th-century villa in Lombardy, Italy. He soon meets Oliver, a handsome doctoral student who's working as an intern for Elio's father. Amid the sun-drenched splendor of their surroundings, Elio and Oliver discover the heady beauty of awakening desire over the course of a summer that will alter their lives forever.\n\nPart of the Rainbow Reels Series presented by SnoValley Pride (https://snovalleypride.org/).",
-   "runtime": 130,
-   "year": 2017,
-   "rating": "R",
-   "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/CallMeByYourNameSquare.png",
-   "links": {
-    "north-bend": "https://tix.northbendtheatre.com/event/call-me-by-your-name-wednesday-oct-28th-7pm"
    }
   },
   {
@@ -613,15 +593,6 @@
    "image": "https://indy-systems.imgix.net/701friiwyvdwqrw9gbqirnurqd7g?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
    "links": {
     "central-cinema": "https://central-cinema.com/movie/delicatessen/"
-   }
-  },
-  {
-   "id": "don-t-tell-mom-the-babysitter-is-dead",
-   "title": "Don't Tell Mom the Babysitter Is Dead",
-   "description": "CELEBRATING\n\n35th ANNIVERSARY\n\nWhen a single mother (Concetta Tomei) goes away for the summer, the kids are at first delighted, but then they find out that Mom has hired the sitter from hell (Eda Reiss Merin) to stay with them. When the sitter dies of a sudden coronary they deposit the body at a mortuary, only to discover that all their summer-expense money was in her purse. The kids must find a way to survive the summer without mom or her money. This means actual work.",
-   "image": "https://static.spotapps.co/spots/6f/b6448daa8d467c9be4aa3f0a58845d/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -761,15 +732,6 @@
    }
   },
   {
-   "id": "fargo",
-   "title": "Fargo",
-   "description": "CELEBRATING\n\n20th ANNIVERSARY\n\nA car salesman in Minneapolis, MN, Jerry Lundegard hires two criminals to kidnap his wife. Her father is wealthy and Jerry needs the money. However, things don't go according to plan and soon three people are dead outside of Brainerd, MN. The 7-month pregnant Sheriff of Brainerd, Marge Gunderson is soon on the case, and she is very intuitive and resourceful.",
-   "image": "https://static.spotapps.co/spots/98/3d2d17a31141a58e9d82917bd377ac/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
    "id": "fatherland",
    "title": "Fatherland",
    "description": "Fatherland centres on the relationship between the Nobel Prize-winning writer Thomas Mann (Hnrns Zischler) and his daughter Erika (Sandra Hüller) - actress, writer and rally driver. In the summer of 1949, at the height of the Cold War, father and daughter embark on a challenging and emotional road trip in a black Buick taking them across a Germany in ruins - from US dominated Frankfurt to Soviet controlled Weimar. Returning home after sixteen years of exile in the US, Thomas Mann has to face not only a divided fatherland, but also a deep fracture within his own family.\n\nWith Fatherland, Pawlikowski picks up where he left off with his award-winning Ida and Cold War, exploring – in his elliptic, distilled style - the themes of identity, family, love and guilt amid the turmoil and confusion of post-war Europe.",
@@ -830,45 +792,6 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/jeanvigo1600-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/veronica-project-space-presents-four-by-jean-vigo/"
-   }
-  },
-  {
-   "id": "frankenstein",
-   "title": "Frankenstein",
-   "description": "The classic Universal horror hit attacks the screen at Central Cinema.\n\nDr. Henry Frankenstein obsesses over creating life. He's so obsessed that he assembles a creature from body parts of the dead. He and his assistant Fritz then bring the being to life; great success! Except, oops, the creature escapes and wreaks havoc (both accidentally and on purpose) on the nearby countryside.\n\nBased on Mary Shelly's sci-fi horror classic, Universal took the creature from her book and made him an icon. Boris Karloff's work as the creature holds up as one of horror's most remembered performances. Director James Whale delivers an audience pleasing tale that doesn't shy from the moral questions the book raises",
-   "runtime": 70,
-   "year": 1931,
-   "director": "James Whale",
-   "country": "United States",
-   "language": "English",
-   "rating": "NR",
-   "genres": [
-    "Drama",
-    "Horror",
-    "Science Fiction"
-   ],
-   "image": "https://indy-systems.imgix.net/ngiuhh38x8aau3r6ct9ugkb0c785?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
-   "links": {
-    "central-cinema": "https://central-cinema.com/movie/frankenstein-1931/"
-   }
-  },
-  {
-   "id": "fright-night",
-   "title": "Fright Night",
-   "description": "Meet Jerry Dandrige. He's sweet, handsome, and likes to sleep in late. You might think he's the perfect neighbor. But before inviting Jerry in for a nightcap, there's one thing you should know: Jerry's drink of choice is warm, red, and straight from the jugular!\n\nOnly 17-year-old Charley Brewster knows his neighbor's bloodcurdling secret. When Charley can't get anyone to believe him, he turns to TV horror host Peter Vincent who at one point was the \"Great Vampire Killer of the movies. But Jerry gets wise to the duo's intentions, and sets his sights on those Charley holds dearest.\n\nFright Night is a beloved 80's horror comedy for good reason, with as many laughs as frights on screen making for a fun flick to see on an October night.",
-   "runtime": 107,
-   "year": 1985,
-   "director": "Tom Holland",
-   "country": "United States",
-   "language": "English",
-   "rating": "R",
-   "genres": [
-    "Comedy",
-    "Horror"
-   ],
-   "image": "https://indy-systems.imgix.net/cmis85yqtlueysgl0zj4tie33lxo?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
-   "links": {
-    "central-cinema": "https://central-cinema.com/movie/fright-night/"
    }
   },
   {
@@ -934,15 +857,6 @@
    }
   },
   {
-   "id": "harry-potter",
-   "title": "Harry Potter",
-   "description": "CELEBRATING\n\n25th ANNIVERSARY\n\nHarry Potter learns on his 11th birthday that he is the orphaned first son of two powerful wizards and possesses magical powers of his own. At Hogwarts School of Witchcraft and Wizardry, Harry embarks on the adventure of a lifetime. He learns the high-flying sport Quidditch and plays a thrilling game with living chess pieces on his way to face a Dark Wizard bent on destroying him. For the most extraordinary adventure, see you on platform nine and three-quarters.",
-   "image": "https://static.spotapps.co/spots/ee/ca7404ff184303830fb494e0c557c0/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
    "id": "her-song",
    "title": "Her Song",
    "description": "Olivia, a Franco-American writer, returns to her ancestral village in the south of France to write the story of her grandmother, who fled Paris during the Nazi invasion during World War II. There, she meets Madeline, a talented local artist, who quickly replaces her grandmother as the face of the novel. As a number of strange coincidences ensue, fiction and reality intermingle uncannily, and Olivia starts to ask whether she's part of history's unfolding story, or vice-versa.",
@@ -978,27 +892,6 @@
    }
   },
   {
-   "id": "home-for-the-holidays",
-   "title": "Home for the Holidays",
-   "description": "After being fired, making out with her soon-to-be ex-boss, and discovering that her daughter plans to spend Thanksgiving with her boyfriend, Claudia Larson faces the unenviable task of spending the holiday with her exceedingly dull family.",
-   "image": "https://static.spotapps.co/spots/39/030a6ce5954918868211c9134d495a/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
-   "id": "i-walked-with-a-zombie",
-   "title": "I Walked with a Zombie",
-   "description": "Among the extraordinary cycle of horror films produced by Val Lewton at RKO, I WALKED WITH A ZOMBIE may be the most dreamlike and beautiful. Taking a sensational title imposed by the studio and a story loosely modeled on Jane Eyre, Lewton and director Jacques Tourneur fashioned an entrancing journey into the realm between life and death, where romantic obsession and supernatural mystery are inseparable from the lingering wounds of colonial history.\n\nFrances Dee stars as a young Canadian nurse who travels to the Caribbean island of Saint Sebastian to care for the mysteriously unresponsive wife of a wealthy plantation owner. Her search for a cure draws her deeper into the island and toward a world of Vodou ritual, family secrets, and the possibility that her patient may be neither entirely alive nor entirely dead. Lewton and Tourneur treat that mystery with remarkable seriousness, finding their horror not in conventional shocks but in suggestion, sound, and images of almost supernatural beauty.\n\nSugarcane sways in a moonlit field. Drums echo through the darkness. The towering figure of Carrefour stands silently at a crossroads. Few Hollywood horror films have ever made nighttime feel so mysterious or so alive. Haunting, melancholy, and hypnotic, I WALKED WITH A ZOMBIE transforms its unlikely combination of Gothic romance and zombie mythology into something closer to a waking dream—one of the strangest and most beautiful achievements of studio-era horror.",
-   "runtime": 69,
-   "year": 1943,
-   "director": "Jacques Tourneur",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789695533779-tb-iwalkedwithazombie.jpg",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/i-walked-with-a-zombie"
-   }
-  },
-  {
    "id": "idle-hands",
    "title": "Idle Hands",
    "description": "Anton is a teenage burnout whose daily agenda consists of smoking weed, watching TV and accomplishing absolutely nothing. Then his right hand gets possessed by the devil and murders his parents. Soon his two best friends are dead, Anton is trying to cut off his own arm, and the hottest girl in the neighborhood is somehow still interested in him. Luckily, death doesn’t prevent anybody from hanging out.\n\nIDLE HANDS could only have escaped from 1999: Devon Sawa in enormous pants, Seth Green and Elden Henson as undead couch potatoes, Jessica Alba in angel wings, The Offspring playing the school Halloween dance and Rob Zombie’s “Dragula” on MTV while everybody gets high on the couch. It captures teenage life in the last few minutes before everything went digital—a suburban wasteland of weed, music videos, convenience stores and endless hours with absolutely nothing to do. Then it dumps a homicidal severed hand into the middle of it and starts spraying glorious rubber gore. Some of it has aged badly, some of it has aged beautifully, and somehow this deeply stupid movie has only grown more lovable with time.",
@@ -1008,20 +901,6 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1790029813154-tb-idlehands.png",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/idle-hands"
-   }
-  },
-  {
-   "id": "invasion-of-the-body-snatchers",
-   "title": "Invasion of the Body Snatchers",
-   "description": "Strange pods have arrived from outer space unnoticed, and suddenly the people of San Francisco are beginning to act very, very differently. With Elizabeth (Brooke Adams), Jack (Jeff Goldblum), and psychiatrist Dr. David Kibner (Leonard Nimoy) by his side, Bennell follows a trail of increasingly bizarre clues into a nightmare where nobody—not even those closest to you—can be trusted. Kaufman slowly turns the familiar streets of San Francisco into a paranoid fever dream, filling each frame with a mounting sense of dread as the city plunges into fear and mistrust. Paired with Michael Chapman’s (Raging Bull) gritty cinematography and the film’s astonishing special effects, every encounter becomes potentially sinister. More than a sci-fi horror thriller, Invasion of the Body Snatchers is a terrifying vision of urban alienation and the loss of individuality—and its final image may be one of the most horrifying in movie history. Remember: if you notice an eerie change in someone close to you, chances are you’re next! Sleep tight.",
-   "runtime": 115,
-   "year": 1978,
-   "director": "Philip Kaufman",
-   "country": "USA",
-   "language": "English",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Scarecrowber%202026/CIN_InvasionoftheBodySnatchersS_1600x900.png",
-   "links": {
-    "siff-film-center": "https://www.siff.net/programs-and-events/scarecrowber-2026/invasion-of-the-body-snatchers"
    }
   },
   {
@@ -1150,15 +1029,6 @@
    }
   },
   {
-   "id": "maltese-falcon",
-   "title": "Maltese Falcon",
-   "description": "CELEBRATING\n\n85th ANNIVERSARY\n\nA cynical San Francisco private detective must clear his name after his partner is murdered, but a web of dangerous liars threatens his freedom, all while they hunt for a priceless black bird.",
-   "image": "https://static.spotapps.co/spots/8d/378f51ef1e4da69467cf7019be78e3/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
    "id": "man-of-marble",
    "title": "Man of Marble",
    "description": "In the 1970s, student filmmaker Agnieszka investigates the life of a 1950s bricklayer and discredited labor hero who is only remembered through statue representations in cellars and storage lockers. Discovering facts about the bricklayer have been suppressed, she has to decide whether to pursue the truth or not while navigating the complexities of communism's rise in Poland. Mixing satirical humor and poetic storytelling, this thought-provoking examination of the moral responsibility of an individual and the way art can challenge dominant ideology remains one of Wajda’s most unique productions.",
@@ -1277,6 +1147,18 @@
    }
   },
   {
+   "id": "nationtime",
+   "title": "Nationtime",
+   "description": "Nearly ten thousand Black Americans converge on a high-school gymnasium in Gary, Indiana, with the extraordinary ambition of deciding their future together. Republicans share the room with revolutionaries. Agreement is hardly guaranteed. Invited by Amiri Baraka to document the National Black Political Convention, William Greaves captures the exhilaration—and combustible difficulty—of turning a gathering into a political force.\n\nThe director of SYMBIOPSYCHOTAXIPLASM has an exceptional feel for what happens between people, and NATIONTIME finds its drama in the current running from the podium to the bleachers and back. Jesse Jackson works the room into a thunderous call-and-response; Baraka struggles to hold it together when delegates object. The stakes extend well beyond the gym: a national agenda demanding guaranteed income and health care, a struggle over who gets to speak for whom. Then Richard Roundtree walks onstage and barely needs to speak at all. With Isaac Hayes supplying the soul, this extraordinary film brings the sheer physical excitement of collective possibility roaring onto the screen.",
+   "runtime": 80,
+   "year": 1972,
+   "director": "William Greaves",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792700485802-tb-nationtime.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/nationtime"
+   }
+  },
+  {
    "id": "natural-born-killers",
    "title": "Natural Born Killers",
    "description": "Oliver Stone's NATURAL BORN KILLERS is an all-out assault on the American appetite for violence, made with the manic enthusiasm of a man who appears to share it. Woody Harrelson and Juliette Lewis are Mickey and Mallory Knox, a pair of homicidal lovers whose cross-country killing spree turns them into national celebrities, aided by a television industry that has finally discovered the perfect marriage of entertainment and mass murder. Stone attacks the material with an almost psychotic barrage of film stocks, animation, rear projection, sitcom laugh tracks, and hallucinatory editing, creating a movie that seems to be having a nervous breakdown in front of your eyes. Released at the height of the O.J. Simpson era, NATURAL BORN KILLERS was condemned as an irresponsible glorification of violence by people who apparently hadn't noticed what the rest of American television was broadcasting. Thirty years later, its vision of a country where murder is content, notoriety is currency, and the public can't get enough of either feels considerably less exaggerated than it once did.",
@@ -1327,6 +1209,18 @@
    "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/NosferatuSquare.jpg",
    "links": {
     "north-bend": "https://tix.northbendtheatre.com/event/nosferatu-1922-with-live-organ-accompaniment-from-danny-kolke-saturday-oct-31st-7pm"
+   }
+  },
+  {
+   "id": "once-upon-a-time-in-harlem",
+   "title": "Once Upon a Time in Harlem",
+   "description": "One afternoon in August 1972, at the behest of legendary, genre-defying filmmaker William Greaves, a coterie of luminaries from the Harlem Renaissance gathered—with cameras rolling—for an intimate party in Duke Ellington’s townhouse. Fifty years later, completed by Greaves’ son David, ONCE UPON A TIME IN HARLEM has emerged as a rapturous living archive of one of the most important artistic movements of the 20th century and, posthumously, one of the most important works in the Greaves filmography.\n\nA towering constellation of artists, poets, painters, musicians, scholars, and other notables appear throughout — among them Aaron Douglas, Arna Bontemps, Richard Bruce Nugent, James Van Der Zee, and Countee Cullen’s widow, Ida Mae Cullen. Free from any institutionalized gaze and structure, they congregate around a large punch bowl to drink, reminisce, banter, and passionately debate their legacy. The conversations we’re privy to flow naturally and candidly, marked variously by humour, fervour, reflexive insight, and not a bit of melancholy, as they take stock of their achievements in their older age.\n\nGreaves’ multiple 16mm cameras are at the heart of the action, capturing and partaking in the collegial repartee, while the deft, contemporary editing balances the original ’70s textures with an exhilarating, contemporary immediacy, tracing the urgency of these artists and their ideas from the 1920s through to the 1970s and to our present moment.\n\nFunctioning as well as a dynamic inquiry into the ways culture is actively inherited and sustained across disciplines, and creates communities of protest and survival, ONCE UPON A TIME IN HARLEM is a monumental reclamation of cinematic and cultural memory.",
+   "runtime": 100,
+   "year": 2026,
+   "director": "William Greaves",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792700683338-tb-onceuponatimeinharlem.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/once-upon-a-time-in-harlem"
    }
   },
   {
@@ -1382,15 +1276,6 @@
    }
   },
   {
-   "id": "planes-trains-and-automobiles",
-   "title": "Planes, Trains, and Automobiles",
-   "description": "All that Neal Page wants to do is to get home for Thanksgiving. When bad weather cancels his flight, he decides on other means of transportation. As well as bad luck, Neal is blessed with the presence of Del Griffith, shower-curtain-ring salesman and all-around blabbermouth who is never short of advice, conversation, bad jokes, or company. And when he decides that he is going the same direction as Neal..",
-   "image": "https://static.spotapps.co/spots/db/2f6dcc5bee4168a7be483c7291b468/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
    "id": "powwow-people",
    "title": "Powwow People",
    "description": "As an immersive, observational story, Powwow People invites audiences to witness the unfolding of a powwow over the course of a single day. Emcee Reuben Little Head is the perfect guide, grounded, generous, and often hilarious. The film's final 30-minute long take is deeply inclusive, creating space for viewers to simply be present with community. It's a powerful reminder that to witness in this way is a privilege and a blessing.\n\n—Tracy Rector\n\n“the audience is the real winner for the privilege of having shared the company of so many talented people, the rich textures and engaging sonic environment of a powerful summer day’s gathering” – Josh Bis, The SunBreak",
@@ -1426,24 +1311,6 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792539164282-dpip1.png",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/puerto-rican-short-film-night"
-   }
-  },
-  {
-   "id": "rent-live-on-broadway",
-   "title": "Rent Live on Broadway",
-   "description": "CELEBRATING\n\n30th ANNIVERSARY\n\nSet in New York City's gritty East Village, the revolutionary rock opera RENT tells the story of a group of bohemians struggling to live and pay their rent. \"Measuring their lives in love,\" these starving artists strive for success and acceptance while enduring the obstacles of poverty, illness and the AIDS epidemic.",
-   "image": "https://static.spotapps.co/spots/92/3bc438b2114fde8e5ae782403ab28b/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
-   "id": "rocky",
-   "title": "Rocky",
-   "description": "CELEBRATING\n\n50th ANNIVERSARY\n\nRocky Balboa is a struggling boxer trying to make the big time, working as a debt collector for a pittance. When heavyweight champion Apollo Creed visits Philadelphia, his managers want to set up an exhibition match between Creed and a struggling boxer, touting the fight as a chance for a \"nobody\" to become a \"somebody\". The match is supposed to be easily won by Creed, but someone forgot to tell Rocky, who sees this as his only shot at the big time.",
-   "image": "https://static.spotapps.co/spots/97/612fd9b7c445ea86abcb434ea2f1c6/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -1589,18 +1456,6 @@
    "image": "https://www.siff.net/images/FESTIVAL/2026/Films/Film%20Detail%20Hero%20Images%20-%20Features/Salvation.jpg",
    "links": {
     "siff-uptown": "https://www.siff.net/festival/salvation"
-   }
-  },
-  {
-   "id": "seattle-48-hour-horror-film-project",
-   "title": "Seattle 48 Hour Horror Film Project",
-   "description": "A little imagination. A lot of caffeine. Just 48 hours to make something terrifying.\nThe Seattle 48 Hour Horror Film Project brings local filmmaking teams together for a weekend of creative mayhem, challenging them to write, shoot, and edit an original horror short before time runs out. Now, their nightmares come to the big screen at SIFF Cinema.\n\nJoin the filmmakers and fellow horror fans for a showcase of fresh voices, bold ideas, and unexpected scares. Whether you’re cheering on a team or discovering your next favorite local filmmaker, come celebrate the ingenuity and collaboration behind every frantic frame.",
-   "runtime": 100,
-   "year": 2026,
-   "country": "USA",
-   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/REN_48HrHorror26_1600x900.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-48-hour-horror-film-project-2026"
    }
   },
   {
@@ -1826,20 +1681,6 @@
    }
   },
   {
-   "id": "stolen-kisses",
-   "title": "Stolen Kisses",
-   "description": "As one of his film titles says, François Truffaut is The Man Who Loved Women. He reveres female beauty, intelligence, spirit, wit, and “superior understanding of emotions.” In his films, “Are women magic?” is a recurrent theme. In Truffaut’s Jules and Jim, two men initially see Jeanne Moreau’s Catherine as a statue come to life, but they soon experience her full human complexity. In Stolen Kisses, Truffaut’s cinematic alter-ego, Antoine Doinel (Jean-Pierre Léaud), a romantic who’s endearingly hapless, gains access to the hearts of Paris by taking a detective job. His touching and comic personal private investigations are the most revealing. He’s had a fluctuating romance with violinist Christine (Claude Jade): they never want each other at the same time, but both are still in the game. Antoine is hired by businessman Tabard (Michel Lonsdale) to discover why no one likes him, and is instantly smitten by the man’s elegant wife Fabienne (Delphine Seyrig, a classic New Wave woman). Following the French tradition of an older women giving a younger man his emotional education, she tells the starry-eyed Antoine, “I am not an apparition. I am a woman, unique and irreplaceable.” Meanwhile, young Christine learns that in order to get what you want in life, sometimes you have to give a push.",
-   "runtime": 91,
-   "year": 1968,
-   "director": "François Truffaut",
-   "country": "France",
-   "language": "French",
-   "image": "https://www.siff.net/images/CINEMA/2026/Nouvelles%20Femmes/stolenkisses.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/programs-and-events/nouvelles-femmes/stolen-kisses"
-   }
-  },
-  {
    "id": "street-fighter",
    "title": "Street Fighter",
    "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
@@ -1857,6 +1698,17 @@
    }
   },
   {
+   "id": "surplus-operations-and-instruments-experiments-in-cinema-ver",
+   "title": "Surplus Operations and Instruments: Experiments in Cinéma Vérité and Psychodrama",
+   "description": "IN THE COMPANY OF MEN and EMERGENCY WARD respectively exemplify the seemingly opposed tactics that Greaves used to extract truth from reality: psychodramatic performance and cinéma vérité. Psychodrama was a tool that Greaves used in his acting classes but which was originally developed for therapeutic use and involves breaking societal roles through deep subconscious digging in group therapy skits. Cinema verite is nearly the direct opposite and requires non-direction to allow reality to play out as it would but in front of a camera.\n\nThe notion that brings them together is spontaneity, which for Grieves was the explosion of truth that occurs at the peak of both forms. A performance when it reaches a state of therapeutic internal awareness or when the camera happens to catch a nurse when she has a few moments to share about the stress she goes through at her work. In these two short films we see Greave’s laying the groundwork for his long-term ambitions to make documentaries that spoke to the needs and interests of the Black community and to push acting through artifice and back into the real.\n\nIN THE COMPANY OF MEN (1969)\n\nProduced by Newsweek, IN THE COMPANY OF MEN offers profound insight into how psychodramatic role-playing and sensitivity training can generate constructive dialogue between white supervisors and Black employees. Concerned with increasing numbers of the “hardcore unemployed” during the late 1960s, companies began hiring consultants to foster honest conversations that uncovered mass resentment among workers toward their managers’ overt and covert racism. In an echo of his SYMBIOPSYCHOTAXIPLASM experiments, William Greaves calls upon raw, guerrilla-style camera work to observe how African American men use these sessions to express long-suppressed anger in the face of consistent professional humiliation. Among the outcomes is their bosses’ dawning recognition of the brutal realities that encourage so many skilled laborers to suffer unemployment rather than endure the demeaning American workplace.\n\nEMERGENCY WARD (1959)\n\nMade in 1958, Greaves's first NFB effort EMERGENCY WARD is a fascinating work that reflects the transition in documentary from didacticism to Direct Cinema and its director’s clear glee at finally having a full toolbox. A half-hour portrait of the emergency ward at Montreal General Hospital, the film is driven by several tensions: between a calm narrator who reassures us of the staff’s “expert knowledge” and Greaves's urgent, off-camera voice asking them blunt questions about “mistakes”; between static shots of dull routine and handheld shots of frantic chaos; and between the faith in institutions urged by the film and the suffering and loneliness it depicts. Beautifully shot by Wolf Koenig and kinetically edited by Greaves, the film is an explosion of technique that boasts several unforgettable images and announces Greaves's arrival as a filmmaker – he even appears on camera at one point, leaning against a window while listening to an orderly’s rambling anecdotes. Nevertheless, one gets the sense that Greaves is itching for a freer form or more expansive subject, honing his craft while waiting to make the films he wanted to make. (Brian Belovarac)",
+   "runtime": 82,
+   "director": "William Greaves",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792700323881-tb-inthecompanyofmen.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/surplus-operations-and-instruments-experiments-in-cin-ma-v-rit-and-psychodrama"
+   }
+  },
+  {
    "id": "sweetheart-opening-night-film-party",
    "title": "Sweetheart - Opening Night Film + Party",
    "description": "Ten-year-old Nico is forced to spend the summer in Sicily with his elderly Aunt Gela, a woman deeply rooted in the traditions of her homeland and unfamiliar with the digital world. Accustomed to social media, online chats, and modern life, Nico struggles to adapt to his aunt's lifestyle, and their relationship begins with tension. Yet, as they share everyday moments and navigate their differences, an unexpected and genuine bond emerges. Gela learns to see the world through her nephew's eyes, while Nico discovers the value of friendship, family, and traditions from a disappearing era. Their lives will never be the same.",
@@ -1868,6 +1720,18 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_Sweetheart_1600x900.png",
    "links": {
     "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/sweetheart"
+   }
+  },
+  {
+   "id": "symbiopsycho-taxiplasm-take-one",
+   "title": "Symbiopsycho-Taxiplasm: Take One",
+   "description": "In his one-of-a-kind fiction/documentary hybrid SYMBIOPSYCHOTAXIPLASM: TAKE ONE, the pioneering William Greaves presides over a beleaguered film crew in New York’s Central Park, leaving them to try to figure out what kind of movie they’re making. A couple enacts a breakup scenario over and over, a documentary crew films a crew filming the crew, locals wander casually into the frame: the project defies easy description. Yet this wildly innovative sixties counterculture landmark remains one of the most tightly focused and insightful movies ever made about making movies.\n\n“What if they made a revolution and nobody saw it? That’s what happened in 1968, when William Greaves filmed one of the most daring and original movies of the time… It’s one of the greatest movies about filmmaking ever made, and one that would have spoken to young independent filmmakers of the time. It’s a vision of filmmaking that didn’t get seen when it could have made a decisive difference for a new generation… The movie is no mere self-exploration or self-reflection but a vision of the times, a crucial work of late-sixties politics in action.” - Richard Brody, The New Yorker",
+   "runtime": 75,
+   "year": 1971,
+   "director": "William Greaves",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792704361627-tb-symbiopsycho1.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/symbiopsychotaxiplasm-take-one"
    }
   },
   {
@@ -1917,15 +1781,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/The%20Open%20Road/tasteofcherry.png",
    "links": {
     "siff-film-center": "https://www.siff.net/programs-and-events/the-open-road/taste-of-cherry"
-   }
-  },
-  {
-   "id": "taxi-driver",
-   "title": "Taxi Driver",
-   "description": "CELEBRATING\n\n50th ANNIVERSARY\n\nTravis Bickle is an ex-Marine and Vietnam War veteran living in New York City. As he suffers from insomnia, he spends his time working as a taxi driver at night, watching porn movies at seedy cinemas during the day, or thinking about how the world, New York in particular, has deteriorated into a cesspool. He's a loner who has strong opinions about what is right and wrong with mankind. For him, the one bright spot in humanity is Betsy, a worker on the presidential nomination campaign of Senator Charles Palantine. After an incident, he believes he has to do whatever he needs to make the world a better place.",
-   "image": "https://static.spotapps.co/spots/ec/0524b9aeab43a3b9eb6fa26c895691/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -2226,22 +2081,6 @@
    }
   },
   {
-   "id": "ring",
-   "title": "The Ring",
-   "description": "It sounded like just another urban legend--videotape filled with nightmarish images, leading to a phone call foretelling the viewer's death in exactly seven days. As a newspaper reporter, Rachel Keller was naturally skeptical of the story, until four teenagers all met with mysterious deaths exactly one week after watching just such a tape. Allowing her investigative curiosity to get the better of her, Rachel tracks down the video... and watches it. Now she has just seven days to unravel the mystery of the \"Ring.\"",
-   "runtime": 110,
-   "year": 2002,
-   "director": "Gore Verbinski",
-   "rating": "PG-13",
-   "genres": [
-    "Horror"
-   ],
-   "image": "https://all.web.img.acsta.net/img/59/30/5930bc113ffd24356f057dcde6578aa2.jpg",
-   "links": {
-    "majestic-bay": "https://www.majesticbay.com/movies/42552-the-ring-2002/"
-   }
-  },
-  {
    "id": "rocky-horror-picture-show",
    "title": "The Rocky Horror Picture Show",
    "description": "$5 of every ticket will be donated to Seattle Pride. After getting a flat tire, two sweethearts discover the eerie mansion of a flamboyant scientist and houseful of wild characters. Through elaborate dance and rock songs, the mad scientist unveils his latest creation: a perfect, muscular man.\n\n9pm doors.\n\n9:30 show start (meaning rules, games, contests, promotions, etc)\n\n10pm movie start time.\n\nUpcoming Show Dates\n\nFeb 21\n\nMar 21\n\nApr 18\n\nMay 16\n\nJune 20",
@@ -2290,6 +2129,23 @@
    "image": "https://www.siff.net/images/CINEMA/2024/Films%20June-Dec/CIN_TheShining_1600x900.jpg",
    "links": {
     "siff-downtown": "https://www.siff.net/cinema/in-theaters/the-shining"
+   }
+  },
+  {
+   "id": "store",
+   "title": "The Store",
+   "description": "THE STORE is a film about the main Neiman-Marcus store and corporate headquarters in Dallas. The sequences in the film include the selection, presentation, marketing, pricing, advertising and selling of a vast array of consumer products including designer clothes and furs, jewelry, perfumes, shoes, electronic products, sportswear, china and porcelain and many other goods. The internal management and organizational aspects of a large corporation are shown, i.e., sales meetings, development of marketing and advertising strategies, training, personnel practices and sales techniques.\n\n“…witnessing how an establishment deftly caters to such appetites makes for an engrossing spectacle… Only Wiseman seems able to consistently capture those tiny, illuminating surprises that stay with us long after he’s through with us.” –Harry F. Waters, Newsweek",
+   "runtime": 118,
+   "year": 1983,
+   "director": "Frederick Wiseman",
+   "country": "United States",
+   "language": "English",
+   "genres": [
+    "Documentary"
+   ],
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/06/thestore1600-4-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/truth-to-fiction-the-store/"
    }
   },
   {
@@ -2375,15 +2231,6 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/tokyostory1600-1-1200x675.jpg",
    "links": {
     "nwff": "https://nwfilmforum.org/films/tokyo-story/"
-   }
-  },
-  {
-   "id": "top-gun",
-   "title": "Top Gun",
-   "description": "CELEBRATING\n\n40th ANNIVERSARY\n\nThe Top Gun Naval Fighter Weapons School is where the best of the best train to refine their elite flying skills. When hotshot fighter pilot Maverick is sent to the school, his reckless attitude and cocky demeanor put him at odds with the other pilots, especially the cool and collected Iceman.",
-   "image": "https://static.spotapps.co/spots/64/7e70ec70e44092b717099bbbbbd9f6/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
    }
   },
   {
@@ -2485,15 +2332,6 @@
    }
   },
   {
-   "id": "white-fang",
-   "title": "White Fang",
-   "description": "CELEBRATING\n\n25th ANNIVERSARY\n\nEthan Hawke stars as a young man trying to fulfill his father's dying wish to find gold in the treacherous Yukon valley. His incredible Journey begins when he meets a veteran gold miner who guides young Jack to his father's claim. Along the way, Jack discovers a kindred spirit who will change his life forever a magnificent wolf-dog named White Fang. From the taming of a wolf, to the taming of the wild, he must find the courage to conquer his fears and become a man in this outdoor adventure.",
-   "image": "https://static.spotapps.co/spots/1f/cec952b951466d91e9652df1c5104f/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
    "id": "wicker",
    "title": "Wicker",
    "description": "An audacious comedic fable about sex, marriage, and the absurdities of social convention, Wicker tells the wholly original love story of an ostracized fisherwoman (Olivia Colman) who commissions a husband to be made by the local basketmaker (Peter Dinklage). When her wicker husband (Alexander Skarsgård) proves more spectacular than she ever imagined, his soulful spirit and unique prowess awaken something inside her, setting off a wave of jealousy, fascination, and upheaval that threatens the very fabric of village life.",
@@ -2580,18 +2418,9 @@
    }
   },
   {
-   "id": "willy-wonka-and-the-chocolate-factory",
-   "title": "Willy Wonka and the Chocolate Factory",
-   "description": "CELEBRATING\n\n55th ANNIVERSARY\n\nA poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory.",
-   "image": "https://static.spotapps.co/spots/a6/a725482b394b09b9faa9a9a8e6c431/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
    "id": "withdrawal",
    "title": "Withdrawal",
-   "description": "Writer/director/editor Aaron Strand scheduled to join for an in-person intro and Q&A. Raw, unflinching, and surprisingly funny, WITHDRAWAL was shot on miniDV in Athens, GA for a budget of $60k and is a prime example of indie filmmaking at its finest.\n\nArtistic lovers Viv (Millie Rose Evans) and Jay (Brent Michal) are trapped in a vicious cycle of codependent heroin addiction. When Viv's wealthy parents hire an interventionist to take her to rehab, the couple decides to go it alone with nothing but a suboxone prescription and each other. All they have to do is survive one harrowing night of withdrawal. As the hours tick by, physical, mental, and emotional torments send them searching through fractured memories, trying to figure out where it all went wrong.\n\nWinner of a dozen awards on the festival circuit, including Best Feature/Best Director at the Art of Brooklyn Film Festival and Best Actress at the Kanazawa Film Festival.",
+   "description": "Writer/director/editor Aaron Strand scheduled to join for an in-person intro and Q&A. Raw, unflinching, and surprisingly funny, WITHDRAWAL was shot on miniDV in Athens, GA for a budget of $60k and is a prime example of indie filmmaking at its finest.\n\nArtistic lovers Viv (Millie Rose Evans) and Jay (Brent Michal) are trapped in a vicious cycle of codependent heroin addiction. When Viv's wealthy parents hire an interventionist to take her to rehab, the couple decides to go it alone with nothing but a suboxone prescription and each other. All they have to do is survive one harrowing night of withdrawal. As the hours tick by, physical, mental, and emotional torments send them searching through fractured memories, trying to figure out where it all went wrong.\n\nWinner of a dozen awards on the festival circuit, including Best Feature/Best Director at the Art of Brooklyn Film Festival and Best Actress at the Kanazawa Film Festival.\n\nLocal Seattle filmmaker Matt Dy’s short “We’re All in This Together” will precede the feature.",
    "runtime": 93,
    "year": 2025,
    "director": "Aaron Strand",
@@ -2621,7 +2450,7 @@
    "id": "you-can-see-everything",
    "title": "You Can See Everything",
    "description": "Thirty-four days before she’s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss. From boundary-pushing directors Nathan Fielder and Lance Oppenheim comes You Can See Everything.",
-   "runtime": 174,
+   "runtime": 175,
    "year": 2026,
    "director": "Nathan Fielder, Lance Oppenheim",
    "country": "USA",
@@ -2717,256 +2546,6 @@
   }
  ],
  "showings": [
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-10-28T15:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17148/793"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-10-28T15:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36486?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-10-28T15:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36487?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-10-28T15:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36304?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wildwood",
-   "theater": "admiral",
-   "start": "2026-10-28T15:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17147/797"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-28T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17144/794"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-28T15:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-IVMgQn2By1"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-10-28T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17191/800"
-  },
-  {
-   "film": "frankenstein",
-   "theater": "central-cinema",
-   "start": "2026-10-28T16:00:00-07:00",
-   "url": "https://central-cinema.com/movie/frankenstein-1931/",
-   "tickets": "https://central-cinema.com/checkout/showing/frankenstein-1931/3999058"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-10-28T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-rUoQQqyfAm"
-  },
-  {
-   "film": "i-walked-with-a-zombie",
-   "theater": "beacon",
-   "start": "2026-10-28T16:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/i-walked-with-a-zombie",
-   "tickets": "https://thebeacon.film/calendar/movie/i-walked-with-a-zombie?showtime=ZAH6KVYYM3K4AUNBEQGFYSNL"
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-28T16:40:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-4F2KEtLqAu"
-  },
-  {
-   "film": "tenzing",
-   "theater": "tasveer",
-   "start": "2026-10-28T17:10:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/tenzing",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/tenzing/4003550"
-  },
-  {
-   "film": "take-me-home",
-   "theater": "tasveer",
-   "start": "2026-10-28T17:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/take-me-home",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/take-me-home/4003549"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-28T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17146/794"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-10-28T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17099/793"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-10-28T18:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36305?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-28T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17145/795"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-10-28T18:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36488?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "tasveer",
-   "start": "2026-10-28T18:45:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4003613"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-10-28T18:50:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17149/800"
-  },
-  {
-   "film": "ring",
-   "theater": "majestic-bay",
-   "start": "2026-10-28T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/42552-the-ring-2002/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36381?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
-   "notes": [
-    "Special screening"
-   ]
-  },
-  {
-   "film": "call-me-by-your-name",
-   "theater": "north-bend",
-   "start": "2026-10-28T19:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/call-me-by-your-name-wednesday-oct-28th-7pm",
-   "tickets": "https://tix.northbendtheatre.com/event/call-me-by-your-name-wednesday-oct-28th-7pm",
-   "notes": [
-    "Rainbow Reels",
-    "Presented by SnoValley Pride",
-    "Free"
-   ]
-  },
-  {
-   "film": "begotten",
-   "theater": "nwff",
-   "start": "2026-10-28T19:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/begotten-4k-restoration/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6adbdbf7e2296c51fdac99cb",
-   "notes": [
-    "4K restoration"
-   ]
-  },
-  {
-   "film": "invasion-of-the-body-snatchers",
-   "theater": "siff-film-center",
-   "start": "2026-10-28T19:00:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/scarecrowber-2026/invasion-of-the-body-snatchers",
-   "tickets": "https://www.siff.net/programs-and-events/scarecrowber-2026/invasion-of-the-body-snatchers#screening-9DhXobTwDt",
-   "notes": [
-    "Scarecrowber",
-    "Sold out"
-   ]
-  },
-  {
-   "film": "seattle-48-hour-horror-film-project",
-   "theater": "siff-uptown",
-   "start": "2026-10-28T19:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/seattle-48-hour-horror-film-project-2026",
-   "tickets": "https://www.siff.net/cinema/in-theaters/seattle-48-hour-horror-film-project-2026#screening-xjH1X2fX3Z"
-  },
-  {
-   "film": "devils",
-   "theater": "siff-downtown",
-   "start": "2026-10-28T19:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-6A5ZUM5OTP"
-  },
-  {
-   "film": "dracula-of-exarcheia",
-   "theater": "beacon",
-   "start": "2026-10-28T19:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/dracula-of-exarcheia",
-   "tickets": "https://thebeacon.film/calendar/movie/dracula-of-exarcheia?showtime=RTLGZZXSCPSMIPVTZYCH665F"
-  },
-  {
-   "film": "stolen-kisses",
-   "theater": "siff-uptown",
-   "start": "2026-10-28T19:30:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/nouvelles-femmes/stolen-kisses",
-   "tickets": "https://www.siff.net/programs-and-events/nouvelles-femmes/stolen-kisses#screening-HK7dlip3HJ",
-   "notes": [
-    "Nouvelles Femmes",
-    "35mm"
-   ]
-  },
-  {
-   "film": "wildwood",
-   "theater": "tasveer",
-   "start": "2026-10-28T19:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/wildwood",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wildwood/4003614"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-10-28T19:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-M66HloD0UC"
-  },
-  {
-   "film": "your-mother-your-mother-your-mother",
-   "theater": "tasveer",
-   "start": "2026-10-28T19:45:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/your-mother-your-mother-your-mother",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/your-mother-your-mother-your-mother/4136301"
-  },
-  {
-   "film": "fright-night",
-   "theater": "central-cinema",
-   "start": "2026-10-28T21:30:00-07:00",
-   "url": "https://central-cinema.com/movie/fright-night/",
-   "tickets": "https://central-cinema.com/checkout/showing/fright-night/3999059"
-  },
   {
    "film": "you-can-see-everything",
    "theater": "admiral",
@@ -3122,7 +2701,10 @@
    "theater": "siff-uptown",
    "start": "2026-10-29T18:45:00-07:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-4kWOoYmfS7"
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-4kWOoYmfS7",
+   "notes": [
+    "Sold out"
+   ]
   },
   {
    "film": "clayface",
@@ -3685,6 +3267,13 @@
    "url": "https://tinroombar.com/events"
   },
   {
+   "film": "fatherland",
+   "theater": "siff-uptown",
+   "start": "2026-10-31T19:20:00-07:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-AZrIHr2MYt"
+  },
+  {
    "film": "wicker",
    "theater": "siff-uptown",
    "start": "2026-10-31T19:45:00-07:00",
@@ -4050,6 +3639,13 @@
    ]
   },
   {
+   "film": "fatherland",
+   "theater": "siff-uptown",
+   "start": "2026-11-02T16:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-s7GIWUB4Ov"
+  },
+  {
    "film": "leopard-man",
    "theater": "beacon",
    "start": "2026-11-02T16:30:00-08:00",
@@ -4240,6 +3836,13 @@
    "start": "2026-11-03T16:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-kqnkAbe6ni"
+  },
+  {
+   "film": "fatherland",
+   "theater": "siff-uptown",
+   "start": "2026-11-03T16:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-r3lZuLPHNp"
   },
   {
    "film": "artists-and-models",
@@ -4443,6 +4046,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-PTEJ9HKMiU"
   },
   {
+   "film": "fatherland",
+   "theater": "siff-uptown",
+   "start": "2026-11-04T16:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-37ZLgO1y5p"
+  },
+  {
    "film": "wicker",
    "theater": "tasveer",
    "start": "2026-11-04T17:30:00-08:00",
@@ -4604,6 +4214,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-e2QofaM1md"
   },
   {
+   "film": "fatherland",
+   "theater": "siff-uptown",
+   "start": "2026-11-05T16:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-7JHaeYEScm"
+  },
+  {
    "film": "artists-and-models",
    "theater": "beacon",
    "start": "2026-11-05T16:30:00-08:00",
@@ -4695,12 +4312,6 @@
    ]
   },
   {
-   "film": "a-i",
-   "theater": "tin-room",
-   "start": "2026-11-05T19:00:00-08:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
    "film": "cinema",
    "theater": "beacon",
    "start": "2026-11-05T19:30:00-08:00",
@@ -4763,6 +4374,13 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36568?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-06T15:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-sKTRs9j2Bm"
+  },
+  {
    "film": "true-stories",
    "theater": "central-cinema",
    "start": "2026-11-06T16:00:00-08:00",
@@ -4777,6 +4395,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-2OlA8yPUrS"
   },
   {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-06T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-MiIjOgp3A1"
+  },
+  {
    "film": "engauge-2026-tainted",
    "theater": "nwff",
    "start": "2026-11-06T16:30:00-08:00",
@@ -4787,11 +4412,11 @@
    ]
   },
   {
-   "film": "wild-horse-nine",
+   "film": "wicker",
    "theater": "siff-uptown",
    "start": "2026-11-06T16:30:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-MiIjOgp3A1"
+   "url": "https://www.siff.net/cinema/in-theaters/wicker",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-eAvxIPQusn"
   },
   {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
@@ -4839,10 +4464,11 @@
    ]
   },
   {
-   "film": "rocky",
-   "theater": "tin-room",
-   "start": "2026-11-06T19:00:00-08:00",
-   "url": "https://tinroombar.com/events"
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-06T19:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-Y1DbuI3YgY"
   },
   {
    "film": "godzilla-minus-zero",
@@ -4886,11 +4512,25 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36607?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-07T12:10:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-2MBSPPJjPC"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-07T12:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-HHrlhNC0HR"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-07T12:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-byqO4qyJDg"
   },
   {
    "film": "stffshorts-narrative-selection-2",
@@ -4908,12 +4548,6 @@
    "notes": [
     "The Films of Andrzej Wajda"
    ]
-  },
-  {
-   "film": "harry-potter",
-   "theater": "tin-room",
-   "start": "2026-11-07T14:00:00-08:00",
-   "url": "https://tinroombar.com/events"
   },
   {
    "film": "secs-fest-2026",
@@ -4945,6 +4579,13 @@
    "start": "2026-11-07T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36606?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-07T15:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-fXaewhNchg"
   },
   {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
@@ -5021,10 +4662,11 @@
    "tickets": "https://central-cinema.com/checkout/showing/tampopo/4180379"
   },
   {
-   "film": "top-gun",
-   "theater": "tin-room",
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
    "start": "2026-11-07T19:00:00-08:00",
-   "url": "https://tinroombar.com/events"
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-YBCjuIxF62"
   },
   {
    "film": "engauge-2026-rankin-renwick-solo-show",
@@ -5092,6 +4734,20 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36615?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "wild-horse-nine",
+   "theater": "siff-uptown",
+   "start": "2026-11-08T12:10:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-8N9osWS8Th"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-08T12:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-Y3Rl6ywNcQ"
+  },
+  {
    "film": "seattle-turkish-film-festival-dump-of-untitled-pieces",
    "theater": "siff-uptown",
    "start": "2026-11-08T13:30:00-08:00",
@@ -5134,6 +4790,13 @@
    "start": "2026-11-08T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36616?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-08T15:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-OvhAifkhDL"
   },
   {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
@@ -5188,12 +4851,6 @@
    "tickets": "https://www.siff.net/festival/salvation#screening-C6r9m7olTc"
   },
   {
-   "film": "white-fang",
-   "theater": "tin-room",
-   "start": "2026-11-08T18:00:00-08:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
    "theater": "nwff",
    "start": "2026-11-08T18:30:00-08:00",
@@ -5220,6 +4877,13 @@
    "start": "2026-11-08T19:00:00-08:00",
    "url": "https://central-cinema.com/movie/tampopo/",
    "tickets": "https://central-cinema.com/checkout/showing/tampopo/4180382"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-08T19:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-sDbjNKJxwJ"
   },
   {
    "film": "wild-horse-nine",
@@ -5271,6 +4935,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-CWDtygoJpS"
   },
   {
+   "film": "wicker",
+   "theater": "siff-uptown",
+   "start": "2026-11-09T16:20:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wicker",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-vbNlVYgp6B"
+  },
+  {
    "film": "discreet-charm-of-the-bourgeoisie",
    "theater": "siff-uptown",
    "start": "2026-11-09T18:30:00-08:00",
@@ -5293,6 +4964,20 @@
    "start": "2026-11-09T19:00:00-08:00",
    "url": "https://nwfilmforum.org/films/vagabond/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6aceccf11d20719af447ffe9"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-09T19:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-0tSnlZNNpR"
+  },
+  {
+   "film": "symbiopsycho-taxiplasm-take-one",
+   "theater": "beacon",
+   "start": "2026-11-09T19:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/symbiopsychotaxiplasm-take-one",
+   "tickets": "https://thebeacon.film/calendar/movie/symbiopsychotaxiplasm-take-one?showtime=PM57BJ3WNN3XGNJRWKZJEXEE"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5351,6 +5036,20 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-3ITeKaT9Vs"
   },
   {
+   "film": "wicker",
+   "theater": "siff-uptown",
+   "start": "2026-11-10T16:20:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wicker",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-Q2rRKSKt53"
+  },
+  {
+   "film": "surplus-operations-and-instruments-experiments-in-cinema-ver",
+   "theater": "beacon",
+   "start": "2026-11-10T16:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/surplus-operations-and-instruments-experiments-in-cin-ma-v-rit-and-psychodrama",
+   "tickets": "https://thebeacon.film/calendar/movie/surplus-operations-and-instruments-experiments-in-cin-ma-v-rit-and-psychodrama?showtime=QLVNJXK4H6KGFA7DQI2QFLCK"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "majestic-bay",
    "start": "2026-11-10T18:45:00-08:00",
@@ -5370,6 +5069,20 @@
    "start": "2026-11-10T19:00:00-08:00",
    "url": "https://nwfilmforum.org/films/vagabond/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6aceccf11d20719af447ffee"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-10T19:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-T1ButPhiXh"
+  },
+  {
+   "film": "symbiopsycho-taxiplasm-take-one",
+   "theater": "beacon",
+   "start": "2026-11-10T19:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/symbiopsychotaxiplasm-take-one",
+   "tickets": "https://thebeacon.film/calendar/movie/symbiopsychotaxiplasm-take-one?showtime=VHY25VOLFCBQO7KVVTJ2HBEM"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5446,6 +5159,20 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-3lXklh1ZEi"
   },
   {
+   "film": "wicker",
+   "theater": "siff-uptown",
+   "start": "2026-11-11T16:20:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wicker",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-aBIdnCU1VU"
+  },
+  {
+   "film": "symbiopsycho-taxiplasm-take-one",
+   "theater": "beacon",
+   "start": "2026-11-11T16:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/symbiopsychotaxiplasm-take-one",
+   "tickets": "https://thebeacon.film/calendar/movie/symbiopsychotaxiplasm-take-one?showtime=ILDDPGZWIUYRKVWFJC453VG6"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "majestic-bay",
    "start": "2026-11-11T18:30:00-08:00",
@@ -5475,6 +5202,20 @@
    "start": "2026-11-11T19:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-AkJTstL1bA"
+  },
+  {
+   "film": "wicker",
+   "theater": "siff-uptown",
+   "start": "2026-11-11T19:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/wicker",
+   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-CNcQvgJO0Q"
+  },
+  {
+   "film": "surplus-operations-and-instruments-experiments-in-cinema-ver",
+   "theater": "beacon",
+   "start": "2026-11-11T19:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/surplus-operations-and-instruments-experiments-in-cin-ma-v-rit-and-psychodrama",
+   "tickets": "https://thebeacon.film/calendar/movie/surplus-operations-and-instruments-experiments-in-cin-ma-v-rit-and-psychodrama?showtime=O7I4K54CR7IXMFV3GS5CWNKQ"
   },
   {
    "film": "members-only-mystery-movie-november-2026",
@@ -5554,10 +5295,11 @@
    ]
   },
   {
-   "film": "don-t-tell-mom-the-babysitter-is-dead",
-   "theater": "tin-room",
-   "start": "2026-11-12T19:00:00-08:00",
-   "url": "https://tinroombar.com/events"
+   "film": "you-can-see-everything",
+   "theater": "siff-uptown",
+   "start": "2026-11-12T19:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
+   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-eJFtQtv5GM"
   },
   {
    "film": "zi",
@@ -5663,12 +5405,6 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/3-days-in-september#screening-6waCfIUvnw"
   },
   {
-   "film": "taxi-driver",
-   "theater": "tin-room",
-   "start": "2026-11-13T19:00:00-08:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
    "film": "delicatessen",
    "theater": "central-cinema",
    "start": "2026-11-13T21:30:00-08:00",
@@ -5715,12 +5451,6 @@
    "start": "2026-11-14T13:50:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/kontinental-25",
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/kontinental-25#screening-mNIKu9HDPg"
-  },
-  {
-   "film": "willy-wonka-and-the-chocolate-factory",
-   "theater": "tin-room",
-   "start": "2026-11-14T14:00:00-08:00",
-   "url": "https://tinroombar.com/events"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5777,12 +5507,6 @@
     "Family",
     "Dubbed"
    ]
-  },
-  {
-   "film": "fargo",
-   "theater": "tin-room",
-   "start": "2026-11-14T19:00:00-08:00",
-   "url": "https://tinroombar.com/events"
   },
   {
    "film": "romanian-film-festival-seattle-r-m-n",
@@ -5914,12 +5638,6 @@
    "notes": [
     "PNW Awards"
    ]
-  },
-  {
-   "film": "maltese-falcon",
-   "theater": "tin-room",
-   "start": "2026-11-15T18:00:00-08:00",
-   "url": "https://tinroombar.com/events"
   },
   {
    "film": "romanian-film-festival-seattle-the-wall",
@@ -6075,6 +5793,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/her-song#screening-qo7oW3dLqN"
   },
   {
+   "film": "nationtime",
+   "theater": "beacon",
+   "start": "2026-11-17T19:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/nationtime",
+   "tickets": "https://thebeacon.film/calendar/movie/nationtime?showtime=6YJ6BPOQ2GXTAYJCIHLSEEWC"
+  },
+  {
    "film": "my-night-at-maud-s",
    "theater": "siff-uptown",
    "start": "2026-11-17T19:30:00-08:00",
@@ -6101,6 +5826,13 @@
     "Family",
     "Dubbed"
    ]
+  },
+  {
+   "film": "nationtime",
+   "theater": "beacon",
+   "start": "2026-11-18T16:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/nationtime",
+   "tickets": "https://thebeacon.film/calendar/movie/nationtime?showtime=EE26DF3SAK7CH4HAEKMXP2RD"
   },
   {
    "film": "sweetheart-opening-night-film-party",
@@ -6231,6 +5963,13 @@
    "notes": [
     "Cinema Italian Style 2026"
    ]
+  },
+  {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "beacon",
+   "start": "2026-11-20T19:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://thebeacon.film/calendar/movie/once-upon-a-time-in-harlem?showtime=HBLI6SNSASAUZCMV65TOIPYV"
   },
   {
    "film": "love-streams",
@@ -6365,12 +6104,6 @@
    "tickets": "https://thebeacon.film/calendar/movie/clash-by-ight?showtime=4KQCCD3NY5TKSMXLWAMIPB2D"
   },
   {
-   "film": "rent-live-on-broadway",
-   "theater": "tin-room",
-   "start": "2026-11-22T14:00:00-08:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
    "film": "actually-it-is-rocket-science",
    "theater": "north-bend",
    "start": "2026-11-22T15:00:00-08:00",
@@ -6408,6 +6141,13 @@
    "notes": [
     "4K restoration"
    ]
+  },
+  {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "beacon",
+   "start": "2026-11-22T17:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://thebeacon.film/calendar/movie/once-upon-a-time-in-harlem?showtime=XQS65CX7DTQ64F23ROWUQINV"
   },
   {
    "film": "god-forgives-everyone",
@@ -6464,6 +6204,20 @@
    ]
   },
   {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "beacon",
+   "start": "2026-11-23T19:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://thebeacon.film/calendar/movie/once-upon-a-time-in-harlem?showtime=A67CDXV5BZMJSS33NQDAJR7G"
+  },
+  {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "beacon",
+   "start": "2026-11-24T16:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://thebeacon.film/calendar/movie/once-upon-a-time-in-harlem?showtime=ULZUPD7FUVLSQTZXN363TIQ2"
+  },
+  {
    "film": "my-brother-s-wedding",
    "theater": "nwff",
    "start": "2026-11-24T19:00:00-08:00",
@@ -6498,12 +6252,6 @@
    "tickets": "https://thebeacon.film/calendar/movie/buffalo-66?showtime=UC6ARO5YSQHSOCWDDQMITKDR"
   },
   {
-   "film": "planes-trains-and-automobiles",
-   "theater": "tin-room",
-   "start": "2026-11-25T18:00:00-08:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
    "film": "star-trek-iv-the-voyage-home",
    "theater": "majestic-bay",
    "start": "2026-11-25T19:00:00-08:00",
@@ -6536,12 +6284,6 @@
    "start": "2026-11-27T19:00:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/five-minutes-to-live",
    "tickets": "https://thebeacon.film/calendar/movie/five-minutes-to-live?showtime=BIZZ2DWFWQCWSZC2RMIXIZCS"
-  },
-  {
-   "film": "home-for-the-holidays",
-   "theater": "tin-room",
-   "start": "2026-11-27T19:00:00-08:00",
-   "url": "https://tinroombar.com/events"
   },
   {
    "film": "tokyo-story",
@@ -6689,6 +6431,38 @@
    "start": "2026-12-02T19:30:00-08:00",
    "url": "https://nwfilmforum.org/films/zero-patience/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6acd3652719156ac50c9b008"
+  },
+  {
+   "film": "natural-born-killers",
+   "theater": "beacon",
+   "start": "2026-12-03T16:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/natural-born-killers",
+   "tickets": "https://thebeacon.film/calendar/movie/natural-born-killers?showtime=QTDB4B47C35LRLZOGYIN4QFZ"
+  },
+  {
+   "film": "store",
+   "theater": "nwff",
+   "start": "2026-12-03T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/truth-to-fiction-the-store/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6a285ca5a71a8de749942f5f"
+  },
+  {
+   "film": "beavis-and-butt-head-do-america",
+   "theater": "siff-uptown",
+   "start": "2026-12-03T19:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/the-open-road/beavis-and-butt-head-do-america",
+   "tickets": "https://www.siff.net/programs-and-events/the-open-road/beavis-and-butt-head-do-america#screening-VtN4Vm440u",
+   "notes": [
+    "The Open Road",
+    "35mm"
+   ]
+  },
+  {
+   "film": "zero-patience",
+   "theater": "nwff",
+   "start": "2026-12-03T19:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/zero-patience/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6acd3684913bc7c9f3f80e1f"
   }
  ]
 }
