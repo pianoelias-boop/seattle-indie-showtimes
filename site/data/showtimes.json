@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T11:56:00-07:00",
+ "updated": "2026-10-30T11:35:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-29T11:56:00-07:00",
-    "lastSuccess": "2026-10-29T11:56:00-07:00",
-    "showings": 34,
+    "checked": "2026-10-30T11:35:00-07:00",
+    "lastSuccess": "2026-10-30T11:35:00-07:00",
+    "showings": 32,
     "through": "2026-11-15"
    }
   },
@@ -33,9 +33,9 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-29T11:56:00-07:00",
-    "lastSuccess": "2026-10-29T11:56:00-07:00",
-    "showings": 126,
+    "checked": "2026-10-30T11:35:00-07:00",
+    "lastSuccess": "2026-10-30T11:35:00-07:00",
+    "showings": 120,
     "through": "2026-12-03"
    }
   },
@@ -52,9 +52,9 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-29T11:56:00-07:00",
-    "lastSuccess": "2026-10-29T11:56:00-07:00",
-    "showings": 23,
+    "checked": "2026-10-30T11:35:00-07:00",
+    "lastSuccess": "2026-10-30T11:35:00-07:00",
+    "showings": 22,
     "through": "2026-11-29"
    }
   },
@@ -70,8 +70,8 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-29T11:56:00-07:00",
-    "lastSuccess": "2026-10-29T11:56:00-07:00",
+    "checked": "2026-10-30T11:35:00-07:00",
+    "lastSuccess": "2026-10-30T11:35:00-07:00",
     "showings": 5,
     "through": "2026-11-15"
    }
@@ -88,10 +88,10 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-29T11:56:00-07:00",
-    "lastSuccess": "2026-10-29T11:56:00-07:00",
-    "showings": 69,
-    "through": "2026-12-03"
+    "checked": "2026-10-30T11:35:00-07:00",
+    "lastSuccess": "2026-10-30T11:35:00-07:00",
+    "showings": 72,
+    "through": "2026-12-04"
    }
   },
   {
@@ -107,10 +107,10 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-29T11:56:00-07:00",
-    "lastSuccess": "2026-10-29T11:56:00-07:00",
-    "showings": 58,
-    "through": "2026-11-19"
+    "checked": "2026-10-30T11:35:00-07:00",
+    "lastSuccess": "2026-10-30T11:35:00-07:00",
+    "showings": 57,
+    "through": "2026-12-03"
    }
   },
   {
@@ -126,10 +126,10 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-29T11:56:00-07:00",
-    "lastSuccess": "2026-10-29T11:56:00-07:00",
-    "showings": 56,
-    "through": "2026-12-03"
+    "checked": "2026-10-30T11:35:00-07:00",
+    "lastSuccess": "2026-10-30T11:35:00-07:00",
+    "showings": 58,
+    "through": "2026-12-04"
    }
   },
   {
@@ -145,9 +145,9 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-29T11:56:00-07:00",
-    "lastSuccess": "2026-10-29T11:56:00-07:00",
-    "showings": 41,
+    "checked": "2026-10-30T11:35:00-07:00",
+    "lastSuccess": "2026-10-30T11:35:00-07:00",
+    "showings": 35,
     "through": "2026-11-05"
    }
   },
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-29T11:56:00-07:00",
-    "lastSuccess": "2026-10-29T11:56:00-07:00",
-    "showings": 67,
+    "checked": "2026-10-30T11:35:00-07:00",
+    "lastSuccess": "2026-10-30T11:35:00-07:00",
+    "showings": 61,
     "through": "2026-11-25"
    }
   },
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-29T11:56:00-07:00",
-    "lastSuccess": "2026-10-29T11:56:00-07:00",
-    "showings": 10,
+    "checked": "2026-10-30T11:35:00-07:00",
+    "lastSuccess": "2026-10-30T11:35:00-07:00",
+    "showings": 65,
     "through": "2026-11-21"
    }
   },
@@ -201,9 +201,9 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-29T11:56:00-07:00",
-    "lastSuccess": "2026-10-29T11:56:00-07:00",
-    "showings": 4,
+    "checked": "2026-10-30T11:35:00-07:00",
+    "lastSuccess": "2026-10-30T11:35:00-07:00",
+    "showings": 3,
     "through": "2026-10-31"
    }
   },
@@ -220,9 +220,9 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-29T11:56:00-07:00",
-    "lastSuccess": "2026-10-29T11:56:00-07:00",
-    "showings": 20,
+    "checked": "2026-10-30T11:35:00-07:00",
+    "lastSuccess": "2026-10-30T11:35:00-07:00",
+    "showings": 19,
     "through": "2026-11-29"
    }
   }
@@ -355,15 +355,6 @@
    }
   },
   {
-   "id": "american-werewolf-in-london",
-   "title": "American Werewolf in London",
-   "description": "After a terrifying encounter with a mysterious wolf in the English countryside, two American tourists are forever changed. One man dies from his injuries, while the other begins a horrifying transformation into a werewolf. He must confront the terrifying reality of his condition and the looming threat of the next full moon, all while being hunted by professionals determined to stop the savage beast he's becoming.",
-   "image": "https://static.spotapps.co/spots/93/2bcf50bb6a401fb6a034d587051c94/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
    "id": "artists-and-models",
    "title": "Artists and Models",
    "description": "In the 1950s, America became convinced that comic books were corrupting the minds of its young people, filling their heads with violence, perversion, and dangerous fantasies. Director Frank Tashlin took one look at this national emergency and decided to make a movie about how great all that sounded. Jerry Lewis plays a comic book addict whose feverish dreams of the voluptuous Bat Lady keep his roommate Dean Martin awake at night—until those same nocturnal ravings become the inspiration for a bestselling comic strip. Add Shirley MacLaine and Dorothy Malone as a pair of suspiciously gorgeous upstairs neighbors, a few Communist spies, and a government investigation, and you've got a movie that makes a pretty convincing case for the pleasures of having your brain permanently destroyed by pop culture.\n\nA former cartoonist himself, Tashlin transforms Cold War paranoia, sexual repression, and the American publishing industry into a delirious explosion of Technicolor lunacy, with enough outrageous sight gags, shameless innuendo, and exposed thighs to warrant an investigation by the Senate. Admired by Jean-Luc Godard and celebrated as a precursor of Pop Art, Tashlin makes the whole world look like a Looney Tunes cartoon that has recently gone through puberty. But beneath all the hysteria, ARTISTS AND MODELS is also one of the great movies about goofing off with your roommate, making art with your friends, and finding happiness in a country that would very much prefer you stop doing all three.",
@@ -386,6 +377,18 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Community%20Screenings/Auntiemame.png",
    "links": {
     "siff-downtown": "https://www.siff.net/programs-and-events/community-screenings/auntie-mame"
+   }
+  },
+  {
+   "id": "baxter-vera-baxter",
+   "title": "Baxter. Vera Baxter",
+   "description": "“A thousand years ago, they say, there were women who, alone in the middle of the forests that bordered the Atlantic, would wait in their shacks for their husbands who were far away: either fighting the Lord’s War, or in the Crusades. And, it was during this time, that these women began to talk to the trees, to the sea, to the animals of the forest. They were called ‘witches’, and they were burned to death.\n\nOne of these women was named Vera Baxter.” – Marguerite Duras\n\nThis portrait of Vera Baxter (Claudine Gabay) – an affectless bourgeois woman, and (as an ever-surprising Durassian voiceover tells us) witch – unfolds in an isolated modernist villa, bordering a forest. Her situation is revealed through the visits of two women, a former mistress of her husband (Noëlle Châtelet), and an unnamed woman (Delphine Seyrig), who coaxes her out of her silence. Through these conversations, staged theatrically in different rooms of the unadorned house, the source of Vera Baxter’s despondency gradually emerges. Her indifferent husband has sold her to other men for a million francs – the price required to cover the rental of the villa – turning her, reluctantly, into an adulteress (and a sex worker). BAXTER, VERA BAXTER was written against the backdrop of the Women’s Movement, with which Duras had a fluctuating and sometimes ambivalent relationship, and is arguably the film that deals most explicitly with feminist lines of questioning.",
+   "runtime": 95,
+   "year": 1977,
+   "director": "Marguerite Duras",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1793311218446-tb-baxterverabaxter.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/baxter-vera-baxter"
    }
   },
   {
@@ -535,17 +538,6 @@
    }
   },
   {
-   "id": "catvideofest-2026",
-   "title": "CatVideoFest 2026",
-   "description": "Oscilloscope Laboratories presents CatVideoFest 2026, a compilation of the latest and best cat videos culled from countless hours of unique submissions and sourced animations, music videos, and classic internet powerhouses. Each year, across the country, local theaters partner with nearby cat-focused charities, animal welfare associations and shelters alike — a portion of ticket proceeds from every show goes directly to local cats in need.",
-   "runtime": 70,
-   "year": 2025,
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jan-May/CIN_CatVidFest26_1600x900.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/cat-vid-fest-26"
-   }
-  },
-  {
    "id": "clash-by-night",
    "title": "Clash by Night",
    "description": "After ten years of disappointment, Barbara Stanwyck's Mae Doyle returns to her California fishing hometown looking for something resembling a decent life. In Fritz Lang's CLASH BY NIGHT, she marries a good-hearted fisherman (Paul Douglas) who offers her the security she's never had, only to find herself dangerously attracted to his best friend (Robert Ryan), a married movie projectionist who appears to hate his wife, his job, and just about everyone he's ever met. Stanwyck knows perfectly well what kind of man he is, which only seems to make matters worse. Marilyn Monroe nearly steals the picture as a tough, outspoken cannery worker with a much less accommodating attitude toward the men in her life.\n\nAdapted from a play by left-wing dramatist Clifford Odets, CLASH BY NIGHT is a bitter, bruising examination of marriage, sexual desire, and the limited choices available to women in working-class America. Lang opens with extraordinary documentary footage of Monterey's fishing industry, establishing a world of hard physical labor before turning his attention to the equally exhausting business of living with other people. What follows is a remarkably unsentimental melodrama in which everyone wants something they can't quite name, nobody seems capable of leaving well enough alone, and even the most ordinary conversations threaten to become acts of mutual destruction. Stanwyck and Ryan are magnificent together, their attraction fueled as much by contempt as desire. Few films are quite so attentive to the ways people turn their most intimate relationships into instruments of self-punishment, or so understanding of why they keep doing it.",
@@ -596,15 +588,15 @@
    }
   },
   {
-   "id": "dracula-of-exarcheia",
-   "title": "Dracula of Exarcheia",
-   "description": "A mad orthopedist arrives in Athens from the Carpathians, settles in the anarchist neighborhood of Exarcheia, and starts robbing graves for the body parts of dead musicians. His plan: stitch together the perfect rock band and make a fortune. Unfortunately, the dead have other ideas. Soon Athens’ militant zombies are organizing against the exploitation of their remains.\n\nPart Hammer horror spoof, part punk-rock musical, part political satire and part document of the Greek underground at the dawn of the ’80s, Nikos Zervos’ gloriously disreputable cult oddity throws Frankenstein, Dracula, John Waters, socialist zombies, sexual anarchy and the real-life rock band Mousikes Taxiarhies into a blender. Tzimis Panousis leads a who’s-who of Greek counterculture through 87 minutes of passionate politics and absolute nonsense, culminating in a concert for the living and the dead.\n\nA one-of-a-kind blast of Greek surrealism that has to be seen to be believed.",
-   "runtime": 87,
-   "year": 1983,
-   "director": "Nikos Zervos",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789694463881-tb-draculaofexarcheia.jpg",
+   "id": "devil-story",
+   "title": "Devil Story",
+   "description": "“Do you ever want to watch a camera evaporate the notion of logic and expound itself upon its own horror in the silence of its explanation? Ok. Watch DEVIL STORY.” - N3V3RW00RLD\n\nThe French countryside becomes a place of profound spiritual malfunction in Bernard Launois’ DEVIL STORY, a “horror” film whose every attempt to explain itself opens another hole in the universe. A couple’s broken-down car delivers them to an isolated castle, where a local legend about a shipwreck offers the comforting suggestion that what follows might have something to do with what came before. Outside, a grunting mutant in a Nazi uniform murders passing motorists. His mother has instructions for him. There is also a mummy.\n\nSomewhere between Jean Rollin’s cemetery dreamscapes and the private obsessions of backyard monster movies, DEVIL STORY discovers a completely outsider rhythm entirely its own. A woman wanders through the darkness while an old man devotes an extraordinary portion of his evening to shooting unsuccessfully at a sometimes-invisible horse. The horse keeps neighing. Scenes persist long past the point when another filmmaker would have intervened, until helpless astonishment gives way to the peculiar sensation that you, too, may never leave this stretch of countryside. Then a pirate ship emerges from a cliff.\n\nThere’s something precious about a movie this completely surrendered to its own imagination, with no apparent ability to distinguish a startling vision from a man spending half the night losing an argument with livestock. See it with other people. You’ll want witnesses when the mummy starts drooling and the horse resumes its work.",
+   "runtime": 75,
+   "year": 1986,
+   "director": "Bernard Launois",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1793310764532-tb-devilstory.png",
    "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/dracula-of-exarcheia"
+    "beacon": "https://thebeacon.film/calendar/movie/devil-story"
    }
   },
   {
@@ -892,18 +884,6 @@
    }
   },
   {
-   "id": "idle-hands",
-   "title": "Idle Hands",
-   "description": "Anton is a teenage burnout whose daily agenda consists of smoking weed, watching TV and accomplishing absolutely nothing. Then his right hand gets possessed by the devil and murders his parents. Soon his two best friends are dead, Anton is trying to cut off his own arm, and the hottest girl in the neighborhood is somehow still interested in him. Luckily, death doesn’t prevent anybody from hanging out.\n\nIDLE HANDS could only have escaped from 1999: Devon Sawa in enormous pants, Seth Green and Elden Henson as undead couch potatoes, Jessica Alba in angel wings, The Offspring playing the school Halloween dance and Rob Zombie’s “Dragula” on MTV while everybody gets high on the couch. It captures teenage life in the last few minutes before everything went digital—a suburban wasteland of weed, music videos, convenience stores and endless hours with absolutely nothing to do. Then it dumps a homicidal severed hand into the middle of it and starts spraying glorious rubber gore. Some of it has aged badly, some of it has aged beautifully, and somehow this deeply stupid movie has only grown more lovable with time.",
-   "runtime": 92,
-   "year": 1999,
-   "director": "Rodman Flender",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1790029813154-tb-idlehands.png",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/idle-hands"
-   }
-  },
-  {
    "id": "journey-to-italy",
    "title": "Journey to Italy",
    "description": "Married for eight years with no children, Brits Katherine and Alex Joyce are driving to Italy, their ultimate destination just outside of Naples to sell the villa they have just inherited from his uncle, the villa where they will be staying during their time there. On the drive, they come to the realization that this trip marks the first time that they have truly been alone together, and as such don't really know one another in the true sense. While in Italy, they end up mainly embarking on pursuits separate from each other - Katherine preferring the cultural, Alex preferring \"company\" including with some acquaintances they didn't know were in Naples until running into them on their first night in the city - and on the few occasions when they do spend time together, there is a tension and an underlying increasing want on both sides to hurt the other emotionally in their individual beliefs of what the other is thinking or has done in their time apart. As their marriage slowly falls apart, the question becomes if there is any way to salvage it if they truly do want to continue to be Mr. and Mrs. Joyce.",
@@ -949,6 +929,20 @@
    }
   },
   {
+   "id": "la-bola-negra",
+   "title": "La Bola Negra",
+   "description": "From Cannes-winning directors Javier Calvo and Javier Ambrossi — popularly known as Los Javis — La Bola Negra follows three generations of men across pivotal moments in Spanish history, bound by pain, desire, and love. Carlos (Milo Quifes) longs to belong in a fractured Spain. Sebastián (Guitarricadelafuente) finds connection across enemy lines. And Alberto (Carlos González) uncovers a long-buried family secret — one that finally gives voice to truths the past tried to erase.",
+   "runtime": 159,
+   "year": 2026,
+   "director": "Javier Ambrossi, Javier Calvo",
+   "country": "Spain",
+   "language": "Spanish, English",
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/labolanegra1600-1-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/la-bola-negra/"
+   }
+  },
+  {
    "id": "land-of-the-dead-it-s-for-the-gays",
    "title": "Land of the Dead: it's for the gays",
    "description": "Presented by Scorpio Rising Productions. Land of the Dead: it’s for the gays is a dark, campy horror comedy that explores the intersections of gender identity, addiction, trauma, and Queerness. Through Mel’s confrontation with a literal demon from their past, the film examines the ways unresolved pain can shape identity, relationships, and self-acceptance. Blending supernatural horror with Queer humor and emotional depth, the story uses camp as a tool for both survival and reclamation, creating a space where confronting the past becomes a path toward healing and embracing one’s authentic self.",
@@ -974,6 +968,15 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/03/lateautumn1600-2-1200x675.jpg",
    "links": {
     "nwff": "https://nwfilmforum.org/films/late-autumn/"
+   }
+  },
+  {
+   "id": "live-comedy-december-2026",
+   "title": "Live Comedy (December 2026)",
+   "description": "The Disabled List, produced and hosted by local comedians Dan Hurwitz and Kayla Brown, takes place bimonthly at Northwest Film Forum in Seattle, WA.\n\nThe Disabled List is a collective of disabled comedians that has been performing in and around Seattle since 2018. In 2021, we produced a short film, the award-eligible This Is Spinal Injury, that debuted at Northwest Film Forum’s Local Sightings Film Festival and was screened at several other film festivals throughout the state.\n\nThis live comedy show features Brown, Hurwitz, and an ever-changing cast of fellow local comedians!\n\nDecember 2026's Lineup is TBA!",
+   "image": "https://nwfilmforum.org/wp-content/uploads/2023/04/events_disabled-list_preview-1200x675.jpg",
+   "links": {
+    "nwff": "https://nwfilmforum.org/events/disabled-list-presents-live-comedy-december-2026/"
    }
   },
   {
@@ -1183,23 +1186,6 @@
    }
   },
   {
-   "id": "night-of-the-vamp-friars",
-   "title": "Night of the Vamp-Friars",
-   "description": "The first feature film wholly produced by Vinegar Syndrome Pictures; directed by Kurtis M. Spieler (Re-Director of New York Ninja).\n\nA group of friends in a punk rock band discover a hidden cemetery in the woods, where they accidentally raise a horde of undead friars.\n\nShot entirely on 16mm film, Night of the Vamp-Friars is a loving tribute to the homegrown horror films made during the height of the video store era.\n\nPresented with The Grand Illusion.",
-   "runtime": 78,
-   "year": 2026,
-   "director": "Kurtis M. Spieler",
-   "country": "United States",
-   "language": "English",
-   "genres": [
-    "Horror"
-   ],
-   "image": "https://grandillusioncinema.org/wp-content/uploads/2026/09/vamp_onesheet_Final-550x812.jpg",
-   "links": {
-    "central-cinema": "https://grandillusioncinema.org/film/night-of-the-vamp-friars/"
-   }
-  },
-  {
    "id": "nosferatu",
    "title": "Nosferatu",
    "description": "The Halloween tradition is back!\n\nDanny Kolke will be accompanying the classic silent film, Nosferatu (1922), with his wonderfully spooky organ soundtrack!",
@@ -1311,6 +1297,18 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792539164282-dpip1.png",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/puerto-rican-short-film-night"
+   }
+  },
+  {
+   "id": "raise-the-red-lantern",
+   "title": "Raise the Red Lantern",
+   "description": "New 4k restoration courtesy of Film Movement!\n\nArguably the film that, more than any other, established China’s Fifth Generation on the international stage, Zhang’s adaptation of Su Tong’s novella of the same name, set in the Warlord Era of the 1920s, stars Gong Li as Songlian, a 19-year-old who, upon becoming the fourth wife of a powerful feudal lord, finds herself in a vicious struggle for power with her husband’s other three spouses. To merely call RAISE THE RED LANTERN a “period piece” doesn’t begin to do justice to its total, immersive evocation of a lost world: its hidebound, stifling moral codes, its decadent luxury, its brittle beauty, and the sadistic power games those living under its immaculate order are forced to play.\n\nNewly restored, the film stands as one of the defining works of Fifth Generation Chinese cinema and international film of the 1990s.\n\n\"This film can no doubt be interpreted in a number of ways – as a cry against the subjection of women in China, as an attack on feudal attitudes, as a formal exercise in storytelling – and yet it works because it is so fascinating simply on the level of melodrama.\" - Roger Ebert",
+   "runtime": 125,
+   "year": 1991,
+   "director": "Zhang Yimou",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792702248289-tb-raisetheredlantern.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/raise-the-red-lantern"
    }
   },
   {
@@ -1456,19 +1454,6 @@
    "image": "https://www.siff.net/images/FESTIVAL/2026/Films/Film%20Detail%20Hero%20Images%20-%20Features/Salvation.jpg",
    "links": {
     "siff-uptown": "https://www.siff.net/festival/salvation"
-   }
-  },
-  {
-   "id": "seattle-film-society-presents-locals-only-october-2026",
-   "title": "Seattle Film Society Presents Locals Only: October 2026",
-   "description": "October is for terror! On tap this month are flesh eating nightmares and unexplained disappearances, unnerving polaroids and weekends gone wrong. Not to mention a freak you won’t be able to unsee. For all the horror-heads out there, this one’s for you:\n\n- POLAROID by Joey Greene: A young man is thrust into a terrifying mystery when the Polaroid photos that he has taken reveal something that isn’t actually there. (3 Min)\n\n- BEST FRIEND MATERIAL by Mel McCarthy & Nathan Blanchard: A guys weekend goes wrong. (15 min)\n\n- ADHESION by Mark Woo: A vain party clown suffocates in her own flesh-eating nightmare. (4 min)\n\n- MOTHER OF NIGHT by Mohamed Abdullahi & Rayana Mohamed: After a series of unexplained disappearances, a night-shift waitress investigates a ghostly local myth and discovers the horror may be terrifyingly real. (13 Min)\n\n- LOOK AT THIS FREAK by Alex Furnas: A reunion of old friends is disrupted by a hated roommate and something else that’s even worse. (15 Min)\n\nThis event is presented in partnership with the Northwest Film Forum. Join us for a screening and Q&A with drinks to follow at Linda’s Tavern! See ya at the movies!",
-   "runtime": 50,
-   "genres": [
-    "Shorts"
-   ],
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/Locals-Only-NWFF-1600x900-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-only-october-2026/"
    }
   },
   {
@@ -1735,23 +1720,6 @@
    }
   },
   {
-   "id": "take-me-home",
-   "title": "Take Me Home",
-   "description": "Anna, a 38-year-old Korean adoptee with a cognitive disability, cares for her aging parents in a fragile balance of meeting each others’ needs. When a Florida heat wave shatters their family and Anna’s routine, her future is uncertain - until she creates a world where she can thrive.\n\nJoin us for a post-film Q&A on Saturday, October 24th at 5:30PM with Sibling Support Project and The Arc of Washington State. Panelists include: Rep. Jamila Taylor; Stacy Dym, Executive Director of The Arc of Washington State; Emily Holl, Director of Sibling Support Project; and Writer/director Liz Sargent (via Zoom).",
-   "runtime": 91,
-   "year": 2026,
-   "director": "Liz Sargent",
-   "country": "United States",
-   "language": "English",
-   "genres": [
-    "Drama"
-   ],
-   "image": "https://indy-systems.imgix.net/gwyf7jn0yhwg26g53ho6tmr9yn10?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress&cs=origin",
-   "links": {
-    "tasveer": "https://filmcenter.tasveer.org/movie/take-me-home"
-   }
-  },
-  {
    "id": "tampopo",
    "title": "Tampopo",
    "description": "The tale of an enigmatic ramen ronin who guides the widow of a noodle shop owner in her quest for the perfect recipe. Tampopo serves up a savory broth of culinary adventure, seasoned with offbeat comedy and the erotic exploits of a gastronome gangster.\n\nSweet, sexy, surreal, and mouthwatering, Tampopo remains one of the most delevtable examples of food on film. It's been remastered in 4K, making this an extra delicious big screen treat.",
@@ -1781,24 +1749,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/The%20Open%20Road/tasteofcherry.png",
    "links": {
     "siff-film-center": "https://www.siff.net/programs-and-events/the-open-road/taste-of-cherry"
-   }
-  },
-  {
-   "id": "tenzing",
-   "title": "Tenzing",
-   "description": "Based on true events, “Tenzing” chronicles the little-known story of Tenzing Norgay (Genden Phuntsok), a gifted Himalayan climber who, alongside New Zealand mountaineer Edmund Hillary (Tom Hiddleston), became the first to summit Mount Everest. Encouraged by his wife Dawa (Thinley Lhamo), Tenzing finds an ally in expedition secretary Jill Henderson (Caitríona Balfe). Together, they persuade Colonel John Hunt (Willem Dafoe) that Tenzing belongs on the British climbing team, rather than merely serving it. Where Western climbers see “Everest” as something to be conquered, Tenzing reveres “Chomolungma” as the sacred mother goddess. What follows is an ascent defined as much by the tensions between backgrounds, classes and competing ambitions as by the perils of the mountain itself. But high above the world, empire, rank and aspiration fall away, leaving two outsiders bound by mutual respect and trust — and for Tenzing, the fulfillment of both a lifelong dream and a spiritual calling. Directed by award-winning filmmaker Jennifer Peedom, “Tenzing” is a story of greatness that refuses to be diminished — and the love that makes it possible.",
-   "runtime": 126,
-   "year": 2026,
-   "director": "Jennifer Peedom",
-   "country": "Australia",
-   "language": "English",
-   "genres": [
-    "Drama",
-    "History"
-   ],
-   "image": "https://indy-systems.imgix.net/un5nca7d924bsg1suql30fjd922o?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress&cs=origin",
-   "links": {
-    "tasveer": "https://filmcenter.tasveer.org/movie/tenzing"
    }
   },
   {
@@ -1914,20 +1864,6 @@
    }
   },
   {
-   "id": "history-of-concrete",
-   "title": "The History of Concrete",
-   "description": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete.",
-   "runtime": 101,
-   "year": 2026,
-   "director": "John Wilson",
-   "country": "USA",
-   "language": "English",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_HistoryofConcrete_1600x900.png",
-   "links": {
-    "siff-downtown": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete"
-   }
-  },
-  {
    "id": "honeymoon-killers",
    "title": "The Honeymoon Killers",
    "description": "In the wake of BONNIE AND CLYDE, when Hollywood was busy turning murderers into glamorous countercultural heroes, Leonard Kastle set out to make a movie about criminal lovers without a trace of glamour. Based on the true story of the Lonely Hearts Killers, THE HONEYMOON KILLERS follows a pair of desperate misfits who travel the country seducing lonely widows, stealing their savings, and occasionally murdering them. Their romance unfolds in cheap boarding houses and dreary suburban interiors, photographed in grainy black-and-white that seems liable to leave ink on your fingers. Yet Kastle, an opera composer who never directed another film, scores the whole sordid enterprise to Mahler, insisting on the tragic grandeur of two people whose lives would otherwise be confined to the crime pages.\n\nShirley Stoler is extraordinary as Martha Beck, a lonely, furious nurse who falls hopelessly in love with professional swindler Ray Fernandez (Tony Lo Bianco) and insists on accompanying him as he romances his next victims. Stoler had always wanted to play Medea, but Hollywood had little use for a heavyset actress with ambitions toward classical tragedy. Here she finally found a role worthy of her talents, playing Martha as a woman whose longing for love has curdled into an almost infantile fury at being denied it. Posing as Ray's sister, she watches with mounting jealousy as the man she adores makes his living promising other women exactly what he's promised her. Their relationship is ridiculous, pathetic, and unmistakably passionate. The terrible joke is that Martha believes absolutely in the sincerity of a man whose only talent is lying to women.",
@@ -2019,6 +1955,18 @@
    }
   },
   {
+   "id": "living-end",
+   "title": "The Living End",
+   "description": "What do you have left to lose when your government has decided your life isn't worth saving? Gregg Araki's THE LIVING END takes the despair and fury of the AIDS crisis and turns them into a reckless declaration of war against straight America. Jon (Craig Gilmore) is a neurotic film critic who has just tested HIV-positive; Luke (Mike Dytri) is a reckless hustler with the same diagnosis and a considerably less accommodating attitude toward society. After a violent encounter with a homophobic cop, the two hit the highway in a stolen car, declaring war on a country that has already written them off. Shot for next to nothing and propelled by the music of the British post-punk underground, Araki's breakthrough feature is a landmark of New Queer Cinema, full of the rage and gallows humor of a generation watching its friends die while the government looked the other way. But the film's real achievement is the tenderness it discovers amid all that fury. Jon and Luke are terrible at being together, and they have no particular reason to believe things will get better. For a little while, at least, they have each other, a car, and the freedom to tell the rest of the world to go fuck itself.",
+   "runtime": 84,
+   "year": 1992,
+   "director": "Gregg Araki",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792698676982-tb-livingend.jpg",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/the-living-end"
+   }
+  },
+  {
    "id": "only-living-pickpocket-in-new-york",
    "title": "The Only Living Pickpocket in New York",
    "description": "Harry Lehman is an aging pickpocket who plies his trade with ever-diminishing returns in a drastically changed New York. Wallets stuffed with cash have been replaced by easily cancelled credit cards, and Harry struggles to make ends meet as he cares for his disabled wife, Rosie. When he unwittingly purloins and fences a valuable USB stick, Harry finds himself in a race against time to return the loot or face the rage of a vengeful crime family.",
@@ -2050,20 +1998,6 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/parallaxview1600-1-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/the-parallax-view/"
-   }
-  },
-  {
-   "id": "passenger",
-   "title": "The Passenger",
-   "description": "“What are you running away from?”\n“Turn your back to the front seat.”\n\nLost amidst the deserts of Northern Chad, disaffected American journalist David Locke (Jack Nicholson) stumbles across the dead body of a fellow hotel acquaintance and decides to leave behind more than his sand trapped Land Rover: swapping passports, Locke abandons his identity. Renting a car “for the rest of my life” and embarking on a journey through Germany, England, and Spain, Locke soon discovers that the life he traded in for has direct connections to secret proxy wars and the international arms trade. Accompanied by a young tourist he meets in Barcelona (Maria Schneider), Locke drives further away from himself and the world while being pursued by mysterious criminals and police alike. A maestro of cinematic alienation, Michelangelo Antonioni navigates the slippery nature of identity with impeccable formal control accompanied by a career high point from Jack Nicholson.\n\n“See the film twice and you see two films. See it a third and you see a third. So it goes.” — Robert Koehler, CinemaScope\n\n35mm print courtesy of Sony Pictures Classics",
-   "runtime": 126,
-   "year": 1975,
-   "director": "Michelangelo Antonioni",
-   "country": "Italy",
-   "language": "English, German, Spanish",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/The%20Open%20Road/passenger.png",
-   "links": {
-    "siff-film-center": "https://www.siff.net/programs-and-events/the-open-road/the-passenger"
    }
   },
   {
@@ -2302,18 +2236,16 @@
   {
    "id": "whalefall",
    "title": "Whalefall",
-   "description": "Following the death of his father (Josh Brolin), Jay Gardiner (Austin Abrams) goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
-   "runtime": 106,
+   "description": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
+   "runtime": 116,
    "year": 2026,
    "director": "Brian Duffield",
-   "country": "USA",
    "rating": "PG-13",
    "genres": [
     "Thriller"
    ],
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_Whalefall_1600x900.png",
+   "image": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
    "links": {
-    "siff-downtown": "https://www.siff.net/cinema/in-theaters/whalefall",
     "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall"
    }
   },
@@ -2388,8 +2320,6 @@
    "runtime": 131,
    "year": 2026,
    "director": "Travis Knight",
-   "country": "United States",
-   "language": "English",
    "rating": "PG-13",
    "genres": [
     "Animation",
@@ -2397,12 +2327,11 @@
     "Fantasy",
     "Family"
    ],
-   "image": "https://indy-systems.imgix.net/m6no9j8bbdcf89bdk3yx40vc25ek?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress&cs=origin",
+   "image": "https://all.web.img.acsta.net/img/28/8a/288ac3c11be06daf62b03233b49aa2b8.jpg",
    "links": {
-    "tasveer": "https://filmcenter.tasveer.org/movie/wildwood",
     "majestic-bay": "https://www.majesticbay.com/movies/296439-wildwood/",
     "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
-    "north-bend": "https://tix.northbendtheatre.com/event/accessibility-screening-wildwood-thursday-oct-30th-7pm"
+    "north-bend": "https://tix.northbendtheatre.com/event/wildwood-friday-oct-30th-3pm"
    }
   },
   {
@@ -2450,7 +2379,7 @@
    "id": "you-can-see-everything",
    "title": "You Can See Everything",
    "description": "Thirty-four days before she’s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss. From boundary-pushing directors Nathan Fielder and Lance Oppenheim comes You Can See Everything.",
-   "runtime": 175,
+   "runtime": 174,
    "year": 2026,
    "director": "Nathan Fielder, Lance Oppenheim",
    "country": "USA",
@@ -2494,26 +2423,6 @@
    }
   },
   {
-   "id": "your-mother-your-mother-your-mother",
-   "title": "Your Mother Your Mother Your Mother",
-   "description": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within.",
-   "runtime": 112,
-   "year": 2026,
-   "director": "Bassam Tariq",
-   "country": "United States",
-   "language": "English",
-   "rating": "R",
-   "genres": [
-    "Action",
-    "Crime",
-    "Drama"
-   ],
-   "image": "https://indy-systems.imgix.net/yzhl8d6gl7wwmm9x7ucprdh0g9qo?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress&cs=origin",
-   "links": {
-    "tasveer": "https://filmcenter.tasveer.org/movie/your-mother-your-mother-your-mother"
-   }
-  },
-  {
    "id": "zero-patience",
    "title": "Zero Patience",
    "description": "To commemorate World AIDS Day 2026, Northwest Film Forum is excited to present John Greyson’s movie musical Zero Patience. Unconventional (and fun!) in form and incredibly imaginative in its premise, Zero Patience is a film that confronts historical bigotry and damaging myths that surround the mysterious (and patently fictional) “Patient Zero” while also remaining campy, educational, and ambitious.\n\nScreens with Song From An Angel (David Weissman, United States, 1988, 5min)\n\nMade two weeks before his death from AIDS, Song From An Angel features San Franciscan performer Rodney Price as he tap dances and sings an incredibly dark, yet endearingly funny, song about his own death: “I’ve Got Less Time Than You.”",
@@ -2548,276 +2457,6 @@
  "showings": [
   {
    "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-10-29T15:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17154/793"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-10-29T15:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36533?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-10-29T15:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36378?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-10-29T15:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36534?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wildwood",
-   "theater": "admiral",
-   "start": "2026-10-29T15:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17153/797"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-29T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17150/794"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-29T15:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-rLVk78r0e8"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-10-29T16:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17192/800"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-10-29T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-bqkKndj1mx"
-  },
-  {
-   "film": "dracula-of-exarcheia",
-   "theater": "beacon",
-   "start": "2026-10-29T16:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/dracula-of-exarcheia",
-   "tickets": "https://thebeacon.film/calendar/movie/dracula-of-exarcheia?showtime=J7UR547QEOE4HKQCZ73RF2AN"
-  },
-  {
-   "film": "fatherland",
-   "theater": "siff-uptown",
-   "start": "2026-10-29T16:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
-   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-QHwfwwcxD6"
-  },
-  {
-   "film": "whalefall",
-   "theater": "siff-downtown",
-   "start": "2026-10-29T16:40:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/whalefall",
-   "tickets": "https://www.siff.net/cinema/in-theaters/whalefall#screening-Hp7lgiPMpL"
-  },
-  {
-   "film": "gymnasts-of-fisherman-colony",
-   "theater": "tasveer",
-   "start": "2026-10-29T16:50:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-gymnasts-of-fisherman-colony",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-gymnasts-of-fisherman-colony/4152088"
-  },
-  {
-   "film": "cartoon-happy-hour",
-   "theater": "central-cinema",
-   "start": "2026-10-29T17:00:00-07:00",
-   "url": "https://central-cinema.com/movie/cartoon-happy-hour/",
-   "tickets": "https://central-cinema.com/checkout/showing/cartoon-happy-hour/3999060",
-   "notes": [
-    "Free admission"
-   ]
-  },
-  {
-   "film": "tenzing",
-   "theater": "tasveer",
-   "start": "2026-10-29T17:10:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/tenzing",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/tenzing/4003551"
-  },
-  {
-   "film": "take-me-home",
-   "theater": "tasveer",
-   "start": "2026-10-29T17:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/take-me-home",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/take-me-home/4003552"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-29T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17152/794"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-10-29T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17102/793"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-10-29T18:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36535?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-29T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17151/795"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-10-29T18:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36536?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-29T18:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-4kWOoYmfS7",
-   "notes": [
-    "Sold out"
-   ]
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-10-29T18:50:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17155/800"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "tasveer",
-   "start": "2026-10-29T18:55:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4003586"
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-10-29T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36528?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wildwood",
-   "theater": "north-bend",
-   "start": "2026-10-29T19:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/accessibility-screening-wildwood-thursday-oct-30th-7pm",
-   "tickets": "https://tix.northbendtheatre.com/event/accessibility-screening-wildwood-thursday-oct-30th-7pm",
-   "notes": [
-    "Accessibility screening"
-   ]
-  },
-  {
-   "film": "seattle-film-society-presents-locals-only-october-2026",
-   "theater": "nwff",
-   "start": "2026-10-29T19:00:00-07:00",
-   "url": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-only-october-2026/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac5b5a42068ad7ca7b55449",
-   "notes": [
-    "Visiting artist"
-   ]
-  },
-  {
-   "film": "passenger",
-   "theater": "siff-film-center",
-   "start": "2026-10-29T19:00:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/the-open-road/the-passenger",
-   "tickets": "https://www.siff.net/programs-and-events/the-open-road/the-passenger#screening-tuSLgkjmTR",
-   "notes": [
-    "The Open Road",
-    "35mm"
-   ]
-  },
-  {
-   "film": "catvideofest-2026",
-   "theater": "siff-uptown",
-   "start": "2026-10-29T19:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/cat-vid-fest-26",
-   "tickets": "https://www.siff.net/cinema/in-theaters/cat-vid-fest-26#screening-SFlwuShUal"
-  },
-  {
-   "film": "american-werewolf-in-london",
-   "theater": "tin-room",
-   "start": "2026-10-29T19:00:00-07:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
-   "film": "idle-hands",
-   "theater": "beacon",
-   "start": "2026-10-29T19:30:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/idle-hands",
-   "tickets": "https://thebeacon.film/calendar/movie/idle-hands?showtime=YLXBFPLLRAJRPCO4GC7JB4QA"
-  },
-  {
-   "film": "history-of-concrete",
-   "theater": "siff-downtown",
-   "start": "2026-10-29T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-history-of-concrete#screening-neM2EWpoli"
-  },
-  {
-   "film": "wildwood",
-   "theater": "tasveer",
-   "start": "2026-10-29T19:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/wildwood",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wildwood/4003584"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-10-29T19:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-8d0LL4Jw2l"
-  },
-  {
-   "film": "your-mother-your-mother-your-mother",
-   "theater": "tasveer",
-   "start": "2026-10-29T19:45:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/your-mother-your-mother-your-mother",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/your-mother-your-mother-your-mother/4136511"
-  },
-  {
-   "film": "night-of-the-vamp-friars",
-   "theater": "central-cinema",
-   "start": "2026-10-29T20:00:00-07:00",
-   "url": "https://grandillusioncinema.org/film/night-of-the-vamp-friars/",
-   "tickets": "https://central-cinema.com/movie/night-of-the-vamp-friars",
-   "notes": [
-    "Presented by the Grand Illusion Cinema"
-   ]
-  },
-  {
-   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-10-30T15:00:00-07:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
@@ -2831,6 +2470,13 @@
    "tickets": "https://tix.northbendtheatre.com/event/wildwood-friday-oct-30th-3pm"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-30T15:15:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17161/793"
+  },
+  {
    "film": "wildwood",
    "theater": "majestic-bay",
    "start": "2026-10-30T15:15:00-07:00",
@@ -2838,11 +2484,32 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36539?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-30T15:20:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17156/800"
+  },
+  {
    "film": "wicker",
    "theater": "majestic-bay",
    "start": "2026-10-30T15:30:00-07:00",
    "url": "https://www.majesticbay.com/movies/322884-wicker/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36541?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-10-30T15:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17160/797"
+  },
+  {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-30T15:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17157/794"
   },
   {
    "film": "hocus-pocus",
@@ -2883,11 +2550,32 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/wicker/4226390"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-30T18:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17163/793"
+  },
+  {
    "film": "only-living-pickpocket-in-new-york",
    "theater": "tasveer",
    "start": "2026-10-30T18:00:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4178063"
+  },
+  {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-30T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17159/794"
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-30T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17158/795"
   },
   {
    "film": "you-can-see-everything",
@@ -2923,6 +2611,13 @@
    "start": "2026-10-30T18:45:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178062"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-30T19:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17162/800"
   },
   {
    "film": "next-of-kin",
@@ -3000,11 +2695,38 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4178064"
   },
   {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-10-30T21:10:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17280/797",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-30T21:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17283/793"
+  },
+  {
    "film": "a-nightmare-on-elm-street",
    "theater": "central-cinema",
    "start": "2026-10-30T21:30:00-07:00",
    "url": "https://central-cinema.com/movie/a-nightmare-on-elm-street/",
    "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080564"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-30T21:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17282/800",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "spookies",
@@ -3042,6 +2764,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-pKtyVAjD9s"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-31T11:45:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17216/793"
+  },
+  {
    "film": "wildwood",
    "theater": "majestic-bay",
    "start": "2026-10-31T11:45:00-07:00",
@@ -3056,11 +2785,32 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-RDmqXCQR3a"
   },
   {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-31T12:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17217/800"
+  },
+  {
    "film": "wicker",
    "theater": "majestic-bay",
    "start": "2026-10-31T12:30:00-07:00",
    "url": "https://www.majesticbay.com/movies/322884-wicker/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36576?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-31T12:50:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17219/794"
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-31T13:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17218/795"
   },
   {
    "film": "kwaidan",
@@ -3121,6 +2871,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-cn7iVH5DuV"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-31T15:15:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17211/793"
+  },
+  {
    "film": "wildwood",
    "theater": "majestic-bay",
    "start": "2026-10-31T15:15:00-07:00",
@@ -3128,11 +2885,32 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36573?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-31T15:20:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17208/800"
+  },
+  {
    "film": "wicker",
    "theater": "majestic-bay",
    "start": "2026-10-31T15:30:00-07:00",
    "url": "https://www.majesticbay.com/movies/322884-wicker/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36577?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-10-31T15:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17214/797"
+  },
+  {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-31T15:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17209/794"
   },
   {
    "film": "mad-monster-party",
@@ -3183,6 +2961,13 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/wicker/4226388"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-31T18:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17213/793"
+  },
+  {
    "film": "only-living-pickpocket-in-new-york",
    "theater": "tasveer",
    "start": "2026-10-31T18:00:00-07:00",
@@ -3197,11 +2982,25 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/the-shining#screening-9NppB0KIQY"
   },
   {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-31T18:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17210/794"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-10-31T18:30:00-07:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36562?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-10-31T18:40:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17215/795"
   },
   {
    "film": "wildwood",
@@ -3216,6 +3015,13 @@
    "start": "2026-10-31T18:45:00-07:00",
    "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178059"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-31T19:00:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17212/800"
   },
   {
    "film": "five-minutes-to-die",
@@ -3305,11 +3111,39 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-gymnasts-of-fisherman-colony/4178060"
   },
   {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-10-31T21:05:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17206/794"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-10-31T21:10:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17207/797"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-10-31T21:30:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17204/793"
+  },
+  {
    "film": "a-nightmare-on-elm-street",
    "theater": "central-cinema",
    "start": "2026-10-31T21:30:00-07:00",
    "url": "https://central-cinema.com/movie/a-nightmare-on-elm-street/",
    "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080565"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-10-31T21:35:00-07:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17205/800"
   },
   {
    "film": "you-can-see-everything",
@@ -3340,6 +3174,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-psgtTMkTPU"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-01T11:45:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17286/793"
+  },
+  {
    "film": "wildwood",
    "theater": "majestic-bay",
    "start": "2026-11-01T11:45:00-08:00",
@@ -3359,6 +3200,30 @@
    "start": "2026-11-01T12:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
    "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-x9peJAePIl"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-11-01T12:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17287/800",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-11-01T12:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17293/794"
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-11-01T13:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17291/795"
   },
   {
    "film": "wicker",
@@ -3441,11 +3306,25 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-M47UgRLZfb"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-01T15:15:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17228/793"
+  },
+  {
    "film": "wildwood",
    "theater": "majestic-bay",
    "start": "2026-11-01T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/296439-wildwood/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36584?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-11-01T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17232/800"
   },
   {
    "film": "wicker",
@@ -3460,6 +3339,20 @@
    "start": "2026-11-01T15:30:00-08:00",
    "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ad50d5d4de91e654436a197"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-01T15:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17234/797"
+  },
+  {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-11-01T15:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17224/794"
   },
   {
    "film": "wicker",
@@ -3515,6 +3408,20 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-01T18:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17227/793"
+  },
+  {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-11-01T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17223/794"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-11-01T18:30:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
@@ -3535,11 +3442,25 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/kwaidan#screening-kmj4paHMhU"
   },
   {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-11-01T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17221/795"
+  },
+  {
    "film": "wildwood",
    "theater": "majestic-bay",
    "start": "2026-11-01T18:45:00-08:00",
    "url": "https://www.majesticbay.com/movies/296439-wildwood/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36585?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-11-01T19:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17231/800"
   },
   {
    "film": "hocus-pocus",
@@ -3608,11 +3529,25 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36589?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-02T15:15:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17241/793"
+  },
+  {
    "film": "wildwood",
    "theater": "majestic-bay",
    "start": "2026-11-02T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/296439-wildwood/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36590?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-11-02T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17244/800"
   },
   {
    "film": "wicker",
@@ -3627,6 +3562,20 @@
    "start": "2026-11-02T15:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-H7meuENqsi"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-02T15:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17247/797"
+  },
+  {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-11-02T15:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17238/794"
   },
   {
    "film": "hocus-pocus",
@@ -3667,6 +3616,13 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/wicker/4226392"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-02T18:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17242/793"
+  },
+  {
    "film": "kwaidan",
    "theater": "siff-downtown",
    "start": "2026-11-02T18:00:00-08:00",
@@ -3681,6 +3637,13 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4178078"
   },
   {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-11-02T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17239/794"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-11-02T18:30:00-08:00",
@@ -3693,6 +3656,13 @@
    "start": "2026-11-02T18:30:00-08:00",
    "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ad50da1b3e7c982205157c3"
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-11-02T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17236/795"
   },
   {
    "film": "wildwood",
@@ -3714,6 +3684,13 @@
    "start": "2026-11-02T18:45:00-08:00",
    "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178075"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-11-02T19:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17245/800"
   },
   {
    "film": "hocus-pocus",
@@ -3800,11 +3777,28 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36595?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-03T15:15:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17278/793"
+  },
+  {
    "film": "wildwood",
    "theater": "majestic-bay",
    "start": "2026-11-03T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/296439-wildwood/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36597?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-11-03T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17276/800",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "wicker",
@@ -3819,6 +3813,26 @@
    "start": "2026-11-03T15:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-SEdYQPJst7"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-03T15:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17272/797",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-11-03T15:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17274/794",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "hocus-pocus",
@@ -3876,6 +3890,13 @@
    ]
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-03T18:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17279/793"
+  },
+  {
    "film": "only-living-pickpocket-in-new-york",
    "theater": "tasveer",
    "start": "2026-11-03T18:00:00-08:00",
@@ -3886,11 +3907,31 @@
    ]
   },
   {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-11-03T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17275/794",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-11-03T18:30:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36596?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-11-03T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17273/795",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "wildwood",
@@ -3912,6 +3953,16 @@
    "start": "2026-11-03T18:45:00-08:00",
    "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178080"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-11-03T19:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17277/800",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "hocus-pocus",
@@ -3994,11 +4045,25 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36601?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-04T15:15:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17260/793"
+  },
+  {
    "film": "wildwood",
    "theater": "majestic-bay",
    "start": "2026-11-04T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/296439-wildwood/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36602?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-11-04T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17262/800"
   },
   {
    "film": "wicker",
@@ -4013,6 +4078,20 @@
    "start": "2026-11-04T15:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-7u7xBA4Dr1"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-04T15:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17263/797"
+  },
+  {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-11-04T15:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17258/794"
   },
   {
    "film": "girl-can-t-help-it",
@@ -4060,11 +4139,25 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/wicker/4226396"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-04T18:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17259/793"
+  },
+  {
    "film": "only-living-pickpocket-in-new-york",
    "theater": "tasveer",
    "start": "2026-11-04T18:00:00-08:00",
    "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4178086"
+  },
+  {
+   "film": "street-fighter",
+   "theater": "admiral",
+   "start": "2026-11-04T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17257/794"
   },
   {
    "film": "wicker",
@@ -4088,11 +4181,25 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ad50da1b3e7c982205157c8"
   },
   {
+   "film": "whalefall",
+   "theater": "admiral",
+   "start": "2026-11-04T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17256/795"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "tasveer",
    "start": "2026-11-04T18:45:00-08:00",
    "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178083"
+  },
+  {
+   "film": "clayface",
+   "theater": "admiral",
+   "start": "2026-11-04T19:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17261/800"
   },
   {
    "film": "hocus-pocus",
@@ -5999,6 +6106,13 @@
    ]
   },
   {
+   "film": "devil-story",
+   "theater": "beacon",
+   "start": "2026-11-20T22:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/devil-story",
+   "tickets": "https://thebeacon.film/calendar/movie/devil-story?showtime=MOOYA5V3PMBV7NM7LQP7VUYV"
+  },
+  {
    "film": "where-is-the-fiesta",
    "theater": "siff-uptown",
    "start": "2026-11-21T15:00:00-08:00",
@@ -6184,6 +6298,13 @@
    "tickets": "https://thebeacon.film/calendar/movie/clash-by-ight?showtime=LMP5D6AIYW7XI55EUIJMUFUH"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "nwff",
+   "start": "2026-11-23T18:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/la-bola-negra/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ae39cccf5957bb52e6088f8"
+  },
+  {
    "film": "my-brother-s-wedding",
    "theater": "nwff",
    "start": "2026-11-23T19:00:00-08:00",
@@ -6218,6 +6339,13 @@
    "tickets": "https://thebeacon.film/calendar/movie/once-upon-a-time-in-harlem?showtime=ULZUPD7FUVLSQTZXN363TIQ2"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "nwff",
+   "start": "2026-11-24T18:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/la-bola-negra/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ae39ce8415aa70fe7b5dcad"
+  },
+  {
    "film": "my-brother-s-wedding",
    "theater": "nwff",
    "start": "2026-11-24T19:00:00-08:00",
@@ -6250,6 +6378,13 @@
    "start": "2026-11-25T16:30:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/buffalo-66",
    "tickets": "https://thebeacon.film/calendar/movie/buffalo-66?showtime=UC6ARO5YSQHSOCWDDQMITKDR"
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "nwff",
+   "start": "2026-11-25T18:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/la-bola-negra/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ae39ce9415aa70fe7b5dcb6"
   },
   {
    "film": "star-trek-iv-the-voyage-home",
@@ -6370,6 +6505,13 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/69b052b47003b80e56ead677"
   },
   {
+   "film": "baxter-vera-baxter",
+   "theater": "beacon",
+   "start": "2026-11-29T17:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/baxter-vera-baxter",
+   "tickets": "https://thebeacon.film/calendar/movie/baxter-vera-baxter?showtime=XBWFV4WQHLNJVAHVATLTXKS2"
+  },
+  {
    "film": "tokyo-story",
    "theater": "nwff",
    "start": "2026-11-29T18:30:00-08:00",
@@ -6463,6 +6605,37 @@
    "start": "2026-12-03T19:30:00-08:00",
    "url": "https://nwfilmforum.org/films/zero-patience/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6acd3684913bc7c9f3f80e1f"
+  },
+  {
+   "film": "room",
+   "theater": "central-cinema",
+   "start": "2026-12-03T20:00:00-08:00",
+   "url": "https://central-cinema.com/movie/the-room/",
+   "tickets": "https://central-cinema.com/checkout/showing/the-room/4235381"
+  },
+  {
+   "film": "raise-the-red-lantern",
+   "theater": "beacon",
+   "start": "2026-12-04T19:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/raise-the-red-lantern",
+   "tickets": "https://thebeacon.film/calendar/movie/raise-the-red-lantern?showtime=HQN6SY5K6O6Q3ICFQMUNULGC"
+  },
+  {
+   "film": "live-comedy-december-2026",
+   "theater": "nwff",
+   "start": "2026-12-04T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/events/disabled-list-presents-live-comedy-december-2026/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6acd5c8253cf1adc9bfce0fc",
+   "notes": [
+    "Visiting artist"
+   ]
+  },
+  {
+   "film": "living-end",
+   "theater": "beacon",
+   "start": "2026-12-04T22:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/the-living-end",
+   "tickets": "https://thebeacon.film/calendar/movie/the-living-end?showtime=AYEUFHE3275G4YVDFVVU4RWM"
   }
  ]
 }
