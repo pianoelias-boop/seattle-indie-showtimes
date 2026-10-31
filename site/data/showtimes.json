@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T11:35:00-07:00",
+ "updated": "2026-10-31T10:42:00-07:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-30T11:35:00-07:00",
-    "lastSuccess": "2026-10-30T11:35:00-07:00",
-    "showings": 32,
+    "checked": "2026-10-31T10:42:00-07:00",
+    "lastSuccess": "2026-10-31T10:42:00-07:00",
+    "showings": 30,
     "through": "2026-11-15"
    }
   },
@@ -33,9 +33,9 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-30T11:35:00-07:00",
-    "lastSuccess": "2026-10-30T11:35:00-07:00",
-    "showings": 120,
+    "checked": "2026-10-31T10:42:00-07:00",
+    "lastSuccess": "2026-10-31T10:42:00-07:00",
+    "showings": 116,
     "through": "2026-12-03"
    }
   },
@@ -52,9 +52,9 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-30T11:35:00-07:00",
-    "lastSuccess": "2026-10-30T11:35:00-07:00",
-    "showings": 22,
+    "checked": "2026-10-31T10:42:00-07:00",
+    "lastSuccess": "2026-10-31T10:42:00-07:00",
+    "showings": 21,
     "through": "2026-11-29"
    }
   },
@@ -70,10 +70,10 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-30T11:35:00-07:00",
-    "lastSuccess": "2026-10-30T11:35:00-07:00",
-    "showings": 5,
-    "through": "2026-11-15"
+    "checked": "2026-10-31T10:42:00-07:00",
+    "lastSuccess": "2026-10-31T10:42:00-07:00",
+    "showings": 6,
+    "through": "2026-11-21"
    }
   },
   {
@@ -88,10 +88,10 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-30T11:35:00-07:00",
-    "lastSuccess": "2026-10-30T11:35:00-07:00",
-    "showings": 72,
-    "through": "2026-12-04"
+    "checked": "2026-10-31T10:42:00-07:00",
+    "lastSuccess": "2026-10-31T10:42:00-07:00",
+    "showings": 75,
+    "through": "2026-12-05"
    }
   },
   {
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-30T11:35:00-07:00",
-    "lastSuccess": "2026-10-30T11:35:00-07:00",
-    "showings": 57,
+    "checked": "2026-10-31T10:42:00-07:00",
+    "lastSuccess": "2026-10-31T10:42:00-07:00",
+    "showings": 54,
     "through": "2026-12-03"
    }
   },
@@ -126,10 +126,10 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-30T11:35:00-07:00",
-    "lastSuccess": "2026-10-30T11:35:00-07:00",
+    "checked": "2026-10-31T10:42:00-07:00",
+    "lastSuccess": "2026-10-31T10:42:00-07:00",
     "showings": 58,
-    "through": "2026-12-04"
+    "through": "2026-12-05"
    }
   },
   {
@@ -145,9 +145,9 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-30T11:35:00-07:00",
-    "lastSuccess": "2026-10-30T11:35:00-07:00",
-    "showings": 35,
+    "checked": "2026-10-31T10:42:00-07:00",
+    "lastSuccess": "2026-10-31T10:42:00-07:00",
+    "showings": 30,
     "through": "2026-11-05"
    }
   },
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-30T11:35:00-07:00",
-    "lastSuccess": "2026-10-30T11:35:00-07:00",
-    "showings": 61,
+    "checked": "2026-10-31T10:42:00-07:00",
+    "lastSuccess": "2026-10-31T10:42:00-07:00",
+    "showings": 55,
     "through": "2026-11-25"
    }
   },
@@ -182,10 +182,10 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-30T11:35:00-07:00",
-    "lastSuccess": "2026-10-30T11:35:00-07:00",
-    "showings": 65,
-    "through": "2026-11-21"
+    "checked": "2026-10-31T10:42:00-07:00",
+    "lastSuccess": "2026-10-31T10:42:00-07:00",
+    "showings": 56,
+    "through": "2026-12-05"
    }
   },
   {
@@ -201,9 +201,9 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-30T11:35:00-07:00",
-    "lastSuccess": "2026-10-30T11:35:00-07:00",
-    "showings": 3,
+    "checked": "2026-10-31T10:42:00-07:00",
+    "lastSuccess": "2026-10-31T10:42:00-07:00",
+    "showings": 2,
     "through": "2026-10-31"
    }
   },
@@ -220,9 +220,9 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-30T11:35:00-07:00",
-    "lastSuccess": "2026-10-30T11:35:00-07:00",
-    "showings": 19,
+    "checked": "2026-10-31T10:42:00-07:00",
+    "lastSuccess": "2026-10-31T10:42:00-07:00",
+    "showings": 17,
     "through": "2026-11-29"
    }
   }
@@ -590,7 +590,7 @@
   {
    "id": "devil-story",
    "title": "Devil Story",
-   "description": "“Do you ever want to watch a camera evaporate the notion of logic and expound itself upon its own horror in the silence of its explanation? Ok. Watch DEVIL STORY.” - N3V3RW00RLD\n\nThe French countryside becomes a place of profound spiritual malfunction in Bernard Launois’ DEVIL STORY, a “horror” film whose every attempt to explain itself opens another hole in the universe. A couple’s broken-down car delivers them to an isolated castle, where a local legend about a shipwreck offers the comforting suggestion that what follows might have something to do with what came before. Outside, a grunting mutant in a Nazi uniform murders passing motorists. His mother has instructions for him. There is also a mummy.\n\nSomewhere between Jean Rollin’s cemetery dreamscapes and the private obsessions of backyard monster movies, DEVIL STORY discovers a completely outsider rhythm entirely its own. A woman wanders through the darkness while an old man devotes an extraordinary portion of his evening to shooting unsuccessfully at a sometimes-invisible horse. The horse keeps neighing. Scenes persist long past the point when another filmmaker would have intervened, until helpless astonishment gives way to the peculiar sensation that you, too, may never leave this stretch of countryside. Then a pirate ship emerges from a cliff.\n\nThere’s something precious about a movie this completely surrendered to its own imagination, with no apparent ability to distinguish a startling vision from a man spending half the night losing an argument with livestock. See it with other people. You’ll want witnesses when the mummy starts drooling and the horse resumes its work.",
+   "description": "“Do you ever want to watch a camera evaporate the notion of logic and expound itself upon its own horror in the silence of its explanation? Ok. Watch DEVIL STORY.” - N3V3RW00RLD\n\nThe French countryside becomes a place of profound spiritual malfunction in Bernard Launois’ DEVIL STORY, a “horror” film whose every attempt to explain itself opens another hole in the universe. A couple’s broken-down car delivers them to an isolated castle, where a local legend about a shipwreck offers the comforting suggestion that what follows might have something to do with what came before. Outside, a grunting mutant in a Nazi uniform murders passing motorists. His mother has instructions for him. There is also a mummy.\n\nSomewhere between Jean Rollin’s cemetery dreamscapes and the private obsessions of backyard monster movies, DEVIL STORY discovers a completely outsider rhythm entirely its own. A woman wanders through the darkness while an old man devotes an extraordinary portion of his evening to shooting unsuccessfully at a sometimes-invisible horse. The horse keeps neighing. Scenes persist long past the point when another filmmaker would have intervened, until helpless astonishment gives way to the peculiar sensation that you, too, may never leave this stretch of countryside. Then a pirate ship emerges from a cliff.\n\nThere’s something precious about a movie this completely surrendered to its own imagination, with no apparent ability to distinguish a startling vision from a man spending half the night losing a battle with livestock. See it with other people. You’ll want witnesses when the mummy starts drooling and the horse resumes its work.",
    "runtime": 75,
    "year": 1986,
    "director": "Bernard Launois",
@@ -616,7 +616,7 @@
   {
    "id": "engauge-2026-beyond-borders",
    "title": "Engauge 2026 – Beyond Borders",
-   "description": "This seemingly disparate collection of films takes us beyond the often artificial boundaries of countries, equipment, formats, frames, genres, species, states, and styles.\n\nFILMS IN THIS PROGRAM:\n\nSome Place to Stand (Sandy McLennan | color/sound | 16mm to digital | 4:04 | CA)\n\nAn Expo ’67 song on 45, current hand-processed film footage, reflecting on social concepts then and now.\n\nThe Spider (Shanna Maurizi color/sound | 16mm to digital | 8:45 (time updated?) | US)\n\nNighttime visions emerge from a dusty roadside and out of the depths of the subconscious as two characters are drawn together by a shared experience. “The Spider” mines family history by developing an ancestral mythology where time is simultaneous, but loss is real.\n\nHurricane Season (Michelle Trujillo | b&w/sound | 16mm to digital | 6:22 | US)\n\nHurricane anxiety takes a visceral form as the image searches for an escape route. Inspired by true events. Created on 16mm film and developed with comfrey, mint, yerba mate and willow leaves.\n\nJonah (Daniel Cortés Ramírez | b&w/sound lomokino to digital *wide* | 10:40 | Colombia)\n\nJonah, the anti-prophet, escapes once again from the god who humiliated him.\n\nHe boards a ship to Tarshish, and out on the vast sea, a distant yet familiar echo calls to him. His body trembles from the trauma, but a deep embrace gathers him up and holds him close.\n\nThis film uses 35mm Lomokino footage to imagine an alternative fate for the perpetrators’ violence.\n\nEn La Paz (Jeremy Moss | b&w/sound | 16mm to digital | 3:00 | US/Bolivia)\n\nCreated in-camera on a rooftop in La Paz, Bolivia in July on B&W reversal film with my Bolex as dusk was approaching. The city’s sea of antennas and surrounding mountains pointing to the sky inform the film’s sound.\n\nKaze No E (or Why the Wind Whispers Among the Leaves) (Takahiro Suzuki | color/sound | 16mm to digital | 7:05 | US)\n\nFour young researchers in Big Sky Country begin to wonder about the vastness of the world and greater cosmos. If non-human presences were capable of harboring intelligence and communicating, what information could they pass along? Using the trees and wind as messengers, the researchers record and decipher writings and recordings from the trees and wind, relating them back to the land and universe, before finding ways to embody them through sound and movement as a form of empathy and communion with a greater intelligence.\n\nTransmission (Douglas Urbank | b&w/sound | 16mm to digital | 7:20 | US)\n\nLayers of patterns generate sound.\n\nToss a Rose Over (Janelle VanderKelen | color/sound | 16mm to digital | 10:44 | US)\n\nThe green ones share stories of change in this travelogue from the vantage point of plants. In a canyon where all things move, these ancient beings urge humanity to reconsider acts of interspecies and intraspecies relation during a current period of anthropogenic climate change.\n\nLeaf Peeper (Vito Rowlands | color/sound | Super 8 to digital | 2:54 | US)\n\nA frantic frolic in Fall foliage. A stop-motion autumn adventure. A symphony in blaze orange.\n\nRun (Robert Schaller | b&w/silent | 11:51 | 16mm print | US)\n\nAn optical quest to capture the feeling of running through the Colorado mountains on and around the Continental Divide.\n\nAlpine Tundra (Kathleen Rugh | color/sound | 5:35 | 16mm print | US)\n\nAt an elevation of 14,264 feet above sea level, the peak of Mount Blue Sky is too harsh for trees and common vegetation. Instead, the ground is covered with fragile tundra grass, weak soil, and rock. In this harsh climate exists the highest paved road in North America, that allows visitors traveling by car to partake in striking views and a sense of awe in the extremes of nature.",
+   "description": "This seemingly disparate collection of films takes us beyond the often artificial boundaries of countries, equipment, formats, frames, genres, species, states, and styles.\n\nFILMS IN THIS PROGRAM:\n\nSome Place to Stand (Sandy McLennan | color/sound | 16mm to digital | 4:04 | CA)\n\nAn Expo ’67 song on 45, current hand-processed film footage, reflecting on social concepts then and now.\n\nThe Spider (Shanna Maurizi color/sound | 16mm to digital | 8:45 | US)\n\nNighttime visions emerge from a dusty roadside and out of the depths of the subconscious as two characters are drawn together by a shared experience. “The Spider” mines family history by developing an ancestral mythology where time is simultaneous, but loss is real.\n\nHurricane Season (Michelle Trujillo | b&w/sound | 16mm to digital | 6:22 | US)\n\nHurricane anxiety takes a visceral form as the image searches for an escape route. Inspired by true events. Created on 16mm film and developed with comfrey, mint, yerba mate and willow leaves.\n\nJonah (Daniel Cortés Ramírez | b&w/sound lomokino to digital *wide* | 10:40 | Colombia)\n\nJonah, the anti-prophet, escapes once again from the god who humiliated him.\n\nHe boards a ship to Tarshish, and out on the vast sea, a distant yet familiar echo calls to him. His body trembles from the trauma, but a deep embrace gathers him up and holds him close.\n\nThis film uses 35mm Lomokino footage to imagine an alternative fate for the perpetrators’ violence.\n\nEn La Paz (Jeremy Moss | b&w/sound | 16mm to digital | 3:00 | US/Bolivia)\n\nCreated in-camera on a rooftop in La Paz, Bolivia in July on B&W reversal film with my Bolex as dusk was approaching. The city’s sea of antennas and surrounding mountains pointing to the sky inform the film’s sound.\n\nKaze No E (or Why the Wind Whispers Among the Leaves) (Takahiro Suzuki | color/sound | 16mm to digital | 7:05 | US)\n\nFour young researchers in Big Sky Country begin to wonder about the vastness of the world and greater cosmos. If non-human presences were capable of harboring intelligence and communicating, what information could they pass along? Using the trees and wind as messengers, the researchers record and decipher writings and recordings from the trees and wind, relating them back to the land and universe, before finding ways to embody them through sound and movement as a form of empathy and communion with a greater intelligence.\n\nTransmission (Douglas Urbank | b&w/sound | 16mm to digital | 7:20 | US)\n\nLayers of patterns generate sound.\n\nToss a Rose Over (Janelle VanderKelen | color/sound | 16mm to digital | 10:44 | US)\n\nThe green ones share stories of change in this travelogue from the vantage point of plants. In a canyon where all things move, these ancient beings urge humanity to reconsider acts of interspecies and intraspecies relation during a current period of anthropogenic climate change.\n\nLeaf Peeper (Vito Rowlands | color/sound | Super 8 to digital | 2:54 | US)\n\nA frantic frolic in Fall foliage. A stop-motion autumn adventure. A symphony in blaze orange.\n\nRun (Robert Schaller | b&w/silent | 11:51 | 16mm print | US)\n\nAn optical quest to capture the feeling of running through the Colorado mountains on and around the Continental Divide.\n\nAlpine Tundra (Kathleen Rugh | color/sound | 5:35 | 16mm print | US)\n\nAt an elevation of 14,264 feet above sea level, the peak of Mount Blue Sky is too harsh for trees and common vegetation. Instead, the ground is covered with fragile tundra grass, weak soil, and rock. In this harsh climate exists the highest paved road in North America, that allows visitors traveling by car to partake in striking views and a sense of awe in the extremes of nature.",
    "runtime": 86,
    "genres": [
     "Shorts",
@@ -630,7 +630,7 @@
   {
    "id": "engauge-2026-expanded-cinema-performance-and-film",
    "title": "Engauge 2026 – Expanded Cinema Performance and Film",
-   "description": "FILMS IN THIS PROGRAM:\n\nNo Landscape Ever Made Me Cry (Sujin Lee | b&w/silent | 5:30 |16mm to digital | US/Korea)\n\nI am a crier, and this film tells stories about holding back (or not holding back) tears; words break down and often turn into crying. The film tries to explain those tears. It also reflects an ambivalent attitude—being personal while trying to maintain distance from these emotions, wanting to talk about crying but not quite being able to. Produced on 16mm film using inkjet-printed paper and plastic negatives, the entire process was cameraless.\n\nPedra e Montanha, Expanded Cinema Performance of 35mm Slides by Tetsuya Maruyama (3-35mm slide projectors + live sound accompaniment by Corey J. Brewer | 50:00 | Brazil)\n\nA continuation of ongoing research into contemporary mining activities in Brazil and beyond. Multiple 35mm slide projectors cycle through images captured by a Brazilian mining company while being manipulated live by the artist using three 35mm slide projectors. Live sound accompaniment by local artist/musician Corey J. Brewer incorporates field recordings taken by Maruyama and Brewer (check for accuracy).",
+   "description": "FILMS IN THIS PROGRAM:\n\nNo landscape ever made me cry. (Sujin Lee | b&w/silent | 5:30 |16mm to digital | US/Korea)\n\nI am a crier, and this film tells stories about holding back (or not holding back) tears; words break down and often turn into crying. The film tries to explain those tears. It also reflects an ambivalent attitude—being personal while trying to maintain distance from these emotions, wanting to talk about crying but not quite being able to. Produced on 16mm film using inkjet-printed paper and plastic negatives, the entire process was cameraless.\n\nPedra e Montanha, Expanded Cinema Performance of 35mm Slides by Tetsuya Maruyama (3x 35mm slide projectors + live sound accompaniment by Corey J. Brewer | 50:00 | Brazil)\n\nA continuation of ongoing research into contemporary mining activities in Brazil and beyond. Multiple 35mm slide projectors cycle through images captured by a Brazilian mining company while being manipulated live by the artist using three 35mm slide projectors. Live sound accompaniment by local artist/musician Corey J. Brewer incorporates field recordings taken by Maruyama and Brewer (check for accuracy).",
    "runtime": 60,
    "genres": [
     "Shorts",
@@ -644,7 +644,7 @@
   {
    "id": "engauge-2026-pattern-and-place",
    "title": "Engauge 2026 – Pattern and Place",
-   "description": "Inspired by Eric Stewart’s description of his film as “a quiet study in pattern and place,” these films closely observe phenomena, not limited to but often privileging the natural world. 2 films will be shown on 16mm and the last is an expanded cinema performance.\n\nFILMS IN THIS PROGRAM:\n\nMaya at 24 (Lynne Sachs | b&w/sound | 4:47 | 16mm to digital | US)\n\nLynne Sachs films her daughter Maya in 16mm black and white film, at ages 6, 16 and 24. At each iteration, Maya runs around her mother, in a circle – clockwise – as if propelling herself in the same direction as time, forward. Conscious of the strange simultaneous temporal landscape that only film can convey, we watch Maya in motion at each distinct age.\n\nSolar Wave (Christina Nguyen | color/sound | 2:53 | 16mm to digital | US)\n\nsun light, sun set, sun rise, sun ray. a hand processed in camera roll shot on Kodak 3383 color print stock.\n\nHemispheres (Eric Stewart | color/sound | 7:14 | 16mm to digital | US)\n\nFilmed over the course of several years in southern Colorado, Hemispheres is a quiet study in pattern and place, as observed through the window of my living room. Shot on Super 16mm film, the project layers multiple time-lapse exposures of cacti and seasonal light, capturing subtle shifts in color, atmosphere, and rhythm. Like the inlay of a sundial meeting a garden’s creeping vines, what emerges is not a photograph of a singular view or moment, but a composite drawing of duration—using light to trace the intersecting cycles of growth and dormancy, brightness and shadow, warm and cool, seasonal progression and retreat…\n\nStock (Lucy Ellis | color/sound | 1:50 | 35mm to digital | UK)\n\nStock uses both new and obsolete digital stock imagery transferred onto 35mm film through UV printing, pen plotting and sticker transfer. Drawing parallels between the vertical storage of information digitally and on the film surface, the imagery transfers from one storage system to another allowing for a shift in line, texture and detail, a drift from digital precision. Undertaking a new form of light and a new identity (from digital to analog) the imagery becomes slow in its formation whilst unstable in nature.\n\nLicht & Ton (Light & Sound) (Jan Rehwinkel | b&w/sound | 5:50 | Germany)\n\nA film without a camera: The fascination of painting tone or noise—a composition of visible sound and audible images. After experimenting with photograms on 16mm film, whose technical precision proved too much for me, I decided to switch to what I like best about filmmaking: painting what I want to see (and hear!) onto the material myself. When I work this way, I am constantly confronted with failure or the impossibility of perfection – even the contact printer I used to make the screening copy was unpredictable. But I see all of this as a creative tool and integrate it into the process.\n\nFluss (Penny McCann | b&w/sound | 3:39 | 16mm to digital | CA)\n\nIn this experimental film, a journey down the Danube River is transformed into a dream space of half-seen images and flickering shorelines. Though at times abstract, the river remains certain, always moving towards the sea. Filmed in black and white 16mm and hand-processed, Fluss is a companion to River (2023), a black and white study of the Ottawa River in winter. Commissioned by Ottawa’s Lightproof Film Collective.\n\nDrift (Tessa Garland | b&w&color/sound | 7:25 | S 8 to digital | UK)\n\nShot on Super 8, the film captures a walk around a precarious, low-lying sandbank island, where fleeting observations come into focus only to vanish again. Rotations and cycles ebb and flow through manmade wind vanes assembled from foraged sea drift, while sea-worn objects hint at deeper meanings beneath the surface. Prehistoric-looking cacti punctuate the island, contributing to its strange, otherworldly atmosphere.\n\nPhytophonics (Karel Doing | color/sound | 4:18 | 16mm to digital | UK)\n\nPlant matter is used to create finely detailed indexical traces on photochemical film. The traces are not only visible but also audible. By feeding botanical textures, patterns and rhythms into the optical sound system noise, cracks, pops and hiss is generated. Seeing is hearing. Such a cross modality disobeys the usual lipsync illusion and replaces this so called realism with a radically different concreteness. Phytophonics is serious play with living material in a world that is increasingly based on simulated sham. Eco-punk against the abyss created by late-capitalism.\n\nSpring Song (Wei Gao | color/sound | 16:21 | 16mm to digital | Korea/France)\n\n“Spring Song” was filmed from 2016 to 2024. Every spring, the filmmaker, armed with a Super 8mm camera and using the vibrant colors of Ektachrome super 8 film, or Kodak color negative film, captured the vibrant blossoms, grasses, leaves, insects, and small animals of spring. The filmmaker’s meticulous daily observations in her own rooftop garden, as well as her chance encounters in the National Forest Park, revealed a rich natural ecosystem. She also employed cameraless photography, creating images of plants through photochemical reactions between Super 8mm film, plants, and organic matter. She then combined these Super 8mm and cameraless images together to create a dynamic and colorful vision of spring. In the context of increasingly strained ecological environments, the director created a living green ecosystem in her rooftop garden, observing plants and practicing a lifestyle integrated with nature.\n\nGradually Forming a Circle (Zack Parrinella | color/sound | 8:02 | 16mm print | US)\n\nA stepped and steady progression of a line becoming a circle. Soundtrack by Zekarias Musele Thompson.\n\nThe Rocks: Kata Tjuta West of Ularu (Dianna Barrie and Richard Tuohy | color/sound | 6:00 16mm print | AU)\n\nLooking at the present, as though the far future were dreaming of its ancient past – an ‘iconogenic’ vision of Australia.\n\nMounds Above the Earth (Jaiyi Chen | color/sound | 7:39 | *35mm, 16mm and interventionist tools, performed by Spencer Sundell | US)\n\n“Mounds Above the Earth” contemplates ecological cycles, perception, and environmental transformation, anchored in the rare emergence of two periodical cicada broods surfacing simultaneously for the first time in more than two centuries. The film follows the flicker of red through the cicadas’ developing eyes, a blood moon, and a retelling of an ancient fable.",
+   "description": "Inspired by Eric Stewart’s description of his film as “a quiet study in pattern and place,” these films closely observe phenomena, not limited to but often privileging the natural world. 2 films will be shown on 16mm and the last is an expanded cinema performance.\n\nFILMS IN THIS PROGRAM:\n\nMaya at 24 (Lynne Sachs | b&w/sound | 4:47 | 16mm to digital | US)\n\nLynne Sachs films her daughter Maya in 16mm black and white film, at ages 6, 16 and 24. At each iteration, Maya runs around her mother, in a circle – clockwise – as if propelling herself in the same direction as time, forward. Conscious of the strange simultaneous temporal landscape that only film can convey, we watch Maya in motion at each distinct age.\n\nSolar Wave (Christina Nguyen | color/sound | 2:53 | 16mm to digital | US)\n\nsun light, sun set, sun rise, sun ray. a hand processed in camera roll shot on Kodak 3383 color print stock.\n\nHemispheres (Eric Stewart | color/sound | 7:14 | 16mm to digital | US)\n\nFilmed over the course of several years in southern Colorado, Hemispheres is a quiet study in pattern and place, as observed through the window of my living room. Shot on Super 16mm film, the project layers multiple time-lapse exposures of cacti and seasonal light, capturing subtle shifts in color, atmosphere, and rhythm. Like the inlay of a sundial meeting a garden’s creeping vines, what emerges is not a photograph of a singular view or moment, but a composite drawing of duration—using light to trace the intersecting cycles of growth and dormancy, brightness and shadow, warm and cool, seasonal progression and retreat…\n\nStock (Lucy Ellis | color/sound | 1:50 | 35mm to digital | UK)\n\nStock uses both new and obsolete digital stock imagery transferred onto 35mm film through UV printing, pen plotting and sticker transfer. Drawing parallels between the vertical storage of information digitally and on the film surface, the imagery transfers from one storage system to another allowing for a shift in line, texture and detail, a drift from digital precision. Undertaking a new form of light and a new identity (from digital to analog) the imagery becomes slow in its formation whilst unstable in nature.\n\nLicht & Ton (Light & Sound) (Jan Rehwinkel | b&w/sound | 5:50 | Germany)\n\nA film without a camera: The fascination of painting tone or noise—a composition of visible sound and audible images. After experimenting with photograms on 16mm film, whose technical precision proved too much for me, I decided to switch to what I like best about filmmaking: painting what I want to see (and hear!) onto the material myself. When I work this way, I am constantly confronted with failure or the impossibility of perfection – even the contact printer I used to make the screening copy was unpredictable. But I see all of this as a creative tool and integrate it into the process.\n\nFluss (Penny McCann | b&w/sound | 3:39 | 16mm to digital | CA)\n\nIn this experimental film, a journey down the Danube River is transformed into a dream space of half-seen images and flickering shorelines. Though at times abstract, the river remains certain, always moving towards the sea. Filmed in black and white 16mm and hand-processed, Fluss is a companion to River (2023), a black and white study of the Ottawa River in winter. Commissioned by Ottawa’s Lightproof Film Collective.\n\nDrift (Tessa Garland | b&w&color/sound | 7:25 | S 8 to digital | UK)\n\nShot on Super 8, the film captures a walk around a precarious, low-lying sandbank island, where fleeting observations come into focus only to vanish again. Rotations and cycles ebb and flow through manmade wind vanes assembled from foraged sea drift, while sea-worn objects hint at deeper meanings beneath the surface. Prehistoric-looking cacti punctuate the island, contributing to its strange, otherworldly atmosphere.\n\nPhytophonics (Karel Doing | color/sound | 4:18 | 16mm to digital | UK)\n\nPlant matter is used to create finely detailed indexical traces on photochemical film. The traces are not only visible but also audible. By feeding botanical textures, patterns and rhythms into the optical sound system noise, cracks, pops and hiss is generated. Seeing is hearing. Such a cross modality disobeys the usual lipsync illusion and replaces this so called realism with a radically different concreteness. Phytophonics is serious play with living material in a world that is increasingly based on simulated sham. Eco-punk against the abyss created by late-capitalism.\n\nSpring Song (Wei Gao | color/sound | 16:21 | 16mm to digital | Korea/France)\n\n“Spring Song” was filmed from 2016 to 2024. Every spring, the filmmaker, armed with a Super 8mm camera and using the vibrant colors of Ektachrome super 8 film, or Kodak color negative film, captured the vibrant blossoms, grasses, leaves, insects, and small animals of spring. The filmmaker’s meticulous daily observations in her own rooftop garden, as well as her chance encounters in the National Forest Park, revealed a rich natural ecosystem. She also employed cameraless photography, creating images of plants through photochemical reactions between Super 8mm film, plants, and organic matter. She then combined these Super 8mm and cameraless images together to create a dynamic and colorful vision of spring. In the context of increasingly strained ecological environments, the director created a living green ecosystem in her rooftop garden, observing plants and practicing a lifestyle integrated with nature.\n\nGradually Forming a Circle (Zack Parrinella | color/sound | 8:02 | 16mm print | US)\n\nA stepped and steady progression of a line becoming a circle. Soundtrack by Zekarias Musele Thompson.\n\nThe Rocks: Kata Tjuta West of Ularu (Dianna Barrie and Richard Tuohy | color/sound | 6:00 16mm print | AU)\n\nLooking at the present, as though the far future were dreaming of its ancient past – an ‘iconogenic’ vision of Australia.\n\nMounds Above the Earth (Jiayi Chen | color/sound | 7:39 | *35mm, 16mm and interventionist tools, performed by Spencer Sundell | US)\n\n“Mounds Above the Earth” contemplates ecological cycles, perception, and environmental transformation, anchored in the rare emergence of two periodical cicada broods surfacing simultaneously for the first time in more than two centuries. The film follows the flicker of red through the cicadas’ developing eyes, a blood moon, and a retelling of an ancient fable.",
    "runtime": 86,
    "genres": [
     "Shorts",
@@ -686,7 +686,7 @@
   {
    "id": "engauge-2026-tainted",
    "title": "Engauge 2026 – Tainted",
-   "description": "This program gathers a group of films that confront the various underbellies of life: deceptive icons, devastated landscapes, climate change, predatory advertising, drug addiction, toxic politics and environmental disasters, among others, using found footage emulsion lifting, documentary techniques, handmade film and cameras, single framing, and narrative strategies.\n\nFILMS IN THIS PROGRAM:\n\nFront Ear Theory (Brady Lewis | color/sound | 5:12 | S8 to digital | US)\n\n“Front Ear Theory” is a five-minute history lesson. To be more precise, it’s a story about a history lesson. Or about a history teacher. It’s an experimental narrative that was shot entirely on super-8 (mostly Kodachrome) film.\n\nBigger Than Us, The Berkeley Pit, Butte, Montana (color/sound | 9:00 | 16mm to digital | US)\n\nA portrait of a huge open-air copper mine in Butte, Montana. The closed mine dominates the city geographically, and also financially, culturally, historically, and in the on-going health effects from the highly toxic metals and chemicals which fill the bright blue-green water in the pit. (The pit is a designated Superfund site.) After a few opening titles which briefly introduce us to the pit and its history, the film becomes a wordless visual montage, almost always superimposing several layers of footage.–David Finkelstein.\n\nBlu/Blue (Andrea Nevi | color/sound | 4:47 | Super 8 to digital | Italy)\n\nA community displaced by a climate disaster settles in a new habitat, where memories of their former way of life slowly begin to resurface. BLU is an experimental climate fiction short film made entirely from Super 8mm found footage recovered from a flea market.\n\nInjured? (Eislow Johnson | color/sound | 13:28 | 16mm to digital | US)\n\nNeed help? Crashouts, manifestation influencers and injury lawyers collide in this breakneck ride through the Midwest. 50 years after attorney ads were first legalized in the U.S., their ubiquitous self-portraits (allegedly) invoke a churn-and-burn economy of volume, velocity, fears and veneers.\n\nWhat You Don't See (Karl Nussbaum | color/sound | 1:25 | 16mm to digital | US)\n\nThis film is about what the audience doesn’t see when we watch a film – the sprockets, the optical soundtrack, the splicing tape, the celluloid itself, the frame lines, etc. This is a very short Direct Animation film I made at MONO NO AWARE in Brooklyn. It’s totally analog and was made using only 16 mm and Super 8 found footage film strips.\n\nOn The Glue (Dave Johnson | color/sound | 3:02 | 16mm to digital | CA)\n\nFrom the depths of London, England’s Barracks district amongst the derelict weapons huts, comes a public service expose from the 1970s revealing “THE HORRORS” of kids participating in the act of glue sniffing. The narrative is told in three parts: The reporter, a mother, and her “addict son” David. This film and its title have been appropriated from a 1970’s BBC expose. The visual treatment exposed the footage (and the filmmaker) by gluing pieces of film together then ripping it apart. This becomes an interesting metaphor of creating using the substance of the problem presented in the film. The film was edited by hand and sequenced using measurements to time each shot.\n\nThe Gloaming (Charlotte Pryce | color/sound | 14:00 | 16mm to digital | US)\n\nA metaphorical tale of pyrophytic transmutation, of metamorphosis through fire. Inspired by medieval paintings of celestial portents, The Gloaming is a work of bio-mysticism that takes the form of a fable. The slippage between substances and the ethereal nature of matter finds a parallel in the chemical accretions of the hand processed film. In a time of environmental uncertainty, the film offers a story of adaptation and survival.\n\nThought/Action (Dirk De Bruyn | color/sound | 10:27 | 16mm to digital | AU)\n\nInitiated in 1996 and belatedly completed in 2026, this home-processed 16mm film material was inspired by Marc Adrian’s Total (1968) and incorporates Moucle Blackout and Laszlo Dudas’s voices. Partially shot at Hearst’s San Simeon Castle, Canada and Royal Melbourne Show, it is an exploration of overcoming traumatic thoughts through materialist actions onto the film surface. The completion gap demonstrates the power of and resistance to traumatic events.\n\nBetter Lighting (Kathryn Ramey | color/sound | 2:13 | 16mm to digital | US)\n\nAn agitprop made from two 30-second GE adverts from the 1970s repurposed to rebuke the role white women voters in the US have chosen to uphold white supremacy and the patriarchy instead of supporting the interests of women and anyone who loves them.\n\nNecropolis (Kevin T. Allen | color/sound | 8:53 | Super 8 to digital | US)\n\nA Stone Tape film inspired by the yellow fever epidemic in 19th century New Orleans, using analog camera techniques and contact microphones to excavate the material traces of trauma. Coined by archaeologist and parapsychologist T.C. Lethbridge, Stone Tape Theory posits that material objects record traumatic events of the past…and that they can be played back.\n\nGood Neighbors Care (Kate E. Hinshaw | color/sound | 3:50 | 16mm to digital | US)\n\nFor decades chemical company DuPont and its subsidiary Chemours poisoned North Carolina’s drinking water through illegally dumping forever chemicals into the Cape Fear River. On altered 16mm film, corporate promises of community care and pure water dissolve as rivers and bodies merge in a meditation on what it means to exist in an imperfect environment.\n\nNorth (Hogan Seidel | b&w/sound | 3:00 | 16mm to digital | US)\n\nI found a decaying print of Nanook of the North and continued its collapse through photochemical processes, confronting the violence of its legacy. “North” is not a restoration, but a reckoning—an act of holding damaged images until they blur, bleed, and refuse the gaze that once claimed them.\n\nAssets (Christine Lucy Latimer | color/sound | 2:22 | 16mm print | CA)\n\nHundreds of digitally generated filters and assets used by online content creators to simulate a “shot on film” aesthetic are collaged together on expired 16mm Ektachrome. Random contemporary approximations of film artifacts, ranging from industrial to experimental, move through the frame in impossible trajectories. A film of transitions that never transition, positioning moving image signifiers in a post-truth era.\n\nAshes to Ashes (Sidney Gordon | color/sound | 5:00 | 16mm print | CA)\n\n“Ashes to Ashes” depicts fragments of the artist’s diary as they undergo physical and emotional transformation through a blazing agricultural landscape. Words turn to ash as the past is consumed by flames. Rivers ignite from embers, flow through vessels and begin to crack. Manifested through the land and material processes lies a situated reflection on recovery, loss and evolution. The film was shot at the 2024 Independent Imaging Retreat. It was developed with common comfrey and contaminated wood ash foraged from the farm and was coated in the artist’s blood.",
+   "description": "This program gathers a group of films that confront the various underbellies of life: deceptive icons, devastated landscapes, climate change, predatory advertising, drug addiction, toxic politics and environmental disasters, among others, using found footage emulsion lifting, documentary techniques, handmade film and cameras, single framing, and narrative strategies.\n\nFILMS IN THIS PROGRAM:\n\nFront Ear Theory (Brady Lewis | color/sound | 5:12 | S8 to digital | US)\n\n“Front Ear Theory” is a five-minute history lesson. To be more precise, it’s a story about a history lesson. Or about a history teacher. It’s an experimental narrative that was shot entirely on super-8 (mostly Kodachrome) film.\n\nBigger Than Us, The Berkeley Pit, Butte, Montana (Dominic Angerame, color/sound | 9:00 | 16mm to digital | US)\n\nA portrait of a huge open-air copper mine in Butte, Montana. The closed mine dominates the city geographically, and also financially, culturally, historically, and in the on-going health effects from the highly toxic metals and chemicals which fill the bright blue-green water in the pit. (The pit is a designated Superfund site.) After a few opening titles which briefly introduce us to the pit and its history, the film becomes a wordless visual montage, almost always superimposing several layers of footage. – David Finkelstein\n\nBlu/Blue (Andrea Nevi | color/sound | 4:47 | Super 8 to digital | Italy)\n\nA community displaced by a climate disaster settles in a new habitat, where memories of their former way of life slowly begin to resurface. BLU is an experimental climate fiction short film made entirely from Super 8mm found footage recovered from a flea market.\n\nInjured? (Eislow Johnson | color/sound | 13:28 | 16mm to digital | US)\n\nNeed help? Crashouts, manifestation influencers and injury lawyers collide in this breakneck ride through the Midwest. 50 years after attorney ads were first legalized in the U.S., their ubiquitous self-portraits (allegedly) invoke a churn-and-burn economy of volume, velocity, fears and veneers.\n\nWhat You Don't See (Karl Nussbaum | color/sound | 1:25 | 16mm to digital | US)\n\nThis film is about what the audience doesn’t see when we watch a film – the sprockets, the optical soundtrack, the splicing tape, the celluloid itself, the frame lines, etc. This is a very short Direct Animation film I made at MONO NO AWARE in Brooklyn. It’s totally analog and was made using only 16 mm and Super 8 found footage film strips.\n\nOn The Glue (Dave Johnson | color/sound | 3:02 | 16mm to digital | CA)\n\nFrom the depths of London, England’s Barracks district amongst the derelict weapons huts, comes a public service expose from the 1970s revealing “THE HORRORS” of kids participating in the act of glue sniffing. The narrative is told in three parts: The reporter, a mother, and her “addict son” David. This film and its title have been appropriated from a 1970’s BBC expose. The visual treatment exposed the footage (and the filmmaker) by gluing pieces of film together then ripping it apart. This becomes an interesting metaphor of creating using the substance of the problem presented in the film. The film was edited by hand and sequenced using measurements to time each shot.\n\nThe Gloaming (Charlotte Pryce | color/sound | 14:00 | 16mm to digital | US)\n\nA metaphorical tale of pyrophytic transmutation, of metamorphosis through fire. Inspired by medieval paintings of celestial portents, The Gloaming is a work of bio-mysticism that takes the form of a fable. The slippage between substances and the ethereal nature of matter finds a parallel in the chemical accretions of the hand processed film. In a time of environmental uncertainty, the film offers a story of adaptation and survival.\n\nThought/Action (Dirk De Bruyn | color/sound | 10:27 | 16mm to digital | AU)\n\nInitiated in 1996 and belatedly completed in 2026, this home-processed 16mm film material was inspired by Marc Adrian’s Total (1968) and incorporates Moucle Blackout and Laszlo Dudas’s voices. Partially shot at Hearst’s San Simeon Castle, Canada and Royal Melbourne Show, it is an exploration of overcoming traumatic thoughts through materialist actions onto the film surface. The completion gap demonstrates the power of and resistance to traumatic events.\n\nBetter Lighting (Kathryn Ramey | color/sound | 2:13 | 16mm to digital | US)\n\nAn agitprop made from two 30-second GE adverts from the 1970s repurposed to rebuke the role white women voters in the US have chosen to uphold white supremacy and the patriarchy instead of supporting the interests of women and anyone who loves them.\n\nNecropolis (Kevin T. Allen | color/sound | 8:53 | Super 8 to digital | US)\n\nA Stone Tape film inspired by the yellow fever epidemic in 19th century New Orleans, using analog camera techniques and contact microphones to excavate the material traces of trauma. Coined by archaeologist and parapsychologist T.C. Lethbridge, Stone Tape Theory posits that material objects record traumatic events of the past…and that they can be played back.\n\nGood Neighbors Care (Kate E. Hinshaw | color/sound | 3:50 | 16mm to digital | US)\n\nFor decades chemical company DuPont and its subsidiary Chemours poisoned North Carolina’s drinking water through illegally dumping forever chemicals into the Cape Fear River. On altered 16mm film, corporate promises of community care and pure water dissolve as rivers and bodies merge in a meditation on what it means to exist in an imperfect environment.\n\nNorth (Hogan Seidel | b&w/sound | 3:00 | 16mm to digital | US)\n\nI found a decaying print of Nanook of the North and continued its collapse through photochemical processes, confronting the violence of its legacy. “North” is not a restoration, but a reckoning—an act of holding damaged images until they blur, bleed, and refuse the gaze that once claimed them.\n\nAssets (Christine Lucy Latimer | color/sound | 2:22 | 16mm print | CA)\n\nHundreds of digitally generated filters and assets used by online content creators to simulate a “shot on film” aesthetic are collaged together on expired 16mm Ektachrome. Random contemporary approximations of film artifacts, ranging from industrial to experimental, move through the frame in impossible trajectories. A film of transitions that never transition, positioning moving image signifiers in a post-truth era.\n\nAshes to Ashes (Sidney Gordon | color/sound | 5:00 | 16mm print | CA)\n\n“Ashes to Ashes” depicts fragments of the artist’s diary as they undergo physical and emotional transformation through a blazing agricultural landscape. Words turn to ash as the past is consumed by flames. Rivers ignite from embers, flow through vessels and begin to crack. Manifested through the land and material processes lies a situated reflection on recovery, loss and evolution. The film was shot at the 2024 Independent Imaging Retreat. It was developed with common comfrey and contaminated wood ash foraged from the farm and was coated in the artist’s blood.",
    "runtime": 79,
    "genres": [
     "Shorts",
@@ -884,6 +884,24 @@
    }
   },
   {
+   "id": "it-s-a-wonderful-life",
+   "title": "It's a Wonderful Life",
+   "description": "George Bailey has spent his entire life giving to the people of Bedford Falls. All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company. But on Christmas Eve the business's $8,000 is lost and George's troubles begin.\n\nIn lieu of admission, please bring a food donation for the West Seattle Food Bank.",
+   "runtime": 131,
+   "year": 1946,
+   "director": "Frank Capra",
+   "rating": "PG",
+   "genres": [
+    "Drama",
+    "Family",
+    "Fantasy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w300/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+   "links": {
+    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/its-a-wonderful-life-1946-west-seattle-food-bank-drive"
+   }
+  },
+  {
    "id": "journey-to-italy",
    "title": "Journey to Italy",
    "description": "Married for eight years with no children, Brits Katherine and Alex Joyce are driving to Italy, their ultimate destination just outside of Naples to sell the villa they have just inherited from his uncle, the villa where they will be staying during their time there. On the drive, they come to the realization that this trip marks the first time that they have truly been alone together, and as such don't really know one another in the true sense. While in Italy, they end up mainly embarking on pursuits separate from each other - Katherine preferring the cultural, Alex preferring \"company\" including with some acquaintances they didn't know were in Naples until running into them on their first night in the city - and on the few occasions when they do spend time together, there is a tension and an underlying increasing want on both sides to hurt the other emotionally in their individual beliefs of what the other is thinking or has done in their time apart. As their marriage slowly falls apart, the question becomes if there is any way to salvage it if they truly do want to continue to be Mr. and Mrs. Joyce.",
@@ -940,20 +958,6 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/labolanegra1600-1-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/la-bola-negra/"
-   }
-  },
-  {
-   "id": "land-of-the-dead-it-s-for-the-gays",
-   "title": "Land of the Dead: it's for the gays",
-   "description": "Presented by Scorpio Rising Productions. Land of the Dead: it’s for the gays is a dark, campy horror comedy that explores the intersections of gender identity, addiction, trauma, and Queerness. Through Mel’s confrontation with a literal demon from their past, the film examines the ways unresolved pain can shape identity, relationships, and self-acceptance. Blending supernatural horror with Queer humor and emotional depth, the story uses camp as a tool for both survival and reclamation, creating a space where confronting the past becomes a path toward healing and embracing one’s authentic self.",
-   "runtime": 16,
-   "year": 2026,
-   "director": "Hana Hahn",
-   "country": "USA",
-   "language": "English",
-   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/REN_LandoftheDeadfortheGays_1600x900.png",
-   "links": {
-    "siff-film-center": "https://www.siff.net/cinema/in-theaters/land-of-the-dead-its-for-the-gays"
    }
   },
   {
@@ -1090,6 +1094,17 @@
    }
   },
   {
+   "id": "met-opera-2026-2027-samson-et-dalila",
+   "title": "Met Opera 2026/2027: Samson et Dalila",
+   "description": "Sacred, scandalous, and irresistibly alluring, Saint-Saëns’s spectacular take on the biblical hero of legendary strength and the seductive Philistine whose beauty overpowers him returns in the Met’s larger-than-life production. Featuring a massive orchestra and chorus and some of opera’s most spellbinding tunes, this masterpiece of French grand opera is a feast for the eyes and ears. Giacomo Sagripanti conducts an electrifying cast led by the formidable star pairing of mezzo-soprano Aigul Akhmetshina and tenor Clay Hilley, transmitted live to cinemas worldwide.",
+   "runtime": 225,
+   "rating": "G",
+   "image": "https://media.mobilemoviegoing.com/CustomOneSheets/1789506576_samson.jpg",
+   "links": {
+    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/met-opera-20262027-samson-et-dalila"
+   }
+  },
+  {
    "id": "mrs-miniver",
    "title": "Mrs. Miniver",
    "description": "A moving drama about a middle-class English family learning to cope with war, told in a series of dramatic vignettes. The family, headed by the lovely and gracious matriarch, endures the departure of the father for the beaches at Dunkirk, the discovery of a wounded Nazi pilot, the death of the daughter-in-law in an air raid, and the entry of the son into the Royal Air Force.\n\nEvery movie starts with a story at the North Bend Theatre. Just prior to each of the Love & War movies, our resident film experts, Kevin & Beth, will share the amazing stories behind these great films, giving you a whole new way to connect to the movie.",
@@ -1171,18 +1186,6 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792698608923-tb-naturalbornkillers.jpg",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/natural-born-killers"
-   }
-  },
-  {
-   "id": "next-of-kin",
-   "title": "Next of Kin",
-   "description": "When Linda inherits her mother’s sprawling retirement home in rural Australia, she returns to a place she hasn’t seen since childhood and discovers that the elderly residents have started dying with suspicious regularity. Then she finds her mother’s old diaries, which describe eerily similar deaths decades earlier. There are figures at windows, faucets that won’t stop running, footsteps in empty rooms and an enormous old house that seems determined to keep Linda from ever getting a decent night’s sleep.\n\nNEXT OF KIN spends its first hour moving at the speed of a nightmare you can’t quite wake up from, then suddenly remembers it’s an Australian horror movie and all hell breaks loose. Director Tony Williams smothers the film in rain, shadows, long hallways and creeping dread, while Tangerine Dream veteran Klaus Schulze’s pulsing electronic score keeps the dread humming. Together they turn a retirement home into one of the great haunted spaces of ’80s horror without ever settling comfortably into a ghost story. Elegant, eccentric and quietly menacing, NEXT OF KIN keeps tightening the screws until its stately Gothic nightmare finally cracks open and something much wilder comes spilling out.",
-   "runtime": 89,
-   "year": 1982,
-   "director": "Tony Williams",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1790029558553-tb-nextofkin.png",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/next-of-kin"
    }
   },
   {
@@ -1309,6 +1312,18 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792702248289-tb-raisetheredlantern.png",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/raise-the-red-lantern"
+   }
+  },
+  {
+   "id": "reel-injun",
+   "title": "Reel Injun",
+   "description": "Free screening in honor of Native American Heritage Month! Seattle theatrical premiere!\n\nREEL INJUN journeys through a century of cinema to set the record straight about Hollywood's depiction of Native Americans. Traveling through the heartland of the U.S., to the Black Hills and Monument Valley, Cree filmmaker Neil Diamond examines how the myth of the movie \"Injun\" has influenced the world's understanding—and misunderstanding—of Natives. Through clips from hundreds of classic and recent films, it documents the shift from nuanced silent-era heroes to the Western's \"noble savage\" stereotype, leading up to the burgeoning Native independent scene of SMOKE SIGNALS and THE FAST RUNNER.\n\nFeaturing candid interviews with celebrated filmmakers, actors and activists, it is an insightful and essential compendium for understanding the racial politics of Hollywood and the continuing artistic vibrancy of Native peoples.\n\nRSVPs will begin 11/9. More info coming soon!",
+   "runtime": 86,
+   "year": 2010,
+   "director": "Neil Diamond",
+   "image": "https://grandillusioncinema.org/wp-content/uploads/2026/10/reel_injun_tmdb-t4kjwgqlhe5anfnwdx4qinmr1ks.jpg",
+   "links": {
+    "grand-illusion": "https://grandillusioncinema.org/film/reel-injun/"
    }
   },
   {
@@ -1457,6 +1472,20 @@
    }
   },
   {
+   "id": "seattle-lgbtq",
+   "title": "Seattle LGBTQ",
+   "description": "We Were Here is the first documentary to take a deep and reflective look back at the arrival and impact of AIDS in San Francisco. It explores how the City’s inhabitants were affected by, and how they responded to, that calamitous epidemic.\n\nThough a San Francisco-based story, We Were Here extends beyond San Francisco and beyond AIDS itself. It speaks to our capacity as individuals to rise to the occasion, and to the incredible power of a community coming together with love, compassion, and determination.\n\nFilmmakers David Weissman and Bill Weber co-directed the 2001 documentary, The Cockettes, chronicling San Francisco’s legendary theater troupe of hippies and drag queens, 1969 – 1972. We Were Here revisits San Francisco a decade later, as its flourishing gay community is hit with an unimaginable disaster.",
+   "runtime": 90,
+   "year": 2011,
+   "director": "David Weissman",
+   "country": "United States",
+   "language": "English",
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/wewerehere1600-5-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/seattle-lgbtq-center-presents-we-were-here/"
+   }
+  },
+  {
    "id": "seattle-turkish-film-festival-dump-of-untitled-pieces",
    "title": "Seattle Turkish Film Festival: Dump of Untitled Pieces",
    "description": "Ambitious photographer Asli candidly takes photos of people’s hands to reveal the stories they may tell. Her best friend, computer savvy Murat cooks simple dishes full of love, but sometimes with already spoiling vegetables. They live together nearly like a married couple, who never sleeps together. Barely able to afford anything, they are treated as nothing and face eviction due to unpaid bills. 20 months ago rebellious Asli took up a camera to reclaim her broken heart. She wears a mask of confidence to pursue the luxury of being an artist in the pretentious art world. Asli dreams of showcasing her photos and escaping uncertainty, despair and loneliness with the hapless introverted Murat as her manager.\n\nFilmmaker Melik Kuru comes from an editing background, including his editing work for SIFF 2024 official selection Hesitation Wound.",
@@ -1546,18 +1575,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/SFCS%202026/CIN_SFCS26_Shorts_1600x900.png",
    "links": {
     "siff-film-center": "https://www.siff.net/programs-and-events/seattle-film-critics-society-pnw-awards-2026/short-film-nominee-showcase"
-   }
-  },
-  {
-   "id": "spookies",
-   "title": "Spookies",
-   "description": "“A surreal blitz of ooze, slime, hoboes, failed birthday parties, Grim Reapers, explosions, zombies, people jumping through walls, and a guy with his own face silkscreened on his shirt.” — Joseph A. Ziemba, BLEEDING SKULL!\n\nAfter taking shelter in a spooky old mansion, a group of travelers discover a ouija board and decide to spend the night. But they soon learn that playing with the forces of black magic isn't fun and games, and it's not long before they're battling demonic creatures, shape shifters, and other forms of evil! Of all of the bizarre horror films made in the 1980s, SPOOKIES easily ranks among the weirdest. The film became a fan favorite thanks to its expertly rendered creature effects and notorious for its bizarre production history in which its original creators were fired and replaced by Eugenie Joseph, who added new scenes and re-edited the previously shot footage. Newly restored in 4K from its long lost original negative, SPOOKIES has never looked better.",
-   "runtime": 85,
-   "year": 1986,
-   "director": "Eugenie Joseph",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789694661339-tb-spookies.jpg",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/spookies"
    }
   },
   {
@@ -2195,6 +2212,20 @@
    }
   },
   {
+   "id": "two-eyes",
+   "title": "Two Eyes",
+   "description": "Two Eyes is a cinematic triptych set in three distinct time periods…\n\n1868 MONTANA – A painter seeking inspiration for his art explores the landscape with his Native American guide and finds his conceptions of himself and the\n\nworld around him challenged.\n\n1979 CALIFORNIA – The mundane existence of a questioning youth is given a shot of adrenaline by the arrival of a new exchange student who envelopes them both with her lust for life.\n\n2023 WYOMING – A trans teenager works through his self-destructive feelings with his perceptive, nonbinary trans therapist.\n\nThe three seemingly unrelated storylines are interwoven into a single, powerful narrative that reveals the eternal connection between all of the main characters.",
+   "runtime": 95,
+   "year": 2020,
+   "director": "Travis Fine",
+   "country": "United States",
+   "language": "English",
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/twoeyes1600-1-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/three-dollar-bill-cinema-presents-two-eyes/"
+   }
+  },
+  {
    "id": "two-lane-blacktop",
    "title": "Two-Lane Blacktop",
    "description": "An unnamed drag racing duo (James Taylor and \"The Beach Boys\"' Dennis Wilson, referred to as The Driver and Mechanic in novelist Rudy Wurlitzer’s screenplay) head eastward from Los Angeles in their souped up ‘55 Chevy. They cross paths with an orbit-orange GTO and its wandering loner of a driver played by Warren Oates, bedecked throughout in a kaleidoscope wardrobe of cashmere sweaters. Vying for the attention of a restless hitchhiker in tow (Laurie Bird), the trio embark on a race for pink slips across six southern states. Filmed in sequence and entirely on location, Monte Hellman’s low budget masterpiece of highway philosophy features gorgeous widescreen photography and sparse, existential dialogue that captures a moment in time when, as Vincent Canby states, “faith in God is a lot less important, less immediate and even less mystical than faith in the internal combustion engine.” The quintessential American road film.\n\n“In Two-Lane Blacktop [the road] becomes something altogether different and far more interesting: a repository of dreams and fantasies, for squares, hipsters, and obsessives alike…It is a movie about loneliness, and the attempts made by people to connect with one another and maintain their solitude at the same time—an impossible task, an elusive dream.” — Kent Jones\n\n35mm print courtesy of Universal",
@@ -2331,7 +2362,7 @@
    "links": {
     "majestic-bay": "https://www.majesticbay.com/movies/296439-wildwood/",
     "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
-    "north-bend": "https://tix.northbendtheatre.com/event/wildwood-friday-oct-30th-3pm"
+    "north-bend": "https://tix.northbendtheatre.com/event/wildwood-saturday-oct-31st-3pm"
    }
   },
   {
@@ -2414,15 +2445,6 @@
    }
   },
   {
-   "id": "young-frankenstein",
-   "title": "Young Frankenstein",
-   "description": "Following in the footsteps of his infamous grandfather, Dr. Frederick Frankenstein inherits his ancestor's Transylvanian castle and laboratory. He initially attempts to distance himself from the family's legacy, but is drawn into recreating the experiments that brought his grandfather's monster to life. With the help of Igor, the bubbly Inga, and the unsettling Frau Blücher, Frederick’s plans are complicated by a living monster and the unexpected arrival of his fiancée, Elizabeth, leading to chaotic and hilarious consequences.",
-   "image": "https://static.spotapps.co/spots/5e/b010b63567460eb267190b3358c2d3/w926",
-   "links": {
-    "tin-room": "https://tinroombar.com/events"
-   }
-  },
-  {
    "id": "zero-patience",
    "title": "Zero Patience",
    "description": "To commemorate World AIDS Day 2026, Northwest Film Forum is excited to present John Greyson’s movie musical Zero Patience. Unconventional (and fun!) in form and incredibly imaginative in its premise, Zero Patience is a film that confronts historical bigotry and damaging myths that surround the mysterious (and patently fictional) “Patient Zero” while also remaining campy, educational, and ambitious.\n\nScreens with Song From An Angel (David Weissman, United States, 1988, 5min)\n\nMade two weeks before his death from AIDS, Song From An Angel features San Franciscan performer Rodney Price as he tap dances and sings an incredibly dark, yet endearingly funny, song about his own death: “I’ve Got Less Time Than You.”",
@@ -2455,286 +2477,6 @@
   }
  ],
  "showings": [
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-10-30T15:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36537?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wildwood",
-   "theater": "north-bend",
-   "start": "2026-10-30T15:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/wildwood-friday-oct-30th-3pm",
-   "tickets": "https://tix.northbendtheatre.com/event/wildwood-friday-oct-30th-3pm"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-10-30T15:15:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17161/793"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-10-30T15:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36539?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-10-30T15:20:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17156/800"
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-10-30T15:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36541?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wildwood",
-   "theater": "admiral",
-   "start": "2026-10-30T15:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17160/797"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-30T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17157/794"
-  },
-  {
-   "film": "hocus-pocus",
-   "theater": "central-cinema",
-   "start": "2026-10-30T16:00:00-07:00",
-   "url": "https://central-cinema.com/movie/hocus-pocus/",
-   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080461",
-   "notes": [
-    "Family"
-   ]
-  },
-  {
-   "film": "fatherland",
-   "theater": "siff-uptown",
-   "start": "2026-10-30T16:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
-   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-kFmh3BlqLP"
-  },
-  {
-   "film": "devils",
-   "theater": "siff-downtown",
-   "start": "2026-10-30T16:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-yAgjUAmYYc"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-10-30T16:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-slEyfaMMnA"
-  },
-  {
-   "film": "wicker",
-   "theater": "tasveer",
-   "start": "2026-10-30T17:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/wicker",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wicker/4226390"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-10-30T18:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17163/793"
-  },
-  {
-   "film": "only-living-pickpocket-in-new-york",
-   "theater": "tasveer",
-   "start": "2026-10-30T18:00:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4178063"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-30T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17159/794"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-30T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17158/795"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-10-30T18:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36538?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-10-30T18:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36540?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "land-of-the-dead-it-s-for-the-gays",
-   "theater": "siff-film-center",
-   "start": "2026-10-30T18:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/land-of-the-dead-its-for-the-gays",
-   "tickets": "https://www.siff.net/cinema/in-theaters/land-of-the-dead-its-for-the-gays#screening-9Sifmjwjyg"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-30T18:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-o5GFNijwp1"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "tasveer",
-   "start": "2026-10-30T18:45:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178062"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-10-30T19:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17162/800"
-  },
-  {
-   "film": "next-of-kin",
-   "theater": "beacon",
-   "start": "2026-10-30T19:00:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/next-of-kin",
-   "tickets": "https://thebeacon.film/calendar/movie/next-of-kin?showtime=PV4SV77N5UHHYNC5MDTZOW55"
-  },
-  {
-   "film": "hocus-pocus",
-   "theater": "central-cinema",
-   "start": "2026-10-30T19:00:00-07:00",
-   "url": "https://central-cinema.com/movie/hocus-pocus/",
-   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080462",
-   "notes": [
-    "Family"
-   ]
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-10-30T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36542?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wildwood",
-   "theater": "north-bend",
-   "start": "2026-10-30T19:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/wildwood-friday-oct-30th-7pm",
-   "tickets": "https://tix.northbendtheatre.com/event/wildwood-friday-oct-30th-7pm"
-  },
-  {
-   "film": "young-frankenstein",
-   "theater": "tin-room",
-   "start": "2026-10-30T19:00:00-07:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
-   "film": "shining",
-   "theater": "siff-downtown",
-   "start": "2026-10-30T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-shining",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-shining#screening-n2tk6GpZRX"
-  },
-  {
-   "film": "fatherland",
-   "theater": "siff-uptown",
-   "start": "2026-10-30T19:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
-   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-QRHxo2iEEH"
-  },
-  {
-   "film": "wicker",
-   "theater": "tasveer",
-   "start": "2026-10-30T19:50:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/wicker",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wicker/4226389"
-  },
-  {
-   "film": "2026-collide-o-scope-halloween-show",
-   "theater": "nwff",
-   "start": "2026-10-30T20:00:00-07:00",
-   "url": "https://nwfilmforum.org/events/2026-collide-o-scope-halloween-show/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a972e3bdbc6e9c30a454235",
-   "notes": [
-    "Visiting artist"
-   ]
-  },
-  {
-   "film": "only-living-pickpocket-in-new-york",
-   "theater": "tasveer",
-   "start": "2026-10-30T20:05:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4178064"
-  },
-  {
-   "film": "wildwood",
-   "theater": "admiral",
-   "start": "2026-10-30T21:10:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17280/797",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-10-30T21:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17283/793"
-  },
-  {
-   "film": "a-nightmare-on-elm-street",
-   "theater": "central-cinema",
-   "start": "2026-10-30T21:30:00-07:00",
-   "url": "https://central-cinema.com/movie/a-nightmare-on-elm-street/",
-   "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080564"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-10-30T21:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17282/800",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "spookies",
-   "theater": "beacon",
-   "start": "2026-10-30T22:00:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/spookies",
-   "tickets": "https://thebeacon.film/calendar/movie/spookies?showtime=TBJJ3BEICY6MARFAAOGNPGCF"
-  },
   {
    "film": "devils",
    "theater": "siff-downtown",
@@ -4951,6 +4693,13 @@
    ]
   },
   {
+   "film": "two-eyes",
+   "theater": "nwff",
+   "start": "2026-11-08T18:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/three-dollar-bill-cinema-presents-two-eyes/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6ae512367b3592f252dfc914"
+  },
+  {
    "film": "salvation",
    "theater": "siff-uptown",
    "start": "2026-11-08T18:00:00-08:00",
@@ -6130,6 +5879,13 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6abfe467f65307d70d1c2f84"
   },
   {
+   "film": "reel-injun",
+   "theater": "grand-illusion",
+   "start": "2026-11-21T16:30:00-08:00",
+   "url": "https://grandillusioncinema.org/film/reel-injun/",
+   "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=665178~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
+  },
+  {
    "film": "my-brother-s-wedding",
    "theater": "nwff",
    "start": "2026-11-21T16:30:00-08:00",
@@ -6561,6 +6317,15 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6a7e4fdd4276bba6259020ee"
   },
   {
+   "film": "seattle-lgbtq",
+   "theater": "nwff",
+   "start": "2026-12-02T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/seattle-lgbtq-center-presents-we-were-here/",
+   "notes": [
+    "With Center Presents: We Were Here"
+   ]
+  },
+  {
    "film": "natural-born-killers",
    "theater": "beacon",
    "start": "2026-12-02T19:30:00-08:00",
@@ -6636,6 +6401,51 @@
    "start": "2026-12-04T22:00:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/the-living-end",
    "tickets": "https://thebeacon.film/calendar/movie/the-living-end?showtime=AYEUFHE3275G4YVDFVVU4RWM"
+  },
+  {
+   "film": "met-opera-2026-2027-samson-et-dalila",
+   "theater": "admiral",
+   "start": "2026-12-05T08:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/met-opera-20262027-samson-et-dalila",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16447/752"
+  },
+  {
+   "film": "it-s-a-wonderful-life",
+   "theater": "admiral",
+   "start": "2026-12-05T11:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/its-a-wonderful-life-1946-west-seattle-food-bank-drive",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/14474/684",
+   "notes": [
+    "West Seattle Food Bank Drive"
+   ]
+  },
+  {
+   "film": "zero-patience",
+   "theater": "nwff",
+   "start": "2026-12-05T16:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/zero-patience/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6acd3684913bc7c9f3f80e33"
+  },
+  {
+   "film": "raise-the-red-lantern",
+   "theater": "beacon",
+   "start": "2026-12-05T19:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/raise-the-red-lantern",
+   "tickets": "https://thebeacon.film/calendar/movie/raise-the-red-lantern?showtime=BJENFKUF3LSKWWVMQ6VZPYJR"
+  },
+  {
+   "film": "zero-patience",
+   "theater": "nwff",
+   "start": "2026-12-05T19:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/zero-patience/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6acd3684913bc7c9f3f80e24"
+  },
+  {
+   "film": "living-end",
+   "theater": "beacon",
+   "start": "2026-12-05T22:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/the-living-end",
+   "tickets": "https://thebeacon.film/calendar/movie/the-living-end?showtime=7IAVT66KG6GHSHEH5SAMHFZC"
   }
  ]
 }
