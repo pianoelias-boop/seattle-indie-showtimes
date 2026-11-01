@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T10:42:00-07:00",
+ "updated": "2026-11-01T10:25:00-08:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-10-31T10:42:00-07:00",
-    "lastSuccess": "2026-10-31T10:42:00-07:00",
-    "showings": 30,
+    "checked": "2026-11-01T10:25:00-08:00",
+    "lastSuccess": "2026-11-01T10:25:00-08:00",
+    "showings": 27,
     "through": "2026-11-15"
    }
   },
@@ -33,10 +33,10 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-31T10:42:00-07:00",
-    "lastSuccess": "2026-10-31T10:42:00-07:00",
-    "showings": 116,
-    "through": "2026-12-03"
+    "checked": "2026-11-01T10:25:00-08:00",
+    "lastSuccess": "2026-11-01T10:25:00-08:00",
+    "showings": 106,
+    "through": "2026-12-06"
    }
   },
   {
@@ -52,9 +52,9 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-10-31T10:42:00-07:00",
-    "lastSuccess": "2026-10-31T10:42:00-07:00",
-    "showings": 21,
+    "checked": "2026-11-01T10:25:00-08:00",
+    "lastSuccess": "2026-11-01T10:25:00-08:00",
+    "showings": 33,
     "through": "2026-11-29"
    }
   },
@@ -70,8 +70,8 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-10-31T10:42:00-07:00",
-    "lastSuccess": "2026-10-31T10:42:00-07:00",
+    "checked": "2026-11-01T10:25:00-08:00",
+    "lastSuccess": "2026-11-01T10:25:00-08:00",
     "showings": 6,
     "through": "2026-11-21"
    }
@@ -88,10 +88,10 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-10-31T10:42:00-07:00",
-    "lastSuccess": "2026-10-31T10:42:00-07:00",
+    "checked": "2026-11-01T10:25:00-08:00",
+    "lastSuccess": "2026-11-01T10:25:00-08:00",
     "showings": 75,
-    "through": "2026-12-05"
+    "through": "2026-12-06"
    }
   },
   {
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-10-31T10:42:00-07:00",
-    "lastSuccess": "2026-10-31T10:42:00-07:00",
-    "showings": 54,
+    "checked": "2026-11-01T10:25:00-08:00",
+    "lastSuccess": "2026-11-01T10:25:00-08:00",
+    "showings": 51,
     "through": "2026-12-03"
    }
   },
@@ -126,10 +126,10 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-10-31T10:42:00-07:00",
-    "lastSuccess": "2026-10-31T10:42:00-07:00",
-    "showings": 58,
-    "through": "2026-12-05"
+    "checked": "2026-11-01T10:25:00-08:00",
+    "lastSuccess": "2026-11-01T10:25:00-08:00",
+    "showings": 57,
+    "through": "2026-12-06"
    }
   },
   {
@@ -145,10 +145,10 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-10-31T10:42:00-07:00",
-    "lastSuccess": "2026-10-31T10:42:00-07:00",
-    "showings": 30,
-    "through": "2026-11-05"
+    "checked": "2026-11-01T10:25:00-08:00",
+    "lastSuccess": "2026-11-01T10:25:00-08:00",
+    "showings": 61,
+    "through": "2026-11-12"
    }
   },
   {
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-10-31T10:42:00-07:00",
-    "lastSuccess": "2026-10-31T10:42:00-07:00",
-    "showings": 55,
+    "checked": "2026-11-01T10:25:00-08:00",
+    "lastSuccess": "2026-11-01T10:25:00-08:00",
+    "showings": 46,
     "through": "2026-11-25"
    }
   },
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-10-31T10:42:00-07:00",
-    "lastSuccess": "2026-10-31T10:42:00-07:00",
-    "showings": 56,
+    "checked": "2026-11-01T10:25:00-08:00",
+    "lastSuccess": "2026-11-01T10:25:00-08:00",
+    "showings": 40,
     "through": "2026-12-05"
    }
   },
@@ -201,10 +201,9 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-10-31T10:42:00-07:00",
-    "lastSuccess": "2026-10-31T10:42:00-07:00",
-    "showings": 2,
-    "through": "2026-10-31"
+    "checked": "2026-11-01T10:25:00-08:00",
+    "lastSuccess": "2026-11-01T10:25:00-08:00",
+    "showings": 0
    }
   },
   {
@@ -220,9 +219,9 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-10-31T10:42:00-07:00",
-    "lastSuccess": "2026-10-31T10:42:00-07:00",
-    "showings": 17,
+    "checked": "2026-11-01T10:25:00-08:00",
+    "lastSuccess": "2026-11-01T10:25:00-08:00",
+    "showings": 15,
     "through": "2026-11-29"
    }
   }
@@ -235,19 +234,6 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/beacon/common/TB_SECRET.png",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/blindfold"
-   }
-  },
-  {
-   "id": "2026-collide-o-scope-halloween-show",
-   "title": "2026 Collide-O-Scope Halloween Show",
-   "description": "Collide-O-Scope’s Halloween celebration, a beloved Seattle tradition, returns from the beyondwith a one-of-a-kind found-footage phantasmagoria of hilariously hair-raising film freak-outsand outrageous oddball video! A deliriously demented cavalcade of expertly crafted montage,packed with absurd pop culture ephemera, obscure oddities, and awesome music — all remixedand mashed up into an evening of eerily epic entertainment. It’ll leave you gasping with laughterand clutching your little melted face! Plus, frightening fabulous prize drawings!\n\nFor over 16 years, Collide-O-Scope has been slaying Seattle audiences with their singular brandof entertainment, and their legendary Halloween extravaganza is not to be missed!\n\nCostumes are encouraged, but there is no costume contest.",
-   "runtime": 120,
-   "year": 2026,
-   "director": "Collide-O-Scope",
-   "country": "United States",
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/08/1600x900-CoS-Halloween-2026-FINAL-copy-1200x675.jpg",
-   "links": {
-    "nwff": "https://nwfilmforum.org/events/2026-collide-o-scope-halloween-show/"
    }
   },
   {
@@ -734,16 +720,8 @@
    "language": "German, English, French, Russian",
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_Fatherland_1600x900.png",
    "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/fatherland"
-   }
-  },
-  {
-   "id": "five-minutes-to-die",
-   "title": "Five Minutes to Die!",
-   "description": "It's FIVE MINUTES TO LIVE... HALLOWEEN EDITION!\n\nHere's the deal. You buy a ticket. We show you the first five minutes of five different mystery movies. Then everybody votes on which one to watch in its entirety!\n\nYou've got FIVE MINUTES TO DIE! Come have an encounter with the unexpected free from the burden of preconceptions. Choose your own adventure in the unimaginably vast world of strange and interesting cinema. Experience the delight of pure surprise. We'll promise a wild time if you promise to be open to anything.",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789698242210-tb-fiveminutestodie.jpg",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/five-minutes-to-die"
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/fatherland",
+    "siff-film-center": "https://www.siff.net/cinema/in-theaters/fatherland"
    }
   },
   {
@@ -754,6 +732,23 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/beacon/common/TB_5MINTOLIVE.png",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/five-minutes-to-live"
+   }
+  },
+  {
+   "id": "fjord",
+   "title": "Fjord",
+   "description": "From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town. Their teenage children form a fast bond with a neighboring family as unease begins to simmer around their rigid beliefs. When allegations of abuse emerge, they are forced to confront a system of judgment that blurs the line between concern and prejudice.",
+   "runtime": 146,
+   "year": 2026,
+   "director": "Cristian Mungiu",
+   "country": "Romania",
+   "language": "English, Norwegian",
+   "genres": [
+    "Drama"
+   ],
+   "image": "https://indy-systems.imgix.net/8r73eahe1t2ww5bll8zk6r9vt3a4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress&cs=origin",
+   "links": {
+    "tasveer": "https://filmcenter.tasveer.org/movie/fjord"
    }
   },
   {
@@ -865,7 +860,7 @@
   {
    "id": "hocus-pocus",
    "title": "Hocus Pocus",
-   "description": "In this bewitching story, three mischievous witches are inadvertently resurrected when teenager Max Dennison discovers an ancient spellbook in Salem. Along with his sister Dani and new friend Allison, Max must stop the witches from carrying out a nefarious plan. The trio of witches, portrayed by Bette Midler, Sarah Jessica Parker, and Kathy Najimy, wreak havoc as the children race to steal their spellbook and prevent a wicked curse from engulfing the town",
+   "description": "After three centuries, three witch sisters are resurrected in Salem Massachusetts on Halloween night, and it is up to two teenagers, a young girl, and an immortal cat to put an end to the witches' reign of terror once and for all.\nStarring Bette Midler, Sarah Jessica Parker, and Kathy Najimy",
    "runtime": 96,
    "year": 1993,
    "director": "Kenny Ortega",
@@ -879,8 +874,19 @@
    ],
    "image": "https://indy-systems.imgix.net/upvblpb06vn9w3ql0mjqpdtqiuuf?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
    "links": {
-    "central-cinema": "https://central-cinema.com/movie/hocus-pocus/",
-    "tin-room": "https://tinroombar.com/events"
+    "central-cinema": "https://central-cinema.com/movie/hocus-pocus/"
+   }
+  },
+  {
+   "id": "it-happened-one-night",
+   "title": "It Happened One Night",
+   "description": "Claudette Colbert is a runaway heiress who has never ridden a bus. Clark Gable is a recently fired newspaper reporter who knows everything, particularly things he knows nothing about. When the two wind up traveling together from Florida to New York, they take an immediate dislike to each other, beginning one of the great romances in movie history. Frank Capra's IT HAPPENED ONE NIGHT more or less invented the screwball comedy, sending its spectacularly mismatched lovers across Depression-era America with barely enough money for a room and a blanket hung between their beds to preserve what's left of their virtue. Gable lectures Colbert on how to hitchhike, dunk a doughnut, and generally conduct herself among ordinary people; Colbert proves more than capable of putting him in his place. Endlessly imitated but rarely equaled, it's a movie whose enormous influence can sometimes obscure the simple pleasure of watching two of Hollywood's greatest stars fall in love while doing everything in their power to avoid it.",
+   "runtime": 105,
+   "year": 1934,
+   "director": "Frank Capra",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792705022109-tb-ithappenedonenight.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/it-happened-one-night"
    }
   },
   {
@@ -950,14 +956,37 @@
    "id": "la-bola-negra",
    "title": "La Bola Negra",
    "description": "From Cannes-winning directors Javier Calvo and Javier Ambrossi — popularly known as Los Javis — La Bola Negra follows three generations of men across pivotal moments in Spanish history, bound by pain, desire, and love. Carlos (Milo Quifes) longs to belong in a fractured Spain. Sebastián (Guitarricadelafuente) finds connection across enemy lines. And Alberto (Carlos González) uncovers a long-buried family secret — one that finally gives voice to truths the past tried to erase.",
-   "runtime": 159,
+   "runtime": 155,
    "year": 2026,
-   "director": "Javier Ambrossi, Javier Calvo",
+   "director": "Javier Calvo, Javier Ambrossi",
    "country": "Spain",
-   "language": "Spanish, English",
+   "language": "Spanish",
+   "rating": "R",
+   "genres": [
+    "Drama",
+    "War"
+   ],
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/labolanegra1600-1-1200x675.png",
    "links": {
-    "nwff": "https://nwfilmforum.org/films/la-bola-negra/"
+    "nwff": "https://nwfilmforum.org/films/la-bola-negra/",
+    "tasveer": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish"
+   }
+  },
+  {
+   "id": "lakadbaggha-2",
+   "title": "Lakadbaggha 2",
+   "description": "Sequel to Lakadbaggha (2023). Plot TBA.",
+   "runtime": 115,
+   "year": 2026,
+   "director": "Anshuman Jha",
+   "country": "India",
+   "language": "Hindi",
+   "genres": [
+    "Action"
+   ],
+   "image": "https://indy-systems.imgix.net/9cjglv53013hye95vubzrtcwkbva?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress&cs=origin",
+   "links": {
+    "tasveer": "https://filmcenter.tasveer.org/movie/lakadbaggha-2-2026-india-hindi"
    }
   },
   {
@@ -1009,18 +1038,6 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/04/lovestreams1600-1-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/unstreamable-love-streams/"
-   }
-  },
-  {
-   "id": "mad-monster-party",
-   "title": "Mad Monster Party?",
-   "description": "By 1967, the monsters had made it. Dracula, Frankenstein, the Wolf Man and the rest of the old horror gang had escaped the graveyard and taken over television, toy stores, model kits, comic books and the bedrooms of monster-crazed kids everywhere. There was really only one thing left to do: throw a party.\n\nAnd what a party. Rankin/Bass took the stop-motion wizardry behind RUDOLPH THE RED-NOSED REINDEER, handed the monsters over to MAD Magazine legends Harvey Kurtzman and Jack Davis, brought in Boris Karloff to preside over the festivities and Phyllis Diller to play Frankenstein’s extremely talkative mate, then invited every creature they could squeeze onto the Isle of Evil. Dracula! The Wolf Man! The Mummy! Dr. Jekyll and Mr. Hyde! The Invisible Man! Zombies! Skeletons! A Peter Lorre-looking ghoul! Jack Davis designed them, a studio full of Japanese animators built them, and somebody had to move every single one of these maniacs one frame at a time.\n\nThe result is a glorious 1960s monster-kid fever dream where Frankenstein discovers a formula capable of destroying all matter and celebrates by announcing his retirement. There are musical numbers, terrible puns, monster politics, a skeleton rock band called Little Tibia and the Fibias, Dracula dancing and enough lovingly handcrafted gothic clutter to fill a dozen Halloween specials. Part monster rally, part MAD Magazine cartoon brought to life and part Rankin/Bass holiday special for the greatest holiday of them all, MAD MONSTER PARTY? is what happens when an entire generation stops being afraid of monsters and starts letting them babysit their kids.",
-   "runtime": 95,
-   "year": 1967,
-   "director": "Jules Bass",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789695215455-tb-madmonsterparty.jpg",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/mad-monster-party"
    }
   },
   {
@@ -1186,18 +1203,6 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792698608923-tb-naturalbornkillers.jpg",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/natural-born-killers"
-   }
-  },
-  {
-   "id": "nosferatu",
-   "title": "Nosferatu",
-   "description": "The Halloween tradition is back!\n\nDanny Kolke will be accompanying the classic silent film, Nosferatu (1922), with his wonderfully spooky organ soundtrack!",
-   "runtime": 81,
-   "year": 1922,
-   "rating": "NR",
-   "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/NosferatuSquare.jpg",
-   "links": {
-    "north-bend": "https://tix.northbendtheatre.com/event/nosferatu-1922-with-live-organ-accompaniment-from-danny-kolke-saturday-oct-31st-7pm"
    }
   },
   {
@@ -2046,8 +2051,7 @@
    ],
    "image": "https://media.mobilemoviegoing.com/CustomOneSheets/1768934247_rocky-horror-1000x1500-riff-raff-w-dates.png",
    "links": {
-    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-    "tin-room": "https://tinroombar.com/events"
+    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater"
    }
   },
   {
@@ -2143,20 +2147,6 @@
    }
   },
   {
-   "id": "wedding",
-   "title": "The Wedding",
-   "description": "An intellectual poet and peasant woman unite in matrimony, with their wedding party attended by a class-crossing assortment of society. However, the veneer of harmony is broken when ghosts – drawn from local history and legend – appear out of the fog to the revellers. Wajda’s psychedelic adaptation of Stanisław Wyspiański’s influential 1901 play where (as stated in the prologue) “everything in [the] story is true —even the dreams,” employs dizzying cinematography and creates an eerie atmosphere to offer a searing critique of the nation’s phantoms. It became one of the most culturally significant works of Polish cinema.",
-   "runtime": 103,
-   "year": 1972,
-   "director": "Andrzej Wajda",
-   "country": "Poland",
-   "language": "Polish",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Films%20of%20Andrej%20Wajda/Wajda%20Films%20Images/wedding.png",
-   "links": {
-    "siff-film-center": "https://www.siff.net/programs-and-events/andrzej-wajda/the-wedding"
-   }
-  },
-  {
    "id": "witch",
    "title": "The Witch",
    "description": "New England, 1630. Upon threat of banishment by the church, an English farmer leaves his colonial plantation, relocating his wife and five children to a remote plot of land on the edge of an ominous forest—within which lurks an unknown evil. Strange and unsettling things begin to happen almost immediately—animals turn malevolent, crops fail, and one child disappears as another becomes seemingly possessed by an evil spirit. With suspicion and paranoia mounting, family members accuse teenage daughter Thomasin of witchcraft, charges she adamantly denies. As circumstances grow more treacherous, each family member’s faith, loyalty and love become tested in shocking and unforgettable ways.\n\nIn this exquisitely made and terrifying new horror film, the age-old concepts of witchcraft, black magic and possession are innovatively brought together to tell the intimate and riveting story of one family’s frightful unraveling in the New England wilderness.",
@@ -2209,6 +2199,20 @@
    "image": "https://indy-systems.imgix.net/agj2l8uat7t9k78rkmp37wkccorn?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
    "links": {
     "central-cinema": "https://central-cinema.com/movie/true-stories/"
+   }
+  },
+  {
+   "id": "twilight",
+   "title": "Twilight",
+   "description": "High-school student Bella Swan (Kristen Stewart), always a bit of a misfit, doesn't expect life to change much when she moves from sunny Arizona to rainy Washington state. Then she meets Edward Cullen (Robert Pattinson), a handsome but mysterious teen whose eyes seem to peer directly into her soul. Edward is a vampire whose family does not drink human blood, and Bella, far from being frightened, enters into a dangerous romance with her immortal soulmate.",
+   "runtime": 127,
+   "year": 2008,
+   "director": "Catherine Hardwicke",
+   "country": "USA",
+   "language": "English",
+   "image": "https://www.siff.net/images/CINEMA/2023/Films%20Jun-Dec/CIN_Twilight_1600x900.jpg",
+   "links": {
+    "siff-uptown": "https://www.siff.net/programs-and-events/siff-book-club/twilight"
    }
   },
   {
@@ -2362,7 +2366,7 @@
    "links": {
     "majestic-bay": "https://www.majesticbay.com/movies/296439-wildwood/",
     "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
-    "north-bend": "https://tix.northbendtheatre.com/event/wildwood-saturday-oct-31st-3pm"
+    "north-bend": "https://tix.northbendtheatre.com/event/wildwood-sunday-nov-1st-3pm"
    }
   },
   {
@@ -2477,416 +2481,6 @@
   }
  ],
  "showings": [
-  {
-   "film": "devils",
-   "theater": "siff-downtown",
-   "start": "2026-10-31T11:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-QDN3kmvZEV"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-31T11:10:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-AdqDe6RVYQ"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-10-31T11:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36572?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-10-31T11:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-pKtyVAjD9s"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-10-31T11:45:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17216/793"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-10-31T11:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36575?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "fatherland",
-   "theater": "siff-uptown",
-   "start": "2026-10-31T12:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
-   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-RDmqXCQR3a"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-10-31T12:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17217/800"
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-10-31T12:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36576?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-31T12:50:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17219/794"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-31T13:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17218/795"
-  },
-  {
-   "film": "kwaidan",
-   "theater": "siff-downtown",
-   "start": "2026-10-31T14:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/kwaidan",
-   "tickets": "https://www.siff.net/cinema/in-theaters/kwaidan#screening-urolpNeLdv"
-  },
-  {
-   "film": "wedding",
-   "theater": "siff-film-center",
-   "start": "2026-10-31T14:00:00-07:00",
-   "url": "https://www.siff.net/programs-and-events/andrzej-wajda/the-wedding",
-   "tickets": "https://www.siff.net/programs-and-events/andrzej-wajda/the-wedding#screening-3IkXE1R5hL",
-   "notes": [
-    "The Films of Andrzej Wajda"
-   ]
-  },
-  {
-   "film": "hocus-pocus",
-   "theater": "tin-room",
-   "start": "2026-10-31T14:00:00-07:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-10-31T14:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-7NuE6WVIit"
-  },
-  {
-   "film": "fatherland",
-   "theater": "siff-uptown",
-   "start": "2026-10-31T14:30:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
-   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-qp54QDD7AF"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-10-31T15:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36561?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wildwood",
-   "theater": "north-bend",
-   "start": "2026-10-31T15:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/wildwood-saturday-oct-31st-3pm",
-   "tickets": "https://tix.northbendtheatre.com/event/wildwood-saturday-oct-31st-3pm"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-31T15:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-cn7iVH5DuV"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-10-31T15:15:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17211/793"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-10-31T15:15:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36573?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-10-31T15:20:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17208/800"
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-10-31T15:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36577?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wildwood",
-   "theater": "admiral",
-   "start": "2026-10-31T15:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17214/797"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-31T15:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17209/794"
-  },
-  {
-   "film": "mad-monster-party",
-   "theater": "beacon",
-   "start": "2026-10-31T16:00:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/mad-monster-party",
-   "tickets": "https://thebeacon.film/calendar/movie/mad-monster-party?showtime=34JFNPFX5L57DNBN6FSIQJUN"
-  },
-  {
-   "film": "hocus-pocus",
-   "theater": "central-cinema",
-   "start": "2026-10-31T16:00:00-07:00",
-   "url": "https://central-cinema.com/movie/hocus-pocus/",
-   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080463",
-   "notes": [
-    "Family"
-   ]
-  },
-  {
-   "film": "fatherland",
-   "theater": "siff-uptown",
-   "start": "2026-10-31T16:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
-   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-CXqIk6mxJb"
-  },
-  {
-   "film": "2026-collide-o-scope-halloween-show",
-   "theater": "nwff",
-   "start": "2026-10-31T17:00:00-07:00",
-   "url": "https://nwfilmforum.org/events/2026-collide-o-scope-halloween-show/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a972e7ca34842166b0ac356",
-   "notes": [
-    "Visiting artist"
-   ]
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-10-31T17:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-BW51vApoKK"
-  },
-  {
-   "film": "wicker",
-   "theater": "tasveer",
-   "start": "2026-10-31T17:30:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/wicker",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wicker/4226388"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-10-31T18:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17213/793"
-  },
-  {
-   "film": "only-living-pickpocket-in-new-york",
-   "theater": "tasveer",
-   "start": "2026-10-31T18:00:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4178065"
-  },
-  {
-   "film": "shining",
-   "theater": "siff-downtown",
-   "start": "2026-10-31T18:15:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-shining",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-shining#screening-9NppB0KIQY"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-31T18:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17210/794"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-10-31T18:30:00-07:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36562?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-10-31T18:40:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17215/795"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-10-31T18:45:00-07:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36574?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "tasveer",
-   "start": "2026-10-31T18:45:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178059"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-10-31T19:00:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17212/800"
-  },
-  {
-   "film": "five-minutes-to-die",
-   "theater": "beacon",
-   "start": "2026-10-31T19:00:00-07:00",
-   "url": "https://thebeacon.film/calendar/movie/five-minutes-to-die",
-   "notes": [
-    "Sold out"
-   ]
-  },
-  {
-   "film": "hocus-pocus",
-   "theater": "central-cinema",
-   "start": "2026-10-31T19:00:00-07:00",
-   "url": "https://central-cinema.com/movie/hocus-pocus/",
-   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080464",
-   "notes": [
-    "Family"
-   ]
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-10-31T19:00:00-07:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36578?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "nosferatu",
-   "theater": "north-bend",
-   "start": "2026-10-31T19:00:00-07:00",
-   "url": "https://tix.northbendtheatre.com/event/nosferatu-1922-with-live-organ-accompaniment-from-danny-kolke-saturday-oct-31st-7pm",
-   "tickets": "https://tix.northbendtheatre.com/event/nosferatu-1922-with-live-organ-accompaniment-from-danny-kolke-saturday-oct-31st-7pm",
-   "notes": [
-    "Live Organ Accompaniment from Danny Kolke"
-   ]
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-10-31T19:00:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-ErNqMUHGMl"
-  },
-  {
-   "film": "rocky-horror-picture-show",
-   "theater": "tin-room",
-   "start": "2026-10-31T19:00:00-07:00",
-   "url": "https://tinroombar.com/events"
-  },
-  {
-   "film": "fatherland",
-   "theater": "siff-uptown",
-   "start": "2026-10-31T19:20:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
-   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-AZrIHr2MYt"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-10-31T19:45:00-07:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-S3fyXSFb0r"
-  },
-  {
-   "film": "wicker",
-   "theater": "tasveer",
-   "start": "2026-10-31T19:50:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/wicker",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wicker/4226387"
-  },
-  {
-   "film": "2026-collide-o-scope-halloween-show",
-   "theater": "nwff",
-   "start": "2026-10-31T20:00:00-07:00",
-   "url": "https://nwfilmforum.org/events/2026-collide-o-scope-halloween-show/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6a972e5941e628cb5cc07023",
-   "notes": [
-    "Visiting artist"
-   ]
-  },
-  {
-   "film": "gymnasts-of-fisherman-colony",
-   "theater": "tasveer",
-   "start": "2026-10-31T20:05:00-07:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-gymnasts-of-fisherman-colony",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-gymnasts-of-fisherman-colony/4178060"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-10-31T21:05:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17206/794"
-  },
-  {
-   "film": "wildwood",
-   "theater": "admiral",
-   "start": "2026-10-31T21:10:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17207/797"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-10-31T21:30:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17204/793"
-  },
-  {
-   "film": "a-nightmare-on-elm-street",
-   "theater": "central-cinema",
-   "start": "2026-10-31T21:30:00-07:00",
-   "url": "https://central-cinema.com/movie/a-nightmare-on-elm-street/",
-   "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080565"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-10-31T21:35:00-07:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17205/800"
-  },
   {
    "film": "you-can-see-everything",
    "theater": "siff-uptown",
@@ -4230,6 +3824,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-sKTRs9j2Bm"
   },
   {
+   "film": "fatherland",
+   "theater": "siff-film-center",
+   "start": "2026-11-06T15:45:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-vFpu39RMKf"
+  },
+  {
    "film": "true-stories",
    "theater": "central-cinema",
    "start": "2026-11-06T16:00:00-08:00",
@@ -4251,6 +3852,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-MiIjOgp3A1"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-06T16:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237705"
+  },
+  {
    "film": "engauge-2026-tainted",
    "theater": "nwff",
    "start": "2026-11-06T16:30:00-08:00",
@@ -4268,6 +3876,20 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-eAvxIPQusn"
   },
   {
+   "film": "only-living-pickpocket-in-new-york",
+   "theater": "tasveer",
+   "start": "2026-11-06T17:10:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4237707"
+  },
+  {
+   "film": "fatherland",
+   "theater": "siff-film-center",
+   "start": "2026-11-06T18:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-JRPwWxAHxx"
+  },
+  {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
    "theater": "nwff",
    "start": "2026-11-06T18:30:00-08:00",
@@ -4280,6 +3902,13 @@
    "start": "2026-11-06T18:45:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36570?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "tasveer",
+   "start": "2026-11-06T18:45:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4237702"
   },
   {
    "film": "secs-fest-2026",
@@ -4313,11 +3942,25 @@
    ]
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-06T19:10:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237706"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-11-06T19:15:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-Y1DbuI3YgY"
+  },
+  {
+   "film": "fjord",
+   "theater": "tasveer",
+   "start": "2026-11-06T19:20:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/fjord",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237703"
   },
   {
    "film": "godzilla-minus-zero",
@@ -4465,6 +4108,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-8qurTrnJ2H"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-07T16:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237709"
+  },
+  {
    "film": "wild-horse-nine",
    "theater": "siff-uptown",
    "start": "2026-11-07T16:30:00-08:00",
@@ -4481,6 +4131,20 @@
     "On film",
     "Visiting artist"
    ]
+  },
+  {
+   "film": "only-living-pickpocket-in-new-york",
+   "theater": "tasveer",
+   "start": "2026-11-07T17:10:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4237708"
+  },
+  {
+   "film": "fatherland",
+   "theater": "siff-film-center",
+   "start": "2026-11-07T18:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-2Fby945qas"
   },
   {
    "film": "seattle-turkish-film-festival-yellow-letters-gala-film-party",
@@ -4504,6 +4168,13 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36529?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "tasveer",
+   "start": "2026-11-07T18:45:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4237713"
+  },
+  {
    "film": "tampopo",
    "theater": "central-cinema",
    "start": "2026-11-07T19:00:00-08:00",
@@ -4516,6 +4187,20 @@
    "start": "2026-11-07T19:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-YBCjuIxF62"
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-07T19:10:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237710"
+  },
+  {
+   "film": "fjord",
+   "theater": "tasveer",
+   "start": "2026-11-07T19:20:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/fjord",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237712"
   },
   {
    "film": "engauge-2026-rankin-renwick-solo-show",
@@ -4547,6 +4232,13 @@
    "theater": "beacon",
    "start": "2026-11-07T20:00:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/secs-fest-2026"
+  },
+  {
+   "film": "fatherland",
+   "theater": "siff-film-center",
+   "start": "2026-11-07T20:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-Jk92DTkdCU"
   },
   {
    "film": "true-stories",
@@ -4597,6 +4289,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-Y3Rl6ywNcQ"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-08T13:15:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237714"
+  },
+  {
    "film": "seattle-turkish-film-festival-dump-of-untitled-pieces",
    "theater": "siff-uptown",
    "start": "2026-11-08T13:30:00-08:00",
@@ -4618,6 +4317,13 @@
    "notes": [
     "The Films of Andrzej Wajda"
    ]
+  },
+  {
+   "film": "only-living-pickpocket-in-new-york",
+   "theater": "tasveer",
+   "start": "2026-11-08T14:20:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4237715"
   },
   {
    "film": "vagabond",
@@ -4675,11 +4381,32 @@
    "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180380"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "tasveer",
+   "start": "2026-11-08T16:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4237717"
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-08T16:25:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237716"
+  },
+  {
    "film": "wild-horse-nine",
    "theater": "siff-uptown",
    "start": "2026-11-08T16:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
    "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-t0bcYXUOqr"
+  },
+  {
+   "film": "fjord",
+   "theater": "tasveer",
+   "start": "2026-11-08T16:35:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/fjord",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237718"
   },
   {
    "film": "5point-film-fest-2026",
@@ -4698,6 +4425,13 @@
    "start": "2026-11-08T18:00:00-08:00",
    "url": "https://nwfilmforum.org/films/three-dollar-bill-cinema-presents-two-eyes/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ae512367b3592f252dfc914"
+  },
+  {
+   "film": "fatherland",
+   "theater": "siff-film-center",
+   "start": "2026-11-08T18:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-IvRmBuuMfa"
   },
   {
    "film": "salvation",
@@ -4749,6 +4483,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-oCAG1tsRuM"
   },
   {
+   "film": "fatherland",
+   "theater": "siff-film-center",
+   "start": "2026-11-08T20:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-12eBK7R9Cm"
+  },
+  {
    "film": "true-stories",
    "theater": "central-cinema",
    "start": "2026-11-08T21:30:00-08:00",
@@ -4791,11 +4532,32 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-CWDtygoJpS"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-09T16:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237720"
+  },
+  {
    "film": "wicker",
    "theater": "siff-uptown",
    "start": "2026-11-09T16:20:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/wicker",
    "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-vbNlVYgp6B"
+  },
+  {
+   "film": "only-living-pickpocket-in-new-york",
+   "theater": "tasveer",
+   "start": "2026-11-09T16:25:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4237721"
+  },
+  {
+   "film": "fatherland",
+   "theater": "siff-film-center",
+   "start": "2026-11-09T17:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-vUshAwjbZg"
   },
   {
    "film": "discreet-charm-of-the-bourgeoisie",
@@ -4815,6 +4577,13 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36628?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "tasveer",
+   "start": "2026-11-09T18:45:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4237724"
+  },
+  {
    "film": "vagabond",
    "theater": "nwff",
    "start": "2026-11-09T19:00:00-08:00",
@@ -4822,11 +4591,25 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6aceccf11d20719af447ffe9"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-09T19:10:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237722"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-11-09T19:15:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-0tSnlZNNpR"
+  },
+  {
+   "film": "fjord",
+   "theater": "tasveer",
+   "start": "2026-11-09T19:20:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/fjord",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237723"
   },
   {
    "film": "symbiopsycho-taxiplasm-take-one",
@@ -4841,6 +4624,13 @@
    "start": "2026-11-09T19:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-H0ZjEk1mmm"
+  },
+  {
+   "film": "fatherland",
+   "theater": "siff-film-center",
+   "start": "2026-11-09T19:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-uZQPlA31OT"
   },
   {
    "film": "wild-horse-nine",
@@ -4892,6 +4682,20 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-3ITeKaT9Vs"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-10T16:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237726"
+  },
+  {
+   "film": "fjord",
+   "theater": "tasveer",
+   "start": "2026-11-10T16:10:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/fjord",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237729"
+  },
+  {
    "film": "wicker",
    "theater": "siff-uptown",
    "start": "2026-11-10T16:20:00-08:00",
@@ -4906,11 +4710,32 @@
    "tickets": "https://thebeacon.film/calendar/movie/surplus-operations-and-instruments-experiments-in-cin-ma-v-rit-and-psychodrama?showtime=QLVNJXK4H6KGFA7DQI2QFLCK"
   },
   {
+   "film": "only-living-pickpocket-in-new-york",
+   "theater": "tasveer",
+   "start": "2026-11-10T16:35:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4237728"
+  },
+  {
+   "film": "fatherland",
+   "theater": "siff-film-center",
+   "start": "2026-11-10T17:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-GhCt9BRWxR"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "majestic-bay",
    "start": "2026-11-10T18:45:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36631?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "tasveer",
+   "start": "2026-11-10T18:45:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4237731"
   },
   {
    "film": "tampopo",
@@ -4927,11 +4752,28 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6aceccf11d20719af447ffee"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-10T19:10:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237727"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-11-10T19:15:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-T1ButPhiXh"
+  },
+  {
+   "film": "lakadbaggha-2",
+   "theater": "tasveer",
+   "start": "2026-11-10T19:20:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/lakadbaggha-2-2026-india-hindi",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/lakadbaggha-2-2026-india-hindi/4237745",
+   "notes": [
+    "Post-film Q&A"
+   ]
   },
   {
    "film": "symbiopsycho-taxiplasm-take-one",
@@ -4946,6 +4788,13 @@
    "start": "2026-11-10T19:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-fgbSvuTgdr"
+  },
+  {
+   "film": "fatherland",
+   "theater": "siff-film-center",
+   "start": "2026-11-10T19:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-xxBHb7CR3n"
   },
   {
    "film": "pierrot-le-fou",
@@ -5015,6 +4864,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-3lXklh1ZEi"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-11T16:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237732"
+  },
+  {
    "film": "wicker",
    "theater": "siff-uptown",
    "start": "2026-11-11T16:20:00-08:00",
@@ -5029,11 +4885,39 @@
    "tickets": "https://thebeacon.film/calendar/movie/symbiopsychotaxiplasm-take-one?showtime=ILDDPGZWIUYRKVWFJC453VG6"
   },
   {
+   "film": "only-living-pickpocket-in-new-york",
+   "theater": "tasveer",
+   "start": "2026-11-11T16:30:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4237734"
+  },
+  {
+   "film": "fjord",
+   "theater": "tasveer",
+   "start": "2026-11-11T16:40:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/fjord",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237735"
+  },
+  {
+   "film": "fatherland",
+   "theater": "siff-film-center",
+   "start": "2026-11-11T17:15:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-Mkfue2el6l"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "majestic-bay",
    "start": "2026-11-11T18:30:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36555?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "tasveer",
+   "start": "2026-11-11T18:45:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4237736"
   },
   {
    "film": "tampopo",
@@ -5058,6 +4942,13 @@
    "start": "2026-11-11T19:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-AkJTstL1bA"
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-11T19:10:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237733"
   },
   {
    "film": "wicker",
@@ -5086,6 +4977,13 @@
    "start": "2026-11-11T19:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-bqL9IPieS1"
+  },
+  {
+   "film": "fatherland",
+   "theater": "siff-film-center",
+   "start": "2026-11-11T19:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-uMEkd0hgtU"
   },
   {
    "film": "wild-horse-nine",
@@ -5123,6 +5021,20 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-6jpO6MQYD8"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-12T16:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237739"
+  },
+  {
+   "film": "fatherland",
+   "theater": "siff-film-center",
+   "start": "2026-11-12T16:45:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
+   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-dsRKOaBPGY"
+  },
+  {
    "film": "cartoon-happy-hour",
    "theater": "central-cinema",
    "start": "2026-11-12T17:00:00-08:00",
@@ -5131,6 +5043,20 @@
    "notes": [
     "Free admission"
    ]
+  },
+  {
+   "film": "fjord",
+   "theater": "tasveer",
+   "start": "2026-11-12T17:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/fjord",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237741"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "tasveer",
+   "start": "2026-11-12T18:45:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4237743"
   },
   {
    "film": "parallax-view",
@@ -5149,6 +5075,13 @@
     "The Open Road",
     "35mm"
    ]
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-12T19:10:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237738"
   },
   {
    "film": "you-can-see-everything",
@@ -5184,6 +5117,13 @@
    "start": "2026-11-12T20:00:00-08:00",
    "url": "https://central-cinema.com/movie/the-texas-chainsaw-massacre-part-2/",
    "tickets": "https://central-cinema.com/checkout/showing/the-texas-chainsaw-massacre-part-2/4180706"
+  },
+  {
+   "film": "only-living-pickpocket-in-new-york",
+   "theater": "tasveer",
+   "start": "2026-11-12T20:05:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4237740"
   },
   {
    "film": "godzilla-minus-zero",
@@ -6446,6 +6386,38 @@
    "start": "2026-12-05T22:00:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/the-living-end",
    "tickets": "https://thebeacon.film/calendar/movie/the-living-end?showtime=7IAVT66KG6GHSHEH5SAMHFZC"
+  },
+  {
+   "film": "it-happened-one-night",
+   "theater": "beacon",
+   "start": "2026-12-06T14:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/it-happened-one-night",
+   "tickets": "https://thebeacon.film/calendar/movie/it-happened-one-night?showtime=PYBKFBZ6ZSQU3W57D65GO4MX"
+  },
+  {
+   "film": "twilight",
+   "theater": "siff-uptown",
+   "start": "2026-12-06T16:00:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/siff-book-club/twilight",
+   "tickets": "https://www.siff.net/programs-and-events/siff-book-club/twilight#screening-QUYCxEONDN",
+   "notes": [
+    "SIFF Book Club",
+    "35mm"
+   ]
+  },
+  {
+   "film": "zero-patience",
+   "theater": "nwff",
+   "start": "2026-12-06T16:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/zero-patience/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6acd3684913bc7c9f3f80e2e"
+  },
+  {
+   "film": "zero-patience",
+   "theater": "nwff",
+   "start": "2026-12-06T19:30:00-08:00",
+   "url": "https://nwfilmforum.org/films/zero-patience/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6acd3684913bc7c9f3f80e29"
   }
  ]
 }
