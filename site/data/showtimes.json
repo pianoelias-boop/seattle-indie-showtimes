@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T10:25:00-08:00",
+ "updated": "2026-11-02T14:18:00-08:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-11-01T10:25:00-08:00",
-    "lastSuccess": "2026-11-01T10:25:00-08:00",
-    "showings": 27,
+    "checked": "2026-11-02T14:18:00-08:00",
+    "lastSuccess": "2026-11-02T14:18:00-08:00",
+    "showings": 24,
     "through": "2026-11-15"
    }
   },
@@ -33,10 +33,10 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-11-01T10:25:00-08:00",
-    "lastSuccess": "2026-11-01T10:25:00-08:00",
-    "showings": 106,
-    "through": "2026-12-06"
+    "checked": "2026-11-02T14:18:00-08:00",
+    "lastSuccess": "2026-11-02T14:18:00-08:00",
+    "showings": 97,
+    "through": "2026-12-07"
    }
   },
   {
@@ -52,9 +52,9 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-11-01T10:25:00-08:00",
-    "lastSuccess": "2026-11-01T10:25:00-08:00",
-    "showings": 33,
+    "checked": "2026-11-02T14:18:00-08:00",
+    "lastSuccess": "2026-11-02T14:18:00-08:00",
+    "showings": 32,
     "through": "2026-11-29"
    }
   },
@@ -70,9 +70,9 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-11-01T10:25:00-08:00",
-    "lastSuccess": "2026-11-01T10:25:00-08:00",
-    "showings": 6,
+    "checked": "2026-11-02T14:18:00-08:00",
+    "lastSuccess": "2026-11-02T14:18:00-08:00",
+    "showings": 4,
     "through": "2026-11-21"
    }
   },
@@ -88,9 +88,9 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-11-01T10:25:00-08:00",
-    "lastSuccess": "2026-11-01T10:25:00-08:00",
-    "showings": 75,
+    "checked": "2026-11-02T14:18:00-08:00",
+    "lastSuccess": "2026-11-02T14:18:00-08:00",
+    "showings": 71,
     "through": "2026-12-06"
    }
   },
@@ -107,10 +107,10 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-11-01T10:25:00-08:00",
-    "lastSuccess": "2026-11-01T10:25:00-08:00",
-    "showings": 51,
-    "through": "2026-12-03"
+    "checked": "2026-11-02T14:18:00-08:00",
+    "lastSuccess": "2026-11-02T14:18:00-08:00",
+    "showings": 75,
+    "through": "2026-12-07"
    }
   },
   {
@@ -126,10 +126,10 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-11-01T10:25:00-08:00",
-    "lastSuccess": "2026-11-01T10:25:00-08:00",
+    "checked": "2026-11-02T14:18:00-08:00",
+    "lastSuccess": "2026-11-02T14:18:00-08:00",
     "showings": 57,
-    "through": "2026-12-06"
+    "through": "2026-12-07"
    }
   },
   {
@@ -145,9 +145,9 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-11-01T10:25:00-08:00",
-    "lastSuccess": "2026-11-01T10:25:00-08:00",
-    "showings": 61,
+    "checked": "2026-11-02T14:18:00-08:00",
+    "lastSuccess": "2026-11-02T14:18:00-08:00",
+    "showings": 48,
     "through": "2026-11-12"
    }
   },
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-11-01T10:25:00-08:00",
-    "lastSuccess": "2026-11-01T10:25:00-08:00",
-    "showings": 46,
+    "checked": "2026-11-02T14:18:00-08:00",
+    "lastSuccess": "2026-11-02T14:18:00-08:00",
+    "showings": 37,
     "through": "2026-11-25"
    }
   },
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-11-01T10:25:00-08:00",
-    "lastSuccess": "2026-11-01T10:25:00-08:00",
-    "showings": 40,
+    "checked": "2026-11-02T14:18:00-08:00",
+    "lastSuccess": "2026-11-02T14:18:00-08:00",
+    "showings": 28,
     "through": "2026-12-05"
    }
   },
@@ -201,8 +201,8 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-11-01T10:25:00-08:00",
-    "lastSuccess": "2026-11-01T10:25:00-08:00",
+    "checked": "2026-11-02T14:18:00-08:00",
+    "lastSuccess": "2026-11-02T14:18:00-08:00",
     "showings": 0
    }
   },
@@ -219,9 +219,9 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-11-01T10:25:00-08:00",
-    "lastSuccess": "2026-11-01T10:25:00-08:00",
-    "showings": 15,
+    "checked": "2026-11-02T14:18:00-08:00",
+    "lastSuccess": "2026-11-02T14:18:00-08:00",
+    "showings": 13,
     "through": "2026-11-29"
    }
   }
@@ -420,6 +420,25 @@
    }
   },
   {
+   "id": "big-trouble-in-little-china",
+   "title": "Big Trouble in Little China",
+   "description": "\"Just Remember what ol' Jack Burton does when the earth quakes, and the poison arrows fall from the sky, and the pillars of heaven shake...he just looks that bog ol' storm square in the eye and he says, \"Give me your best shot, pal; I can take it.\"\n\nWhen Wang's fiancee is kidnapped by a street gang, he enlists the help of his devoted friend Jack Burton (an unforgetable Kurt Russell). The two soon find themselves caught up in an ongoing battle between good and evil taking place both in and beneath the streets of San Francisco's Chinatown.",
+   "runtime": 100,
+   "year": 1986,
+   "director": "John Carpenter",
+   "rating": "PG-13",
+   "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Adventure"
+   ],
+   "image": "https://indy-systems.imgix.net/cv7n9o64c4ksta1b0qbjc21rbf1b?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
+   "links": {
+    "central-cinema": "https://central-cinema.com/movie/big-trouble-in-little-china/"
+   }
+  },
+  {
    "id": "blood-rage",
    "title": "Blood Rage",
    "description": "\"Thanksgiving isn’t Thanksgiving without a viewing of BLOOD RAGE.\" - Joseph A. Ziemba, BLEEDING SKULL!\n\nTodd and Terry are twin bros with twin problems -- namely, one of them is an axe-wielding maniac! After a literal drive-in massacre, Todd is blamed for the carnage and institutionalized, while Terry goes free. Ten years later, Todd escapes from an asylum on Thanksgiving aka it’s time for blood to raaaaage!!\n\nProduced by whip-smart filmmaker Maryanne Kantor, directed by John Grissmer (SCALPEL), and shot in Florida, BLOOD RAGE is what happens when you combine Thanksgiving, 1970s TV star Louise Lasser, a killer synth score, and the most unbelievable gore effects in all of slasherdom, courtesy Ed French (TERMINATOR 2). Just remember, “It’s not cranberry sauce!”",
@@ -510,6 +529,21 @@
    }
   },
   {
+   "id": "casablanca",
+   "title": "Casablanca",
+   "description": "Humphrey Bogart and Ingrid Bergman star as Rick and Ilsa, two ex-lovers brought back together by fate in Nazi occupied Casablanca. Ilsa's new husband needs out of the country to continue his efforts against the Third Reich, and American ex-pat Rick may be the only one who can aid their escape. And while he's reluctant to risk his nightclub and his life, he's even more torn over the possibility of losing the only woman he's ever truly loved for a second time.\nConsistently named one of the finest films ever made, Casablanca lives up to its reputation with its romantic tale fused with tension and humor.",
+   "runtime": 102,
+   "year": 1942,
+   "rating": "NR",
+   "genres": [
+    "Classic"
+   ],
+   "image": "https://indy-systems.imgix.net/haesewy35190hm0po1xg1e1xrdki?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
+   "links": {
+    "central-cinema": "https://central-cinema.com/movie/casablanca-1942/"
+   }
+  },
+  {
    "id": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
    "title": "Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift; a fragmentary passage",
    "description": "Castration Movie is a multi-part postmodern epic by visionary auteur Louise Weard. In Chapter iii. Junior Ghosts—Premorphic Drift, Izzy (Avalon Fast) seeks out everything in her power to stop her partner (Henri Gillespi) from transitioning.",
@@ -551,6 +585,20 @@
    "image": "https://image.tmdb.org/t/p/w300/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
    "links": {
     "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface"
+   }
+  },
+  {
+   "id": "damnation",
+   "title": "Damnation",
+   "description": "Damnation (Kárhozat) chronicles the doomed affair between bar Titanik regular Karrer (Sátántangó’s Miklós B. Székely) and the cruel cabaret singer (Vali Kerekes) he pines for while scheming to displace her brutish husband (György Cserhalmi). A poignant Communism allegory that solidified Tarr’s unique aesthetic, Damnation is photographed in an exquisitely black & white palette underscored by the mesmerizing long takes that would come to be his trademark. Damnation has been restored in 4K from the original 35mm camera negative by the Hungarian National Film Institute – Film Archive under the supervision of Béla Tarr.",
+   "runtime": 116,
+   "year": 1988,
+   "director": "Béla Tarr",
+   "country": "Hungary",
+   "language": "Hungarian",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/SMC/CIN_SMC_Damnation_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/programs-and-events/siff-movie-club/damnation"
    }
   },
   {
@@ -644,7 +692,7 @@
   {
    "id": "engauge-2026-rankin-renwick-solo-show",
    "title": "Engauge 2026 – Rankin Renwick Solo Show",
-   "description": "Engauge is thrilled to welcome back Portland, OR-based artist Rankin Renwick, this time to present their work in a solo show. All films by Rankin Renwick.\n\nFILMS IN THIS PROGRAM:\n\nToxic Shock (color/sound | 2:50 | S8 to 16mm | 16mm print | 1983)\n\nA visceral personal response to surviving a near-fatal case of Toxic Shock Syndrome. Toxic Shock combines intimate taboos of needles, blood and tampons with tried and true hands-on self-defense, set to a spare, penetrating and unknown score provided by a cassette tape gifted by a forgotten friend. A call to arms; what will you do in defense of your body?\n\nPortrait #1: Cascadia Terminal (color/sound | 6:00 | 16mm hand processed and tinted to digital | 2005)\n\nA 6-minute mesmerizing stare at the most historically efficient grain terminal at the port of Vancouver, B.C. The Canadian Pacific Railway services the terminal, which can unload up to 300 cars in 24 hours, a pace equal to approximately 25,800 tons of prairie grain. Why are we so attracted to the power of industrial sites? Many kids used to hang out here, get high and make out; it has the feel of a ruin though it is still in operation. A huge compound on the water within the city of Vancouver, Cascadia Terminal expands the spirit and gives the feeling of space, of being maybe further out in the country. There even used to be a squat for a bit, in an industrial building near the property. The gentle intimacy of the beautiful score invites us to step into the landscape, but sadly due to Homeland Security measures affecting coastal ports enacted since this filming, we are no longer allowed.\n\nNote: The Portrait Series is part of an ongoing series of filmed places, stories and histories of Cascadia with scores by musicians living in the Pacific Northwest. Portrait #3: House of Sound (2009) will screen later in this program. Portrait #2: Trojan screened at EEFF 2025.\n\nBritton, South Dakota (b&w/sound | 9:00 | 16mm to digital | 2003)\n\nIvan Besse managed the Strand movie theater in Britton, South Dakota during the Depression. Besse owned a 16mm camera and used it to shoot people at their various activities around town during the day. He screened the local footage before feature films and newsreels as a lure to entice paying customers into the theater. Of the 2 1/2 hours of footage, most of it depicts townspeople walking down the street; there are also scenes of a barn being moved, a cornhusking contest and kids running out of a school. What really stands out is 8 minutes of children’s portraits. The subjects–dressed in what appears to be their Sunday best–clearly had no notion of a movie camera. The lack of an overt narrative creates a sort of cinematic paper doll environment–the film invites viewers to drape these images with futures, which have long since become histories. The drone of Johnne Eschleman’s accompanying melancholy organ composition casts a tragic shadow over these bright faces, one that may or may not have come to pass.\n\nCrowdog (b&w & color/sound | 7:00 | Super 8 to digital | 1984/1998)\n\nAn early encounter with Peter Mathiessen’s 1983 book In the Spirit of Crazy Horse concerning the fallout of the FBI’s ‘Reign of Terror’ over the American Indian Movement led a teenaged filmmaker on a pilgrimage to the Pine Ridge Indian Reservation in South Dakota. This journal entry of a film describes a young artist in the midst of over two years of shoe-free peregrinations, with a spare, mesmerizing narration that reflects a landscape ranging from the slimy underbelly of dirty Chicago to a hitchhiker’s perch in the back of a dusty pickup truck. See the kindness of the older self who dares also to show us the convictions of our youth. Bare feet on a paved road, a white girl stands to one side of a white line, a wolf dog weaves and dances before the camera.\n\nYawn (color/sound | 2:00 | 16mm to digital | 1998)\n\nTwo sublime minutes of the human experience: the color orange, piano, a wordless documentary on both the inhale and the exhale. The unspoken challenge: can the viewer last without joining the fray?\n\nOlympia (b&w/sound | 11:00 | S8 to digital | 1984/1998)\n\nThe ultimate origin story, eleven grueling minutes of a home birth. Midwives and friends surround a naked woman bulging with life as she endures the last eternal moments of her pregnancy and a child arrives. The grainy, black-and-white super-8 film softens the visual experience, while the pulsating soundtrack recalls approaching helicopters or jackhammer job-sites–birth from the point of view of the forthcoming baby. The camera never flinches; even as the new human crouches on m30 ama’s flattened belly and the music eases into hypnotic low string meditations, and the viewer aches for release into the comfort of the family circle, still the afterbirth must emerge before the film pulls back to reveal an ordinary living room, an ordinary day.\n\n9 is a secret (b&w/sound | 6:00 | 16mm and video to digital)\n\n“Renwick recounts a sad time in her life, when a friend was dying and she suddenly became aware of the presence of crows. The dark birds in turn point her to the practice of counting crows, which is both a children’s rhyming game and a form of divination in which the number of crows suggests events in the future. Eight crows augur death: nine crows reference a secret. Renwick combines these fragments with glimpses of imagery – a bed, the crows captured as silhouettes, a man’s twisted body – to craft a lyrical and moving essay that works its magic through poetic accretion rather than narrative logic.” –Holly Willis, L.A. Weekly\n\nCrackhouse (color/sound | 2:30 | S8 to digital | 2015)\n\nMosaic artist Jeffrey Bale, described by the New York Times as a ‘rock star’, transformed a former Portland crack house into a stone art paradise, an urban sanctuary and bird haven. Crack House, edited in camera, is a cosmic burst of color and sound created to celebrate the 50th anniversary of the introduction of Super 8 film.\n\nPortrait #3: House of Sound (b&w/sound | 11:22 | 35mm to digital | 2009)\n\nIn the 1950s, Williams Avenue had the most significant concentration of Blacks living in Portland. In the late ‘50s, pushing an ‘urban renewal’ policy and exercising the power of eminent domain, the Portland City Council condemned almost the entire neighborhood to replace it with the Memorial Coliseum, Rose Quarter and Emmanuel Hospital. Edited film and an edited 5-hour radio show dedicated to the memory of the House of Sound record store, this is a eulogy for the former community center and for all the places up and down the street that used to fill those empty lots, now unrecognizable as mixed-use, high-rise hyper-urban development.\n\nSF Hitch (b&w & color/sound | 5:17 | S8 and 16mm to digital | 2012)\n\nShot and edited over the span of three decades, SF HITCH recounts the artist’s experience of hitch-hiking with their feisty canine companion from Chicago to San Francisco in 1981. Both visuals and narrative are woven together with the agility and vitality of Beat poetics—a reflection of the experience of unmoored travel and an homage to the very artists they meet upon arrival.\n\n“My wolf dog Zeb and I set off hitching in the early 80’s from Chicago to SF to see what it’s all about. We met some beats and some freaks.” – Rankin Renwick",
+   "description": "Engauge is thrilled to welcome back Portland, OR-based artist Rankin Renwick, this time to present their work in a solo show. All films by Rankin Renwick.\n\nFILMS IN THIS PROGRAM:\n\nToxic Shock (color/sound | 2:50 | S8 to 16mm | 16mm print | 1983)\n\nA visceral personal response to surviving a near-fatal case of Toxic Shock Syndrome. Toxic Shock combines intimate taboos of needles, blood and tampons with tried and true hands-on self-defense, set to a spare, penetrating and unknown score provided by a cassette tape gifted by a forgotten friend. A call to arms; what will you do in defense of your body?\n\nPortrait #1: Cascadia Terminal (color/sound | 6:00 | 16mm hand processed and tinted to digital | 2005)\n\nA 6-minute mesmerizing stare at the most historically efficient grain terminal at the port of Vancouver, B.C. The Canadian Pacific Railway services the terminal, which can unload up to 300 cars in 24 hours, a pace equal to approximately 25,800 tons of prairie grain. Why are we so attracted to the power of industrial sites? Many kids used to hang out here, get high and make out; it has the feel of a ruin though it is still in operation. A huge compound on the water within the city of Vancouver, Cascadia Terminal expands the spirit and gives the feeling of space, of being maybe further out in the country. There even used to be a squat for a bit, in an industrial building near the property. The gentle intimacy of the beautiful score invites us to step into the landscape, but sadly due to Homeland Security measures affecting coastal ports enacted since this filming, we are no longer allowed.\n\nNote: The Portrait Series is part of an ongoing series of filmed places, stories and histories of Cascadia with scores by musicians living in the Pacific Northwest. Portrait #3: House of Sound (2009) will screen later in this program. Portrait #2: Trojan screened at EEFF 2025.\n\nBritton, South Dakota (b&w/sound | 9:00 | 16mm to digital | 2003)\n\nIvan Besse managed the Strand movie theater in Britton, South Dakota during the Depression. Besse owned a 16mm camera and used it to shoot people at their various activities around town during the day. He screened the local footage before feature films and newsreels as a lure to entice paying customers into the theater. Of the 2 1/2 hours of footage, most of it depicts townspeople walking down the street; there are also scenes of a barn being moved, a cornhusking contest and kids running out of a school. What really stands out is 8 minutes of children’s portraits. The subjects–dressed in what appears to be their Sunday best–clearly had no notion of a movie camera. The lack of an overt narrative creates a sort of cinematic paper doll environment–the film invites viewers to drape these images with futures, which have long since become histories. The drone of Johnne Eschleman’s accompanying melancholy organ composition casts a tragic shadow over these bright faces, one that may or may not have come to pass.\n\nCrowdog (b&w & color/sound | 7:00 | Super 8 to digital | 1984/1998)\n\nAn early encounter with Peter Mathiessen’s 1983 book In the Spirit of Crazy Horse concerning the fallout of the FBI’s ‘Reign of Terror’ over the American Indian Movement led a teenaged filmmaker on a pilgrimage to the Pine Ridge Indian Reservation in South Dakota. This journal entry of a film describes a young artist in the midst of over two years of shoe-free peregrinations, with a spare, mesmerizing narration that reflects a landscape ranging from the slimy underbelly of dirty Chicago to a hitchhiker’s perch in the back of a dusty pickup truck. See the kindness of the older self who dares also to show us the convictions of our youth. Bare feet on a paved road, a white girl stands to one side of a white line, a wolf dog weaves and dances before the camera.\n\nYawn (color/sound | 2:00 | 16mm to digital | 1998)\n\nTwo sublime minutes of the human experience: the color orange, piano, a wordless documentary on both the inhale and the exhale. The unspoken challenge: can the viewer last without joining the fray?\n\nU. C. A. Box (b&w/sound | 3:00 | S8 to digital | 1996)\n\nA joyful party celebrating the soft-serve machine’s last day at a downtown Portland restaurant. Vanilla ice cream slung with glee captured on film; making money, making art. Everyone, including the filmmaker, was on the clock for the duration of the creation. Saucebox is still open; anyone can visit the scene of the crime 5 nights a week. Reservations recommended. Tip generously.\n\nOlympia (b&w/sound | 11:00 | S8 to digital | 1984/1998)\n\nThe ultimate origin story, eleven grueling minutes of a home birth. Midwives and friends surround a naked woman bulging with life as she endures the last eternal moments of her pregnancy and a child arrives. The grainy, black-and-white super-8 film softens the visual experience, while the pulsating soundtrack recalls approaching helicopters or jackhammer job-sites–birth from the point of view of the forthcoming baby. The camera never flinches; even as the new human crouches on m30 ama’s flattened belly and the music eases into hypnotic low string meditations, and the viewer aches for release into the comfort of the family circle, still the afterbirth must emerge before the film pulls back to reveal an ordinary living room, an ordinary day.\n\n9 is a secret (b&w/sound | 6:00 | 16mm and video to digital)\n\n“Renwick recounts a sad time in her life, when a friend was dying and she suddenly became aware of the presence of crows. The dark birds in turn point her to the practice of counting crows, which is both a children’s rhyming game and a form of divination in which the number of crows suggests events in the future. Eight crows augur death: nine crows reference a secret. Renwick combines these fragments with glimpses of imagery – a bed, the crows captured as silhouettes, a man’s twisted body – to craft a lyrical and moving essay that works its magic through poetic accretion rather than narrative logic.” –Holly Willis, L.A. Weekly\n\nCrackhouse (color/sound | 2:30 | S8 to digital | 2015)\n\nMosaic artist Jeffrey Bale, described by the New York Times as a ‘rock star’, transformed a former Portland crack house into a stone art paradise, an urban sanctuary and bird haven. Crack House, edited in camera, is a cosmic burst of color and sound created to celebrate the 50th anniversary of the introduction of Super 8 film.\n\nPortrait #3: House of Sound (b&w/sound | 11:22 | 35mm to digital | 2009)\n\nIn the 1950s, Williams Avenue had the most significant concentration of Blacks living in Portland. In the late ‘50s, pushing an ‘urban renewal’ policy and exercising the power of eminent domain, the Portland City Council condemned almost the entire neighborhood to replace it with the Memorial Coliseum, Rose Quarter and Emmanuel Hospital. Edited film and an edited 5-hour radio show dedicated to the memory of the House of Sound record store, this is a eulogy for the former community center and for all the places up and down the street that used to fill those empty lots, now unrecognizable as mixed-use, high-rise hyper-urban development.\n\nSF Hitch (b&w & color/sound | 5:17 | S8 and 16mm to digital | 2012)\n\nShot and edited over the span of three decades, SF HITCH recounts the artist’s experience of hitch-hiking with their feisty canine companion from Chicago to San Francisco in 1981. Both visuals and narrative are woven together with the agility and vitality of Beat poetics—a reflection of the experience of unmoored travel and an homage to the very artists they meet upon arrival.\n\n“My wolf dog Zeb and I set off hitching in the early 80’s from Chicago to SF to see what it’s all about. We met some beats and some freaks.” – Rankin Renwick",
    "runtime": 60,
    "genres": [
     "Shorts",
@@ -732,23 +780,6 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/beacon/common/TB_5MINTOLIVE.png",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/five-minutes-to-live"
-   }
-  },
-  {
-   "id": "fjord",
-   "title": "Fjord",
-   "description": "From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town. Their teenage children form a fast bond with a neighboring family as unease begins to simmer around their rigid beliefs. When allegations of abuse emerge, they are forced to confront a system of judgment that blurs the line between concern and prejudice.",
-   "runtime": 146,
-   "year": 2026,
-   "director": "Cristian Mungiu",
-   "country": "Romania",
-   "language": "English, Norwegian",
-   "genres": [
-    "Drama"
-   ],
-   "image": "https://indy-systems.imgix.net/8r73eahe1t2ww5bll8zk6r9vt3a4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress&cs=origin",
-   "links": {
-    "tasveer": "https://filmcenter.tasveer.org/movie/fjord"
    }
   },
   {
@@ -975,7 +1006,7 @@
   {
    "id": "lakadbaggha-2",
    "title": "Lakadbaggha 2",
-   "description": "Sequel to Lakadbaggha (2023). Plot TBA.",
+   "description": "Join Tasveer for the World Premiere of Lakadbaggha 2: The Monkey Business, which follows animal-loving vigilante Arjun Bakshi as he takes his fight against wildlife trafficking from India to the forests of West Java, Indonesia in his efforts to save the endangered Yaki monkey in this India-Indonesia co-production.\n\nOne night only with a post-film Q&A.",
    "runtime": 115,
    "year": 2026,
    "director": "Anshuman Jha",
@@ -984,7 +1015,7 @@
    "genres": [
     "Action"
    ],
-   "image": "https://indy-systems.imgix.net/9cjglv53013hye95vubzrtcwkbva?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress&cs=origin",
+   "image": "https://indy-systems.imgix.net/lv9c1si9vti27x77zp0objr1uhl3?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress&cs=origin",
    "links": {
     "tasveer": "https://filmcenter.tasveer.org/movie/lakadbaggha-2-2026-india-hindi"
    }
@@ -1041,18 +1072,6 @@
    }
   },
   {
-   "id": "making-marie-antoinette",
-   "title": "Making Marie Antoinette",
-   "description": "Eleanor Coppola's behind-the-scenes documentation of her daughter Sofia directing the 2006 film MARIE ANTOINETTE, capturing the craftsmanship and challenges of being a young female director.\n\nPolarizing upon its release, Sofia Coppola’s MARIE ANTOINETTE is now, 20 years later, widely embraced as a 21st-century cinematic cornerstone and a distilled expression of its director’s recurring themes of celebrity, wealth, and isolation. For the first time, Coppola’s dynamic craftsmanship in creating her personal vision for the brief life of the 18th-century queen in the years leading up to the French Revolution is on full display in this diary shot by her mother, filmmaker Eleanor Coppola, on the film’s set in Versailles in 2005.\n\nFrom almost 80 hours of video, Eleanor began to assemble the footage during the pandemic lockdown, and Sofia helped finish editing it after Eleanor’s death in 2024. Narrated by Diane Lane, reciting Eleanor’s journals from the time, this is a rare behind-the-scenes glimpse that is both process-oriented and touchingly personal.",
-   "runtime": 86,
-   "year": 2026,
-   "director": "Eleanor Coppola",
-   "image": "https://grandillusioncinema.org/wp-content/uploads/2026/10/mma_keyart_en-us_digi_os_get-tickets-now-1.jpg",
-   "links": {
-    "grand-illusion": "https://grandillusioncinema.org/film/making-marie-antoinette/"
-   }
-  },
-  {
    "id": "man-of-marble",
    "title": "Man of Marble",
    "description": "In the 1970s, student filmmaker Agnieszka investigates the life of a 1950s bricklayer and discredited labor hero who is only remembered through statue representations in cellars and storage lockers. Discovering facts about the bricklayer have been suppressed, she has to decide whether to pursue the truth or not while navigating the complexities of communism's rise in Poland. Mixing satirical humor and poetic storytelling, this thought-provoking examination of the moral responsibility of an individual and the way art can challenge dominant ideology remains one of Wajda’s most unique productions.",
@@ -1064,18 +1083,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Films%20of%20Andrej%20Wajda/Wajda%20Films%20Images/manofmarble.png",
    "links": {
     "siff-film-center": "https://www.siff.net/programs-and-events/andrzej-wajda/man-of-marble"
-   }
-  },
-  {
-   "id": "marie-antoinette",
-   "title": "Marie Antoinette",
-   "description": "20th anniversary screening of Sofia Coppola's pastel-soaked cult classic, newly restored in 4K.\n\nCoppola brings a candy-colored palette, a dreamy synth-pop soundtrack, and Converse high-tops to eighteenth-century Versailles for this exuberantly subversive, extravagantly stylized anti-biopic of one of history’s most infamous (and perhaps misunderstood) figures.\n\nKirsten Dunst portrays Marie Antoinette as a rebellious teenage princess, who marries the awkward young dauphin of France (Jason Schwartzman), soon to be crowned King Louis XVI. Feeling isolated in a royal court rife with scandal and intrigue, Marie Antoinette defies both royalty and commoner by living like a rock star—which can work for only so long.\n\nNamed the 10th best movie of the 21st century by The Big Picture podcast.",
-   "runtime": 123,
-   "year": 2006,
-   "director": "Sofia Coppola",
-   "image": "https://grandillusioncinema.org/wp-content/uploads/2026/10/marieantoinetteposter-1.png",
-   "links": {
-    "grand-illusion": "https://grandillusioncinema.org/film/marie-antoinette/"
    }
   },
   {
@@ -1218,23 +1225,6 @@
    }
   },
   {
-   "id": "once-upon-a-time-in-seattle",
-   "title": "Once Upon a Time In Seattle",
-   "description": "A perpetually living project, Once Upon a Time in Seattle returns to Northwest Film Forum in a revised, expanded (and shorter!?) edit for this special encore engagement. Comprised of moments from 50 films shot in Seattle (up from 47 in the previous iteration,) and a few irresistible facsimiles, Once Upon a Time in Seattle is part love letter, part loony action adventure, and part free-associative meditation on the transience of landscape in a city that has always had a complicated relationship with honoring its past while moving swiftly (recklessly?) into the future.\n\nThere is no linear narrative, and dialogue is kept to a minimum. The city itself is both location and protagonist, while the function of the human characters, or perhaps more accurately, ciphers, is that of a vessel to move us through the city and occasionally offer loose context or comic relief.\n\nNo single existing shot or sequence is sustained longer than a minute, with most individual shots lasting less than 20 seconds, and over half clocking in at 5 seconds or less. The result is a deceptively complex amalgamation of wholly unrelated material, and an impressively unique editorial/directorial achievement.\n\nSurprisingly weaving numerous throughlines from the many disparate existing narratives, while leaving much open to the viewer’s interpretation, scene chronology floats between seemingly non sequitur, to quietly poignant, depending on the viewer’s own history with the city.\n\nA hyper-local, one-of-a-kind film experience and an opportunity to examine Seattle’s ever-changing landscape as seen through the camera lens, Once Upon a Time in Seattle offers a unique portal to examine our city’s topography (and vibe!) of the past, both near and distant.\n\nIf you saw the premiere in September and loved it, come see how it’s changed!",
-   "runtime": 101,
-   "year": 2026,
-   "director": "Collide-O-Scope",
-   "country": "United States",
-   "language": "English",
-   "genres": [
-    "Documentary"
-   ],
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/07/onceuponatimeinseattle1600-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/once-upon-time-seattle/"
-   }
-  },
-  {
    "id": "open-arthouse-meet-the-staff",
    "title": "Open Arthouse: Meet the Staff!",
    "description": "It's been a while! The last few years, there have been a lot of changes at the Forum, most notably the makeup of our staff!\n\nTo kick off our new series of events, Open Arthouse, we invite you to come by the Forum from 5:30-7:30 to mix, mingle, and meet the staff. Get to know the people who are keeping the lights on and making sure you're given some of the best films the city has to offer, and meet your other fellow film lovers!\n\nAttendance is free, drinks will be at happy hour prices all night, and maybe we have another event to announce in-person ;)",
@@ -1293,18 +1283,6 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792697573751-tb-prettypoison.jpg",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/pretty-poison"
-   }
-  },
-  {
-   "id": "puerto-rican-short-film-night",
-   "title": "Puerto Rican Short Film Night",
-   "description": "A Fundraiser for the Diaspora of the Puerto Rican Independence Party.\n\nJoin us for a night of film, art, and Puerto Rican pastries with the DIASPORA OF THE PUERTO RICAN INDEPENDENCE PARTY and LA ANTILLANA. We will be showcasing three short films that highlight the effects of colonialism in different manifestations throughout Puerto Rico’s history and remind us why we fight for the independence of Puerto Rico.\n\nMATARON A PEDRO (2026, Kristian Mercado)\n\nIn 1930s Puerto Rico, Pedro Albizu Campos and his wife Laura Meneses navigate the island-wide sugar cane workers' strike, the brutal machinery of colonial repression, and the fierce, sustaining love between two people who refused to surrender their dignity or their dream of freedom.\n\nMELAO (2024, Val Vega)\n\nNando, a desperate worker on a sugarcane plantation in 1950s Puerto Rico who struggles to care for his pregnant wife, until he fixes on a plan that he hopes will secure their future and lead them out of poverty, no matter how crazy it may seem.\n\nMAREAS A LA DERIVA (2026, Camila Sofía Rodríguez López)\n\nMaite, a young graffiti writer in Puerto Rico, faces a life-altering choice: leave the island for a promising career opportunity abroad or stay and navigate the challenges of a nation in crisis. During her mother’s birthday weekend, with her sister visiting from New York, Maite sees two possible futures reflected in them, one rooted in resilience and staying, the other shaped by the opportunities of leaving. Grappling with these paths, she is forced to reckon with a paradise built for tourists and outsiders to enjoy but for locals to labor in and endure, shaped by systemic neglect, colonialism, and a broken power grid that keeps its bliss just out of reach for its own people.",
-   "runtime": 75,
-   "year": 2026,
-   "director": "Kristian Mercado, Val Vega, Camila Sofía Rodríguez López",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792539164282-dpip1.png",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/puerto-rican-short-film-night"
    }
   },
   {
@@ -1549,7 +1527,7 @@
   {
    "id": "secs-fest-2026",
    "title": "SECS Fest 2026",
-   "description": "FULL SCHEDULE AND TICKETS ARE AVAILABLE AT:\n\nhttps://secsfest.org/secs-fest-2026-festival-schedule/\n\nSECS FEST is a sex-positive international film festival celebrating the artistry of erotic cinema while inspiring diverse communities to engage in adult conversations about sex.\n\nTHE FESTIVAL\n\nSECS Fest is held in November at the Beacon Cinema, Seattle. Once involved with providing a small selection of short films as part of the Seattle Erotic Art Festival, SECS Fest became an independent, non-profit film festival in 2016, to better serve filmmakers and fans of erotic film. Due to theater closures in Seattle, WA due to the COVID-19 pandemic, SECS Fest 2020 was a virtual festival, hosted by PinkLabel.tv. SECS Fest has returned as an annual, in-person, film festival.\n\nThe festival will include films that reflect the diversity of human sexuality and thus, a broad range of sexual practices and orientations will be on display. We will curate a selection of short films (to be presented in 90 minute programs) and feature length films (60 -120 minutes). The films may be narrative fiction, experimental, animation, and even documentary and will include a broad range of genre (drama, comedy, romance). And the programming will include works from all over the globe. Special attention will be given to films that defy audience expectations for sexually explicit films, that some believe are inherently sexist and hetero-centric, so festival programming will attempt to include films from female and non-binary creators and films that depict underrepresented populations, and thus will challenge heteronormativity, ableism, racism, sexism, etc.\n\nAdditionally, SECS Fest will include archival programs to explore the long history of sex in the cinema. SECS Fest programmers will curate archival programs included in the festival.\n\nSECS FEST 2026 will mark 10 years of SECS FEST.",
+   "description": "FULL SCHEDULE AND TICKETS ARE AVAILABLE AT:\n\nhttps://secsfest.org/secs-fest-2026-festival-schedule/\n\n***SECS Fest screenings are not free as stated on our website. Attendees must present a ticket at the door (which can be purchased at the link above) or buy a ticket in person at the show.***\n\nSECS FEST is a sex-positive international film festival celebrating the artistry of erotic cinema while inspiring diverse communities to engage in adult conversations about sex.\n\nTHE FESTIVAL\n\nSECS Fest is held in November at the Beacon Cinema, Seattle. Once involved with providing a small selection of short films as part of the Seattle Erotic Art Festival, SECS Fest became an independent, non-profit film festival in 2016, to better serve filmmakers and fans of erotic film. Due to theater closures in Seattle, WA due to the COVID-19 pandemic, SECS Fest 2020 was a virtual festival, hosted by PinkLabel.tv. SECS Fest has returned as an annual, in-person, film festival.\n\nThe festival will include films that reflect the diversity of human sexuality and thus, a broad range of sexual practices and orientations will be on display. We will curate a selection of short films (to be presented in 90 minute programs) and feature length films (60 -120 minutes). The films may be narrative fiction, experimental, animation, and even documentary and will include a broad range of genre (drama, comedy, romance). And the programming will include works from all over the globe. Special attention will be given to films that defy audience expectations for sexually explicit films, that some believe are inherently sexist and hetero-centric, so festival programming will attempt to include films from female and non-binary creators and films that depict underrepresented populations, and thus will challenge heteronormativity, ableism, racism, sexism, etc.\n\nAdditionally, SECS Fest will include archival programs to explore the long history of sex in the cinema. SECS Fest programmers will curate archival programs included in the festival.\n\nSECS FEST 2026 will mark 10 years of SECS FEST.",
    "year": 2026,
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792629031517-tb-secs26.png",
    "links": {
@@ -1788,20 +1766,6 @@
    }
   },
   {
-   "id": "birch-wood",
-   "title": "The Birch Wood",
-   "description": "Young Stanislaw, riddled with tuberculosis, departs Switzerland to spend his final days with his introverted forester brother Boleshaw on their secluded farm. This return home reignites a sensual passion for life, music, and love, giving him a vibrant energy at odds with his mournful brother. Their conflicting emotions lead to confronting repressed guilt and reconciliation of the past. Set in the early 1930s, this intimate character study offered Wajda the opportunity to explore areas outside of his intensely political war films and contemplate nature through reworking motifs from classic Polish landscape and symbolist paintings in this elegant depiction of early twentieth century provincial life.",
-   "runtime": 99,
-   "year": 1970,
-   "director": "Andrzej Wajda",
-   "country": "Poland",
-   "language": "Polish",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Films%20of%20Andrej%20Wajda/Wajda%20Films%20Images/birchwood.png",
-   "links": {
-    "siff-film-center": "https://www.siff.net/programs-and-events/andrzej-wajda/the-birch-wood"
-   }
-  },
-  {
    "id": "burning-of-moses-seattle",
    "title": "The Burning of Moses Seattle",
    "description": "Seattle bears the name of a Duwamish leader, but the United States government still refuses to recognize the Duwamish Tribe. Two new documentaries by Seattle filmmakers examine the enduring consequences of dispossession and the unfinished struggle for justice in the city built on Duwamish land.\n\nDavid Norman Lewis's THE BURNING OF MOSES SEATTLE investigates the mysterious, unsolved murder of Chief Seattle's grandson, uncovering a disturbing chapter of local history where mythology, family memory and historical mystery intersect.\n\nIn UNRECOGNIZED: THE DUWAMISH TRIBE, director BJ Bullert examines the tribe's decades-long fight for federal recognition, a battle involving contested historical records, political opposition, and the extraordinary situation of a people forced to prove their continued existence in their own ancestral homeland. Through interviews and archival materials, Bullert reveals how the consequences of Seattle's founding remain very much alive in the present.\n\n“UNRECOGNIZED is a compassionate and unfiltered examination of the impact the Pacific NW's colonial era continues to have on native lives today — especially the people of the Duwamish Tribe, now deemed \"extinct\" despite their ongoing and visible presence in the Northwest's largest city. The story of the Duwamish and their struggle for recognition is essential history — not just for Seattle, but for the nation and the many indigenous people whose existence we deny to this day.” - BJ Cummings, author, The River that Made Seattle: A Human and Natural History of the Duwamish",
@@ -1851,24 +1815,6 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792627172721-tb-thegirlcanthelpit.png",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/the-girl-can-t-help-it"
-   }
-  },
-  {
-   "id": "gymnasts-of-fisherman-colony",
-   "title": "The Gymnasts of Fisherman Colony",
-   "description": "The birth of a gymnastics team in Pakistan provides an inspiring spark of light for a small group of girls on the margins.",
-   "runtime": 92,
-   "year": 2026,
-   "director": "Habiba Nosheen",
-   "country": "Canada",
-   "language": "English",
-   "rating": "PG-13",
-   "genres": [
-    "Documentary"
-   ],
-   "image": "https://indy-systems.imgix.net/12bu7l426m9mrdgdt2ilnfhg9pu5?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress&cs=origin",
-   "links": {
-    "tasveer": "https://filmcenter.tasveer.org/movie/the-gymnasts-of-fisherman-colony"
    }
   },
   {
@@ -1986,6 +1932,25 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792698676982-tb-livingend.jpg",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/the-living-end"
+   }
+  },
+  {
+   "id": "muppet-christmas-carol",
+   "title": "The Muppet Christmas Carol",
+   "description": "Charles Dickens has never been better. You can ask Dickens himself as he narrates the movie (looking a lot like Gonzo).\nMichael Caine is Scrooge, a miser who sees Christmas as a mere distraction. But on Christmas Eve, a series of ghosts take him through a journey of his life hoping he'll soften his heart.\nStarring Kermit the Frog, Miss Piggy, Fozzie the Bear, Bunsen and Beaker, Rizzo the Rat, and so many more Muppet favorites.",
+   "runtime": 86,
+   "year": 1992,
+   "director": "Brian Henson",
+   "rating": "G",
+   "genres": [
+    "Music",
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "image": "https://indy-systems.imgix.net/0x2gijkn6t1jk2oavnrx9z1trlnu?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
+   "links": {
+    "central-cinema": "https://central-cinema.com/movie/the-muppet-christmas-carol/"
    }
   },
   {
@@ -2365,8 +2330,7 @@
    "image": "https://all.web.img.acsta.net/img/28/8a/288ac3c11be06daf62b03233b49aa2b8.jpg",
    "links": {
     "majestic-bay": "https://www.majesticbay.com/movies/296439-wildwood/",
-    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
-    "north-bend": "https://tix.northbendtheatre.com/event/wildwood-sunday-nov-1st-3pm"
+    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood"
    }
   },
   {
@@ -2414,7 +2378,7 @@
    "id": "you-can-see-everything",
    "title": "You Can See Everything",
    "description": "Thirty-four days before she’s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss. From boundary-pushing directors Nathan Fielder and Lance Oppenheim comes You Can See Everything.",
-   "runtime": 174,
+   "runtime": 175,
    "year": 2026,
    "director": "Nathan Fielder, Lance Oppenheim",
    "country": "USA",
@@ -2481,382 +2445,6 @@
   }
  ],
  "showings": [
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-11-01T11:10:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-Mb4w2p7IoH"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-11-01T11:30:00-08:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36580?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-11-01T11:30:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-f5oNT3XHJS"
-  },
-  {
-   "film": "fatherland",
-   "theater": "siff-uptown",
-   "start": "2026-11-01T11:40:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
-   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-psgtTMkTPU"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-11-01T11:45:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17286/793"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-11-01T11:45:00-08:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36583?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-11-01T12:00:00-08:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36586?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "devils",
-   "theater": "siff-downtown",
-   "start": "2026-11-01T12:00:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-x9peJAePIl"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-11-01T12:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17287/800",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-11-01T12:50:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17293/794"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-11-01T13:00:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17291/795"
-  },
-  {
-   "film": "wicker",
-   "theater": "tasveer",
-   "start": "2026-11-01T13:35:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/wicker",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wicker/4226406"
-  },
-  {
-   "film": "leopard-man",
-   "theater": "beacon",
-   "start": "2026-11-01T14:00:00-08:00",
-   "url": "https://thebeacon.film/calendar/movie/the-leopard-man",
-   "tickets": "https://thebeacon.film/calendar/movie/the-leopard-man?showtime=5MORWVGYHCM5MVQO7XUI6USF"
-  },
-  {
-   "film": "birch-wood",
-   "theater": "siff-film-center",
-   "start": "2026-11-01T14:00:00-08:00",
-   "url": "https://www.siff.net/programs-and-events/andrzej-wajda/the-birch-wood",
-   "tickets": "https://www.siff.net/programs-and-events/andrzej-wajda/the-birch-wood#screening-bHuLD81pUY",
-   "notes": [
-    "The Films of Andrzej Wajda"
-   ]
-  },
-  {
-   "film": "fatherland",
-   "theater": "siff-uptown",
-   "start": "2026-11-01T14:00:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
-   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-2ZQ21aUmWV"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-11-01T14:15:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-0arBkYNiyx"
-  },
-  {
-   "film": "only-living-pickpocket-in-new-york",
-   "theater": "tasveer",
-   "start": "2026-11-01T14:15:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4178068"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "tasveer",
-   "start": "2026-11-01T14:30:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178074"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-11-01T15:00:00-08:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36581?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wildwood",
-   "theater": "north-bend",
-   "start": "2026-11-01T15:00:00-08:00",
-   "url": "https://tix.northbendtheatre.com/event/wildwood-sunday-nov-1st-3pm",
-   "tickets": "https://tix.northbendtheatre.com/event/wildwood-sunday-nov-1st-3pm"
-  },
-  {
-   "film": "shining",
-   "theater": "siff-downtown",
-   "start": "2026-11-01T15:00:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-shining",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-shining#screening-Pkfl9wNfDf"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-11-01T15:00:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-M47UgRLZfb"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-11-01T15:15:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17228/793"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-11-01T15:15:00-08:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36584?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-11-01T15:20:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17232/800"
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-11-01T15:30:00-08:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36587?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
-   "theater": "nwff",
-   "start": "2026-11-01T15:30:00-08:00",
-   "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6ad50d5d4de91e654436a197"
-  },
-  {
-   "film": "wildwood",
-   "theater": "admiral",
-   "start": "2026-11-01T15:35:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17234/797"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-11-01T15:40:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17224/794"
-  },
-  {
-   "film": "wicker",
-   "theater": "tasveer",
-   "start": "2026-11-01T15:55:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/wicker",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wicker/4226399"
-  },
-  {
-   "film": "once-upon-a-time-in-seattle",
-   "theater": "nwff",
-   "start": "2026-11-01T16:00:00-08:00",
-   "url": "https://nwfilmforum.org/films/once-upon-time-seattle/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac3c9064041f3c99cc5a56d"
-  },
-  {
-   "film": "gymnasts-of-fisherman-colony",
-   "theater": "tasveer",
-   "start": "2026-11-01T16:15:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-gymnasts-of-fisherman-colony",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-gymnasts-of-fisherman-colony/4178066"
-  },
-  {
-   "film": "marie-antoinette",
-   "theater": "grand-illusion",
-   "start": "2026-11-01T16:30:00-08:00",
-   "url": "https://grandillusioncinema.org/film/marie-antoinette/",
-   "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=661713~db6ae971-a7a0-4ce7-8336-1f487b58723c&",
-   "notes": [
-    "New 4K restoration"
-   ]
-  },
-  {
-   "film": "fatherland",
-   "theater": "siff-uptown",
-   "start": "2026-11-01T16:30:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
-   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-ZGgo2jK3Pi"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-11-01T17:00:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-ZdY6LWhpTK"
-  },
-  {
-   "film": "puerto-rican-short-film-night",
-   "theater": "beacon",
-   "start": "2026-11-01T17:01:00-08:00",
-   "url": "https://thebeacon.film/calendar/movie/puerto-rican-short-film-night",
-   "tickets": "https://thebeacon.film/calendar/movie/puerto-rican-short-film-night?showtime=KN6FAE3XYTOZYJIU6DTWIPOA"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-11-01T18:00:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17227/793"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-11-01T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17223/794"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-11-01T18:30:00-08:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36582?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
-   "theater": "nwff",
-   "start": "2026-11-01T18:30:00-08:00",
-   "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6ad50da1b3e7c982205157be"
-  },
-  {
-   "film": "kwaidan",
-   "theater": "siff-downtown",
-   "start": "2026-11-01T18:30:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/kwaidan",
-   "tickets": "https://www.siff.net/cinema/in-theaters/kwaidan#screening-kmj4paHMhU"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-11-01T18:40:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17221/795"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-11-01T18:45:00-08:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36585?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-11-01T19:00:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17231/800"
-  },
-  {
-   "film": "hocus-pocus",
-   "theater": "central-cinema",
-   "start": "2026-11-01T19:00:00-08:00",
-   "url": "https://central-cinema.com/movie/hocus-pocus/",
-   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080465",
-   "notes": [
-    "Family"
-   ]
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-11-01T19:00:00-08:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36588?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "wildwood",
-   "theater": "north-bend",
-   "start": "2026-11-01T19:00:00-08:00",
-   "url": "https://tix.northbendtheatre.com/event/wildwood-sunday-nov-1st-7pm",
-   "tickets": "https://tix.northbendtheatre.com/event/wildwood-sunday-nov-1st-7pm"
-  },
-  {
-   "film": "once-upon-a-time-in-seattle",
-   "theater": "nwff",
-   "start": "2026-11-01T19:00:00-08:00",
-   "url": "https://nwfilmforum.org/films/once-upon-time-seattle/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac3c91c37a161186a9a840a"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-11-01T19:00:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-lO3jh9Qmq8"
-  },
-  {
-   "film": "making-marie-antoinette",
-   "theater": "grand-illusion",
-   "start": "2026-11-01T19:30:00-08:00",
-   "url": "https://grandillusioncinema.org/film/making-marie-antoinette/",
-   "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=661735~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
-  },
-  {
-   "film": "fatherland",
-   "theater": "siff-uptown",
-   "start": "2026-11-01T19:45:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
-   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-MVlNAix0qM"
-  },
-  {
-   "film": "a-nightmare-on-elm-street",
-   "theater": "central-cinema",
-   "start": "2026-11-01T21:30:00-08:00",
-   "url": "https://central-cinema.com/movie/a-nightmare-on-elm-street/",
-   "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080566"
-  },
   {
    "film": "you-can-see-everything",
    "theater": "majestic-bay",
@@ -3876,13 +3464,6 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-eAvxIPQusn"
   },
   {
-   "film": "only-living-pickpocket-in-new-york",
-   "theater": "tasveer",
-   "start": "2026-11-06T17:10:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4237707"
-  },
-  {
    "film": "fatherland",
    "theater": "siff-film-center",
    "start": "2026-11-06T18:00:00-08:00",
@@ -3954,13 +3535,6 @@
    "start": "2026-11-06T19:15:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-Y1DbuI3YgY"
-  },
-  {
-   "film": "fjord",
-   "theater": "tasveer",
-   "start": "2026-11-06T19:20:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/fjord",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237703"
   },
   {
    "film": "godzilla-minus-zero",
@@ -4196,13 +3770,6 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237710"
   },
   {
-   "film": "fjord",
-   "theater": "tasveer",
-   "start": "2026-11-07T19:20:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/fjord",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237712"
-  },
-  {
    "film": "engauge-2026-rankin-renwick-solo-show",
    "theater": "nwff",
    "start": "2026-11-07T19:30:00-08:00",
@@ -4402,13 +3969,6 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-t0bcYXUOqr"
   },
   {
-   "film": "fjord",
-   "theater": "tasveer",
-   "start": "2026-11-08T16:35:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/fjord",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237718"
-  },
-  {
    "film": "5point-film-fest-2026",
    "theater": "north-bend",
    "start": "2026-11-08T17:00:00-08:00",
@@ -4605,13 +4165,6 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-0tSnlZNNpR"
   },
   {
-   "film": "fjord",
-   "theater": "tasveer",
-   "start": "2026-11-09T19:20:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/fjord",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237723"
-  },
-  {
    "film": "symbiopsycho-taxiplasm-take-one",
    "theater": "beacon",
    "start": "2026-11-09T19:30:00-08:00",
@@ -4687,13 +4240,6 @@
    "start": "2026-11-10T16:00:00-08:00",
    "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237726"
-  },
-  {
-   "film": "fjord",
-   "theater": "tasveer",
-   "start": "2026-11-10T16:10:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/fjord",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237729"
   },
   {
    "film": "wicker",
@@ -4892,13 +4438,6 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4237734"
   },
   {
-   "film": "fjord",
-   "theater": "tasveer",
-   "start": "2026-11-11T16:40:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/fjord",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237735"
-  },
-  {
    "film": "fatherland",
    "theater": "siff-film-center",
    "start": "2026-11-11T17:15:00-08:00",
@@ -5043,13 +4582,6 @@
    "notes": [
     "Free admission"
    ]
-  },
-  {
-   "film": "fjord",
-   "theater": "tasveer",
-   "start": "2026-11-12T17:00:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/fjord",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237741"
   },
   {
    "film": "you-can-see-everything",
@@ -6110,6 +5642,13 @@
    "tickets": "https://thebeacon.film/calendar/movie/blood-rage?showtime=T3FSJOVXESFKLUDCIC3ZCXTX"
   },
   {
+   "film": "big-trouble-in-little-china",
+   "theater": "central-cinema",
+   "start": "2026-11-27T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/big-trouble-in-little-china/",
+   "tickets": "https://central-cinema.com/checkout/showing/big-trouble-in-little-china/4248108"
+  },
+  {
    "film": "five-minutes-to-live",
    "theater": "beacon",
    "start": "2026-11-27T19:00:00-08:00",
@@ -6117,11 +5656,32 @@
    "tickets": "https://thebeacon.film/calendar/movie/five-minutes-to-live?showtime=BIZZ2DWFWQCWSZC2RMIXIZCS"
   },
   {
+   "film": "casablanca",
+   "theater": "central-cinema",
+   "start": "2026-11-27T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/casablanca-1942/",
+   "tickets": "https://central-cinema.com/checkout/showing/casablanca-1942/4248109"
+  },
+  {
+   "film": "big-trouble-in-little-china",
+   "theater": "central-cinema",
+   "start": "2026-11-27T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/big-trouble-in-little-china/",
+   "tickets": "https://central-cinema.com/checkout/showing/big-trouble-in-little-china/4248110"
+  },
+  {
    "film": "tokyo-story",
    "theater": "nwff",
    "start": "2026-11-28T15:30:00-08:00",
    "url": "https://nwfilmforum.org/films/tokyo-story/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6aceceb7363b745780bcf380"
+  },
+  {
+   "film": "big-trouble-in-little-china",
+   "theater": "central-cinema",
+   "start": "2026-11-28T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/big-trouble-in-little-china/",
+   "tickets": "https://central-cinema.com/checkout/showing/big-trouble-in-little-china/4248111"
   },
   {
    "film": "late-autumn",
@@ -6148,11 +5708,25 @@
    ]
   },
   {
+   "film": "casablanca",
+   "theater": "central-cinema",
+   "start": "2026-11-28T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/casablanca-1942/",
+   "tickets": "https://central-cinema.com/checkout/showing/casablanca-1942/4248112"
+  },
+  {
    "film": "late-autumn",
    "theater": "nwff",
    "start": "2026-11-28T19:00:00-08:00",
    "url": "https://nwfilmforum.org/films/late-autumn/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/69b052b47003b80e56ead67c"
+  },
+  {
+   "film": "big-trouble-in-little-china",
+   "theater": "central-cinema",
+   "start": "2026-11-28T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/big-trouble-in-little-china/",
+   "tickets": "https://central-cinema.com/checkout/showing/big-trouble-in-little-china/4248113"
   },
   {
    "film": "perdita-durango",
@@ -6194,6 +5768,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/the-backcourt-documentary-basketballs-best-kept-secret#screening-MEYokLjcnK"
   },
   {
+   "film": "big-trouble-in-little-china",
+   "theater": "central-cinema",
+   "start": "2026-11-29T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/big-trouble-in-little-china/",
+   "tickets": "https://central-cinema.com/checkout/showing/big-trouble-in-little-china/4248114"
+  },
+  {
    "film": "late-autumn",
    "theater": "nwff",
    "start": "2026-11-29T16:00:00-08:00",
@@ -6215,6 +5796,13 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6aceced8b7083c26e163fddc"
   },
   {
+   "film": "casablanca",
+   "theater": "central-cinema",
+   "start": "2026-11-29T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/casablanca-1942/",
+   "tickets": "https://central-cinema.com/checkout/showing/casablanca-1942/4248115"
+  },
+  {
    "film": "late-autumn",
    "theater": "nwff",
    "start": "2026-11-29T19:00:00-08:00",
@@ -6222,11 +5810,32 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/69b052b47003b80e56ead681"
   },
   {
+   "film": "big-trouble-in-little-china",
+   "theater": "central-cinema",
+   "start": "2026-11-29T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/big-trouble-in-little-china/",
+   "tickets": "https://central-cinema.com/checkout/showing/big-trouble-in-little-china/4248116"
+  },
+  {
+   "film": "big-trouble-in-little-china",
+   "theater": "central-cinema",
+   "start": "2026-11-30T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/big-trouble-in-little-china/",
+   "tickets": "https://central-cinema.com/checkout/showing/big-trouble-in-little-china/4248117"
+  },
+  {
    "film": "all-i-desire",
    "theater": "beacon",
    "start": "2026-11-30T16:30:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/all-i-desire",
    "tickets": "https://thebeacon.film/calendar/movie/all-i-desire?showtime=FAXFCR4VNS2IAWXLH37CAL2C"
+  },
+  {
+   "film": "casablanca",
+   "theater": "central-cinema",
+   "start": "2026-11-30T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/casablanca-1942/",
+   "tickets": "https://central-cinema.com/checkout/showing/casablanca-1942/4248118"
   },
   {
    "film": "wto-99",
@@ -6243,6 +5852,20 @@
    "tickets": "https://thebeacon.film/calendar/movie/the-honeymoon-killers?showtime=YWCKAVRL5V5JD5SSMPRTI7AC"
   },
   {
+   "film": "big-trouble-in-little-china",
+   "theater": "central-cinema",
+   "start": "2026-11-30T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/big-trouble-in-little-china/",
+   "tickets": "https://central-cinema.com/checkout/showing/big-trouble-in-little-china/4248119"
+  },
+  {
+   "film": "big-trouble-in-little-china",
+   "theater": "central-cinema",
+   "start": "2026-12-01T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/big-trouble-in-little-china/",
+   "tickets": "https://central-cinema.com/checkout/showing/big-trouble-in-little-china/4248120"
+  },
+  {
    "film": "honeymoon-killers",
    "theater": "beacon",
    "start": "2026-12-01T16:30:00-08:00",
@@ -6250,11 +5873,32 @@
    "tickets": "https://thebeacon.film/calendar/movie/the-honeymoon-killers?showtime=AYQWHXIHQ6UTUVDIITIFG565"
   },
   {
+   "film": "casablanca",
+   "theater": "central-cinema",
+   "start": "2026-12-01T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/casablanca-1942/",
+   "tickets": "https://central-cinema.com/checkout/showing/casablanca-1942/4248121"
+  },
+  {
    "film": "wto-99",
    "theater": "nwff",
    "start": "2026-12-01T19:00:00-08:00",
    "url": "https://nwfilmforum.org/films/wto-99/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6a7e4fdd4276bba6259020ee"
+  },
+  {
+   "film": "big-trouble-in-little-china",
+   "theater": "central-cinema",
+   "start": "2026-12-01T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/big-trouble-in-little-china/",
+   "tickets": "https://central-cinema.com/checkout/showing/big-trouble-in-little-china/4248122"
+  },
+  {
+   "film": "big-trouble-in-little-china",
+   "theater": "central-cinema",
+   "start": "2026-12-02T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/big-trouble-in-little-china/",
+   "tickets": "https://central-cinema.com/checkout/showing/big-trouble-in-little-china/4248123"
   },
   {
    "film": "seattle-lgbtq",
@@ -6280,11 +5924,28 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6acd3652719156ac50c9b008"
   },
   {
+   "film": "big-trouble-in-little-china",
+   "theater": "central-cinema",
+   "start": "2026-12-02T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/big-trouble-in-little-china/",
+   "tickets": "https://central-cinema.com/checkout/showing/big-trouble-in-little-china/4248125"
+  },
+  {
    "film": "natural-born-killers",
    "theater": "beacon",
    "start": "2026-12-03T16:30:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/natural-born-killers",
    "tickets": "https://thebeacon.film/calendar/movie/natural-born-killers?showtime=QTDB4B47C35LRLZOGYIN4QFZ"
+  },
+  {
+   "film": "cartoon-happy-hour",
+   "theater": "central-cinema",
+   "start": "2026-12-03T17:00:00-08:00",
+   "url": "https://central-cinema.com/movie/cartoon-happy-hour/",
+   "tickets": "https://central-cinema.com/checkout/showing/cartoon-happy-hour/4248126",
+   "notes": [
+    "Free admission"
+   ]
   },
   {
    "film": "store",
@@ -6319,11 +5980,31 @@
    "tickets": "https://central-cinema.com/checkout/showing/the-room/4235381"
   },
   {
+   "film": "muppet-christmas-carol",
+   "theater": "central-cinema",
+   "start": "2026-12-04T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/the-muppet-christmas-carol/",
+   "tickets": "https://central-cinema.com/checkout/showing/the-muppet-christmas-carol/4248385",
+   "notes": [
+    "Family"
+   ]
+  },
+  {
    "film": "raise-the-red-lantern",
    "theater": "beacon",
    "start": "2026-12-04T19:00:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/raise-the-red-lantern",
    "tickets": "https://thebeacon.film/calendar/movie/raise-the-red-lantern?showtime=HQN6SY5K6O6Q3ICFQMUNULGC"
+  },
+  {
+   "film": "muppet-christmas-carol",
+   "theater": "central-cinema",
+   "start": "2026-12-04T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/the-muppet-christmas-carol/",
+   "tickets": "https://central-cinema.com/checkout/showing/the-muppet-christmas-carol/4248386",
+   "notes": [
+    "Family"
+   ]
   },
   {
    "film": "live-comedy-december-2026",
@@ -6360,6 +6041,16 @@
    ]
   },
   {
+   "film": "muppet-christmas-carol",
+   "theater": "central-cinema",
+   "start": "2026-12-05T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/the-muppet-christmas-carol/",
+   "tickets": "https://central-cinema.com/checkout/showing/the-muppet-christmas-carol/4248387",
+   "notes": [
+    "Family"
+   ]
+  },
+  {
    "film": "zero-patience",
    "theater": "nwff",
    "start": "2026-12-05T16:00:00-08:00",
@@ -6372,6 +6063,16 @@
    "start": "2026-12-05T19:00:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/raise-the-red-lantern",
    "tickets": "https://thebeacon.film/calendar/movie/raise-the-red-lantern?showtime=BJENFKUF3LSKWWVMQ6VZPYJR"
+  },
+  {
+   "film": "muppet-christmas-carol",
+   "theater": "central-cinema",
+   "start": "2026-12-05T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/the-muppet-christmas-carol/",
+   "tickets": "https://central-cinema.com/checkout/showing/the-muppet-christmas-carol/4248388",
+   "notes": [
+    "Family"
+   ]
   },
   {
    "film": "zero-patience",
@@ -6395,6 +6096,16 @@
    "tickets": "https://thebeacon.film/calendar/movie/it-happened-one-night?showtime=PYBKFBZ6ZSQU3W57D65GO4MX"
   },
   {
+   "film": "muppet-christmas-carol",
+   "theater": "central-cinema",
+   "start": "2026-12-06T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/the-muppet-christmas-carol/",
+   "tickets": "https://central-cinema.com/checkout/showing/the-muppet-christmas-carol/4248389",
+   "notes": [
+    "Family"
+   ]
+  },
+  {
    "film": "twilight",
    "theater": "siff-uptown",
    "start": "2026-12-06T16:00:00-08:00",
@@ -6413,11 +6124,64 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6acd3684913bc7c9f3f80e2e"
   },
   {
+   "film": "muppet-christmas-carol",
+   "theater": "central-cinema",
+   "start": "2026-12-06T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/the-muppet-christmas-carol/",
+   "tickets": "https://central-cinema.com/checkout/showing/the-muppet-christmas-carol/4248390",
+   "notes": [
+    "Family"
+   ]
+  },
+  {
    "film": "zero-patience",
    "theater": "nwff",
    "start": "2026-12-06T19:30:00-08:00",
    "url": "https://nwfilmforum.org/films/zero-patience/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6acd3684913bc7c9f3f80e29"
+  },
+  {
+   "film": "muppet-christmas-carol",
+   "theater": "central-cinema",
+   "start": "2026-12-07T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/the-muppet-christmas-carol/",
+   "tickets": "https://central-cinema.com/checkout/showing/the-muppet-christmas-carol/4248391",
+   "notes": [
+    "Family"
+   ]
+  },
+  {
+   "film": "it-happened-one-night",
+   "theater": "beacon",
+   "start": "2026-12-07T16:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/it-happened-one-night",
+   "tickets": "https://thebeacon.film/calendar/movie/it-happened-one-night?showtime=G3TLKSMI6RFEUWHLUSS6BCH5"
+  },
+  {
+   "film": "damnation",
+   "theater": "siff-uptown",
+   "start": "2026-12-07T18:30:00-08:00",
+   "url": "https://www.siff.net/programs-and-events/siff-movie-club/damnation",
+   "tickets": "https://www.siff.net/programs-and-events/siff-movie-club/damnation#screening-BD8AgxDk8B",
+   "notes": [
+    "SIFF Movie Club"
+   ]
+  },
+  {
+   "film": "muppet-christmas-carol",
+   "theater": "central-cinema",
+   "start": "2026-12-07T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/the-muppet-christmas-carol/",
+   "tickets": "https://central-cinema.com/checkout/showing/the-muppet-christmas-carol/4248392",
+   "notes": [
+    "Family"
+   ]
+  },
+  {
+   "film": "cinema",
+   "theater": "beacon",
+   "start": "2026-12-07T19:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/blindfold"
   }
  ]
 }
