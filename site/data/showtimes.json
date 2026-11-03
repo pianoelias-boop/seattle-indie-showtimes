@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T14:18:00-08:00",
+ "updated": "2026-11-03T12:05:00-08:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-11-02T14:18:00-08:00",
-    "lastSuccess": "2026-11-02T14:18:00-08:00",
-    "showings": 24,
+    "checked": "2026-11-03T12:05:00-08:00",
+    "lastSuccess": "2026-11-03T12:05:00-08:00",
+    "showings": 23,
     "through": "2026-11-15"
    }
   },
@@ -33,9 +33,9 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-11-02T14:18:00-08:00",
-    "lastSuccess": "2026-11-02T14:18:00-08:00",
-    "showings": 97,
+    "checked": "2026-11-03T12:05:00-08:00",
+    "lastSuccess": "2026-11-03T12:05:00-08:00",
+    "showings": 91,
     "through": "2026-12-07"
    }
   },
@@ -52,9 +52,9 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-11-02T14:18:00-08:00",
-    "lastSuccess": "2026-11-02T14:18:00-08:00",
-    "showings": 32,
+    "checked": "2026-11-03T12:05:00-08:00",
+    "lastSuccess": "2026-11-03T12:05:00-08:00",
+    "showings": 31,
     "through": "2026-11-29"
    }
   },
@@ -70,8 +70,8 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-11-02T14:18:00-08:00",
-    "lastSuccess": "2026-11-02T14:18:00-08:00",
+    "checked": "2026-11-03T12:05:00-08:00",
+    "lastSuccess": "2026-11-03T12:05:00-08:00",
     "showings": 4,
     "through": "2026-11-21"
    }
@@ -88,9 +88,9 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-11-02T14:18:00-08:00",
-    "lastSuccess": "2026-11-02T14:18:00-08:00",
-    "showings": 71,
+    "checked": "2026-11-03T12:05:00-08:00",
+    "lastSuccess": "2026-11-03T12:05:00-08:00",
+    "showings": 70,
     "through": "2026-12-06"
    }
   },
@@ -107,10 +107,10 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-11-02T14:18:00-08:00",
-    "lastSuccess": "2026-11-02T14:18:00-08:00",
-    "showings": 75,
-    "through": "2026-12-07"
+    "checked": "2026-11-03T12:05:00-08:00",
+    "lastSuccess": "2026-11-03T12:05:00-08:00",
+    "showings": 74,
+    "through": "2026-12-08"
    }
   },
   {
@@ -126,10 +126,10 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-11-02T14:18:00-08:00",
-    "lastSuccess": "2026-11-02T14:18:00-08:00",
-    "showings": 57,
-    "through": "2026-12-07"
+    "checked": "2026-11-03T12:05:00-08:00",
+    "lastSuccess": "2026-11-03T12:05:00-08:00",
+    "showings": 56,
+    "through": "2026-12-08"
    }
   },
   {
@@ -145,9 +145,9 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-11-02T14:18:00-08:00",
-    "lastSuccess": "2026-11-02T14:18:00-08:00",
-    "showings": 48,
+    "checked": "2026-11-03T12:05:00-08:00",
+    "lastSuccess": "2026-11-03T12:05:00-08:00",
+    "showings": 51,
     "through": "2026-11-12"
    }
   },
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-11-02T14:18:00-08:00",
-    "lastSuccess": "2026-11-02T14:18:00-08:00",
-    "showings": 37,
+    "checked": "2026-11-03T12:05:00-08:00",
+    "lastSuccess": "2026-11-03T12:05:00-08:00",
+    "showings": 64,
     "through": "2026-11-25"
    }
   },
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-11-02T14:18:00-08:00",
-    "lastSuccess": "2026-11-02T14:18:00-08:00",
-    "showings": 28,
+    "checked": "2026-11-03T12:05:00-08:00",
+    "lastSuccess": "2026-11-03T12:05:00-08:00",
+    "showings": 20,
     "through": "2026-12-05"
    }
   },
@@ -201,8 +201,8 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-11-02T14:18:00-08:00",
-    "lastSuccess": "2026-11-02T14:18:00-08:00",
+    "checked": "2026-11-03T12:05:00-08:00",
+    "lastSuccess": "2026-11-03T12:05:00-08:00",
     "showings": 0
    }
   },
@@ -219,8 +219,8 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-11-02T14:18:00-08:00",
-    "lastSuccess": "2026-11-02T14:18:00-08:00",
+    "checked": "2026-11-03T12:05:00-08:00",
+    "lastSuccess": "2026-11-03T12:05:00-08:00",
     "showings": 13,
     "through": "2026-11-29"
    }
@@ -426,6 +426,8 @@
    "runtime": 100,
    "year": 1986,
    "director": "John Carpenter",
+   "country": "United States",
+   "language": "English",
    "rating": "PG-13",
    "genres": [
     "Action",
@@ -783,17 +785,20 @@
    }
   },
   {
-   "id": "foragers",
-   "title": "Foragers",
-   "description": "Foragers depicts the dramas around the practice of foraging for wild edible plants in Palestine with wry humor and a meditative pace. Shot in the Golan Heights, the Galilee and Jerusalem, it employs fiction, documentary and archival footage to portray the impact of Israeli nature protection laws on these customs. The restrictions prohibit the collection of the artichoke-like ’akkoub and za’atar (thyme), and have resulted in fines and trials for hundreds caught collecting these native plants. For Palestinians, these laws constitute an ecological veil for legislation that further disposses them from their land while the Occupation’s representatives insist on their scientific expertise and duty to protect. Following the plants from the wild to the kitchen, from the chases between the foragers and the nature patrol, to courtroom defenses, Foragers captures the joy and knowledge embodied in these traditions alongside their resilience to the prohibitive law. By reframing the terms and constraints of preservation, the film raises questions around the politics of extinction, namely who determines what is made extinct and what gets to live on.",
-   "runtime": 65,
-   "year": 2022,
-   "director": "Jumana Manna",
-   "country": "Palestine - State of",
-   "language": "Arabic, Hebrew",
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/foragers1600-1-1200x675.png",
+   "id": "fjord",
+   "title": "Fjord",
+   "description": "From two⁠-⁠time Palme d’Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close⁠-⁠knit, coastal town. Their teenage children form a fast bond with a neighboring family as unease begins to simmer around their rigid beliefs. When allegations of abuse emerge, they are forced to confront a system of judgment that blurs the line between concern and prejudice.",
+   "runtime": 146,
+   "year": 2026,
+   "director": "Cristian Mungiu",
+   "country": "Romania",
+   "language": "English, Norwegian",
+   "genres": [
+    "Drama"
+   ],
+   "image": "https://indy-systems.imgix.net/8r73eahe1t2ww5bll8zk6r9vt3a4?fit=crop&w=400&h=600&fm=jpeg&auto=format,compress&cs=origin",
    "links": {
-    "nwff": "https://nwfilmforum.org/films/palestine-cinema-days-2026-foragers/"
+    "tasveer": "https://filmcenter.tasveer.org/movie/fjord"
    }
   },
   {
@@ -970,26 +975,12 @@
    }
   },
   {
-   "id": "kwaidan",
-   "title": "Kwaidan",
-   "description": "This visually and aurally ravishing widescreen film, perhaps the greatest of Masaki Kobayashi, is adapted from the ghostly tales of Lafcadio Hearn, the Greek-Irish writer who made Japan his home in the 1890s. The level of stylization – in color, composition, music, sound, speech and movement – of these four tales is never less than breathtaking. Kwaidan bankrupted Kobayashi’s production company, but the effort was well worth it: there’s nothing else like it in all of cinema. Made in close collaboration with the great composer Toru Takemitsu.",
-   "runtime": 183,
-   "year": 1965,
-   "director": "Masaki Kobayashi",
-   "country": "Japan",
-   "language": "Japanese",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_Kwaidan_1600x900.png",
-   "links": {
-    "siff-downtown": "https://www.siff.net/cinema/in-theaters/kwaidan"
-   }
-  },
-  {
    "id": "la-bola-negra",
    "title": "La Bola Negra",
    "description": "From Cannes-winning directors Javier Calvo and Javier Ambrossi — popularly known as Los Javis — La Bola Negra follows three generations of men across pivotal moments in Spanish history, bound by pain, desire, and love. Carlos (Milo Quifes) longs to belong in a fractured Spain. Sebastián (Guitarricadelafuente) finds connection across enemy lines. And Alberto (Carlos González) uncovers a long-buried family secret — one that finally gives voice to truths the past tried to erase.",
    "runtime": 155,
    "year": 2026,
-   "director": "Javier Calvo, Javier Ambrossi",
+   "director": "Javier Ambrossi, Javier Calvo",
    "country": "Spain",
    "language": "Spanish",
    "rating": "R",
@@ -1455,6 +1446,19 @@
    }
   },
   {
+   "id": "seattle-film-society-presents-locals-only-november-2026",
+   "title": "Seattle Film Society Presents Locals Only: November 2026",
+   "description": "SFS’s November Locals Only will be their FINAL Locals Only of 2026! They’ll be screening four their our FAVORITE local shorts they’ve screened this year. All four shorts will be introduced by the SFS Programmer that chose it, followed by a short Q&A between the filmmaker and the SFS Programmer. The four shorts included are:\n\n- THE JOURNAL by James Andrews: An American veteran of the Vietnam War returns a precious keepsake to the daughter of an enemy soldier, 50 years later. (12 Min) – Intro/Q&A by SFS Program Director Tommy Meisel\n\n- PRIVATE PARTY by Nate Fieldson: A lonely woman lists her car for sale in hopes of making some new friends. (10 min) – Intro/Q&A by SFS Programmer Shelby Smout\n\n- PUPPET MASTER PLAYTIME by Amy Harris: Found footage of a public-access children’s show whose sock puppet co-host undergoes a life-changing procedure at the hands of a crazed surgeon–spurred on by an immobile, psychic puppet. (8 min) – Intro/Q&A by SFS Programmer Patrick McFarland\n\n- what does it feel like to live inside a pomegranate? by Kamyar Mohsenin: A young woman discovers a giant pomegranate in the middle of the forest and decides to live inside it. (3 Min) – Into/Q&A by SFS Programmer Gracen Bayer.\n\nThis event is presented in partnership with the Northwest Film Forum. Join us for a screening and Q&A with drinks to follow at Linda’s Tavern! See ya at the movies!\n\nGraphics Credit: Janice Kim",
+   "runtime": 33,
+   "genres": [
+    "Shorts"
+   ],
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/11/Web-Header-1600x900-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-november-2026/"
+   }
+  },
+  {
    "id": "seattle-lgbtq",
    "title": "Seattle LGBTQ",
    "description": "We Were Here is the first documentary to take a deep and reflective look back at the arrival and impact of AIDS in San Francisco. It explores how the City’s inhabitants were affected by, and how they responded to, that calamitous epidemic.\n\nThough a San Francisco-based story, We Were Here extends beyond San Francisco and beyond AIDS itself. It speaks to our capacity as individuals to rise to the occasion, and to the incredible power of a community coming together with love, compassion, and determination.\n\nFilmmakers David Weissman and Bill Weber co-directed the 2001 documentary, The Cockettes, chronicling San Francisco’s legendary theater troupe of hippies and drag queens, 1969 – 1972. We Were Here revisits San Francisco a decade later, as its flourishing gay community is hit with an unimaginable disaster.",
@@ -1897,18 +1901,6 @@
    }
   },
   {
-   "id": "leopard-man",
-   "title": "The Leopard Man",
-   "description": "A black leopard escapes into the night, a small New Mexico town grows frightened, and Val Lewton and Jacques Tourneur have everything they need. Adapted from Cornell Woolrich’s Black Alibi and given its wonderfully lurid title by RKO in the wake of CAT PEOPLE, THE LEOPARD MAN turns a simple pulp premise into one of the strangest and most beautifully controlled thrillers of the 1940s—a movie built from darkness, sound, chance and the fear of being alone at exactly the wrong moment.\n\nThe final collaboration between Lewton and Tourneur keeps wandering away from the path a conventional mystery might take, following the nighttime life of the town with an almost dreamlike freedom. Ordinary errands and encounters acquire an inexplicable tension. Wind moves through empty streets. Water drips beneath a railroad trestle. Castanets click somewhere in the darkness. Tourneur and cinematographer Robert De Grasse fill the screen with pools of black so deep that simply waiting to discover what might emerge from them becomes almost unbearable, while the soundtrack makes every footstep and distant noise feel potentially significant.\n\nAt barely over an hour, THE LEOPARD MAN is lean enough to qualify as pure pulp and strange enough to continually escape its own premise. Beneath the mystery runs the fatalism of Woolrich and Lewton’s fascination with ordinary lives brushing unexpectedly against the unknown, all expressed through filmmaking of extraordinary economy and precision. Manny Farber was already championing it as one of Hollywood’s “original gems” in the early 1950s, and its nocturnal spell has only grown stronger with time. A street, a shadow, a sound in the distance: few horror films have ever needed less to make the darkness feel dangerous.",
-   "runtime": 66,
-   "year": 1943,
-   "director": "Jacques Tourneur",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1789695841818-tb-leopardman.jpg",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/the-leopard-man"
-   }
-  },
-  {
    "id": "life-we-leave",
    "title": "The Life We Leave",
    "description": "Micah Truman has been at the forefront of shaping the market for legal human composting in Washington State. Formerly a businessman outside of the death industry, he brings on funeral directors Katey Houston and Brie Smith to workshop the humanity that is revealed when death is raw. The team paves the way in revolutionizing the future of death care by renouncing outdated funeral practices and returning to human roots of community care during the transition at the end of life. Truman creates a facility to naturalize the process, where bodies can be broken down into soil. The merger of business pitches and financial feasibility cracks open the basis of loss and grief in an extractive world to facilitate delicate and empathetic care. JJ Gerber's directorial debut accesses the transformative power of the evolving death industry at its most human.\n\n—Aly Shwedo\n\n“Gerber’s film makes one consider that how we leave this world may matter less than what we choose to leave behind. Is death an ending, or merely a continuation?” – Mike Ward, Should I See It",
@@ -1941,6 +1933,8 @@
    "runtime": 86,
    "year": 1992,
    "director": "Brian Henson",
+   "country": "United States",
+   "language": "English",
    "rating": "G",
    "genres": [
     "Music",
@@ -2378,7 +2372,7 @@
    "id": "you-can-see-everything",
    "title": "You Can See Everything",
    "description": "Thirty-four days before she’s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss. From boundary-pushing directors Nathan Fielder and Lance Oppenheim comes You Can See Everything.",
-   "runtime": 175,
+   "runtime": 174,
    "year": 2026,
    "director": "Nathan Fielder, Lance Oppenheim",
    "country": "USA",
@@ -2445,254 +2439,6 @@
   }
  ],
  "showings": [
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-11-02T15:00:00-08:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36589?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-11-02T15:15:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17241/793"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-11-02T15:15:00-08:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36590?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-11-02T15:20:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17244/800"
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-11-02T15:30:00-08:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36591?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-11-02T15:30:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-H7meuENqsi"
-  },
-  {
-   "film": "wildwood",
-   "theater": "admiral",
-   "start": "2026-11-02T15:35:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17247/797"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-11-02T15:40:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17238/794"
-  },
-  {
-   "film": "hocus-pocus",
-   "theater": "central-cinema",
-   "start": "2026-11-02T16:00:00-08:00",
-   "url": "https://central-cinema.com/movie/hocus-pocus/",
-   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080466",
-   "notes": [
-    "Family"
-   ]
-  },
-  {
-   "film": "fatherland",
-   "theater": "siff-uptown",
-   "start": "2026-11-02T16:15:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
-   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-s7GIWUB4Ov"
-  },
-  {
-   "film": "leopard-man",
-   "theater": "beacon",
-   "start": "2026-11-02T16:30:00-08:00",
-   "url": "https://thebeacon.film/calendar/movie/the-leopard-man",
-   "tickets": "https://thebeacon.film/calendar/movie/the-leopard-man?showtime=SB5NFQFPBBH3NYKYNYDJTN3X"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-11-02T16:30:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-DRpxCpB6fr"
-  },
-  {
-   "film": "wicker",
-   "theater": "tasveer",
-   "start": "2026-11-02T17:30:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/wicker",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wicker/4226392"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-11-02T18:00:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17242/793"
-  },
-  {
-   "film": "kwaidan",
-   "theater": "siff-downtown",
-   "start": "2026-11-02T18:00:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/kwaidan",
-   "tickets": "https://www.siff.net/cinema/in-theaters/kwaidan#screening-BUWteyTJHM"
-  },
-  {
-   "film": "only-living-pickpocket-in-new-york",
-   "theater": "tasveer",
-   "start": "2026-11-02T18:00:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4178078"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-11-02T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17239/794"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-11-02T18:30:00-08:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36592?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
-   "theater": "nwff",
-   "start": "2026-11-02T18:30:00-08:00",
-   "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6ad50da1b3e7c982205157c3"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-11-02T18:40:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17236/795"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-11-02T18:45:00-08:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36593?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-11-02T18:45:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-IW8xygMO8o"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "tasveer",
-   "start": "2026-11-02T18:45:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178075"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-11-02T19:00:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17245/800"
-  },
-  {
-   "film": "hocus-pocus",
-   "theater": "central-cinema",
-   "start": "2026-11-02T19:00:00-08:00",
-   "url": "https://central-cinema.com/movie/hocus-pocus/",
-   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080467",
-   "notes": [
-    "Family"
-   ]
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-11-02T19:00:00-08:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36594?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "foragers",
-   "theater": "nwff",
-   "start": "2026-11-02T19:00:00-08:00",
-   "url": "https://nwfilmforum.org/films/palestine-cinema-days-2026-foragers/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6ad11b002d42323c6b6822b4"
-  },
-  {
-   "film": "two-lane-blacktop",
-   "theater": "siff-film-center",
-   "start": "2026-11-02T19:00:00-08:00",
-   "url": "https://www.siff.net/programs-and-events/the-open-road/two-lane-blacktop",
-   "tickets": "https://www.siff.net/programs-and-events/the-open-road/two-lane-blacktop#screening-3xV7vplVrd",
-   "notes": [
-    "The Open Road",
-    "35mm"
-   ]
-  },
-  {
-   "film": "artists-and-models",
-   "theater": "beacon",
-   "start": "2026-11-02T19:30:00-08:00",
-   "url": "https://thebeacon.film/calendar/movie/artists-and-models",
-   "tickets": "https://thebeacon.film/calendar/movie/artists-and-models?showtime=I2MVKEOXLP5F5TUPBIWD2ZSH"
-  },
-  {
-   "film": "fatherland",
-   "theater": "siff-uptown",
-   "start": "2026-11-02T19:30:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
-   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-QNWsB0KMnE"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-11-02T19:45:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-WGeX5THjNE"
-  },
-  {
-   "film": "wicker",
-   "theater": "tasveer",
-   "start": "2026-11-02T19:50:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/wicker",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wicker/4226391"
-  },
-  {
-   "film": "only-living-pickpocket-in-new-york",
-   "theater": "tasveer",
-   "start": "2026-11-02T20:05:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4178077"
-  },
-  {
-   "film": "a-nightmare-on-elm-street",
-   "theater": "central-cinema",
-   "start": "2026-11-02T21:30:00-08:00",
-   "url": "https://central-cinema.com/movie/a-nightmare-on-elm-street/",
-   "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080567"
-  },
   {
    "film": "you-can-see-everything",
    "theater": "majestic-bay",
@@ -3225,6 +2971,27 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-05T15:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36653?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-05T15:15:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36549?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-11-05T15:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36654?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-11-05T15:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
@@ -3283,6 +3050,13 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4178090"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-05T18:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36550?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "majestic-bay",
    "start": "2026-11-05T18:45:00-08:00",
@@ -3302,6 +3076,13 @@
    "start": "2026-11-05T18:45:00-08:00",
    "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178088"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-05T19:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36551?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "godzilla-minus-zero",
@@ -3391,6 +3172,13 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4178089"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-06T15:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36665?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "north-bend",
    "start": "2026-11-06T15:00:00-08:00",
@@ -3402,7 +3190,14 @@
    "theater": "majestic-bay",
    "start": "2026-11-06T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36568?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "tickets": "https://ticketing.us.veezi.com/purchase/36666?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-11-06T15:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36567?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "you-can-see-everything",
@@ -3464,11 +3259,25 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-eAvxIPQusn"
   },
   {
+   "film": "only-living-pickpocket-in-new-york",
+   "theater": "tasveer",
+   "start": "2026-11-06T17:10:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4237707"
+  },
+  {
    "film": "fatherland",
    "theater": "siff-film-center",
    "start": "2026-11-06T18:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/fatherland",
    "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-JRPwWxAHxx"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-06T18:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36672?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
@@ -3482,7 +3291,7 @@
    "theater": "majestic-bay",
    "start": "2026-11-06T18:45:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36570?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "tickets": "https://ticketing.us.veezi.com/purchase/36671?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "you-can-see-everything",
@@ -3503,6 +3312,13 @@
    "start": "2026-11-06T19:00:00-08:00",
    "url": "https://central-cinema.com/movie/tampopo/",
    "tickets": "https://central-cinema.com/checkout/showing/tampopo/4180376"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-06T19:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36571?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "godzilla-minus-zero",
@@ -3537,6 +3353,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-Y1DbuI3YgY"
   },
   {
+   "film": "fjord",
+   "theater": "tasveer",
+   "start": "2026-11-06T19:20:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/fjord",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237703"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-06T19:30:00-08:00",
@@ -3564,6 +3387,13 @@
    "url": "https://thebeacon.film/calendar/movie/secs-fest-2026"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-07T11:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36611?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "stffshorts-narrative-selection-1",
    "theater": "siff-uptown",
    "start": "2026-11-07T11:45:00-08:00",
@@ -3575,7 +3405,7 @@
    "theater": "majestic-bay",
    "start": "2026-11-07T12:00:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36607?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "tickets": "https://ticketing.us.veezi.com/purchase/36608?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "wild-horse-nine",
@@ -3583,6 +3413,13 @@
    "start": "2026-11-07T12:10:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
    "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-2MBSPPJjPC"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-11-07T12:15:00-08:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36674?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "godzilla-minus-zero",
@@ -3601,7 +3438,7 @@
   {
    "film": "stffshorts-narrative-selection-2",
    "theater": "siff-uptown",
-   "start": "2026-11-07T13:30:00-08:00",
+   "start": "2026-11-07T13:35:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/stffshorts-narrative-selection-2",
    "tickets": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/stffshorts-narrative-selection-2#screening-54M4NqgWDK"
   },
@@ -3620,6 +3457,13 @@
    "theater": "beacon",
    "start": "2026-11-07T15:00:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/secs-fest-2026"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-07T15:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36673?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "godzilla-minus-zero",
@@ -3644,7 +3488,7 @@
    "theater": "majestic-bay",
    "start": "2026-11-07T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36606?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "tickets": "https://ticketing.us.veezi.com/purchase/36609?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "you-can-see-everything",
@@ -3652,6 +3496,13 @@
    "start": "2026-11-07T15:15:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-fXaewhNchg"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-07T15:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36612?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
@@ -3728,6 +3579,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/seattle-turkish-film-festival-gala-film-party#screening-NKCpg9ySJF"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-07T18:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36610?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
    "theater": "nwff",
    "start": "2026-11-07T18:30:00-08:00",
@@ -3739,7 +3597,7 @@
    "theater": "majestic-bay",
    "start": "2026-11-07T18:45:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36529?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "tickets": "http://tix.mvtx.us/noweb"
   },
   {
    "film": "you-can-see-everything",
@@ -3756,6 +3614,13 @@
    "tickets": "https://central-cinema.com/checkout/showing/tampopo/4180379"
   },
   {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-07T19:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36613?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-11-07T19:00:00-08:00",
@@ -3768,6 +3633,13 @@
    "start": "2026-11-07T19:10:00-08:00",
    "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237710"
+  },
+  {
+   "film": "fjord",
+   "theater": "tasveer",
+   "start": "2026-11-07T19:20:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/fjord",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237712"
   },
   {
    "film": "engauge-2026-rankin-renwick-solo-show",
@@ -3821,6 +3693,13 @@
    "url": "https://thebeacon.film/calendar/movie/secs-fest-2026"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-08T11:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36621?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-08T11:30:00-08:00",
@@ -3839,7 +3718,7 @@
    "theater": "majestic-bay",
    "start": "2026-11-08T12:00:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36615?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "tickets": "https://ticketing.us.veezi.com/purchase/36676?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "wild-horse-nine",
@@ -3847,6 +3726,13 @@
    "start": "2026-11-08T12:10:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
    "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-8N9osWS8Th"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-11-08T12:15:00-08:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36675?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "you-can-see-everything",
@@ -3893,6 +3779,13 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4237715"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-08T15:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36677?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "vagabond",
    "theater": "nwff",
    "start": "2026-11-08T15:00:00-08:00",
@@ -3911,7 +3804,7 @@
    "theater": "majestic-bay",
    "start": "2026-11-08T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36616?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "tickets": "https://ticketing.us.veezi.com/purchase/36678?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "you-can-see-everything",
@@ -3919,6 +3812,13 @@
    "start": "2026-11-08T15:15:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-OvhAifkhDL"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-08T15:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36622?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
@@ -3969,6 +3869,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-t0bcYXUOqr"
   },
   {
+   "film": "fjord",
+   "theater": "tasveer",
+   "start": "2026-11-08T16:35:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/fjord",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237718"
+  },
+  {
    "film": "5point-film-fest-2026",
    "theater": "north-bend",
    "start": "2026-11-08T17:00:00-08:00",
@@ -4001,6 +3908,13 @@
    "tickets": "https://www.siff.net/festival/salvation#screening-C6r9m7olTc"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-08T18:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36679?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
    "theater": "nwff",
    "start": "2026-11-08T18:30:00-08:00",
@@ -4019,7 +3933,7 @@
    "theater": "majestic-bay",
    "start": "2026-11-08T18:45:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36617?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "tickets": "https://ticketing.us.veezi.com/purchase/36680?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "tampopo",
@@ -4027,6 +3941,13 @@
    "start": "2026-11-08T19:00:00-08:00",
    "url": "https://central-cinema.com/movie/tampopo/",
    "tickets": "https://central-cinema.com/checkout/showing/tampopo/4180382"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-08T19:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36623?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "you-can-see-everything",
@@ -4057,11 +3978,25 @@
    "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180381"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-09T15:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36667?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "majestic-bay",
    "start": "2026-11-09T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36625?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "tickets": "https://ticketing.us.veezi.com/purchase/36668?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-11-09T15:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36626?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "wild-horse-nine",
@@ -4120,6 +4055,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-vUshAwjbZg"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-09T18:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36669?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "discreet-charm-of-the-bourgeoisie",
    "theater": "siff-uptown",
    "start": "2026-11-09T18:30:00-08:00",
@@ -4134,7 +4076,7 @@
    "theater": "majestic-bay",
    "start": "2026-11-09T18:45:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36628?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "tickets": "https://ticketing.us.veezi.com/purchase/36670?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "you-can-see-everything",
@@ -4142,6 +4084,13 @@
    "start": "2026-11-09T18:45:00-08:00",
    "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4237724"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-09T19:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36629?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "vagabond",
@@ -4163,6 +4112,13 @@
    "start": "2026-11-09T19:15:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-0tSnlZNNpR"
+  },
+  {
+   "film": "fjord",
+   "theater": "tasveer",
+   "start": "2026-11-09T19:20:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/fjord",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237723"
   },
   {
    "film": "symbiopsycho-taxiplasm-take-one",
@@ -4200,11 +4156,25 @@
    "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180384"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-10T15:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36661?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "majestic-bay",
    "start": "2026-11-10T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36630?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-11-10T15:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36663?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "you-can-see-everything",
@@ -4242,6 +4212,13 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4237726"
   },
   {
+   "film": "fjord",
+   "theater": "tasveer",
+   "start": "2026-11-10T16:10:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/fjord",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237729"
+  },
+  {
    "film": "wicker",
    "theater": "siff-uptown",
    "start": "2026-11-10T16:20:00-08:00",
@@ -4270,6 +4247,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-GhCt9BRWxR"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-10T18:30:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36662?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "majestic-bay",
    "start": "2026-11-10T18:45:00-08:00",
@@ -4289,6 +4273,13 @@
    "start": "2026-11-10T19:00:00-08:00",
    "url": "https://central-cinema.com/movie/tampopo/",
    "tickets": "https://central-cinema.com/checkout/showing/tampopo/4180387"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-10T19:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36664?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "vagabond",
@@ -4370,16 +4361,37 @@
   {
    "film": "godzilla-minus-zero",
    "theater": "majestic-bay",
-   "start": "2026-11-11T12:00:00-08:00",
+   "start": "2026-11-11T11:30:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36559?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "tickets": "https://ticketing.us.veezi.com/purchase/36658?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wicker",
+   "theater": "majestic-bay",
+   "start": "2026-11-11T11:45:00-08:00",
+   "url": "https://www.majesticbay.com/movies/322884-wicker/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36659?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-11T14:45:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36657?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "godzilla-minus-zero",
    "theater": "majestic-bay",
-   "start": "2026-11-11T15:30:00-08:00",
+   "start": "2026-11-11T15:00:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36552?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+   "tickets": "https://ticketing.us.veezi.com/purchase/36656?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "majestic-bay",
+   "start": "2026-11-11T15:15:00-08:00",
+   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36660?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "you-can-see-everything",
@@ -4438,11 +4450,25 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4237734"
   },
   {
+   "film": "fjord",
+   "theater": "tasveer",
+   "start": "2026-11-11T16:40:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/fjord",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237735"
+  },
+  {
    "film": "fatherland",
    "theater": "siff-film-center",
    "start": "2026-11-11T17:15:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/fatherland",
    "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-Mkfue2el6l"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "majestic-bay",
+   "start": "2026-11-11T18:15:00-08:00",
+   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36554?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
    "film": "godzilla-minus-zero",
@@ -4582,6 +4608,13 @@
    "notes": [
     "Free admission"
    ]
+  },
+  {
+   "film": "fjord",
+   "theater": "tasveer",
+   "start": "2026-11-12T17:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/fjord",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237741"
   },
   {
    "film": "you-can-see-everything",
@@ -5236,6 +5269,16 @@
    "start": "2026-11-19T18:30:00-08:00",
    "url": "https://nwfilmforum.org/films/sfcs-10-witch/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6a2b2579131d16ec79c765e7"
+  },
+  {
+   "film": "seattle-film-society-presents-locals-only-november-2026",
+   "theater": "nwff",
+   "start": "2026-11-19T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-november-2026/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6aea327aa4a6973a3f52998f",
+   "notes": [
+    "Visiting artist"
+   ]
   },
   {
    "film": "wild-boys-of-the-road",
@@ -5905,6 +5948,7 @@
    "theater": "nwff",
    "start": "2026-12-02T19:00:00-08:00",
    "url": "https://nwfilmforum.org/films/seattle-lgbtq-center-presents-we-were-here/",
+   "tickets": "https://givebutter.com/c/WorldAidsDay26",
    "notes": [
     "With Center Presents: We Were Here"
    ]
@@ -6182,6 +6226,33 @@
    "theater": "beacon",
    "start": "2026-12-07T19:30:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/blindfold"
+  },
+  {
+   "film": "muppet-christmas-carol",
+   "theater": "central-cinema",
+   "start": "2026-12-08T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/the-muppet-christmas-carol/",
+   "tickets": "https://central-cinema.com/checkout/showing/the-muppet-christmas-carol/4248393",
+   "notes": [
+    "Family"
+   ]
+  },
+  {
+   "film": "raise-the-red-lantern",
+   "theater": "beacon",
+   "start": "2026-12-08T16:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/raise-the-red-lantern",
+   "tickets": "https://thebeacon.film/calendar/movie/raise-the-red-lantern?showtime=XWPBHIQKNMDDM4Z7GOSRGV2S"
+  },
+  {
+   "film": "muppet-christmas-carol",
+   "theater": "central-cinema",
+   "start": "2026-12-08T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/the-muppet-christmas-carol/",
+   "tickets": "https://central-cinema.com/checkout/showing/the-muppet-christmas-carol/4248394",
+   "notes": [
+    "Family"
+   ]
   }
  ]
 }
