@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T12:05:00-08:00",
+ "updated": "2026-11-04T12:24:00-08:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,10 +14,10 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-11-03T12:05:00-08:00",
-    "lastSuccess": "2026-11-03T12:05:00-08:00",
-    "showings": 23,
-    "through": "2026-11-15"
+    "checked": "2026-11-04T12:24:00-08:00",
+    "lastSuccess": "2026-11-04T12:24:00-08:00",
+    "showings": 46,
+    "through": "2026-11-24"
    }
   },
   {
@@ -33,10 +33,10 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-11-03T12:05:00-08:00",
-    "lastSuccess": "2026-11-03T12:05:00-08:00",
-    "showings": 91,
-    "through": "2026-12-07"
+    "checked": "2026-11-04T12:24:00-08:00",
+    "lastSuccess": "2026-11-04T12:24:00-08:00",
+    "showings": 86,
+    "through": "2026-12-09"
    }
   },
   {
@@ -52,8 +52,8 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-11-03T12:05:00-08:00",
-    "lastSuccess": "2026-11-03T12:05:00-08:00",
+    "checked": "2026-11-04T12:24:00-08:00",
+    "lastSuccess": "2026-11-04T12:24:00-08:00",
     "showings": 31,
     "through": "2026-11-29"
    }
@@ -70,9 +70,9 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-11-03T12:05:00-08:00",
-    "lastSuccess": "2026-11-03T12:05:00-08:00",
-    "showings": 4,
+    "checked": "2026-11-04T12:24:00-08:00",
+    "lastSuccess": "2026-11-04T12:24:00-08:00",
+    "showings": 3,
     "through": "2026-11-21"
    }
   },
@@ -88,10 +88,10 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-11-03T12:05:00-08:00",
-    "lastSuccess": "2026-11-03T12:05:00-08:00",
+    "checked": "2026-11-04T12:24:00-08:00",
+    "lastSuccess": "2026-11-04T12:24:00-08:00",
     "showings": 70,
-    "through": "2026-12-06"
+    "through": "2026-12-09"
    }
   },
   {
@@ -107,9 +107,9 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-11-03T12:05:00-08:00",
-    "lastSuccess": "2026-11-03T12:05:00-08:00",
-    "showings": 74,
+    "checked": "2026-11-04T12:24:00-08:00",
+    "lastSuccess": "2026-11-04T12:24:00-08:00",
+    "showings": 86,
     "through": "2026-12-08"
    }
   },
@@ -126,9 +126,9 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-11-03T12:05:00-08:00",
-    "lastSuccess": "2026-11-03T12:05:00-08:00",
-    "showings": 56,
+    "checked": "2026-11-04T12:24:00-08:00",
+    "lastSuccess": "2026-11-04T12:24:00-08:00",
+    "showings": 57,
     "through": "2026-12-08"
    }
   },
@@ -145,9 +145,9 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-11-03T12:05:00-08:00",
-    "lastSuccess": "2026-11-03T12:05:00-08:00",
-    "showings": 51,
+    "checked": "2026-11-04T12:24:00-08:00",
+    "lastSuccess": "2026-11-04T12:24:00-08:00",
+    "showings": 46,
     "through": "2026-11-12"
    }
   },
@@ -164,10 +164,10 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-11-03T12:05:00-08:00",
-    "lastSuccess": "2026-11-03T12:05:00-08:00",
-    "showings": 64,
-    "through": "2026-11-25"
+    "checked": "2026-11-04T12:24:00-08:00",
+    "lastSuccess": "2026-11-04T12:24:00-08:00",
+    "showings": 60,
+    "through": "2026-12-09"
    }
   },
   {
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-11-03T12:05:00-08:00",
-    "lastSuccess": "2026-11-03T12:05:00-08:00",
-    "showings": 20,
+    "checked": "2026-11-04T12:24:00-08:00",
+    "lastSuccess": "2026-11-04T12:24:00-08:00",
+    "showings": 202,
     "through": "2026-12-05"
    }
   },
@@ -201,8 +201,8 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-11-03T12:05:00-08:00",
-    "lastSuccess": "2026-11-03T12:05:00-08:00",
+    "checked": "2026-11-04T12:24:00-08:00",
+    "lastSuccess": "2026-11-04T12:24:00-08:00",
     "showings": 0
    }
   },
@@ -219,8 +219,8 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-11-03T12:05:00-08:00",
-    "lastSuccess": "2026-11-03T12:05:00-08:00",
+    "checked": "2026-11-04T12:24:00-08:00",
+    "lastSuccess": "2026-11-04T12:24:00-08:00",
     "showings": 13,
     "through": "2026-11-29"
    }
@@ -636,6 +636,59 @@
    }
   },
   {
+   "id": "dune",
+   "title": "Dune",
+   "description": "A mythic and emotionally charged hero's journey, Dune tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential only those who can conquer their fear will survive.",
+   "runtime": 156,
+   "year": 2021,
+   "director": "Denis Villeneuve",
+   "rating": "PG-13",
+   "genres": [
+    "Science fiction",
+    "Drama"
+   ],
+   "image": "https://all.web.img.acsta.net/img/c4/10/c4103e4a86105cb70ce78713bd69e3d0.jpg",
+   "links": {
+    "majestic-bay": "https://www.majesticbay.com/movies/133392-dune/"
+   }
+  },
+  {
+   "id": "eating-raoul",
+   "title": "Eating Raoul",
+   "description": "A sleeper hit of the early 1980s, Eating Raoul is a bawdy, gleefully amoral tale of conspicuous consumption.\n\nWarhol superstar Mary Woronov and cult legend Paul Bartel (who also directed) portray a prudish married couple who feel put upon by swingers living in their apartment building. One night, by accident, they discover a way to simultaneously rid themselves of the \"perverts\" down the hall and realize their dream of opening a restaurant.\n\nA mix of slapstick and satire, Eating Raoul serves its dark humor with an upbeat attitude and is a great addition to our month of Food and Family at Central Cinema.",
+   "runtime": 87,
+   "year": 1982,
+   "director": "Paul Bartel",
+   "country": "United States",
+   "language": "English",
+   "rating": "R",
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "image": "https://indy-systems.imgix.net/6zyqcypqyc4unc2wsasiwzo3ixj1?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
+   "links": {
+    "central-cinema": "https://central-cinema.com/movie/eating-raoul/"
+   }
+  },
+  {
+   "id": "ebenezer",
+   "title": "Ebenezer",
+   "description": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+   "runtime": 120,
+   "year": 2026,
+   "director": "Ti West",
+   "rating": "PG-13",
+   "genres": [
+    "Fantasy",
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w300/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+   "links": {
+    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer"
+   }
+  },
+  {
    "id": "elisa",
    "title": "Elisa",
    "description": "Elisa, thirty-five, has been in prison for ten years, convicted of killing her older sister without apparent motive and burning her body. She claims to remember little to nothing of the crime, as if she had drawn a veil of silence between herself and the past. But when she decides to meet with criminologist Alaoui and take part in his research, in a tense and relentless dialogue memories begin to take shape, and in the pain of fully accepting her guilt, Elisa glimpses, perhaps, the first step toward a possible redemption.",
@@ -870,12 +923,16 @@
    "language": "Japanese",
    "rating": "R",
    "genres": [
-    "Science fiction"
+    "Science fiction",
+    "Science Fiction",
+    "Horror",
+    "Action"
    ],
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_GodzillaMinusZero_1600x900.png",
    "links": {
     "siff-downtown": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
     "majestic-bay": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
+    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
     "north-bend": "https://tix.northbendtheatre.com/event/godzilla-minus-zero-thursday-nov-5th-7pm"
    }
   },
@@ -891,6 +948,25 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/REN_HerSong_1600x900.png",
    "links": {
     "siff-film-center": "https://www.siff.net/cinema/in-theaters/her-song"
+   }
+  },
+  {
+   "id": "hexed",
+   "title": "Hexed",
+   "description": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+   "runtime": 119,
+   "year": 2026,
+   "director": "Jason Hand, Fawn Veerasunthorn",
+   "rating": "PG",
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Family",
+    "Fantasy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/dZVHrtaZa5MsuPc4gW72e3S9bii.jpg",
+   "links": {
+    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed"
    }
   },
   {
@@ -941,6 +1017,23 @@
    "image": "https://image.tmdb.org/t/p/w300/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
    "links": {
     "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/its-a-wonderful-life-1946-west-seattle-food-bank-drive"
+   }
+  },
+  {
+   "id": "jimmy",
+   "title": "Jimmy",
+   "description": "A look into the life of American actor James Stewart, whose inspiring tale of valor, purpose and faith will win over everyone.",
+   "runtime": 130,
+   "year": 2026,
+   "director": "Aaron Burns",
+   "rating": "PG-13",
+   "genres": [
+    "Drama",
+    "History"
+   ],
+   "image": "https://image.tmdb.org/t/p/w300/c3fWnsg5VEP5EhYZ4oY2NpFrrU1.jpg",
+   "links": {
+    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy"
    }
   },
   {
@@ -1026,6 +1119,25 @@
    }
   },
   {
+   "id": "legend",
+   "title": "Legend",
+   "description": "Set in a timeless mythical forest inhabited by fairies, goblins, unicorns and mortals, this fantastic story follows a mystical forest dweller, chosen by fate, to undertake a heroic quest. He must save the beautiful Princess Lili and defeat the demonic Lord of Darkness (a perfectly cast Tim Curry), or the world will be plunged into a never-ending ice age.\n\nRidley Scott's fantasy may be the perfect film for Cinemancy. While undeniably beautiful, there's plenty to debate and discuss, including \"would you rather: Tom Cruise or Demonic Tim Curry\" edition.\n\nThis is the original theatrical cut with the Tangerine Dream score.",
+   "runtime": 94,
+   "year": 1985,
+   "director": "Ridley Scott",
+   "country": "United Kingdom",
+   "language": "English",
+   "rating": "PG",
+   "genres": [
+    "Adventure",
+    "Fantasy"
+   ],
+   "image": "https://indy-systems.imgix.net/h4rs9jw3dbrtrchsf710cmucnpnr?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
+   "links": {
+    "central-cinema": "https://central-cinema.com/movie/cinemancy-legend/"
+   }
+  },
+  {
    "id": "live-comedy-december-2026",
    "title": "Live Comedy (December 2026)",
    "description": "The Disabled List, produced and hosted by local comedians Dan Hurwitz and Kayla Brown, takes place bimonthly at Northwest Film Forum in Seattle, WA.\n\nThe Disabled List is a collective of disabled comedians that has been performing in and around Seattle since 2018. In 2021, we produced a short film, the award-eligible This Is Spinal Injury, that debuted at Northwest Film Forum’s Local Sightings Film Festival and was screened at several other film festivals throughout the state.\n\nThis live comedy show features Brown, Hurwitz, and an ever-changing cast of fellow local comedians!\n\nDecember 2026's Lineup is TBA!",
@@ -1098,17 +1210,6 @@
    }
   },
   {
-   "id": "met-opera-2026-2027-carmen",
-   "title": "Met Opera 2026/2027: Carmen",
-   "description": "Richard Eyre’s beloved production of Bizet’s masterpiece returns to theaters, led by mezzo-soprano Elīna Garanča as the title character and tenor Roberto Alagna as Don José in the indelible 2010 Met performance—a fan favorite of The Met: Live in HD series. Yannick Nézet-Séguin conducts in his company-debut season.",
-   "runtime": 180,
-   "rating": "G",
-   "image": "https://media.mobilemoviegoing.com/CustomOneSheets/1789507185_carmen.jpg",
-   "links": {
-    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/met-opera-20262027-carmen-encore"
-   }
-  },
-  {
    "id": "met-opera-2026-2027-samson-et-dalila",
    "title": "Met Opera 2026/2027: Samson et Dalila",
    "description": "Sacred, scandalous, and irresistibly alluring, Saint-Saëns’s spectacular take on the biblical hero of legendary strength and the seductive Philistine whose beauty overpowers him returns in the Met’s larger-than-life production. Featuring a massive orchestra and chorus and some of opera’s most spellbinding tunes, this masterpiece of French grand opera is a feast for the eyes and ears. Giacomo Sagripanti conducts an electrifying cast led by the formidable star pairing of mezzo-soprano Aigul Akhmetshina and tenor Clay Hilley, transmitted live to cinemas worldwide.",
@@ -1117,6 +1218,33 @@
    "image": "https://media.mobilemoviegoing.com/CustomOneSheets/1789506576_samson.jpg",
    "links": {
     "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/met-opera-20262027-samson-et-dalila"
+   }
+  },
+  {
+   "id": "moonlight",
+   "title": "Moonlight",
+   "description": "A timeless story of human connection and self-discovery, Moonlight chronicles the life of a young black man from childhood to adulthood as he struggles to find his place in the world while growing up in a rough neighborhood of Miami. At once a vital portrait of contemporary African-American life and an intensely personal and poetic meditation on identity, family, friendship, and love, Moonlight is a groundbreaking piece of cinema that reverberates with deep compassion and universal truths. Anchored by extraordinary performances from a tremendous ensemble cast, Barry Jenkins’s staggering, singular vision is profoundly moving in its portrayal of the moments, people, and unknowable forces that shape our lives and make us who we are.",
+   "runtime": 111,
+   "year": 2016,
+   "director": "Barry Jenkins",
+   "country": "United States",
+   "language": "English",
+   "image": "https://nwfilmforum.org/wp-content/uploads/2026/06/moonlight1600-1-1200x675.png",
+   "links": {
+    "nwff": "https://nwfilmforum.org/films/sfcs-10-moonlight/"
+   }
+  },
+  {
+   "id": "mountains-on-stage-winter-edition-2026",
+   "title": "Mountains on Stage - Winter Edition 2026",
+   "description": "Mountains on Stage is an international mountain film festival showcasing a selection of inspiring adventure, climbing, skiing, mountaineering, and outdoor films. Each screening features several short and medium-length documentaries celebrating exploration, human achievement, and the natural world.",
+   "runtime": 195,
+   "year": 2026,
+   "country": "France",
+   "language": "English and French",
+   "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/REN_MountainsonStage26WinterNEW_1600x900.png",
+   "links": {
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/mountains-on-stage-winter-edition-2026"
    }
   },
   {
@@ -1216,15 +1344,6 @@
    }
   },
   {
-   "id": "open-arthouse-meet-the-staff",
-   "title": "Open Arthouse: Meet the Staff!",
-   "description": "It's been a while! The last few years, there have been a lot of changes at the Forum, most notably the makeup of our staff!\n\nTo kick off our new series of events, Open Arthouse, we invite you to come by the Forum from 5:30-7:30 to mix, mingle, and meet the staff. Get to know the people who are keeping the lights on and making sure you're given some of the best films the city has to offer, and meet your other fellow film lovers!\n\nAttendance is free, drinks will be at happy hour prices all night, and maybe we have another event to announce in-person ;)",
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/102126_MeettheStaffORANGE-02-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/events/open-arthouse-meet-the-nwff-staff/"
-   }
-  },
-  {
    "id": "perdita-durango",
    "title": "Perdita Durango",
    "description": "Somewhere beyond David Lynch's WILD AT HEART lies PERDITA DURANGO, Álex de la Iglesia's spectacularly disreputable take on the American mythology of lovers on the run. Here, romantic devotion is measured in the trail of bodies left behind. Adapted from a novel by Barry Gifford, whose characters also inhabit Lynch's film, this deranged collision of outlaw romance, black comedy, and occult horror ventures into territory few filmmakers would dare approach. Even at its most appalling, the film maintains an exuberance that makes it difficult to know whether to laugh or recoil.\n\nRosie Perez plays Perdita, a ferocious outlaw who finds her soulmate in Romeo Dolorosa (Javier Bardem), a grinning criminal and self-styled sorcerer with a taste for human sacrifice. Together they embark on a cross-border crime spree involving two kidnapped American teenagers and a series of grotesque rituals. Perez and Bardem are sensational together, bringing an almost indecent amount of sexual energy to their shared appetite for destruction. Their performances give the film its reckless momentum, while the collision of Mexican folk religion and American pop culture lends the proceedings a particularly bizarre flavor. Long butchered for American distribution, PERDITA DURANGO also features James Gandolfini as a federal agent investigating the smuggling of a truckload of human fetuses, a detail that should give you some idea of what you're getting into.",
@@ -1248,6 +1367,24 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Nouvelles%20Femmes/CIN_PierrotLeFou_1600x900.png",
    "links": {
     "siff-uptown": "https://www.siff.net/programs-and-events/nouvelles-femmes/pierrot-le-fou"
+   }
+  },
+  {
+   "id": "planes-trains-and-automobiles",
+   "title": "Planes, Trains and Automobiles",
+   "description": "Steve Martin and John Candy headline this Thanksgiving classic about a mismatched pair working together to get home in time for Turkey Day.\n\nWritten and directed by John Hughes.",
+   "runtime": 92,
+   "year": 1987,
+   "director": "John Hughes",
+   "country": "United States",
+   "language": "English",
+   "rating": "R",
+   "genres": [
+    "Comedy"
+   ],
+   "image": "https://indy-systems.imgix.net/q8exjlat6ff4s1rb6ptqzrpvy4jf?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
+   "links": {
+    "central-cinema": "https://central-cinema.com/movie/planes-trains-and-automobiles/"
    }
   },
   {
@@ -1446,6 +1583,18 @@
    }
   },
   {
+   "id": "sansho-the-bailiff",
+   "title": "Sansho the Bailiff",
+   "description": "When an idealistic governor disobeys the reigning feudal lord, he is cast into exile, his wife and children left to fend for themselves and eventually wrenched apart by vicious slave traders.\n\nFrom this terrible predicament, Mizoguchi creates one of cinema’s most transporting experiences. His images have a beauty you can almost take shelter in, until you realize how much pain they hold. An entire social order bears down on these lives, yet the film stays close enough to make a single act of kindness feel immense. One of the greatest films ever made, SANSHO THE BAILIFF leaves you wondering how something projected on a screen could carry the weight of an entire human life.\n\n\"There’s a reason SANSHO THE BAILIFF is often greeted by critics and audiences with something akin to rapture: It’s a work that divorces the existential riddles of faith from regimented dogma, favoring instead the practical challenges, contradictions, and ambiguities of life as it’s often lived.\" - Chuck Bowen, Slant\n\n“I am in awe of one of the greatest filmmakers our world has known. Blending the exquisite precision of his indigenous culture with a universal Weltanschauung, this is one of Mizoguchi’s masterpieces; poetry and melancholy are one with him. The viewer who is not deeply moved by the final scene, the rigorous outcome of the preceding political and personal events, has a heart of stone.” - Eithne O’Neill, BFI",
+   "runtime": 124,
+   "year": 1954,
+   "director": "Kenji Mizoguchi",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1793658656734-tb-sanshothebailiff.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/sansho-the-bailiff"
+   }
+  },
+  {
    "id": "seattle-film-society-presents-locals-only-november-2026",
    "title": "Seattle Film Society Presents Locals Only: November 2026",
    "description": "SFS’s November Locals Only will be their FINAL Locals Only of 2026! They’ll be screening four their our FAVORITE local shorts they’ve screened this year. All four shorts will be introduced by the SFS Programmer that chose it, followed by a short Q&A between the filmmaker and the SFS Programmer. The four shorts included are:\n\n- THE JOURNAL by James Andrews: An American veteran of the Vietnam War returns a precious keepsake to the daughter of an enemy soldier, 50 years later. (12 Min) – Intro/Q&A by SFS Program Director Tommy Meisel\n\n- PRIVATE PARTY by Nate Fieldson: A lonely woman lists her car for sale in hopes of making some new friends. (10 min) – Intro/Q&A by SFS Programmer Shelby Smout\n\n- PUPPET MASTER PLAYTIME by Amy Harris: Found footage of a public-access children’s show whose sock puppet co-host undergoes a life-changing procedure at the hands of a crazed surgeon–spurred on by an immobile, psychic puppet. (8 min) – Intro/Q&A by SFS Programmer Patrick McFarland\n\n- what does it feel like to live inside a pomegranate? by Kamyar Mohsenin: A young woman discovers a giant pomegranate in the middle of the forest and decides to live inside it. (3 Min) – Into/Q&A by SFS Programmer Gracen Bayer.\n\nThis event is presented in partnership with the Northwest Film Forum. Join us for a screening and Q&A with drinks to follow at Linda’s Tavern! See ya at the movies!\n\nGraphics Credit: Janice Kim",
@@ -1470,6 +1619,25 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/wewerehere1600-5-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/seattle-lgbtq-center-presents-we-were-here/"
+   }
+  },
+  {
+   "id": "seattle-scare-society-chopping-mall",
+   "title": "Seattle Scare Society: Chopping Mall",
+   "description": "Seattle Scare Society brings you the perfect movie to prepare you for the holiday chopping shopping season.\n\nThe Park Plaza Mall just activated the latest in after-hours security; high tech robots sure to keep all the stores safe with (supposedly) non-lethal technology. But when an unfortunate lightning storm strikes the building, these robots go from keeping the peace to causing carnage. It sure would be an unfortunate night for a group of teens to throw a late night party in a furniture store, wouldn't it?\n\nPacked with familiar faces for B-movie fans (Dick Miller, Mary Woronov, Paul Bartel), this movie crams more slit throats, lasers, and exploding robots into 77 minutes than most filmmakers can muster in an entire career.\n\nCome early for Seattle Scare Society's signature pre-show fun!",
+   "runtime": 77,
+   "year": 1986,
+   "director": "Jim Wynorski",
+   "country": "United States",
+   "language": "English",
+   "rating": "R",
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "image": "https://indy-systems.imgix.net/9rz3vxr7kziryua94xkv1yjuqon6?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
+   "links": {
+    "central-cinema": "https://central-cinema.com/movie/seattle-scare-society-chopping-mall/"
    }
   },
   {
@@ -1610,6 +1778,22 @@
    "image": "https://all.web.img.acsta.net/img/3f/fc/3ffc57ae028bb936a170b2cbacc63eeb.jpg",
    "links": {
     "majestic-bay": "https://www.majesticbay.com/movies/79359-star-trek-iv-the-voyage-home/"
+   }
+  },
+  {
+   "id": "star-trek-first-contact",
+   "title": "Star Trek: First Contact",
+   "description": "Capt. Picard and his crew pursue the Borg back in time to stop them from preventing Earth from initiating first contact with alien life.",
+   "runtime": 112,
+   "year": 1996,
+   "director": "Jonathan Frakes",
+   "rating": "PG-13",
+   "genres": [
+    "Science fiction"
+   ],
+   "image": "https://all.web.img.acsta.net/img/f8/1e/f81ebae60499d5d8e2acab71e24bf295.jpg",
+   "links": {
+    "majestic-bay": "https://www.majesticbay.com/movies/4854-star-trek-first-contact/"
    }
   },
   {
@@ -1782,6 +1966,24 @@
    }
   },
   {
+   "id": "cat-in-the-hat",
+   "title": "The Cat in the Hat",
+   "description": "During a rainy day, and while their mother is out, Conrad and Sally, and their pet fish, are visited by the mischievous Cat in the Hat. Fun soon turns to mayhem, and the siblings must figure out how to rid themselves of the maniacal Cat.",
+   "runtime": 124,
+   "director": "Bo Welch",
+   "rating": "PG",
+   "genres": [
+    "Fantasy",
+    "Adventure",
+    "Family",
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/uYYLz67e5xEQMsY858VSSCDsLU6.jpg",
+   "links": {
+    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater"
+   }
+  },
+  {
    "id": "devils",
    "title": "The Devils",
    "description": "An enduring masterpiece of cinema starring Oliver Reed and Vanessa Redgrave, KEN RUSSELL’S THE DEVILS is a prescient epic of obsession and corruption –and a defining work of art from seminal filmmaker Ken Russell. KEN RUSSELL’S THE DEVILS is the uncut and unfiltered theatrical experience that Russell always envisioned – and the first time the film will be presented restored and in 4K.",
@@ -1845,6 +2047,24 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792698274279-tb-honeymoonkillers.jpg",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/the-honeymoon-killers"
+   }
+  },
+  {
+   "id": "hunger-games-sunrise-on-the-reaping",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "description": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+   "runtime": 158,
+   "year": 2026,
+   "director": "Francis Lawrence",
+   "rating": "PG-13",
+   "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+   ],
+   "image": "https://image.tmdb.org/t/p/w300/ffJaYMtB6v1TrvkyhCOqwqCKm0o.jpg",
+   "links": {
+    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping"
    }
   },
   {
@@ -2340,18 +2560,6 @@
    }
   },
   {
-   "id": "withdrawal",
-   "title": "Withdrawal",
-   "description": "Writer/director/editor Aaron Strand scheduled to join for an in-person intro and Q&A. Raw, unflinching, and surprisingly funny, WITHDRAWAL was shot on miniDV in Athens, GA for a budget of $60k and is a prime example of indie filmmaking at its finest.\n\nArtistic lovers Viv (Millie Rose Evans) and Jay (Brent Michal) are trapped in a vicious cycle of codependent heroin addiction. When Viv's wealthy parents hire an interventionist to take her to rehab, the couple decides to go it alone with nothing but a suboxone prescription and each other. All they have to do is survive one harrowing night of withdrawal. As the hours tick by, physical, mental, and emotional torments send them searching through fractured memories, trying to figure out where it all went wrong.\n\nWinner of a dozen awards on the festival circuit, including Best Feature/Best Director at the Art of Brooklyn Film Festival and Best Actress at the Kanazawa Film Festival.\n\nLocal Seattle filmmaker Matt Dy’s short “We’re All in This Together” will precede the feature.",
-   "runtime": 93,
-   "year": 2025,
-   "director": "Aaron Strand",
-   "image": "https://grandillusioncinema.org/wp-content/uploads/2026/09/withdrawal_poster_2026.png",
-   "links": {
-    "grand-illusion": "https://grandillusioncinema.org/film/withdrawal/"
-   }
-  },
-  {
    "id": "wto-99",
    "title": "Wto/99",
    "description": "From November 30th to December 3rd 1999, tens of thousands of people occupied the streets of downtown Seattle to make known their concerns about the existence of the World Trade Organization and its impacts on the environment, human rights, and labor in the largest protests against economic globalization the US has ever seen.\n\nThe protests brought together people from divergent sections of society—anarchists, environmentalists, labor unions, consumer protection advocates, pro-democracy groups, and even religious organizations.\n\nThese protestors gathered in direct action hoping to dissuade world leadership from continued support of the WTO and strived to focus the public’s attention to the kind of future the WTO would bring forth.\n\nBuilding from a thousand-hour archive, which includes more than 400 hours of never-before-seen footage, WTO’99 reanimates the ideological conflicts that drew thousands to the streets of Seattle in hopes for a better future. The film is an immersive visual artifact of a week that brought 40,000 people together to warn of environmental collapse, the vanishing middle class, and what the full inclusion of China in the World Trade Organization would mean for our collective future. The protesters—seen as a rabble-rousing nuisance at the time, yet appearing prophetic today—were met with extreme violence by a militarized police force, an all-too-fitting way to usher in a new century; one that is now defined by US failure to address climate change and increasing state aggression.",
@@ -2439,274 +2647,6 @@
   }
  ],
  "showings": [
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-11-03T15:00:00-08:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36595?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-11-03T15:15:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17278/793"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-11-03T15:15:00-08:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36597?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-11-03T15:20:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17276/800",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-11-03T15:30:00-08:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36599?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-11-03T15:30:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-SEdYQPJst7"
-  },
-  {
-   "film": "wildwood",
-   "theater": "admiral",
-   "start": "2026-11-03T15:35:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17272/797",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-11-03T15:40:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17274/794",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "hocus-pocus",
-   "theater": "central-cinema",
-   "start": "2026-11-03T16:00:00-08:00",
-   "url": "https://central-cinema.com/movie/hocus-pocus/",
-   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080468",
-   "notes": [
-    "Family"
-   ]
-  },
-  {
-   "film": "devils",
-   "theater": "siff-downtown",
-   "start": "2026-11-03T16:00:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-kqnkAbe6ni"
-  },
-  {
-   "film": "fatherland",
-   "theater": "siff-uptown",
-   "start": "2026-11-03T16:15:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
-   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-r3lZuLPHNp"
-  },
-  {
-   "film": "artists-and-models",
-   "theater": "beacon",
-   "start": "2026-11-03T16:30:00-08:00",
-   "url": "https://thebeacon.film/calendar/movie/artists-and-models",
-   "tickets": "https://thebeacon.film/calendar/movie/artists-and-models?showtime=WQDVW6TXQPVGLN3KUW5LLINR"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-11-03T16:30:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-CJugPINdxg"
-  },
-  {
-   "film": "open-arthouse-meet-the-staff",
-   "theater": "nwff",
-   "start": "2026-11-03T17:30:00-08:00",
-   "url": "https://nwfilmforum.org/events/open-arthouse-meet-the-nwff-staff/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6ada622b409ca70932fe4c51"
-  },
-  {
-   "film": "wicker",
-   "theater": "tasveer",
-   "start": "2026-11-03T17:30:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/wicker",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wicker/4226394",
-   "notes": [
-    "Open captions"
-   ]
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-11-03T18:00:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17279/793"
-  },
-  {
-   "film": "only-living-pickpocket-in-new-york",
-   "theater": "tasveer",
-   "start": "2026-11-03T18:00:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4178082",
-   "notes": [
-    "Open captions"
-   ]
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-11-03T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17275/794",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-11-03T18:30:00-08:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36596?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-11-03T18:40:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17273/795",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-11-03T18:45:00-08:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36598?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-11-03T18:45:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-Srpw3c6rXO"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "tasveer",
-   "start": "2026-11-03T18:45:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178080"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-11-03T19:00:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17277/800",
-   "notes": [
-    "This screening will have Open Captioned Subtitles"
-   ]
-  },
-  {
-   "film": "hocus-pocus",
-   "theater": "central-cinema",
-   "start": "2026-11-03T19:00:00-08:00",
-   "url": "https://central-cinema.com/movie/hocus-pocus/",
-   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080469",
-   "notes": [
-    "Family"
-   ]
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-11-03T19:00:00-08:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36600?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "withdrawal",
-   "theater": "grand-illusion",
-   "start": "2026-11-03T19:15:00-08:00",
-   "url": "https://grandillusioncinema.org/film/withdrawal/",
-   "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=658861~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
-  },
-  {
-   "film": "girl-can-t-help-it",
-   "theater": "beacon",
-   "start": "2026-11-03T19:30:00-08:00",
-   "url": "https://thebeacon.film/calendar/movie/the-girl-can-t-help-it",
-   "tickets": "https://thebeacon.film/calendar/movie/the-girl-can-t-help-it?showtime=K5IEA67QGJTLIUUCGMQIJXSX"
-  },
-  {
-   "film": "godzilla-minus-zero",
-   "theater": "siff-downtown",
-   "start": "2026-11-03T19:30:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
-   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-XcIH89siCo"
-  },
-  {
-   "film": "fatherland",
-   "theater": "siff-uptown",
-   "start": "2026-11-03T19:30:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
-   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-cNxrAiBkvx"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-11-03T19:45:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-qbs7sK9pux"
-  },
-  {
-   "film": "wicker",
-   "theater": "tasveer",
-   "start": "2026-11-03T19:50:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/wicker",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wicker/4226393"
-  },
-  {
-   "film": "only-living-pickpocket-in-new-york",
-   "theater": "tasveer",
-   "start": "2026-11-03T20:05:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4178081"
-  },
-  {
-   "film": "a-nightmare-on-elm-street",
-   "theater": "central-cinema",
-   "start": "2026-11-03T21:30:00-08:00",
-   "url": "https://central-cinema.com/movie/a-nightmare-on-elm-street/",
-   "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080568"
-  },
   {
    "film": "you-can-see-everything",
    "theater": "majestic-bay",
@@ -2888,7 +2828,7 @@
    "url": "https://www.majesticbay.com/movies/13022-star-trek-the-motion-picture/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36382?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
    "notes": [
-    "Special screening"
+    "Retro Night"
    ]
   },
   {
@@ -2971,6 +2911,13 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-05T15:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17268/793"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-11-05T15:00:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
@@ -2982,6 +2929,20 @@
    "start": "2026-11-05T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/296439-wildwood/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36549?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-05T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17336/803"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-05T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17338/814"
   },
   {
    "film": "wicker",
@@ -2996,6 +2957,13 @@
    "start": "2026-11-05T15:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-1a0rNoD1oB"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-05T15:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17271/797"
   },
   {
    "film": "godzilla-minus-zero",
@@ -3051,10 +3019,41 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-05T18:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17267/793"
+  },
+  {
+   "film": "jimmy",
+   "theater": "admiral",
+   "start": "2026-11-05T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17337/801",
+   "notes": [
+    "Special advance screening"
+   ]
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-11-05T18:30:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36550?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-05T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17339/814"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-05T18:45:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17340/803"
   },
   {
    "film": "godzilla-minus-zero",
@@ -3173,6 +3172,13 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-06T14:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17341/793"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-11-06T15:00:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
@@ -3193,6 +3199,20 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36666?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-06T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17397/803"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-06T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17344/814"
+  },
+  {
    "film": "wicker",
    "theater": "majestic-bay",
    "start": "2026-11-06T15:30:00-08:00",
@@ -3205,6 +3225,13 @@
    "start": "2026-11-06T15:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-sKTRs9j2Bm"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-06T15:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17348/797"
   },
   {
    "film": "fatherland",
@@ -3274,6 +3301,30 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-06T18:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17347/793"
+  },
+  {
+   "film": "jimmy",
+   "theater": "admiral",
+   "start": "2026-11-06T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17343/801",
+   "notes": [
+    "Special advance screening"
+   ]
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-06T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17346/803"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-11-06T18:30:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
@@ -3285,6 +3336,13 @@
    "start": "2026-11-06T18:30:00-08:00",
    "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
    "tickets": "https://nwfilmforum.eventive.org/films/6ab497317f3d15c987f06693"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-06T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17345/814"
   },
   {
    "film": "godzilla-minus-zero",
@@ -3374,6 +3432,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-x5W5Rdop6y"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-06T21:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17401/793"
+  },
+  {
    "film": "true-stories",
    "theater": "central-cinema",
    "start": "2026-11-06T21:30:00-08:00",
@@ -3401,6 +3466,20 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/stffshorts-narrative-selection-1#screening-Ov7j9te4jU"
   },
   {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-07T12:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17490/797"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-07T12:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17486/793"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "majestic-bay",
    "start": "2026-11-07T12:00:00-08:00",
@@ -3423,6 +3502,13 @@
   },
   {
    "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-07T12:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17489/814"
+  },
+  {
+   "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-07T12:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
@@ -3434,6 +3520,13 @@
    "start": "2026-11-07T12:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-byqO4qyJDg"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-07T12:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17487/803"
   },
   {
    "film": "stffshorts-narrative-selection-2",
@@ -3451,6 +3544,13 @@
    "notes": [
     "The Films of Andrzej Wajda"
    ]
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-07T14:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17402/793"
   },
   {
    "film": "secs-fest-2026",
@@ -3498,6 +3598,20 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-fXaewhNchg"
   },
   {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-07T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17488/803"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-07T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17404/814"
+  },
+  {
    "film": "wildwood",
    "theater": "majestic-bay",
    "start": "2026-11-07T15:30:00-08:00",
@@ -3510,6 +3624,13 @@
    "start": "2026-11-07T15:30:00-08:00",
    "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ad50da1b3e7c982205157b4"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-07T15:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17408/797"
   },
   {
    "film": "seattle-turkish-film-festival-sevda",
@@ -3580,6 +3701,30 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-07T18:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17407/793"
+  },
+  {
+   "film": "jimmy",
+   "theater": "admiral",
+   "start": "2026-11-07T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17403/801",
+   "notes": [
+    "Special advance screening"
+   ]
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-07T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17406/803"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-11-07T18:30:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
@@ -3594,10 +3739,17 @@
   },
   {
    "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-07T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17405/814"
+  },
+  {
+   "film": "godzilla-minus-zero",
    "theater": "majestic-bay",
    "start": "2026-11-07T18:45:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
-   "tickets": "http://tix.mvtx.us/noweb"
+   "tickets": "https://relay.mvtx.us/ticketing/dbz?code_theater=X05TV&gid_entity=movie.movie._.1000014492&tags=Format.Projection.Digital&perfd=20261107&perft=18:45&code=Evenings - 2"
   },
   {
    "film": "you-can-see-everything",
@@ -3680,6 +3832,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-Jk92DTkdCU"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-07T21:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17413/793"
+  },
+  {
    "film": "true-stories",
    "theater": "central-cinema",
    "start": "2026-11-07T21:30:00-08:00",
@@ -3712,6 +3871,13 @@
    "start": "2026-11-08T11:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/stffshorts-documentary-selection",
    "tickets": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/stffshorts-documentary-selection#screening-LVAGRetvf4"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-08T12:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17502/793"
   },
   {
    "film": "godzilla-minus-zero",
@@ -3780,6 +3946,13 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-08T14:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17491/793"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-11-08T15:00:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
@@ -3814,6 +3987,20 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-OvhAifkhDL"
   },
   {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-08T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17503/803"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-08T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17493/814"
+  },
+  {
    "film": "wildwood",
    "theater": "majestic-bay",
    "start": "2026-11-08T15:30:00-08:00",
@@ -3826,6 +4013,13 @@
    "start": "2026-11-08T15:30:00-08:00",
    "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ad50da1b3e7c982205157b9"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-08T15:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17497/797"
   },
   {
    "film": "seattle-turkish-film-festival-those-who-whistle-after-dark",
@@ -3909,6 +4103,30 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-08T18:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17496/793"
+  },
+  {
+   "film": "jimmy",
+   "theater": "admiral",
+   "start": "2026-11-08T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17492/801",
+   "notes": [
+    "Special advance screening"
+   ]
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-08T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17495/803"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-11-08T18:30:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
@@ -3927,6 +4145,13 @@
    "start": "2026-11-08T18:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-MqjUGxJqCC"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-08T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17494/814"
   },
   {
    "film": "godzilla-minus-zero",
@@ -3979,6 +4204,13 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-09T14:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17479/793"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-11-09T15:00:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
@@ -3990,6 +4222,20 @@
    "start": "2026-11-09T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36668?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-09T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17482/803"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-09T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17485/814"
   },
   {
    "film": "wicker",
@@ -4004,6 +4250,13 @@
    "start": "2026-11-09T15:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
    "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-4YT2MFOogw"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-09T15:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17480/797"
   },
   {
    "film": "you-can-see-everything",
@@ -4056,6 +4309,30 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-09T18:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17478/793"
+  },
+  {
+   "film": "jimmy",
+   "theater": "admiral",
+   "start": "2026-11-09T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17483/801",
+   "notes": [
+    "Special advance screening"
+   ]
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-09T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17481/803"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-11-09T18:30:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
@@ -4070,6 +4347,13 @@
    "notes": [
     "SIFF Movie Club"
    ]
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-09T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17484/814"
   },
   {
    "film": "godzilla-minus-zero",
@@ -4157,6 +4441,13 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-10T14:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17456/793"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-11-10T15:00:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
@@ -4175,6 +4466,16 @@
    "start": "2026-11-10T15:30:00-08:00",
    "url": "https://www.majesticbay.com/movies/322884-wicker/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36663?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-10T15:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17454/797",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "you-can-see-everything",
@@ -4245,6 +4546,13 @@
    "start": "2026-11-10T17:15:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/fatherland",
    "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-GhCt9BRWxR"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-10T18:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17457/793"
   },
   {
    "film": "you-can-see-everything",
@@ -4380,6 +4688,13 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36657?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-11T14:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17462/793"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "majestic-bay",
    "start": "2026-11-11T15:00:00-08:00",
@@ -4392,6 +4707,27 @@
    "start": "2026-11-11T15:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/296439-wildwood/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36660?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-11T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17463/803"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-11T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17465/814"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-11T15:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17469/797"
   },
   {
    "film": "you-can-see-everything",
@@ -4465,10 +4801,34 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-11T18:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17468/793"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-11-11T18:15:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36554?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "jimmy",
+   "theater": "admiral",
+   "start": "2026-11-11T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17464/801",
+   "notes": [
+    "Special advance screening"
+   ]
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-11T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17467/803"
   },
   {
    "film": "godzilla-minus-zero",
@@ -4476,6 +4836,13 @@
    "start": "2026-11-11T18:30:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000014492-godzilla-minus-zero/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36555?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-11T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17466/814"
   },
   {
    "film": "you-can-see-everything",
@@ -4498,7 +4865,7 @@
    "url": "https://www.majesticbay.com/movies/39173-star-trek-ii-the-wrath-of-khan/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36383?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
    "notes": [
-    "Special screening"
+    "Retro Night"
    ]
   },
   {
@@ -4566,6 +4933,34 @@
   },
   {
    "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-12T15:10:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17597/793"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-12T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17471/803"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-12T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17473/814"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-12T15:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17509/802"
+  },
+  {
+   "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-11-12T15:45:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
@@ -4615,6 +5010,34 @@
    "start": "2026-11-12T17:00:00-08:00",
    "url": "https://filmcenter.tasveer.org/movie/fjord",
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/fjord/4237741"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-12T18:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17476/793"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-12T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17475/803"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-12T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17474/814"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-12T18:45:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17510/802"
   },
   {
    "film": "you-can-see-everything",
@@ -4691,11 +5114,39 @@
    "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4237740"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-13T15:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17519/793"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "north-bend",
    "start": "2026-11-13T15:00:00-08:00",
    "url": "https://tix.northbendtheatre.com/event/godzilla-minus-zero-friday-nov-13th-3pm",
    "tickets": "https://tix.northbendtheatre.com/event/godzilla-minus-zero-friday-nov-13th-3pm"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-13T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17526/803"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-13T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17521/814"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-13T15:45:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17599/802"
   },
   {
    "film": "my-neighbor-totoro",
@@ -4709,11 +5160,32 @@
    ]
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-13T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-8FJMjPwmRO"
+  },
+  {
    "film": "zi",
    "theater": "nwff",
    "start": "2026-11-13T17:00:00-08:00",
    "url": "https://nwfilmforum.org/films/zi/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ab171da02ce9929ad1ac3d3"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-13T18:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17524/793"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-13T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17523/803"
   },
   {
    "film": "a-simple-machine",
@@ -4725,6 +5197,20 @@
     "PNW Awards",
     "Sold out"
    ]
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-13T18:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17600/802"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-13T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17522/814"
   },
   {
    "film": "will-success-spoil-rock-hunter",
@@ -4766,6 +5252,20 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/3-days-in-september#screening-6waCfIUvnw"
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-13T19:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-pwtlSyAb6F"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-13T21:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17530/793"
+  },
+  {
    "film": "delicatessen",
    "theater": "central-cinema",
    "start": "2026-11-13T21:30:00-08:00",
@@ -4778,6 +5278,20 @@
    "start": "2026-11-13T22:00:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/vhs-uber-alles-presents-fri13",
    "tickets": "https://thebeacon.film/calendar/movie/vhs-uber-alles-presents-fri13?showtime=LJETIAPIVSRV4Q5EHPJU6QUH"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-14T12:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17616/797"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-14T12:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17612/793"
   },
   {
    "film": "short-film-nominee-showcase",
@@ -4797,14 +5311,25 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/the-last-transhumance#screening-LBqMYJpCB4"
   },
   {
-   "film": "met-opera-2026-2027-carmen",
+   "film": "godzilla-minus-zero",
    "theater": "admiral",
-   "start": "2026-11-14T12:50:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/met-opera-20262027-carmen-encore",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/16446/755",
-   "notes": [
-    "Encore"
-   ]
+   "start": "2026-11-14T12:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17615/814"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-14T12:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-i7J6vta6xS"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-14T12:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17613/803"
   },
   {
    "film": "romanian-film-festival-seattle-kontinental-25",
@@ -4812,6 +5337,13 @@
    "start": "2026-11-14T13:50:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/kontinental-25",
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/kontinental-25#screening-mNIKu9HDPg"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-14T14:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17601/793"
   },
   {
    "film": "godzilla-minus-zero",
@@ -4829,6 +5361,27 @@
    "notes": [
     "PNW Awards"
    ]
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-14T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17614/803"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-14T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17603/814"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-14T15:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17607/797"
   },
   {
    "film": "my-neighbor-totoro",
@@ -4849,6 +5402,30 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/traffic#screening-2G5oQPEH6C"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-14T18:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17606/793"
+  },
+  {
+   "film": "jimmy",
+   "theater": "admiral",
+   "start": "2026-11-14T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17602/801",
+   "notes": [
+    "Special advance screening"
+   ]
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-14T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17605/803"
+  },
+  {
    "film": "again-again",
    "theater": "siff-film-center",
    "start": "2026-11-14T18:30:00-08:00",
@@ -4857,6 +5434,13 @@
    "notes": [
     "PNW Awards"
    ]
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-14T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17604/814"
   },
   {
    "film": "my-neighbor-totoro",
@@ -4875,6 +5459,20 @@
    "start": "2026-11-14T19:05:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/rmn",
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/rmn#screening-xXdK9xZgvT"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-14T19:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-BTmT9oIs6l"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-14T21:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17611/793"
   },
   {
    "film": "delicatessen",
@@ -4899,6 +5497,13 @@
    "start": "2026-11-15T11:05:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/atlas-of-the-universe",
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/atlas-of-the-universe#screening-Ht0rWZSAGo"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-15T12:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17624/793"
   },
   {
    "film": "shaolin-soccer",
@@ -4932,6 +5537,20 @@
    ]
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-15T14:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-RVorTu3C4y"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-15T14:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17617/793"
+  },
+  {
    "film": "mrs-miniver",
    "theater": "north-bend",
    "start": "2026-11-15T15:00:00-08:00",
@@ -4950,6 +5569,27 @@
    "notes": [
     "PNW Awards"
    ]
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-15T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17625/803"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-15T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17619/814"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-15T15:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17623/797"
   },
   {
    "film": "romanian-film-festival-seattle-blindsight",
@@ -4991,6 +5631,13 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ac6b00009c0a7948b2a12bb"
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-15T18:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-mAkHxauVuJ"
+  },
+  {
    "film": "life-we-leave",
    "theater": "siff-film-center",
    "start": "2026-11-15T18:00:00-08:00",
@@ -5001,11 +5648,42 @@
    ]
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-15T18:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17622/793"
+  },
+  {
    "film": "romanian-film-festival-seattle-the-wall",
    "theater": "siff-uptown",
    "start": "2026-11-15T18:05:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/the-wall",
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/the-wall#screening-1VfhI8xVBf"
+  },
+  {
+   "film": "jimmy",
+   "theater": "admiral",
+   "start": "2026-11-15T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17618/801",
+   "notes": [
+    "Special advance screening"
+   ]
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-15T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17621/803"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-15T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17620/814"
   },
   {
    "film": "my-neighbor-totoro",
@@ -5047,6 +5725,34 @@
    "tickets": "https://central-cinema.com/checkout/showing/delicatessen/4180753"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-16T14:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17630/793"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-16T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17633/803"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-16T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17636/814"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-16T15:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17631/797"
+  },
+  {
    "film": "my-neighbor-totoro",
    "theater": "central-cinema",
    "start": "2026-11-16T16:00:00-08:00",
@@ -5058,11 +5764,49 @@
    ]
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-16T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-7Gq8IoEu5a"
+  },
+  {
    "film": "strange-love-of-martha-ivers",
    "theater": "beacon",
    "start": "2026-11-16T17:00:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/the-strange-love-of-martha-ivers",
    "tickets": "https://thebeacon.film/calendar/movie/the-strange-love-of-martha-ivers?showtime=HBPUUN5HQYB7UNOJRHXRMBGX"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-16T18:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17629/793"
+  },
+  {
+   "film": "jimmy",
+   "theater": "admiral",
+   "start": "2026-11-16T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17634/801",
+   "notes": [
+    "Special advance screening"
+   ]
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-16T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17632/803"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-16T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17635/814"
   },
   {
    "film": "my-neighbor-totoro",
@@ -5101,11 +5845,35 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ac6b00009c0a7948b2a12c5"
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-16T19:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-IfwBRKer0S"
+  },
+  {
    "film": "delicatessen",
    "theater": "central-cinema",
    "start": "2026-11-16T21:30:00-08:00",
    "url": "https://central-cinema.com/movie/delicatessen/",
    "tickets": "https://central-cinema.com/checkout/showing/delicatessen/4180756"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-17T14:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17639/793"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-17T15:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17637/797",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "my-neighbor-totoro",
@@ -5119,11 +5887,25 @@
    ]
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-17T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-DH7HRXpFBY"
+  },
+  {
    "film": "will-success-spoil-rock-hunter",
    "theater": "beacon",
    "start": "2026-11-17T16:30:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter",
    "tickets": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter?showtime=W3GOF7BA3ERTC5V4EQOZSNYV"
+  },
+  {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-17T18:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17640/793"
   },
   {
    "film": "my-neighbor-totoro",
@@ -5161,6 +5943,13 @@
    "tickets": "https://thebeacon.film/calendar/movie/nationtime?showtime=6YJ6BPOQ2GXTAYJCIHLSEEWC"
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-17T19:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-76XjBFoJvC"
+  },
+  {
    "film": "my-night-at-maud-s",
    "theater": "siff-uptown",
    "start": "2026-11-17T19:30:00-08:00",
@@ -5178,6 +5967,34 @@
    "tickets": "https://central-cinema.com/checkout/showing/delicatessen/4180759"
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-18T14:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17645/793"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-18T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17646/803"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-18T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17648/814"
+  },
+  {
+   "film": "wildwood",
+   "theater": "admiral",
+   "start": "2026-11-18T15:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17652/797"
+  },
+  {
    "film": "my-neighbor-totoro",
    "theater": "central-cinema",
    "start": "2026-11-18T16:00:00-08:00",
@@ -5187,6 +6004,13 @@
     "Family",
     "Dubbed"
    ]
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-18T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-Xy8seB73Oq"
   },
   {
    "film": "nationtime",
@@ -5206,13 +6030,44 @@
    ]
   },
   {
+   "film": "you-can-see-everything",
+   "theater": "admiral",
+   "start": "2026-11-18T18:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17651/793"
+  },
+  {
+   "film": "jimmy",
+   "theater": "admiral",
+   "start": "2026-11-18T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17647/801",
+   "notes": [
+    "Special advance screening"
+   ]
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-18T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17650/803"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-18T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17649/814"
+  },
+  {
    "film": "star-trek-iii-the-search-for-spock",
    "theater": "majestic-bay",
    "start": "2026-11-18T19:00:00-08:00",
    "url": "https://www.majesticbay.com/movies/39174-star-trek-iii-the-search-for-spock/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36384?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
    "notes": [
-    "Special screening"
+    "Retro Night"
    ]
   },
   {
@@ -5235,6 +6090,48 @@
    "start": "2026-11-18T19:30:00-08:00",
    "url": "https://nwfilmforum.org/films/zi/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ab171da02ce9929ad1ac3ce"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-18T19:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-TeAkCdRrXk"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-19T15:15:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17663/760"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-19T15:25:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17655/814"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-19T15:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17659/802"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-19T15:55:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17654/803"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-19T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-VBuONlIR3y"
   },
   {
    "film": "will-success-spoil-rock-hunter",
@@ -5264,11 +6161,39 @@
    ]
   },
   {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-19T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17657/803"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-19T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17662/760"
+  },
+  {
    "film": "witch",
    "theater": "nwff",
    "start": "2026-11-19T18:30:00-08:00",
    "url": "https://nwfilmforum.org/films/sfcs-10-witch/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6a2b2579131d16ec79c765e7"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-19T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17656/814"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-19T18:45:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17660/802"
   },
   {
    "film": "seattle-film-society-presents-locals-only-november-2026",
@@ -5299,6 +6224,13 @@
    "tickets": "https://thebeacon.film/calendar/movie/breathless?showtime=XRDLUAOPGGGKXQ7NRBTKB2P5"
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-19T19:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-hRvOU1Sim6"
+  },
+  {
    "film": "totally-80-s-sing-along",
    "theater": "central-cinema",
    "start": "2026-11-19T20:00:00-08:00",
@@ -5316,6 +6248,34 @@
    ]
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-20T12:10:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17755/760"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-20T12:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17758/802"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-20T12:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17756/814"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-20T13:10:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17757/803"
+  },
+  {
    "film": "brunello-the-gracious-visionary",
    "theater": "siff-uptown",
    "start": "2026-11-20T15:00:00-08:00",
@@ -5324,6 +6284,48 @@
    "notes": [
     "Cinema Italian Style 2026"
    ]
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-20T15:15:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17671/760"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-20T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17670/814"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-20T15:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17667/802"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-20T15:55:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17669/803"
+  },
+  {
+   "film": "planes-trains-and-automobiles",
+   "theater": "central-cinema",
+   "start": "2026-11-20T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/planes-trains-and-automobiles/",
+   "tickets": "https://central-cinema.com/checkout/showing/planes-trains-and-automobiles/4266629"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-20T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-qDZvrPZglP"
   },
   {
    "film": "gioia",
@@ -5336,11 +6338,25 @@
    ]
   },
   {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-20T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17666/803"
+  },
+  {
    "film": "once-upon-a-time-in-harlem",
    "theater": "beacon",
    "start": "2026-11-20T19:00:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/once-upon-a-time-in-harlem",
    "tickets": "https://thebeacon.film/calendar/movie/once-upon-a-time-in-harlem?showtime=HBLI6SNSASAUZCMV65TOIPYV"
+  },
+  {
+   "film": "planes-trains-and-automobiles",
+   "theater": "central-cinema",
+   "start": "2026-11-20T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/planes-trains-and-automobiles/",
+   "tickets": "https://central-cinema.com/checkout/showing/planes-trains-and-automobiles/4266630"
   },
   {
    "film": "love-streams",
@@ -5360,6 +6376,13 @@
    ]
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-20T19:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-wB0qiFxyEQ"
+  },
+  {
    "film": "last-one-for-the-road",
    "theater": "siff-uptown",
    "start": "2026-11-20T20:00:00-08:00",
@@ -5370,11 +6393,53 @@
    ]
   },
   {
+   "film": "eating-raoul",
+   "theater": "central-cinema",
+   "start": "2026-11-20T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/eating-raoul/",
+   "tickets": "https://central-cinema.com/checkout/showing/eating-raoul/4266632"
+  },
+  {
    "film": "devil-story",
    "theater": "beacon",
    "start": "2026-11-20T22:00:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/devil-story",
    "tickets": "https://thebeacon.film/calendar/movie/devil-story?showtime=MOOYA5V3PMBV7NM7LQP7VUYV"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-21T12:10:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17767/760"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-21T12:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17768/802"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-21T12:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-oPXDkOMa2s"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-21T12:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17766/814"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-21T13:10:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17765/803"
   },
   {
    "film": "where-is-the-fiesta",
@@ -5387,11 +6452,46 @@
    ]
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-21T15:15:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17679/760"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-21T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17678/814"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-21T15:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17675/802"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-21T15:55:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17677/803"
+  },
+  {
    "film": "love-streams",
    "theater": "nwff",
    "start": "2026-11-21T16:00:00-08:00",
    "url": "https://nwfilmforum.org/films/unstreamable-love-streams/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6abfe467f65307d70d1c2f84"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-21T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-UKTGpnTgtP"
   },
   {
    "film": "reel-injun",
@@ -5421,6 +6521,41 @@
    ]
   },
   {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-21T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17674/803"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-21T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17672/760"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-21T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17673/814"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-21T18:45:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17676/802"
+  },
+  {
+   "film": "planes-trains-and-automobiles",
+   "theater": "central-cinema",
+   "start": "2026-11-21T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/planes-trains-and-automobiles/",
+   "tickets": "https://central-cinema.com/checkout/showing/planes-trains-and-automobiles/4266634"
+  },
+  {
    "film": "love-streams",
    "theater": "nwff",
    "start": "2026-11-21T19:00:00-08:00",
@@ -5438,6 +6573,13 @@
    ]
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-21T19:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-gb49hik64P"
+  },
+  {
    "film": "love-fits-everything",
    "theater": "siff-uptown",
    "start": "2026-11-21T20:00:00-08:00",
@@ -5448,6 +6590,13 @@
    ]
   },
   {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-21T21:10:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17762/802"
+  },
+  {
    "film": "rocky-horror-picture-show",
    "theater": "admiral",
    "start": "2026-11-21T21:30:00-08:00",
@@ -5455,11 +6604,39 @@
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/14369/451"
   },
   {
+   "film": "eating-raoul",
+   "theater": "central-cinema",
+   "start": "2026-11-21T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/eating-raoul/",
+   "tickets": "https://central-cinema.com/checkout/showing/eating-raoul/4266636"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-21T21:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17764/760"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-21T21:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17763/814"
+  },
+  {
    "film": "pretty-poison",
    "theater": "beacon",
    "start": "2026-11-21T22:00:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/pretty-poison",
    "tickets": "https://thebeacon.film/calendar/movie/pretty-poison?showtime=IL4XBKYIQBRFWITVN3FPC35N"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-22T11:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-tp1I51JU7q"
   },
   {
    "film": "route-one-usa",
@@ -5482,6 +6659,13 @@
    ]
   },
   {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-22T13:10:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17773/803"
+  },
+  {
    "film": "clash-by-night",
    "theater": "beacon",
    "start": "2026-11-22T14:00:00-08:00",
@@ -5501,6 +6685,13 @@
    ]
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-22T15:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-77X4T5s1lK"
+  },
+  {
    "film": "beloved",
    "theater": "siff-uptown",
    "start": "2026-11-22T15:00:00-08:00",
@@ -5509,6 +6700,41 @@
    "notes": [
     "Cinema Italian Style 2026"
    ]
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-22T15:15:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17687/760"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-22T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17686/814"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-22T15:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17683/802"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-22T15:55:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17685/803"
+  },
+  {
+   "film": "planes-trains-and-automobiles",
+   "theater": "central-cinema",
+   "start": "2026-11-22T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/planes-trains-and-automobiles/",
+   "tickets": "https://central-cinema.com/checkout/showing/planes-trains-and-automobiles/4266638"
   },
   {
    "film": "love-streams",
@@ -5545,6 +6771,48 @@
    ]
   },
   {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-22T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17682/803"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-22T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17680/760"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-22T18:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-LceQHtGavN"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-22T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17681/814"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-22T18:45:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17684/802"
+  },
+  {
+   "film": "planes-trains-and-automobiles",
+   "theater": "central-cinema",
+   "start": "2026-11-22T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/planes-trains-and-automobiles/",
+   "tickets": "https://central-cinema.com/checkout/showing/planes-trains-and-automobiles/4266640"
+  },
+  {
    "film": "love-streams",
    "theater": "nwff",
    "start": "2026-11-22T19:00:00-08:00",
@@ -5562,6 +6830,55 @@
    ]
   },
   {
+   "film": "eating-raoul",
+   "theater": "central-cinema",
+   "start": "2026-11-22T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/eating-raoul/",
+   "tickets": "https://central-cinema.com/checkout/showing/eating-raoul/4266642"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-23T15:15:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17739/760"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-23T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17694/814"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-23T15:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17691/802"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-23T15:45:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-ycZUQ6JyHc"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-23T15:55:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17693/803"
+  },
+  {
+   "film": "planes-trains-and-automobiles",
+   "theater": "central-cinema",
+   "start": "2026-11-23T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/planes-trains-and-automobiles/",
+   "tickets": "https://central-cinema.com/checkout/showing/planes-trains-and-automobiles/4266644"
+  },
+  {
    "film": "clash-by-night",
    "theater": "beacon",
    "start": "2026-11-23T16:30:00-08:00",
@@ -5574,6 +6891,41 @@
    "start": "2026-11-23T18:00:00-08:00",
    "url": "https://nwfilmforum.org/films/la-bola-negra/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ae39cccf5957bb52e6088f8"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-23T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17690/803"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-23T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17688/760"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-23T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17689/814"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-23T18:45:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17692/802"
+  },
+  {
+   "film": "planes-trains-and-automobiles",
+   "theater": "central-cinema",
+   "start": "2026-11-23T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/planes-trains-and-automobiles/",
+   "tickets": "https://central-cinema.com/checkout/showing/planes-trains-and-automobiles/4266646"
   },
   {
    "film": "my-brother-s-wedding",
@@ -5603,6 +6955,27 @@
    "tickets": "https://thebeacon.film/calendar/movie/once-upon-a-time-in-harlem?showtime=A67CDXV5BZMJSS33NQDAJR7G"
   },
   {
+   "film": "eating-raoul",
+   "theater": "central-cinema",
+   "start": "2026-11-23T21:30:00-08:00",
+   "url": "https://central-cinema.com/movie/eating-raoul/",
+   "tickets": "https://central-cinema.com/checkout/showing/eating-raoul/4266648"
+  },
+  {
+   "film": "planes-trains-and-automobiles",
+   "theater": "central-cinema",
+   "start": "2026-11-24T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/planes-trains-and-automobiles/",
+   "tickets": "https://central-cinema.com/checkout/showing/planes-trains-and-automobiles/4266650"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-24T16:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-Q46IQSi1db"
+  },
+  {
    "film": "once-upon-a-time-in-harlem",
    "theater": "beacon",
    "start": "2026-11-24T16:30:00-08:00",
@@ -5615,6 +6988,13 @@
    "start": "2026-11-24T18:00:00-08:00",
    "url": "https://nwfilmforum.org/films/la-bola-negra/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ae39ce8415aa70fe7b5dcad"
+  },
+  {
+   "film": "seattle-scare-society-chopping-mall",
+   "theater": "central-cinema",
+   "start": "2026-11-24T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/seattle-scare-society-chopping-mall/",
+   "tickets": "https://central-cinema.com/checkout/showing/seattle-scare-society-chopping-mall/4266652"
   },
   {
    "film": "my-brother-s-wedding",
@@ -5634,6 +7014,13 @@
    "tickets": "https://thebeacon.film/calendar/movie/buffalo-66?showtime=6H2EQBEXZNS7XZLAF6G3E5NH"
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "siff-downtown",
+   "start": "2026-11-24T19:30:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
+   "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-4WnQs5qe1w"
+  },
+  {
    "film": "beware-the-devil-s-wrath-special-screening",
    "theater": "siff-film-center",
    "start": "2026-11-24T19:30:00-08:00",
@@ -5642,6 +7029,55 @@
    "notes": [
     "Q&A"
    ]
+  },
+  {
+   "film": "hexed",
+   "theater": "admiral",
+   "start": "2026-11-25T12:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17721/804"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-25T12:45:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17720/760"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-25T13:10:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17706/802"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-25T15:10:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17710/760"
+  },
+  {
+   "film": "hexed",
+   "theater": "admiral",
+   "start": "2026-11-25T16:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17297/804"
+  },
+  {
+   "film": "planes-trains-and-automobiles",
+   "theater": "central-cinema",
+   "start": "2026-11-25T16:00:00-08:00",
+   "url": "https://central-cinema.com/movie/planes-trains-and-automobiles/",
+   "tickets": "https://central-cinema.com/checkout/showing/planes-trains-and-automobiles/4266655"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-25T16:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17724/802"
   },
   {
    "film": "buffalo-66",
@@ -5658,13 +7094,44 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ae39ce9415aa70fe7b5dcb6"
   },
   {
+   "film": "hexed",
+   "theater": "admiral",
+   "start": "2026-11-25T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17295/804"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-25T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17718/760"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-25T18:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17707/802"
+  },
+  {
+   "film": "legend",
+   "theater": "central-cinema",
+   "start": "2026-11-25T19:00:00-08:00",
+   "url": "https://central-cinema.com/movie/cinemancy-legend/",
+   "tickets": "https://central-cinema.com/checkout/showing/cinemancy-legend/4266657",
+   "notes": [
+    "Cinemancy: post-film discussion"
+   ]
+  },
+  {
    "film": "star-trek-iv-the-voyage-home",
    "theater": "majestic-bay",
    "start": "2026-11-25T19:00:00-08:00",
    "url": "https://www.majesticbay.com/movies/79359-star-trek-iv-the-voyage-home/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36385?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
    "notes": [
-    "Special screening"
+    "Retro Night"
    ]
   },
   {
@@ -5685,11 +7152,123 @@
    "tickets": "https://thebeacon.film/calendar/movie/blood-rage?showtime=T3FSJOVXESFKLUDCIC3ZCXTX"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-25T21:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17726/760"
+  },
+  {
+   "film": "hexed",
+   "theater": "admiral",
+   "start": "2026-11-25T21:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17296/804"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-25T22:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17725/802"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-26T12:45:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17740/760"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-26T13:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17741/802"
+  },
+  {
+   "film": "hexed",
+   "theater": "admiral",
+   "start": "2026-11-26T13:25:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17302/804"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-26T15:15:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17717/760"
+  },
+  {
+   "film": "hexed",
+   "theater": "admiral",
+   "start": "2026-11-26T16:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17299/804"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-26T16:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17713/802"
+  },
+  {
+   "film": "hexed",
+   "theater": "admiral",
+   "start": "2026-11-26T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17300/804"
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-26T18:45:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17714/802"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-27T12:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17743/760"
+  },
+  {
+   "film": "hexed",
+   "theater": "admiral",
+   "start": "2026-11-27T13:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17306/804"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-27T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17742/760"
+  },
+  {
    "film": "big-trouble-in-little-china",
    "theater": "central-cinema",
    "start": "2026-11-27T16:00:00-08:00",
    "url": "https://central-cinema.com/movie/big-trouble-in-little-china/",
    "tickets": "https://central-cinema.com/checkout/showing/big-trouble-in-little-china/4248108"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-27T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17744/760"
+  },
+  {
+   "film": "hexed",
+   "theater": "admiral",
+   "start": "2026-11-27T18:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17304/804"
   },
   {
    "film": "five-minutes-to-live",
@@ -5704,6 +7283,13 @@
    "start": "2026-11-27T19:00:00-08:00",
    "url": "https://central-cinema.com/movie/casablanca-1942/",
    "tickets": "https://central-cinema.com/checkout/showing/casablanca-1942/4248109"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-27T21:00:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17745/760"
   },
   {
    "film": "big-trouble-in-little-china",
@@ -5930,6 +7516,13 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6a7e4fdd4276bba6259020ee"
   },
   {
+   "film": "sansho-the-bailiff",
+   "theater": "beacon",
+   "start": "2026-12-01T19:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/sansho-the-bailiff",
+   "tickets": "https://thebeacon.film/calendar/movie/sansho-the-bailiff?showtime=KTSJKDBNDEPZCNC4C7U54W3N"
+  },
+  {
    "film": "big-trouble-in-little-china",
    "theater": "central-cinema",
    "start": "2026-12-01T21:30:00-08:00",
@@ -5942,6 +7535,23 @@
    "start": "2026-12-02T16:00:00-08:00",
    "url": "https://central-cinema.com/movie/big-trouble-in-little-china/",
    "tickets": "https://central-cinema.com/checkout/showing/big-trouble-in-little-china/4248123"
+  },
+  {
+   "film": "sansho-the-bailiff",
+   "theater": "beacon",
+   "start": "2026-12-02T16:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/sansho-the-bailiff",
+   "tickets": "https://thebeacon.film/calendar/movie/sansho-the-bailiff?showtime=63SLSMQIVZ67XY5J7Z2QXU5L"
+  },
+  {
+   "film": "star-trek-first-contact",
+   "theater": "majestic-bay",
+   "start": "2026-12-02T19:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/4854-star-trek-first-contact/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36681?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Retro Night"
+   ]
   },
   {
    "film": "seattle-lgbtq",
@@ -6008,6 +7618,13 @@
     "The Open Road",
     "35mm"
    ]
+  },
+  {
+   "film": "sansho-the-bailiff",
+   "theater": "beacon",
+   "start": "2026-12-03T19:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/sansho-the-bailiff",
+   "tickets": "https://thebeacon.film/calendar/movie/sansho-the-bailiff?showtime=ACDNXOAGZ6TNYV5G5KR32DPU"
   },
   {
    "film": "zero-patience",
@@ -6253,6 +7870,30 @@
    "notes": [
     "Family"
    ]
+  },
+  {
+   "film": "dune",
+   "theater": "majestic-bay",
+   "start": "2026-12-09T19:00:00-08:00",
+   "url": "https://www.majesticbay.com/movies/133392-dune/",
+   "tickets": "https://ticketing.us.veezi.com/purchase/36682?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
+   "notes": [
+    "Special screening"
+   ]
+  },
+  {
+   "film": "moonlight",
+   "theater": "nwff",
+   "start": "2026-12-09T19:00:00-08:00",
+   "url": "https://nwfilmforum.org/films/sfcs-10-moonlight/",
+   "tickets": "https://nwfilmforum.eventive.org/schedule/6a2b25d1fc935121f34af856"
+  },
+  {
+   "film": "mountains-on-stage-winter-edition-2026",
+   "theater": "siff-uptown",
+   "start": "2026-12-09T19:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/mountains-on-stage-winter-edition-2026",
+   "tickets": "https://www.siff.net/cinema/in-theaters/mountains-on-stage-winter-edition-2026#screening-MHcAUn82b8"
   }
  ]
 }
