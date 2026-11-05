@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T12:24:00-08:00",
+ "updated": "2026-11-05T12:38:00-08:00",
  "theaters": [
   {
    "id": "siff-downtown",
@@ -14,9 +14,9 @@
    "blurb": "The old Cinerama: one enormous curved screen, now run by SIFF.",
    "status": {
     "ok": true,
-    "checked": "2026-11-04T12:24:00-08:00",
-    "lastSuccess": "2026-11-04T12:24:00-08:00",
-    "showings": 46,
+    "checked": "2026-11-05T12:38:00-08:00",
+    "lastSuccess": "2026-11-05T12:38:00-08:00",
+    "showings": 44,
     "through": "2026-11-24"
    }
   },
@@ -33,9 +33,9 @@
    "blurb": "Three screens of first-run indie, foreign and documentary films.",
    "status": {
     "ok": true,
-    "checked": "2026-11-04T12:24:00-08:00",
-    "lastSuccess": "2026-11-04T12:24:00-08:00",
-    "showings": 86,
+    "checked": "2026-11-05T12:38:00-08:00",
+    "lastSuccess": "2026-11-05T12:38:00-08:00",
+    "showings": 80,
     "through": "2026-12-09"
    }
   },
@@ -52,10 +52,10 @@
    "blurb": "A small screening room at Seattle Center for series and one-offs.",
    "status": {
     "ok": true,
-    "checked": "2026-11-04T12:24:00-08:00",
-    "lastSuccess": "2026-11-04T12:24:00-08:00",
-    "showings": 31,
-    "through": "2026-11-29"
+    "checked": "2026-11-05T12:38:00-08:00",
+    "lastSuccess": "2026-11-05T12:38:00-08:00",
+    "showings": 32,
+    "through": "2026-12-02"
    }
   },
   {
@@ -70,9 +70,9 @@
    "blurb": "Seattle’s longest-running independent cinema, between homes and moving into the Varsity.",
    "status": {
     "ok": true,
-    "checked": "2026-11-04T12:24:00-08:00",
-    "lastSuccess": "2026-11-04T12:24:00-08:00",
-    "showings": 3,
+    "checked": "2026-11-05T12:38:00-08:00",
+    "lastSuccess": "2026-11-05T12:38:00-08:00",
+    "showings": 2,
     "through": "2026-11-21"
    }
   },
@@ -88,9 +88,9 @@
    "blurb": "Nonprofit film arts center with two screens of indie, archival and local work.",
    "status": {
     "ok": true,
-    "checked": "2026-11-04T12:24:00-08:00",
-    "lastSuccess": "2026-11-04T12:24:00-08:00",
-    "showings": 70,
+    "checked": "2026-11-05T12:38:00-08:00",
+    "lastSuccess": "2026-11-05T12:38:00-08:00",
+    "showings": 68,
     "through": "2026-12-09"
    }
   },
@@ -107,10 +107,10 @@
    "blurb": "Dinner-and-a-movie house for cult classics, sing-alongs and new indies.",
    "status": {
     "ok": true,
-    "checked": "2026-11-04T12:24:00-08:00",
-    "lastSuccess": "2026-11-04T12:24:00-08:00",
-    "showings": 86,
-    "through": "2026-12-08"
+    "checked": "2026-11-05T12:38:00-08:00",
+    "lastSuccess": "2026-11-05T12:38:00-08:00",
+    "showings": 84,
+    "through": "2026-12-10"
    }
   },
   {
@@ -126,10 +126,10 @@
    "blurb": "A 48-seat single screen programming repertory, genre and art-house films.",
    "status": {
     "ok": true,
-    "checked": "2026-11-04T12:24:00-08:00",
-    "lastSuccess": "2026-11-04T12:24:00-08:00",
-    "showings": 57,
-    "through": "2026-12-08"
+    "checked": "2026-11-05T12:38:00-08:00",
+    "lastSuccess": "2026-11-05T12:38:00-08:00",
+    "showings": 60,
+    "through": "2026-12-10"
    }
   },
   {
@@ -145,10 +145,10 @@
    "blurb": "The old Ark Lodge, now showing South Asian and world cinema.",
    "status": {
     "ok": true,
-    "checked": "2026-11-04T12:24:00-08:00",
-    "lastSuccess": "2026-11-04T12:24:00-08:00",
-    "showings": 46,
-    "through": "2026-11-12"
+    "checked": "2026-11-05T12:38:00-08:00",
+    "lastSuccess": "2026-11-05T12:38:00-08:00",
+    "showings": 83,
+    "through": "2026-11-19"
    }
   },
   {
@@ -164,9 +164,9 @@
    "blurb": "Ballard’s family-owned three-screen neighborhood theater.",
    "status": {
     "ok": true,
-    "checked": "2026-11-04T12:24:00-08:00",
-    "lastSuccess": "2026-11-04T12:24:00-08:00",
-    "showings": 60,
+    "checked": "2026-11-05T12:38:00-08:00",
+    "lastSuccess": "2026-11-05T12:38:00-08:00",
+    "showings": 54,
     "through": "2026-12-09"
    }
   },
@@ -182,9 +182,9 @@
    "blurb": "A 1942 streamline moderne landmark showing new releases.",
    "status": {
     "ok": true,
-    "checked": "2026-11-04T12:24:00-08:00",
-    "lastSuccess": "2026-11-04T12:24:00-08:00",
-    "showings": 202,
+    "checked": "2026-11-05T12:38:00-08:00",
+    "lastSuccess": "2026-11-05T12:38:00-08:00",
+    "showings": 235,
     "through": "2026-12-05"
    }
   },
@@ -201,8 +201,8 @@
    "blurb": "A bar and restaurant with its own small movie theater in back.",
    "status": {
     "ok": true,
-    "checked": "2026-11-04T12:24:00-08:00",
-    "lastSuccess": "2026-11-04T12:24:00-08:00",
+    "checked": "2026-11-05T12:38:00-08:00",
+    "lastSuccess": "2026-11-05T12:38:00-08:00",
     "showings": 0
    }
   },
@@ -219,9 +219,9 @@
    "blurb": "A 1941 single-screen theater in the Cascade foothills.",
    "status": {
     "ok": true,
-    "checked": "2026-11-04T12:24:00-08:00",
-    "lastSuccess": "2026-11-04T12:24:00-08:00",
-    "showings": 13,
+    "checked": "2026-11-05T12:38:00-08:00",
+    "lastSuccess": "2026-11-05T12:38:00-08:00",
+    "showings": 12,
     "through": "2026-11-29"
    }
   }
@@ -243,38 +243,6 @@
    "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/5point2026Square02.jpg",
    "links": {
     "north-bend": "https://tix.northbendtheatre.com/event/5point-film-fest-2026-hosted-by-pro-ski-and-mountain-service-sunday-november-8th-5pm"
-   }
-  },
-  {
-   "id": "a-man-and-a-woman",
-   "title": "A Man and a Woman",
-   "description": "This New Wave-style bitter-sweet romance took the world by storm, playing for a year and a half straight in Seattle. Persistence of emotional pain vies with the prospect of future happiness for an adult woman and man. Anne (Anouk Aimee, stunning and mysterious) works in the film industry and mourns her dead husband (Pierre: Pierre Barouh), killed in an accident. Jean-Louis (Jean-Louis Trintignant), a race car driver, lost his wife (Valérie Lagrange) to suicide. Chance brings Anne and Jean-Louis into proximity: her daughter and his son attend the same boarding school North in Deauville. There’s a spark between them, but what can come of it; they’re both in love with those who’ve departed. Writer-Director Lelouch engages us in Anne’s and Jean-Louis’ separate lives, thrillingly as he drives in the Le Mans and the Monte Carlo Rally races (Trintignant’s uncle won many races; for car aficionados: the film features Ford GT40s, early Mustangs). For Anne, her lost Pierre remains a felt presence, but she and Jean-Louis drive together in all weathers. They met by chance, and chance generates more suspense: are they really made for each other? Anouk Aimee is one of the screen’s enigmatic beauties, and Lelouch knows to enshrine her face: “It is women’s faces that speak.” What does she say?",
-   "runtime": 102,
-   "year": 1966,
-   "director": "Claude Lelouch",
-   "country": "France",
-   "language": "French",
-   "image": "https://www.siff.net/images/CINEMA/2026/Nouvelles%20Femmes/manandawoman.png",
-   "links": {
-    "siff-uptown": "https://www.siff.net/programs-and-events/nouvelles-femmes/a-man-and-a-woman"
-   }
-  },
-  {
-   "id": "a-nightmare-on-elm-street",
-   "title": "A Nightmare on Elm Street",
-   "description": "1, 2, Feeddy's coming for you...\n\nNancy Thompson and her friends all share the same disturbing image in their dreams: a horribly disfigured man with knives on one hand. They soon learn this man is not just a figment of their imagination, and if they flal asleep, there's a very good chance they may never wake up.\n\nRobert Englund plays the iconic Freddy Krueger in Wes Craven's horror classic. Heather Langenkamp stars as Nancy, one of cinema's most quintessential final girls. The film also features Johnny Depp's big screen debut as her boyfriend Glen.",
-   "runtime": 91,
-   "year": 1984,
-   "director": "Wes Craven",
-   "country": "United States",
-   "language": "English",
-   "rating": "R",
-   "genres": [
-    "Horror"
-   ],
-   "image": "https://indy-systems.imgix.net/ayb5yvf2qr0veovcpsr1zzpzxbd6?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
-   "links": {
-    "central-cinema": "https://central-cinema.com/movie/a-nightmare-on-elm-street/"
    }
   },
   {
@@ -572,24 +540,6 @@
    }
   },
   {
-   "id": "clayface",
-   "title": "Clayface",
-   "description": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-   "runtime": 108,
-   "year": 2026,
-   "director": "James Watkins",
-   "rating": "R",
-   "genres": [
-    "Horror",
-    "Thriller",
-    "Science Fiction"
-   ],
-   "image": "https://image.tmdb.org/t/p/w300/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-   "links": {
-    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface"
-   }
-  },
-  {
    "id": "damnation",
    "title": "Damnation",
    "description": "Damnation (Kárhozat) chronicles the doomed affair between bar Titanik regular Karrer (Sátántangó’s Miklós B. Székely) and the cruel cabaret singer (Vali Kerekes) he pines for while scheming to displace her brutish husband (György Cserhalmi). A poignant Communism allegory that solidified Tarr’s unique aesthetic, Damnation is photographed in an exquisitely black & white palette underscored by the mesmerizing long takes that would come to be his trademark. Damnation has been restored in 4K from the original 35mm camera negative by the Hungarian National Film Institute – Film Archive under the supervision of Béla Tarr.",
@@ -638,18 +588,19 @@
   {
    "id": "dune",
    "title": "Dune",
-   "description": "A mythic and emotionally charged hero's journey, Dune tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential only those who can conquer their fear will survive.",
-   "runtime": 156,
-   "year": 2021,
-   "director": "Denis Villeneuve",
+   "description": "In the year 10191, a spice called melange is the most valuable substance known in the universe, and its only source is the desert planet Arrakis. A royal decree awards Arrakis to Duke Leto Atreides and ousts his bitter enemies, the Harkonnens. However, when the Harkonnens violently seize back their fiefdom, it is up to Paul (Kyle MacLachlan), Leto's son, to lead the Fremen, the natives of Arrakis, in a battle for control of the planet and its spice. Based on Frank Herbert's epic novel.",
+   "runtime": 137,
+   "year": 1984,
+   "director": "David Lynch",
    "rating": "PG-13",
    "genres": [
+    "Fantasy",
     "Science fiction",
-    "Drama"
+    "Action"
    ],
-   "image": "https://all.web.img.acsta.net/img/c4/10/c4103e4a86105cb70ce78713bd69e3d0.jpg",
+   "image": "https://all.web.img.acsta.net/img/72/63/726370117da93f8b34493980a247eda9.jpg",
    "links": {
-    "majestic-bay": "https://www.majesticbay.com/movies/133392-dune/"
+    "majestic-bay": "https://www.majesticbay.com/movies/176-dune-1984/"
    }
   },
   {
@@ -759,20 +710,6 @@
    }
   },
   {
-   "id": "engauge-2026-tactility-and-memory",
-   "title": "Engauge 2026 – Tactility and Memory",
-   "description": "These films posit a connection between the haptic world and what we choose to embody, remember, erase, perhaps forget. Filmmakers manipulate the medium in a variety of ways to emphasize visual texture and showcase techniques that evoke memory and touch.\n\nFILMS IN THIS PROGRAM:\n\nCaribou (Lindsay Aksarniq McIntyre | color/sound | 16mm to digital | 15:00 | CA)\n\nAn experimental documentary created with handmade and manufactured emulsions exploring the close and enduring connections between Inuit, caribou, lichens, and land use. Lichen developers help bring the images to life, while caribou hide is processed into gelatin to make handmade emulsion. Filmed primarily on the land in Nunavut where caribou struggle to maintain their lifeways amidst burn events, habitat disruption and changing conditions.\n\nI Found Some Old Footage of a Tree (Krista Lee Steinke | color/sound | 16mm to digital | 3:22 | US)\n\nAn experimental film that unfolds as a glimpse into the creative process: a sketch, a vignette, a visual mind map, and a meditation on how to document a planet in flux. In this piece, the materiality of film becomes a metaphor for time, impermanence, and the fragility of the natural world. Working with Super 8mm and 16mm footage, the image itself carries traces of transformation, decay, and memory, blurring the boundaries between document and artifact. A sense of anxiety and urgency shapes the work, leaving us uncertain whether we are witnessing the past, the present, or a message from the future. Ultimately, the film asks how cinema can hold onto a world that is continually changing, and what remains when both landscapes and images begin to disappear.\n\nEOJ (Tianming (Alaric) Zhou b&w/sound | 16mm to digital | 2:22 | China/US)\n\nRegulatory signs shot on 16mm, hand-processed with caffenol, and subjected to both analog and digital corrosion. EOJ reimagines the anxiety induced by caffeine hypersensitivity and the pressures of social conditioning.\n\nAutopsia del Río (Ada Rajkovíc | color/sound | Super 8 to digital | 2:37 | US)\n\nInspired by David Gatten’s “What The Water Said,” this film uses the material of Super 8 celluloid itself to record the memories of the Río de la Plata, a former burial ground for los desaparecidos during Argentina’s military dictatorship.\n\nFlow Attachment (Tijana Petrovic | b&w/sound | 16mm to digital | 8:40 | US)\n\nA coastal sand dune is transformed and reshaped into digital ether. The film focuses closely on sand as a material, which is composed of silica, the mineral that is a primary ingredient in manufacturing silicon chips, lenses, binoculars, microscopes and mirrors – devices that extend our vision. The film uses these devices to visually capture the sand dune and evoke the transformation of materials that goes into their production. Through 16mm analog techniques, elemental forces of a sand dune merge with the physical properties of the celluloid.\n\nPolychora (Abinadi Meza | color/sound | 16mm to digital | 9:22 | US/Mex)\n\nA cameraless 16mm film, scanned to 4K and slowed into extreme temporal dilation: an aqueous prism where chromatic membranes evolve. Its title evokes the polychoron, a four dimensional form. Fractal traces surface within the color fields: analog and digital, cellular and cosmic, coexisting in the same luminous space. Polychora functions as a neuro refuge, a haptic cinema where the eyes and body can rest inside something vast.\n\nTactile Light Diary (Callon Murphy | b&w/sound | 8mm to digital | 6:00 | CA)\n\nTouch replicated through audiovisual means./Fabric structures exposed and magnified.\n\nTextiles dance over microphone and screen./Images burst to the forefront.\n\nFirst a beach, then an unclean pool./Summer slips into fall./ Details are forgotten or misremembered./The retained memory of tactile objects.\n\nNeed and Desire (Francesca Svampa | color/sound | Super 8 to digital | 8:24 | Spain/Italy)\n\nA gesture of erasure. A spell. If you lift the emulsion from a photograph, destroy its surface, transplant it onto a new body, does the memory it carried survive? “Need and Desire” originates from this question, and from the poetic belief that making a film can alter reality. The cinematic act becomes [an] incantation: a process that destroys and reconstructs simultaneously. Still memories become an “emulsional” landscape.\n\nFata Morgana (Hannu Nieminen | color + b&w/sound | Super 8 to digital | 5:16 | Finland)\n\nFata Morgana is a mirage phenomenon in which distant objects appear distorted, often floating or stretched out on the horizon. The film is an experimental study of memory, images and filming, and how memories can transform, rust and disintegrate. The photographs are from a summer spent on the banks of the Terijoki River in Karelia, which [the] Soviet Union took from Finland after WWII.\n\nInterwoven Intervals (Laura Kraning | b&w/sound | 16mm to digital | 6:00 | US)\n\nPattern drafts are the graphical score for weaving – grids of light and dark representing the over and under of weft threads between the warps. In this material hybrid of film and textile, the graphic repetition of grids, lines, and squares assert a structural form that is fragile and vulnerable to erasure.\n\nLa Duréte du Mental/Mental Toughness (Charles-Andre Coderre | color/sound | 35mm to digital *wide* | 20:00 | CA)\n\n“It’s a distraction for many, a profession for a few, when for me sport is my whole life. And if fighting is the reason you’re living. If every muscle clamors : train me, exercise, put on a sprint. Find a competitor or at least fight against a pole. It’s hard to get started but it’s otherwise difficult to stop. Even with your back against the mat. Never mind. You have to stand up and go further. You will now have to fight against yourself.” Transforming Olympic wrestling and pole vaulting Soviet films from the 1980s into expressive, painterly imagery, the film appears as a film practitioner’s decathlon.",
-   "runtime": 85,
-   "genres": [
-    "Shorts",
-    "Experimental"
-   ],
-   "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/tactilitymemory1600-1200x675.png",
-   "links": {
-    "nwff": "https://nwfilmforum.org/films/engauge-2026-tactility-and-memory/"
-   }
-  },
-  {
    "id": "engauge-2026-tainted",
    "title": "Engauge 2026 – Tainted",
    "description": "This program gathers a group of films that confront the various underbellies of life: deceptive icons, devastated landscapes, climate change, predatory advertising, drug addiction, toxic politics and environmental disasters, among others, using found footage emulsion lifting, documentary techniques, handmade film and cameras, single framing, and narrative strategies.\n\nFILMS IN THIS PROGRAM:\n\nFront Ear Theory (Brady Lewis | color/sound | 5:12 | S8 to digital | US)\n\n“Front Ear Theory” is a five-minute history lesson. To be more precise, it’s a story about a history lesson. Or about a history teacher. It’s an experimental narrative that was shot entirely on super-8 (mostly Kodachrome) film.\n\nBigger Than Us, The Berkeley Pit, Butte, Montana (Dominic Angerame, color/sound | 9:00 | 16mm to digital | US)\n\nA portrait of a huge open-air copper mine in Butte, Montana. The closed mine dominates the city geographically, and also financially, culturally, historically, and in the on-going health effects from the highly toxic metals and chemicals which fill the bright blue-green water in the pit. (The pit is a designated Superfund site.) After a few opening titles which briefly introduce us to the pit and its history, the film becomes a wordless visual montage, almost always superimposing several layers of footage. – David Finkelstein\n\nBlu/Blue (Andrea Nevi | color/sound | 4:47 | Super 8 to digital | Italy)\n\nA community displaced by a climate disaster settles in a new habitat, where memories of their former way of life slowly begin to resurface. BLU is an experimental climate fiction short film made entirely from Super 8mm found footage recovered from a flea market.\n\nInjured? (Eislow Johnson | color/sound | 13:28 | 16mm to digital | US)\n\nNeed help? Crashouts, manifestation influencers and injury lawyers collide in this breakneck ride through the Midwest. 50 years after attorney ads were first legalized in the U.S., their ubiquitous self-portraits (allegedly) invoke a churn-and-burn economy of volume, velocity, fears and veneers.\n\nWhat You Don't See (Karl Nussbaum | color/sound | 1:25 | 16mm to digital | US)\n\nThis film is about what the audience doesn’t see when we watch a film – the sprockets, the optical soundtrack, the splicing tape, the celluloid itself, the frame lines, etc. This is a very short Direct Animation film I made at MONO NO AWARE in Brooklyn. It’s totally analog and was made using only 16 mm and Super 8 found footage film strips.\n\nOn The Glue (Dave Johnson | color/sound | 3:02 | 16mm to digital | CA)\n\nFrom the depths of London, England’s Barracks district amongst the derelict weapons huts, comes a public service expose from the 1970s revealing “THE HORRORS” of kids participating in the act of glue sniffing. The narrative is told in three parts: The reporter, a mother, and her “addict son” David. This film and its title have been appropriated from a 1970’s BBC expose. The visual treatment exposed the footage (and the filmmaker) by gluing pieces of film together then ripping it apart. This becomes an interesting metaphor of creating using the substance of the problem presented in the film. The film was edited by hand and sequenced using measurements to time each shot.\n\nThe Gloaming (Charlotte Pryce | color/sound | 14:00 | 16mm to digital | US)\n\nA metaphorical tale of pyrophytic transmutation, of metamorphosis through fire. Inspired by medieval paintings of celestial portents, The Gloaming is a work of bio-mysticism that takes the form of a fable. The slippage between substances and the ethereal nature of matter finds a parallel in the chemical accretions of the hand processed film. In a time of environmental uncertainty, the film offers a story of adaptation and survival.\n\nThought/Action (Dirk De Bruyn | color/sound | 10:27 | 16mm to digital | AU)\n\nInitiated in 1996 and belatedly completed in 2026, this home-processed 16mm film material was inspired by Marc Adrian’s Total (1968) and incorporates Moucle Blackout and Laszlo Dudas’s voices. Partially shot at Hearst’s San Simeon Castle, Canada and Royal Melbourne Show, it is an exploration of overcoming traumatic thoughts through materialist actions onto the film surface. The completion gap demonstrates the power of and resistance to traumatic events.\n\nBetter Lighting (Kathryn Ramey | color/sound | 2:13 | 16mm to digital | US)\n\nAn agitprop made from two 30-second GE adverts from the 1970s repurposed to rebuke the role white women voters in the US have chosen to uphold white supremacy and the patriarchy instead of supporting the interests of women and anyone who loves them.\n\nNecropolis (Kevin T. Allen | color/sound | 8:53 | Super 8 to digital | US)\n\nA Stone Tape film inspired by the yellow fever epidemic in 19th century New Orleans, using analog camera techniques and contact microphones to excavate the material traces of trauma. Coined by archaeologist and parapsychologist T.C. Lethbridge, Stone Tape Theory posits that material objects record traumatic events of the past…and that they can be played back.\n\nGood Neighbors Care (Kate E. Hinshaw | color/sound | 3:50 | 16mm to digital | US)\n\nFor decades chemical company DuPont and its subsidiary Chemours poisoned North Carolina’s drinking water through illegally dumping forever chemicals into the Cape Fear River. On altered 16mm film, corporate promises of community care and pure water dissolve as rivers and bodies merge in a meditation on what it means to exist in an imperfect environment.\n\nNorth (Hogan Seidel | b&w/sound | 3:00 | 16mm to digital | US)\n\nI found a decaying print of Nanook of the North and continued its collapse through photochemical processes, confronting the violence of its legacy. “North” is not a restoration, but a reckoning—an act of holding damaged images until they blur, bleed, and refuse the gaze that once claimed them.\n\nAssets (Christine Lucy Latimer | color/sound | 2:22 | 16mm print | CA)\n\nHundreds of digitally generated filters and assets used by online content creators to simulate a “shot on film” aesthetic are collaged together on expired 16mm Ektachrome. Random contemporary approximations of film artifacts, ranging from industrial to experimental, move through the frame in impossible trajectories. A film of transitions that never transition, positioning moving image signifiers in a post-truth era.\n\nAshes to Ashes (Sidney Gordon | color/sound | 5:00 | 16mm print | CA)\n\n“Ashes to Ashes” depicts fragments of the artist’s diary as they undergo physical and emotional transformation through a blazing agricultural landscape. Words turn to ash as the past is consumed by flames. Rivers ignite from embers, flow through vessels and begin to crack. Manifested through the land and material processes lies a situated reflection on recovery, loss and evolution. The film was shot at the 2024 Independent Imaging Retreat. It was developed with common comfrey and contaminated wood ash foraged from the farm and was coated in the artist’s blood.",
@@ -798,18 +735,6 @@
    "image": "https://nwfilmforum.org/wp-content/uploads/2026/10/wearealltogether1600-1200x675.png",
    "links": {
     "nwff": "https://nwfilmforum.org/films/engauge-2026-we-are-all-together/"
-   }
-  },
-  {
-   "id": "escape-from-new-york",
-   "title": "Escape From New York",
-   "description": "In 1997, a major war between the United States and the Soviet Union is concluding, and the entire island of Manhattan has been converted into a giant maximum security prison. When Air Force One is hijacked and crashes into the island, the president (Donald Pleasence) is taken hostage by a group of inmates. Snake Plissken (Kurt Russell), a former Special Forces soldier turned criminal, is recruited to retrieve the president in exchange for his own freedom.",
-   "runtime": 99,
-   "year": 1981,
-   "rating": "R",
-   "image": "https://d27ush0hbdz2nj.cloudfront.net/7f40dfdad8da56b719d27d83f05a36db/EscapeFromNewYorkSquare.png",
-   "links": {
-    "north-bend": "https://tix.northbendtheatre.com/event/escape-from-new-york-presented-by-jeff-warren-wednesday-november-4th-7pm"
    }
   },
   {
@@ -882,6 +807,18 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/Cinema%20Italian%20Style%202026/REN_CIS26_Gioia_1600x900.png",
    "links": {
     "siff-uptown": "https://www.siff.net/programs-and-events/cinema-italian-style-2026/gioia"
+   }
+  },
+  {
+   "id": "girl-with-hyacinths",
+   "title": "Girl with Hyacinths",
+   "description": "One of the most acclaimed Swedish films of all time (heralded as a masterpiece by no less than Ingmar Bergman), this moody, masterfully crafted psychological mystery unfolds in a tantalizing series of Wellesian flashbacks as the neighbors of an enigmatic young woman (Eva Henning) who committed suicide attempt to piece together the truth about what drove her to such a tragic end.\n\nVisually striking, with extreme long takes and images that drift into a dreamlike surrealism, this Nordic Noir reveals its secrets with grace and sympathy, moving toward a final revelation that seems at least a generation ahead of its time.\n\n“Because of its structure, some have likened the film to CITIZEN KANE, with the ‘Rosebud’ mystery at the center being soured idealism and thwarted queer desire, though in eschewing Great Man mythology to investigate the case of a wasted woman, as well as its downbeat atmospherics, it might just as easily be likened to Agnès Varda’s VAGABOND.” - Nick Pinkerton, ArtForum\n\n“A blanket of sorrow that has no end.” - Scumbalina",
+   "runtime": 89,
+   "year": 1950,
+   "director": "Hasse Ekman",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1793824449726-tb-girlwithhyacinths.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/girl-with-hyacinths"
    }
   },
   {
@@ -967,26 +904,6 @@
    "image": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/dZVHrtaZa5MsuPc4gW72e3S9bii.jpg",
    "links": {
     "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed"
-   }
-  },
-  {
-   "id": "hocus-pocus",
-   "title": "Hocus Pocus",
-   "description": "After three centuries, three witch sisters are resurrected in Salem Massachusetts on Halloween night, and it is up to two teenagers, a young girl, and an immortal cat to put an end to the witches' reign of terror once and for all.\nStarring Bette Midler, Sarah Jessica Parker, and Kathy Najimy",
-   "runtime": 96,
-   "year": 1993,
-   "director": "Kenny Ortega",
-   "country": "United States",
-   "language": "English",
-   "rating": "PG",
-   "genres": [
-    "Fantasy",
-    "Comedy",
-    "Family"
-   ],
-   "image": "https://indy-systems.imgix.net/upvblpb06vn9w3ql0mjqpdtqiuuf?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
-   "links": {
-    "central-cinema": "https://central-cinema.com/movie/hocus-pocus/"
    }
   },
   {
@@ -1337,10 +1254,17 @@
    "description": "One afternoon in August 1972, at the behest of legendary, genre-defying filmmaker William Greaves, a coterie of luminaries from the Harlem Renaissance gathered—with cameras rolling—for an intimate party in Duke Ellington’s townhouse. Fifty years later, completed by Greaves’ son David, ONCE UPON A TIME IN HARLEM has emerged as a rapturous living archive of one of the most important artistic movements of the 20th century and, posthumously, one of the most important works in the Greaves filmography.\n\nA towering constellation of artists, poets, painters, musicians, scholars, and other notables appear throughout — among them Aaron Douglas, Arna Bontemps, Richard Bruce Nugent, James Van Der Zee, and Countee Cullen’s widow, Ida Mae Cullen. Free from any institutionalized gaze and structure, they congregate around a large punch bowl to drink, reminisce, banter, and passionately debate their legacy. The conversations we’re privy to flow naturally and candidly, marked variously by humour, fervour, reflexive insight, and not a bit of melancholy, as they take stock of their achievements in their older age.\n\nGreaves’ multiple 16mm cameras are at the heart of the action, capturing and partaking in the collegial repartee, while the deft, contemporary editing balances the original ’70s textures with an exhilarating, contemporary immediacy, tracing the urgency of these artists and their ideas from the 1920s through to the 1970s and to our present moment.\n\nFunctioning as well as a dynamic inquiry into the ways culture is actively inherited and sustained across disciplines, and creates communities of protest and survival, ONCE UPON A TIME IN HARLEM is a monumental reclamation of cinematic and cultural memory.",
    "runtime": 100,
    "year": 2026,
-   "director": "William Greaves",
+   "director": "David Greaves",
+   "country": "United States",
+   "language": "English",
+   "rating": "PG-13",
+   "genres": [
+    "Documentary"
+   ],
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792700683338-tb-onceuponatimeinharlem.png",
    "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/once-upon-a-time-in-harlem"
+    "beacon": "https://thebeacon.film/calendar/movie/once-upon-a-time-in-harlem",
+    "tasveer": "https://filmcenter.tasveer.org/movie/once-upon-a-time-in-harlem"
    }
   },
   {
@@ -1353,6 +1277,18 @@
    "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792698080396-tb-perditadurango.jpg",
    "links": {
     "beacon": "https://thebeacon.film/calendar/movie/perdita-durango"
+   }
+  },
+  {
+   "id": "perinbaba",
+   "title": "Perinbaba",
+   "description": "Giulietta Masina stars as a kindly winter fairy who rescues a fearless boy from Death and takes him into her enchanted mountain home. But even a life beyond Death’s reach cannot keep young Jakub from longing for the world below, where love awaits him. Drawing on the Brothers Grimm, Slovak visionary Juraj Jakubisko fills his film with mischievous humor and extravagant handmade magic, preserving the cruelty that gives fairy tales their power alongside their promise of happiness. A vortex of visual sumptuousness and practical effects ingenuity, PERINBABA is a Christmas TV staple in Slovakia, even with its many avant-garde qualities. Who doesn’t want to see Masina bouncing on a feather bed, sending snow tumbling down upon the earth?\n\n“'PERINBABA is one of the most singular, exquisitely shot, visually sumptuous fantasy films ever produced. The set pieces are truly lavish & sparkle with an ethereal quality that is uniquely Slovak, and uniquely Jakubisko.” - Ján Varga",
+   "runtime": 95,
+   "year": 1985,
+   "director": "Juraj Jakubisko",
+   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1793829096226-tb-perinbaba.png",
+   "links": {
+    "beacon": "https://thebeacon.film/calendar/movie/perinbaba"
    }
   },
   {
@@ -1797,24 +1733,6 @@
    }
   },
   {
-   "id": "star-trek-the-motion-picture",
-   "title": "Star Trek: The Motion Picture",
-   "description": "When a destructive space entity is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine, and hopefully stop it.",
-   "runtime": 130,
-   "year": 1979,
-   "director": "Robert Wise",
-   "rating": "G",
-   "genres": [
-    "Science fiction",
-    "Action",
-    "Adventure"
-   ],
-   "image": "https://all.web.img.acsta.net/img/94/d1/94d1c30080cf0fdfe54e57e4d3d52f60.jpg",
-   "links": {
-    "majestic-bay": "https://www.majesticbay.com/movies/13022-star-trek-the-motion-picture/"
-   }
-  },
-  {
    "id": "stffshorts-documentary-selection",
    "title": "STFFShorts - Documentary Selection",
    "description": "Anemoia: A Letter From Future\nZeynep Ceren Özden | TURKEY | 2026 | 21 min\nAfter discovering her passion for cinema in a small building called the Film Center at her university, a student decides to explore the memories of the place and the people who once shared the same passion.\n\nColor of the Stone\nTugba Yasar | TURKEY | 2025 | 8 min\nBased on a family album, the film traces how the Kurdish villages burned in the 90s are transformed in the collective memory passed down from generation to generation, at the intersection of the personal and the social.\n\nEveryone is Don Quixote Here\nEkrem Çanak | TURKEY | 2025 | 26 min\nFirst comers blame the next comers for the deterioration of the neighborhood. This film traces the marks and effects of the gentrification process in the historic Yeldegirmeni neighborhood of Kadıköy.\n\nI Am 12.000 Years Old\nBatuhan Karadagoglu | TURKEY | 2026 | 32 min\nA quiet yet profound story that questions the significance of individual effort in sustaining collective memory. Set in a remote village in Turkey, it brings to light the humble resistance of a hero overlooked by the modern world.",
@@ -1851,23 +1769,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Rentals/Rentals%20Jun%20-%20Dec%202026/Seattle%20Turkish%20FF%202026/REN_STFF26Narrative2_1600x900.png",
    "links": {
     "siff-uptown": "https://www.siff.net/cinema/in-theaters/seattle-turkish-film-festival-2026/stffshorts-narrative-selection-2"
-   }
-  },
-  {
-   "id": "street-fighter",
-   "title": "Street Fighter",
-   "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-   "runtime": 129,
-   "year": 2026,
-   "director": "Kitao Sakurai",
-   "rating": "PG-13",
-   "genres": [
-    "Action",
-    "Fantasy"
-   ],
-   "image": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-   "links": {
-    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter"
    }
   },
   {
@@ -1968,33 +1869,20 @@
   {
    "id": "cat-in-the-hat",
    "title": "The Cat in the Hat",
-   "description": "During a rainy day, and while their mother is out, Conrad and Sally, and their pet fish, are visited by the mischievous Cat in the Hat. Fun soon turns to mayhem, and the siblings must figure out how to rid themselves of the maniacal Cat.",
-   "runtime": 124,
-   "director": "Bo Welch",
+   "description": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
+   "runtime": 114,
+   "year": 2026,
+   "director": "Erica Rivinoja, Alessandro Carloni",
    "rating": "PG",
    "genres": [
-    "Fantasy",
+    "Animation",
+    "Comedy",
     "Adventure",
-    "Family",
-    "Comedy"
+    "Fantasy"
    ],
-   "image": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/uYYLz67e5xEQMsY858VSSCDsLU6.jpg",
+   "image": "https://image.tmdb.org/t/p/w300/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
    "links": {
-    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater"
-   }
-  },
-  {
-   "id": "devils",
-   "title": "The Devils",
-   "description": "An enduring masterpiece of cinema starring Oliver Reed and Vanessa Redgrave, KEN RUSSELL’S THE DEVILS is a prescient epic of obsession and corruption –and a defining work of art from seminal filmmaker Ken Russell. KEN RUSSELL’S THE DEVILS is the uncut and unfiltered theatrical experience that Russell always envisioned – and the first time the film will be presented restored and in 4K.",
-   "runtime": 114,
-   "year": 1971,
-   "director": "Ken Russell",
-   "country": "United Kingdom, USA",
-   "rating": "NC-17",
-   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_TheDevils_1600x900.png",
-   "links": {
-    "siff-downtown": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils"
+    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat"
    }
   },
   {
@@ -2009,18 +1897,6 @@
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/SMC/CIN_SMC_DiscreetCharm_1600x900.png",
    "links": {
     "siff-uptown": "https://www.siff.net/programs-and-events/siff-movie-club/the-discreet-charm-of-the-bourgeoisie"
-   }
-  },
-  {
-   "id": "girl-can-t-help-it",
-   "title": "The Girl Can't Help It",
-   "description": "In 1956, rock and roll was threatening to destroy American civilization, and Jayne Mansfield was threatening to destroy the structural integrity of the buildings around her. Naturally, Frank Tashlin decided to put them both in the same movie. Mansfield plays Jerri Jordan, a spectacularly proportioned blonde whose gangster boyfriend (Edmond O’Brien) is determined to make her a singing sensation, despite the minor complication that she may not actually be able to sing. Enter a washed-up talent agent (Tom Ewell), who discovers that behind Jerri’s world-famous figure is a sweet, ordinary girl whose greatest ambition is to stay home and cook dinner. Unfortunately, the rest of America has other plans for her.\n\nA former Looney Tunes animator with a genius for turning the human body into a public safety hazard, Tashlin unleashes a CinemaScope carnival of exploding milk bottles, melting ice, screaming teenagers, colors that practically glow in the dark. Between the gags comes an astonishing parade of rock and roll royalty, including Little Richard, Fats Domino, Gene Vincent, Eddie Cochran, and the Platters, captured at the precise moment their music was driving parents out of their minds.\n\nPart jukebox musical, part sex comedy, part deranged investigation into the American entertainment industry, THE GIRL CAN'T HELP IT is a movie that understands two fundamental truths about show business: sex sells, and nobody in charge has the slightest idea what young people actually want. Tashlin makes a glorious spectacle of the whole ridiculous enterprise, somehow managing to celebrate American popular culture and accuse it of crimes against humanity at the same time.",
-   "runtime": 99,
-   "year": 1956,
-   "director": "Frank Tashlin",
-   "image": "https://v4sbluaw4a7zyg44.public.blob.vercel-storage.com/movies/1792627172721-tb-thegirlcanthelpit.png",
-   "links": {
-    "beacon": "https://thebeacon.film/calendar/movie/the-girl-can-t-help-it"
    }
   },
   {
@@ -2109,18 +1985,6 @@
    }
   },
   {
-   "id": "last-temptation-of-becky",
-   "title": "The Last Temptation of Becky",
-   "description": "Now a CIA field agent, Becky (Lulu Wilson) goes undercover in Poland to infiltrate a family running an inn at The Wolf's Lair, one of Hitler's WWII bunkers. When she learns the father, Wilhelm Reuss (Neil Patrick Harris), plans to spark the Fourth Reich, Becky must stop him.",
-   "runtime": 89,
-   "year": 2026,
-   "director": "Jenn Wexler",
-   "image": "https://grandillusioncinema.org/wp-content/uploads/2026/10/lasttemptationofbeckyposter-1.jpg",
-   "links": {
-    "grand-illusion": "https://grandillusioncinema.org/film/the-last-temptation-of-becky/"
-   }
-  },
-  {
    "id": "life-we-leave",
    "title": "The Life We Leave",
    "description": "Micah Truman has been at the forefront of shaping the market for legal human composting in Washington State. Formerly a businessman outside of the death industry, he brings on funeral directors Katey Houston and Brie Smith to workshop the humanity that is revealed when death is raw. The team paves the way in revolutionizing the future of death care by renouncing outdated funeral practices and returning to human roots of community care during the transition at the end of life. Truman creates a facility to naturalize the process, where bodies can be broken down into soil. The merger of business pitches and financial feasibility cracks open the basis of loss and grief in an extractive world to facilitate delicate and empathetic care. JJ Gerber's directorial debut accesses the transformative power of the evolving death industry at its most human.\n\n—Aly Shwedo\n\n“Gerber’s film makes one consider that how we leave this world may matter less than what we choose to leave behind. Is death an ending, or merely a continuation?” – Mike Ward, Should I See It",
@@ -2165,6 +2029,20 @@
    "image": "https://indy-systems.imgix.net/0x2gijkn6t1jk2oavnrx9z1trlnu?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
    "links": {
     "central-cinema": "https://central-cinema.com/movie/the-muppet-christmas-carol/"
+   }
+  },
+  {
+   "id": "musical-w-director-q-and-a",
+   "title": "The Musical w/ Director Q&A",
+   "description": "Convinced he’s a big fish stuck in a small pond, playwright Doug Leibowitz has been marking time as a theater teacher until he can get himself to New York, where the serious playwrights live. But when an unexpected breakup shocks him and then he finds out that his ex has been dating the person he hates most in the world, the school principal, his plans turn from purely self-interested...to diabolical. With the coveted Blue Ribbon award just within Principal Brady’s grasp and the principal on high alert, Doug secretly has his middle schoolers rehearse and then perform a play so inappropriate, the only result could be the ruin of Principal Brady’s reputation.",
+   "runtime": 84,
+   "year": 2026,
+   "director": "Giselle Bonilla",
+   "country": "USA",
+   "language": "English",
+   "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_TheMusical_1600x900.png",
+   "links": {
+    "siff-film-center": "https://www.siff.net/cinema/in-theaters/the-musical-w/-director-qanda"
    }
   },
   {
@@ -2250,19 +2128,6 @@
    "image": "https://indy-systems.imgix.net/ft8rget6a5qd5o1td85n3f7xv6zm?fit=crop&w=1200&h=600&fm=jpeg&auto=format,compress",
    "links": {
     "central-cinema": "https://central-cinema.com/movie/the-room/"
-   }
-  },
-  {
-   "id": "shining",
-   "title": "The Shining",
-   "description": "When writer Jack Torrance (Nicholson)—who has a history of alcoholism and child abuse—takes a job as winter caretaker for a hotel high in the Rocky Mountains, he, his wife (Duvall) and their psychic young son will be isolated until spring. But once the first blizzard closes the road out, the accumulated power of evil deeds committed at the hotel begins to drive Jack mad. Now there may be no escape for his wife and son in this haunting madness, memory and family violence.",
-   "runtime": 144,
-   "year": 1980,
-   "director": "Stanley Kubrick",
-   "country": "USA, United Kingdom",
-   "image": "https://www.siff.net/images/CINEMA/2024/Films%20June-Dec/CIN_TheShining_1600x900.jpg",
-   "links": {
-    "siff-downtown": "https://www.siff.net/cinema/in-theaters/the-shining"
    }
   },
   {
@@ -2448,22 +2313,6 @@
    }
   },
   {
-   "id": "whalefall",
-   "title": "Whalefall",
-   "description": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
-   "runtime": 116,
-   "year": 2026,
-   "director": "Brian Duffield",
-   "rating": "PG-13",
-   "genres": [
-    "Thriller"
-   ],
-   "image": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-   "links": {
-    "admiral": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall"
-   }
-  },
-  {
    "id": "where-is-the-fiesta",
    "title": "Where Is the Fiesta?",
    "description": "Set in contemporary Rome, Where Is the Fiesta? follows Leo and Irene, a couple in their mid-thirties who, after three and a half months together, still have no idea where their relationship is heading. With New Year’s Eve just ten days away, they must decide whether to spend it together and take the next step toward making their relationship official. Leo is an aspiring actor from Fucecchio who juggles a string of odd jobs to make ends meet, while Irene is a screenwriter and screenwriting teacher torn between her feelings and her doubts about their future.",
@@ -2517,14 +2366,22 @@
   {
    "id": "wild-horse-nine",
    "title": "Wild Horse Nine",
-   "description": "Two CIA agents (John Malkovich and Sam Rockwell) are sent on a mission to Easter Island, where one faces an existential crisis over his past actions, in Martin McDonagh’s latest dark comedy.",
+   "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
    "runtime": 118,
    "year": 2026,
    "director": "Martin McDonagh",
    "country": "USA, Chile",
+   "language": "English",
+   "rating": "R",
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+   ],
    "image": "https://www.siff.net/images/CINEMA/2026/Films%20Jun-Dec/CIN_WildHorseNine_1600x900.png",
    "links": {
-    "siff-uptown": "https://www.siff.net/cinema/in-theaters/wild-horse-nine"
+    "siff-uptown": "https://www.siff.net/cinema/in-theaters/wild-horse-nine",
+    "tasveer": "https://filmcenter.tasveer.org/movie/wild-horse-nine-2"
    }
   },
   {
@@ -2649,268 +2506,6 @@
  "showings": [
   {
    "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-11-04T15:00:00-08:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36601?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-11-04T15:15:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17260/793"
-  },
-  {
-   "film": "wildwood",
-   "theater": "majestic-bay",
-   "start": "2026-11-04T15:15:00-08:00",
-   "url": "https://www.majesticbay.com/movies/296439-wildwood/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36602?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-11-04T15:20:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17262/800"
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-11-04T15:30:00-08:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36603?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "siff-uptown",
-   "start": "2026-11-04T15:30:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
-   "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-7u7xBA4Dr1"
-  },
-  {
-   "film": "wildwood",
-   "theater": "admiral",
-   "start": "2026-11-04T15:35:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/wildwood",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17263/797"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-11-04T15:40:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17258/794"
-  },
-  {
-   "film": "girl-can-t-help-it",
-   "theater": "beacon",
-   "start": "2026-11-04T16:00:00-08:00",
-   "url": "https://thebeacon.film/calendar/movie/the-girl-can-t-help-it",
-   "tickets": "https://thebeacon.film/calendar/movie/the-girl-can-t-help-it?showtime=ZTUXL3EZ6CVE4CB3YSFSLOYL"
-  },
-  {
-   "film": "hocus-pocus",
-   "theater": "central-cinema",
-   "start": "2026-11-04T16:00:00-08:00",
-   "url": "https://central-cinema.com/movie/hocus-pocus/",
-   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080470",
-   "notes": [
-    "Family"
-   ]
-  },
-  {
-   "film": "devils",
-   "theater": "siff-downtown",
-   "start": "2026-11-04T16:00:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils",
-   "tickets": "https://www.siff.net/cinema/in-theaters/ken-russells-the-devils#screening-WyUWQH8X0i"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-11-04T16:15:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-PTEJ9HKMiU"
-  },
-  {
-   "film": "fatherland",
-   "theater": "siff-uptown",
-   "start": "2026-11-04T16:30:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
-   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-37ZLgO1y5p"
-  },
-  {
-   "film": "wicker",
-   "theater": "tasveer",
-   "start": "2026-11-04T17:30:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/wicker",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wicker/4226396"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "admiral",
-   "start": "2026-11-04T18:00:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17259/793"
-  },
-  {
-   "film": "only-living-pickpocket-in-new-york",
-   "theater": "tasveer",
-   "start": "2026-11-04T18:00:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4178086"
-  },
-  {
-   "film": "street-fighter",
-   "theater": "admiral",
-   "start": "2026-11-04T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/street-fighter",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17257/794"
-  },
-  {
-   "film": "wicker",
-   "theater": "majestic-bay",
-   "start": "2026-11-04T18:30:00-08:00",
-   "url": "https://www.majesticbay.com/movies/322884-wicker/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36605?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "majestic-bay",
-   "start": "2026-11-04T18:30:00-08:00",
-   "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36604?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
-  },
-  {
-   "film": "castration-movie-chapter-iii-junior-ghosts-premorphic-drift-",
-   "theater": "nwff",
-   "start": "2026-11-04T18:30:00-08:00",
-   "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6ad50da1b3e7c982205157c8"
-  },
-  {
-   "film": "whalefall",
-   "theater": "admiral",
-   "start": "2026-11-04T18:40:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/whalefall",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17256/795"
-  },
-  {
-   "film": "you-can-see-everything",
-   "theater": "tasveer",
-   "start": "2026-11-04T18:45:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/you-can-see-everything-2026-usa",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/you-can-see-everything-2026-usa/4178083"
-  },
-  {
-   "film": "clayface",
-   "theater": "admiral",
-   "start": "2026-11-04T19:00:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/clayface",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17261/800"
-  },
-  {
-   "film": "hocus-pocus",
-   "theater": "central-cinema",
-   "start": "2026-11-04T19:00:00-08:00",
-   "url": "https://central-cinema.com/movie/hocus-pocus/",
-   "tickets": "https://central-cinema.com/checkout/showing/hocus-pocus/4080471",
-   "notes": [
-    "Family"
-   ]
-  },
-  {
-   "film": "star-trek-the-motion-picture",
-   "theater": "majestic-bay",
-   "start": "2026-11-04T19:00:00-08:00",
-   "url": "https://www.majesticbay.com/movies/13022-star-trek-the-motion-picture/",
-   "tickets": "https://ticketing.us.veezi.com/purchase/36382?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
-   "notes": [
-    "Retro Night"
-   ]
-  },
-  {
-   "film": "escape-from-new-york",
-   "theater": "north-bend",
-   "start": "2026-11-04T19:00:00-08:00",
-   "url": "https://tix.northbendtheatre.com/event/escape-from-new-york-presented-by-jeff-warren-wednesday-november-4th-7pm",
-   "tickets": "https://tix.northbendtheatre.com/event/escape-from-new-york-presented-by-jeff-warren-wednesday-november-4th-7pm",
-   "notes": [
-    "Presented by Jeff Warren",
-    "Free"
-   ]
-  },
-  {
-   "film": "engauge-2026-tactility-and-memory",
-   "theater": "nwff",
-   "start": "2026-11-04T19:00:00-08:00",
-   "url": "https://nwfilmforum.org/films/engauge-2026-tactility-and-memory/",
-   "tickets": "https://nwfilmforum.eventive.org/schedule/6ac54041dfd1d1dc8a50ca6c"
-  },
-  {
-   "film": "shining",
-   "theater": "siff-downtown",
-   "start": "2026-11-04T19:00:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/the-shining",
-   "tickets": "https://www.siff.net/cinema/in-theaters/the-shining#screening-oNTKFd6uPx"
-  },
-  {
-   "film": "wicker",
-   "theater": "siff-uptown",
-   "start": "2026-11-04T19:00:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/wicker",
-   "tickets": "https://www.siff.net/cinema/in-theaters/wicker#screening-DBU5Ht4p5b"
-  },
-  {
-   "film": "last-temptation-of-becky",
-   "theater": "grand-illusion",
-   "start": "2026-11-04T19:30:00-08:00",
-   "url": "https://grandillusioncinema.org/film/the-last-temptation-of-becky/",
-   "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=664926~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
-  },
-  {
-   "film": "a-man-and-a-woman",
-   "theater": "siff-uptown",
-   "start": "2026-11-04T19:30:00-08:00",
-   "url": "https://www.siff.net/programs-and-events/nouvelles-femmes/a-man-and-a-woman",
-   "tickets": "https://www.siff.net/programs-and-events/nouvelles-femmes/a-man-and-a-woman#screening-ymZEn68mqm",
-   "notes": [
-    "Nouvelles Femmes",
-    "60th Anniversary"
-   ]
-  },
-  {
-   "film": "fatherland",
-   "theater": "siff-uptown",
-   "start": "2026-11-04T19:45:00-08:00",
-   "url": "https://www.siff.net/cinema/in-theaters/fatherland",
-   "tickets": "https://www.siff.net/cinema/in-theaters/fatherland#screening-tHiVwZYlwN"
-  },
-  {
-   "film": "wicker",
-   "theater": "tasveer",
-   "start": "2026-11-04T19:50:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/wicker",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wicker/4226395"
-  },
-  {
-   "film": "only-living-pickpocket-in-new-york",
-   "theater": "tasveer",
-   "start": "2026-11-04T20:05:00-08:00",
-   "url": "https://filmcenter.tasveer.org/movie/the-only-living-pickpocket-in-new-york",
-   "tickets": "https://filmcenter.tasveer.org/checkout/showing/the-only-living-pickpocket-in-new-york/4178085"
-  },
-  {
-   "film": "a-nightmare-on-elm-street",
-   "theater": "central-cinema",
-   "start": "2026-11-04T21:30:00-08:00",
-   "url": "https://central-cinema.com/movie/a-nightmare-on-elm-street/",
-   "tickets": "https://central-cinema.com/checkout/showing/a-nightmare-on-elm-street/4080569"
-  },
-  {
-   "film": "you-can-see-everything",
    "theater": "admiral",
    "start": "2026-11-05T15:00:00-08:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
@@ -2934,8 +2529,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-05T15:20:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17336/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17336/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -3052,8 +2647,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-05T18:45:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17340/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17340/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -3202,8 +2797,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-06T15:20:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17397/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17397/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -3320,8 +2915,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-06T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17346/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17346/799"
   },
   {
    "film": "you-can-see-everything",
@@ -3439,11 +3034,42 @@
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17401/793"
   },
   {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-06T21:10:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17400/799",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "true-stories",
    "theater": "central-cinema",
    "start": "2026-11-06T21:30:00-08:00",
    "url": "https://central-cinema.com/movie/true-stories/",
    "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180375"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-06T21:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17399/814",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "jimmy",
+   "theater": "admiral",
+   "start": "2026-11-06T21:45:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17398/801",
+   "notes": [
+    "Special advance screening",
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "secs-fest-2026",
@@ -3525,8 +3151,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-07T12:40:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17487/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17487/799"
   },
   {
    "film": "stffshorts-narrative-selection-2",
@@ -3601,8 +3227,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-07T15:20:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17488/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17488/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -3720,8 +3346,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-07T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17406/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17406/799"
   },
   {
    "film": "you-can-see-everything",
@@ -3839,11 +3465,42 @@
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17413/793"
   },
   {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-07T21:10:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17412/799",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "true-stories",
    "theater": "central-cinema",
    "start": "2026-11-07T21:30:00-08:00",
    "url": "https://central-cinema.com/movie/true-stories/",
    "tickets": "https://central-cinema.com/checkout/showing/true-stories/4180378"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-07T21:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17410/814",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "jimmy",
+   "theater": "admiral",
+   "start": "2026-11-07T21:45:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17411/801",
+   "notes": [
+    "Special advance screening",
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "secs-fest-2026",
@@ -3894,6 +3551,17 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/wild-horse-nine#screening-8N9osWS8Th"
   },
   {
+   "film": "jimmy",
+   "theater": "admiral",
+   "start": "2026-11-08T12:15:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17499/801",
+   "notes": [
+    "Special advance screening",
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "wicker",
    "theater": "majestic-bay",
    "start": "2026-11-08T12:15:00-08:00",
@@ -3901,11 +3569,31 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36675?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-08T12:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17508/814",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "siff-uptown",
    "start": "2026-11-08T12:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/you-can-see-everything",
    "tickets": "https://www.siff.net/cinema/in-theaters/you-can-see-everything#screening-Y3Rl6ywNcQ"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-08T12:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17507/799",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "la-bola-negra",
@@ -3990,8 +3678,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-08T15:20:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17503/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17503/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -4122,8 +3810,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-08T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17495/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17495/799"
   },
   {
    "film": "you-can-see-everything",
@@ -4227,8 +3915,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-09T15:20:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17482/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17482/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -4328,8 +4016,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-09T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17481/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17481/799"
   },
   {
    "film": "you-can-see-everything",
@@ -4461,6 +4149,26 @@
    "tickets": "https://ticketing.us.veezi.com/purchase/36630?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
   },
   {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-10T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17458/799",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-10T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17460/814",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "wicker",
    "theater": "majestic-bay",
    "start": "2026-11-10T15:30:00-08:00",
@@ -4555,11 +4263,42 @@
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17457/793"
   },
   {
+   "film": "jimmy",
+   "theater": "admiral",
+   "start": "2026-11-10T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17455/801",
+   "notes": [
+    "Special advance screening",
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-10T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17459/799",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "majestic-bay",
    "start": "2026-11-10T18:30:00-08:00",
    "url": "https://www.majesticbay.com/movies/1000051707-you-can-see-everything/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36662?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-10T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17461/814",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "godzilla-minus-zero",
@@ -4712,8 +4451,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-11T15:20:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17463/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17463/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -4827,8 +4566,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-11T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17467/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17467/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -4942,8 +4681,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-12T15:20:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17471/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17471/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5022,8 +4761,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-12T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17475/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17475/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5131,8 +4870,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-13T15:20:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17526/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17526/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5167,11 +4906,32 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-8FJMjPwmRO"
   },
   {
+   "film": "wild-horse-nine",
+   "theater": "tasveer",
+   "start": "2026-11-13T16:25:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/wild-horse-nine-2",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wild-horse-nine-2/4274041"
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-13T16:35:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4274044"
+  },
+  {
    "film": "zi",
    "theater": "nwff",
    "start": "2026-11-13T17:00:00-08:00",
    "url": "https://nwfilmforum.org/films/zi/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ab171da02ce9929ad1ac3d3"
+  },
+  {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "tasveer",
+   "start": "2026-11-13T17:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/once-upon-a-time-in-harlem/4274045"
   },
   {
    "film": "you-can-see-everything",
@@ -5184,8 +4944,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-13T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17523/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17523/799"
   },
   {
    "film": "a-simple-machine",
@@ -5252,11 +5012,32 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/3-days-in-september#screening-6waCfIUvnw"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-13T19:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4274043"
+  },
+  {
    "film": "godzilla-minus-zero",
    "theater": "siff-downtown",
    "start": "2026-11-13T19:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-pwtlSyAb6F"
+  },
+  {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "tasveer",
+   "start": "2026-11-13T19:30:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/once-upon-a-time-in-harlem/4274046"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "tasveer",
+   "start": "2026-11-13T19:45:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/wild-horse-nine-2",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wild-horse-nine-2/4274042"
   },
   {
    "film": "you-can-see-everything",
@@ -5266,11 +5047,41 @@
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17530/793"
   },
   {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-13T21:10:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17529/799",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "delicatessen",
    "theater": "central-cinema",
    "start": "2026-11-13T21:30:00-08:00",
    "url": "https://central-cinema.com/movie/delicatessen/",
    "tickets": "https://central-cinema.com/checkout/showing/delicatessen/4180747"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-13T21:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17527/814",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-13T21:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17598/802",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "vhs-uber-alles-presents",
@@ -5328,8 +5139,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-14T12:40:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17613/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17613/799"
   },
   {
    "film": "romanian-film-festival-seattle-kontinental-25",
@@ -5366,8 +5177,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-14T15:20:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17614/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17614/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5402,6 +5213,27 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/traffic#screening-2G5oQPEH6C"
   },
   {
+   "film": "wild-horse-nine",
+   "theater": "tasveer",
+   "start": "2026-11-14T16:25:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/wild-horse-nine-2",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wild-horse-nine-2/4274048"
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-14T16:35:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4274049"
+  },
+  {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "tasveer",
+   "start": "2026-11-14T17:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/once-upon-a-time-in-harlem/4274051"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "admiral",
    "start": "2026-11-14T18:05:00-08:00",
@@ -5422,8 +5254,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-14T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17605/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17605/799"
   },
   {
    "film": "again-again",
@@ -5454,6 +5286,13 @@
    ]
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-14T19:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4274050"
+  },
+  {
    "film": "romanian-film-festival-seattle-r-m-n",
    "theater": "siff-uptown",
    "start": "2026-11-14T19:05:00-08:00",
@@ -5468,6 +5307,20 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-BTmT9oIs6l"
   },
   {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "tasveer",
+   "start": "2026-11-14T19:30:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/once-upon-a-time-in-harlem/4274052"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "tasveer",
+   "start": "2026-11-14T19:45:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/wild-horse-nine-2",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wild-horse-nine-2/4274047"
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "admiral",
    "start": "2026-11-14T21:00:00-08:00",
@@ -5475,11 +5328,42 @@
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17611/793"
   },
   {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-14T21:10:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17610/799",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "delicatessen",
    "theater": "central-cinema",
    "start": "2026-11-14T21:30:00-08:00",
    "url": "https://central-cinema.com/movie/delicatessen/",
    "tickets": "https://central-cinema.com/checkout/showing/delicatessen/4180750"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-14T21:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17608/814",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "jimmy",
+   "theater": "admiral",
+   "start": "2026-11-14T21:45:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17609/801",
+   "notes": [
+    "Special advance screening",
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "auntie-mame",
@@ -5513,11 +5397,62 @@
    "tickets": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=665896~db6ae971-a7a0-4ce7-8336-1f487b58723c&"
   },
   {
+   "film": "jimmy",
+   "theater": "admiral",
+   "start": "2026-11-15T12:15:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17628/801",
+   "notes": [
+    "Special advance screening",
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-15T12:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17627/814",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-15T12:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17626/799",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "romanian-film-festival-seattle-the-yellow-tie",
    "theater": "siff-uptown",
    "start": "2026-11-15T12:50:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/the-yellow-tie",
    "tickets": "https://www.siff.net/cinema/in-theaters/romanian-film-festival-seattle-13th-edition/the-yellow-tie#screening-OWv7ividw0"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "tasveer",
+   "start": "2026-11-15T13:40:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/wild-horse-nine-2",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wild-horse-nine-2/4274056",
+   "notes": [
+    "Open captions"
+   ]
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-15T13:50:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4274055",
+   "notes": [
+    "Open captions"
+   ]
   },
   {
    "film": "strange-love-of-martha-ivers",
@@ -5534,6 +5469,16 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/the-heart-of-the-game#screening-i0XKh7Aujf",
    "notes": [
     "20th anniversary"
+   ]
+  },
+  {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "tasveer",
+   "start": "2026-11-15T14:15:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/once-upon-a-time-in-harlem/4274058",
+   "notes": [
+    "Open captions"
    ]
   },
   {
@@ -5574,8 +5519,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-15T15:20:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17625/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17625/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5617,11 +5562,32 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ab171da02ce9929ad1ac3d8"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-15T16:15:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4274054"
+  },
+  {
    "film": "you-sorta-know-it-s-gonna-end",
    "theater": "nwff",
    "start": "2026-11-15T16:30:00-08:00",
    "url": "https://nwfilmforum.org/films/you-sorta-know-its-gonna-end/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ac6afcf23850effe89a6889"
+  },
+  {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "tasveer",
+   "start": "2026-11-15T16:45:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/once-upon-a-time-in-harlem/4274057"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "tasveer",
+   "start": "2026-11-15T17:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/wild-horse-nine-2",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wild-horse-nine-2/4274053"
   },
   {
    "film": "you-sorta-know-it-s-gonna-end",
@@ -5675,8 +5641,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-15T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17621/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17621/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5735,8 +5701,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-16T15:20:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17633/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17633/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5771,11 +5737,32 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-7Gq8IoEu5a"
   },
   {
+   "film": "wild-horse-nine",
+   "theater": "tasveer",
+   "start": "2026-11-16T16:25:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/wild-horse-nine-2",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wild-horse-nine-2/4274060"
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-16T16:35:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4274061"
+  },
+  {
    "film": "strange-love-of-martha-ivers",
    "theater": "beacon",
    "start": "2026-11-16T17:00:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/the-strange-love-of-martha-ivers",
    "tickets": "https://thebeacon.film/calendar/movie/the-strange-love-of-martha-ivers?showtime=HBPUUN5HQYB7UNOJRHXRMBGX"
+  },
+  {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "tasveer",
+   "start": "2026-11-16T17:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/once-upon-a-time-in-harlem/4274064"
   },
   {
    "film": "you-can-see-everything",
@@ -5798,8 +5785,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-16T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17632/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17632/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -5838,6 +5825,13 @@
    ]
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-16T19:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4274059"
+  },
+  {
    "film": "you-sorta-know-it-s-gonna-end",
    "theater": "nwff",
    "start": "2026-11-16T19:30:00-08:00",
@@ -5852,6 +5846,20 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-IfwBRKer0S"
   },
   {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "tasveer",
+   "start": "2026-11-16T19:30:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/once-upon-a-time-in-harlem/4274063"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "tasveer",
+   "start": "2026-11-16T19:45:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/wild-horse-nine-2",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wild-horse-nine-2/4274062"
+  },
+  {
    "film": "delicatessen",
    "theater": "central-cinema",
    "start": "2026-11-16T21:30:00-08:00",
@@ -5864,6 +5872,26 @@
    "start": "2026-11-17T14:50:00-08:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17639/793"
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-17T15:20:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17641/799",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-17T15:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17643/814",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "wildwood",
@@ -5894,6 +5922,16 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-DH7HRXpFBY"
   },
   {
+   "film": "wild-horse-nine",
+   "theater": "tasveer",
+   "start": "2026-11-17T16:25:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/wild-horse-nine-2",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wild-horse-nine-2/4274065",
+   "notes": [
+    "Open captions"
+   ]
+  },
+  {
    "film": "will-success-spoil-rock-hunter",
    "theater": "beacon",
    "start": "2026-11-17T16:30:00-08:00",
@@ -5901,11 +5939,62 @@
    "tickets": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter?showtime=W3GOF7BA3ERTC5V4EQOZSNYV"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-17T16:35:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4274067",
+   "notes": [
+    "Open captions"
+   ]
+  },
+  {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "tasveer",
+   "start": "2026-11-17T17:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/once-upon-a-time-in-harlem/4274069",
+   "notes": [
+    "Open captions"
+   ]
+  },
+  {
    "film": "you-can-see-everything",
    "theater": "admiral",
    "start": "2026-11-17T18:05:00-08:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/you-can-see-everything",
    "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17640/793"
+  },
+  {
+   "film": "jimmy",
+   "theater": "admiral",
+   "start": "2026-11-17T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/jimmy",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17638/801",
+   "notes": [
+    "Special advance screening",
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "cat-in-the-hat",
+   "theater": "admiral",
+   "start": "2026-11-17T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17642/799",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-17T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17644/814",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "my-neighbor-totoro",
@@ -5936,6 +6025,13 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/her-song#screening-qo7oW3dLqN"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-17T19:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4274066"
+  },
+  {
    "film": "nationtime",
    "theater": "beacon",
    "start": "2026-11-17T19:30:00-08:00",
@@ -5960,6 +6056,20 @@
    ]
   },
   {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "tasveer",
+   "start": "2026-11-17T19:30:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/once-upon-a-time-in-harlem/4274070"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "tasveer",
+   "start": "2026-11-17T19:45:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/wild-horse-nine-2",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wild-horse-nine-2/4274068"
+  },
+  {
    "film": "delicatessen",
    "theater": "central-cinema",
    "start": "2026-11-17T21:30:00-08:00",
@@ -5977,8 +6087,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-18T15:20:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17646/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17646/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -6013,11 +6123,32 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-Xy8seB73Oq"
   },
   {
+   "film": "wild-horse-nine",
+   "theater": "tasveer",
+   "start": "2026-11-18T16:25:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/wild-horse-nine-2",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wild-horse-nine-2/4274073"
+  },
+  {
    "film": "nationtime",
    "theater": "beacon",
    "start": "2026-11-18T16:30:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/nationtime",
    "tickets": "https://thebeacon.film/calendar/movie/nationtime?showtime=EE26DF3SAK7CH4HAEKMXP2RD"
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-18T16:35:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4274071"
+  },
+  {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "tasveer",
+   "start": "2026-11-18T17:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/once-upon-a-time-in-harlem/4274076"
   },
   {
    "film": "sweetheart-opening-night-film-party",
@@ -6050,8 +6181,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-18T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17650/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17650/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -6078,6 +6209,13 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6a32c5ad11dbb2888ebeb669"
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-18T19:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4274072"
+  },
+  {
    "film": "breathless",
    "theater": "beacon",
    "start": "2026-11-18T19:30:00-08:00",
@@ -6097,6 +6235,20 @@
    "start": "2026-11-18T19:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-TeAkCdRrXk"
+  },
+  {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "tasveer",
+   "start": "2026-11-18T19:30:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/once-upon-a-time-in-harlem/4274075"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "tasveer",
+   "start": "2026-11-18T19:45:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/wild-horse-nine-2",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wild-horse-nine-2/4274074"
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping",
@@ -6123,8 +6275,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-19T15:55:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17654/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17654/799"
   },
   {
    "film": "godzilla-minus-zero",
@@ -6134,11 +6286,25 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-VBuONlIR3y"
   },
   {
+   "film": "wild-horse-nine",
+   "theater": "tasveer",
+   "start": "2026-11-19T16:25:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/wild-horse-nine-2",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wild-horse-nine-2/4274079"
+  },
+  {
    "film": "will-success-spoil-rock-hunter",
    "theater": "beacon",
    "start": "2026-11-19T16:30:00-08:00",
    "url": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter",
    "tickets": "https://thebeacon.film/calendar/movie/will-success-spoil-rock-hunter?showtime=B2BDYP63YVPTJ64CMBR7UREM"
+  },
+  {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-19T16:35:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4274078"
   },
   {
    "film": "cartoon-happy-hour",
@@ -6149,6 +6315,13 @@
    "notes": [
     "Free admission"
    ]
+  },
+  {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "tasveer",
+   "start": "2026-11-19T17:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/once-upon-a-time-in-harlem/4274082"
   },
   {
    "film": "elisa",
@@ -6164,8 +6337,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-19T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17657/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17657/799"
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping",
@@ -6217,6 +6390,13 @@
    ]
   },
   {
+   "film": "la-bola-negra",
+   "theater": "tasveer",
+   "start": "2026-11-19T19:00:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/la-bola-negra-2026-spain-spanish",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/la-bola-negra-2026-spain-spanish/4274077"
+  },
+  {
    "film": "breathless",
    "theater": "beacon",
    "start": "2026-11-19T19:30:00-08:00",
@@ -6229,6 +6409,20 @@
    "start": "2026-11-19T19:30:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero",
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-hRvOU1Sim6"
+  },
+  {
+   "film": "once-upon-a-time-in-harlem",
+   "theater": "tasveer",
+   "start": "2026-11-19T19:30:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/once-upon-a-time-in-harlem",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/once-upon-a-time-in-harlem/4274081"
+  },
+  {
+   "film": "wild-horse-nine",
+   "theater": "tasveer",
+   "start": "2026-11-19T19:45:00-08:00",
+   "url": "https://filmcenter.tasveer.org/movie/wild-horse-nine-2",
+   "tickets": "https://filmcenter.tasveer.org/checkout/showing/wild-horse-nine-2/4274080"
   },
   {
    "film": "totally-80-s-sing-along",
@@ -6272,8 +6466,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-20T13:10:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17757/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17757/799"
   },
   {
    "film": "brunello-the-gracious-visionary",
@@ -6310,8 +6504,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-20T15:55:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17669/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17669/799"
   },
   {
    "film": "planes-trains-and-automobiles",
@@ -6341,8 +6535,38 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-20T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17666/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17666/799"
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-20T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17760/760",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-20T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17761/814",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-20T18:45:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17759/802",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "once-upon-a-time-in-harlem",
@@ -6438,8 +6662,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-21T13:10:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17765/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17765/799"
   },
   {
    "film": "where-is-the-fiesta",
@@ -6476,8 +6700,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-21T15:55:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17677/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17677/799"
   },
   {
    "film": "love-streams",
@@ -6524,8 +6748,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-21T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17674/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17674/799"
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping",
@@ -6639,6 +6863,26 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-tp1I51JU7q"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-22T12:10:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17772/760",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-22T12:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17770/802",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "route-one-usa",
    "theater": "siff-film-center",
    "start": "2026-11-22T12:30:00-08:00",
@@ -6646,6 +6890,16 @@
    "tickets": "https://www.siff.net/programs-and-events/the-open-road/route-one/usa#screening-1nBEutAZS5",
    "notes": [
     "The Open Road"
+   ]
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "theater": "admiral",
+   "start": "2026-11-22T12:35:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/godzilla-minus-zero",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17771/814",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
    ]
   },
   {
@@ -6662,8 +6916,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-22T13:10:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17773/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17773/799"
   },
   {
    "film": "clash-by-night",
@@ -6726,8 +6980,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-22T15:55:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17685/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17685/799"
   },
   {
    "film": "planes-trains-and-automobiles",
@@ -6774,8 +7028,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-22T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17682/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17682/799"
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping",
@@ -6868,8 +7122,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-23T15:55:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17693/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17693/799"
   },
   {
    "film": "planes-trains-and-automobiles",
@@ -6896,8 +7150,8 @@
    "film": "cat-in-the-hat",
    "theater": "admiral",
    "start": "2026-11-23T18:30:00-08:00",
-   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17690/803"
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-cat-in-the-hat",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17690/799"
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping",
@@ -6962,6 +7216,26 @@
    "tickets": "https://central-cinema.com/checkout/showing/eating-raoul/4266648"
   },
   {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-24T15:10:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17736/760",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-24T15:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17732/802",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "planes-trains-and-automobiles",
    "theater": "central-cinema",
    "start": "2026-11-24T16:00:00-08:00",
@@ -6976,6 +7250,17 @@
    "tickets": "https://www.siff.net/cinema/in-theaters/godzilla-minus-zero#screening-Q46IQSi1db"
   },
   {
+   "film": "hexed",
+   "theater": "admiral",
+   "start": "2026-11-24T16:05:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17734/804",
+   "notes": [
+    "Special advance screening",
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
    "film": "once-upon-a-time-in-harlem",
    "theater": "beacon",
    "start": "2026-11-24T16:30:00-08:00",
@@ -6988,6 +7273,37 @@
    "start": "2026-11-24T18:00:00-08:00",
    "url": "https://nwfilmforum.org/films/la-bola-negra/",
    "tickets": "https://nwfilmforum.eventive.org/schedule/6ae39ce8415aa70fe7b5dcad"
+  },
+  {
+   "film": "hexed",
+   "theater": "admiral",
+   "start": "2026-11-24T18:30:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17735/804",
+   "notes": [
+    "Special advance screening",
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "hunger-games-sunrise-on-the-reaping",
+   "theater": "admiral",
+   "start": "2026-11-24T18:40:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/the-hunger-games-sunrise-on-the-reaping",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17737/760",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
+  },
+  {
+   "film": "ebenezer",
+   "theater": "admiral",
+   "start": "2026-11-24T18:45:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/ebenezer",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17733/802",
+   "notes": [
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "seattle-scare-society-chopping-mall",
@@ -7035,7 +7351,10 @@
    "theater": "admiral",
    "start": "2026-11-25T12:40:00-08:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17721/804"
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17721/804",
+   "notes": [
+    "Special advance screening"
+   ]
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping",
@@ -7063,7 +7382,10 @@
    "theater": "admiral",
    "start": "2026-11-25T16:00:00-08:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17297/804"
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17297/804",
+   "notes": [
+    "Special advance screening"
+   ]
   },
   {
    "film": "planes-trains-and-automobiles",
@@ -7098,7 +7420,10 @@
    "theater": "admiral",
    "start": "2026-11-25T18:30:00-08:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17295/804"
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17295/804",
+   "notes": [
+    "Special advance screening"
+   ]
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping",
@@ -7163,7 +7488,10 @@
    "theater": "admiral",
    "start": "2026-11-25T21:05:00-08:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17296/804"
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17296/804",
+   "notes": [
+    "Special advance screening"
+   ]
   },
   {
    "film": "ebenezer",
@@ -7191,7 +7519,10 @@
    "theater": "admiral",
    "start": "2026-11-26T13:25:00-08:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17302/804"
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17302/804",
+   "notes": [
+    "Special advance screening"
+   ]
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping",
@@ -7205,7 +7536,10 @@
    "theater": "admiral",
    "start": "2026-11-26T16:00:00-08:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17299/804"
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17299/804",
+   "notes": [
+    "Special advance screening"
+   ]
   },
   {
    "film": "ebenezer",
@@ -7219,7 +7553,10 @@
    "theater": "admiral",
    "start": "2026-11-26T18:30:00-08:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17300/804"
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17300/804",
+   "notes": [
+    "Special advance screening"
+   ]
   },
   {
    "film": "ebenezer",
@@ -7240,7 +7577,10 @@
    "theater": "admiral",
    "start": "2026-11-27T13:00:00-08:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17306/804"
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17306/804",
+   "notes": [
+    "Special advance screening"
+   ]
   },
   {
    "film": "hunger-games-sunrise-on-the-reaping",
@@ -7268,7 +7608,10 @@
    "theater": "admiral",
    "start": "2026-11-27T18:50:00-08:00",
    "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
-   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17304/804"
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17304/804",
+   "notes": [
+    "Special advance screening"
+   ]
   },
   {
    "film": "five-minutes-to-live",
@@ -7297,6 +7640,17 @@
    "start": "2026-11-27T21:30:00-08:00",
    "url": "https://central-cinema.com/movie/big-trouble-in-little-china/",
    "tickets": "https://central-cinema.com/checkout/showing/big-trouble-in-little-china/4248110"
+  },
+  {
+   "film": "hexed",
+   "theater": "admiral",
+   "start": "2026-11-27T21:50:00-08:00",
+   "url": "https://www.farawayentertainment.com/movie-theatres/seattle/washington/admiral-theater/movies/hexed",
+   "tickets": "https://www.farawayentertainment.com/Tickets/00001-00001-00002/17331/804",
+   "notes": [
+    "Special advance screening",
+    "This screening will have Open Captioned Subtitles"
+   ]
   },
   {
    "film": "tokyo-story",
@@ -7564,6 +7918,13 @@
    ]
   },
   {
+   "film": "musical-w-director-q-and-a",
+   "theater": "siff-film-center",
+   "start": "2026-12-02T19:00:00-08:00",
+   "url": "https://www.siff.net/cinema/in-theaters/the-musical-w/-director-qanda",
+   "tickets": "https://www.siff.net/cinema/in-theaters/the-musical-w/-director-qanda#screening-R1CbrvV5yO"
+  },
+  {
    "film": "natural-born-killers",
    "theater": "beacon",
    "start": "2026-12-02T19:30:00-08:00",
@@ -7785,6 +8146,13 @@
    "tickets": "https://nwfilmforum.eventive.org/schedule/6acd3684913bc7c9f3f80e2e"
   },
   {
+   "film": "girl-with-hyacinths",
+   "theater": "beacon",
+   "start": "2026-12-06T17:00:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/girl-with-hyacinths",
+   "tickets": "https://thebeacon.film/calendar/movie/girl-with-hyacinths?showtime=GSEVHIOWGJQJRZNVHWDRUX3R"
+  },
+  {
    "film": "muppet-christmas-carol",
    "theater": "central-cinema",
    "start": "2026-12-06T19:00:00-08:00",
@@ -7872,13 +8240,27 @@
    ]
   },
   {
+   "film": "girl-with-hyacinths",
+   "theater": "beacon",
+   "start": "2026-12-08T19:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/girl-with-hyacinths",
+   "tickets": "https://thebeacon.film/calendar/movie/girl-with-hyacinths?showtime=Z6TD6HSVZ5VEF3AKKN7JM7XT"
+  },
+  {
+   "film": "girl-with-hyacinths",
+   "theater": "beacon",
+   "start": "2026-12-09T16:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/girl-with-hyacinths",
+   "tickets": "https://thebeacon.film/calendar/movie/girl-with-hyacinths?showtime=VYZZOK6GRQNDB3PVP4VKVXPH"
+  },
+  {
    "film": "dune",
    "theater": "majestic-bay",
    "start": "2026-12-09T19:00:00-08:00",
-   "url": "https://www.majesticbay.com/movies/133392-dune/",
+   "url": "https://www.majesticbay.com/movies/176-dune-1984/",
    "tickets": "https://ticketing.us.veezi.com/purchase/36682?siteToken=Z6qUv91cr0aCDg%2bCM%2bZ7zQ%3d%3d",
    "notes": [
-    "Special screening"
+    "Retro Night"
    ]
   },
   {
@@ -7894,6 +8276,23 @@
    "start": "2026-12-09T19:00:00-08:00",
    "url": "https://www.siff.net/cinema/in-theaters/mountains-on-stage-winter-edition-2026",
    "tickets": "https://www.siff.net/cinema/in-theaters/mountains-on-stage-winter-edition-2026#screening-MHcAUn82b8"
+  },
+  {
+   "film": "cartoon-happy-hour",
+   "theater": "central-cinema",
+   "start": "2026-12-10T17:00:00-08:00",
+   "url": "https://central-cinema.com/movie/cartoon-happy-hour/",
+   "tickets": "https://central-cinema.com/checkout/showing/cartoon-happy-hour/4248395",
+   "notes": [
+    "Free admission"
+   ]
+  },
+  {
+   "film": "perinbaba",
+   "theater": "beacon",
+   "start": "2026-12-10T19:30:00-08:00",
+   "url": "https://thebeacon.film/calendar/movie/perinbaba",
+   "tickets": "https://thebeacon.film/calendar/movie/perinbaba?showtime=F3YNSLYFDXA7UB4NRXE5A3FY"
   }
  ]
 }
